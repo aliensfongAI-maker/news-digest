@@ -1,0 +1,81 @@
+{
+  "date": "2026-10-21",
+  "hour": "02",
+  "updatedAt": "2026-10-21T02:12:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "李強抵聖彼得堡舉行中俄總理定期會晤，稱願推動合作更深更實更具韌性",
+          "summary": "國務院總理李強應俄羅斯總理米舒斯京邀請抵達聖彼得堡，將舉行中俄總理第三十一次定期會晤；他表示中方願與俄方持續努力，推動兩國合作朝更深、更實、更具韌性方向發展，並為世界和平發展注入穩定性。",
+          "time_hkt": "2026-10-21T01:35:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874693-20261021.htm"
+            },
+            {
+              "name": "Xinhua",
+              "url": "https://english.news.cn/20261021/2bf37f3e02e1471dbd3ac026e27e9fed/c.html"
+            },
+            {
+              "name": "RIA Novosti",
+              "url": "https://ria.ru/20261020/mishustin-2125710436.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "商務部堅決反對美方排除中國AI企業聯邦採購，促撤銷DeepSeek等限制",
+          "summary": "商務部就美國國土安全部禁止聯邦民用機構採購並移除深度求索等中國人工智能企業產品服務的通知表示強烈不滿與堅決反對，指屬泛化國安、歧視性打壓，敦促美方撤銷措施，否則將採取必要措施維護企業權益。",
+          "time_hkt": "2026-10-21T01:22:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874692-20261021.htm"
+            },
+            {
+              "name": "商務部",
+              "url": "https://www.mofcom.gov.cn/xwfb/xwfyrth/art/2026/art_2f92a22be4324ec6bc566e4ccdb77436.html"
+            },
+            {
+              "name": "China Daily",
+              "url": "https://www.chinadaily.com.cn/a/202610/20/WS6ad784dce4b06d4aa0563d62.html"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/us-china-deepseek-ai-ban-2bffa5b0131808735280b2c0e6f0d856"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "駐歐盟特派代表翁佩雯：香港「超級聯繫人」及「增值人」角色日益重要",
+          "summary": "香港駐布魯塞爾經貿辦率團訪問意大利巴勒莫並舉辦商務研討會；駐歐盟特派代表翁佩雯強調，憑藉制度優勢與國際聯繫，香港作為全球經濟體的「超級聯繫人」及「超級增值人」角色日益重要，繼續協助企業把握增長機遇。",
+          "time_hkt": "2026-10-21T01:45:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874694-20261021.htm"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
