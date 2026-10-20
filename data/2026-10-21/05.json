@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-21",
+  "hour": "05",
+  "updatedAt": "2026-10-21T05:12:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "巴黎部分地區周二深夜至周三早上實施新一輪宵禁；馬賽等地亦延長或首次實施",
+          "summary": "巴黎警方宣布在共和國廣場及中心商舖區等地，由當地周二深夜至周三早上實施新一輪宵禁；里昂等地亦延長限制，馬賽首次對未成年人實施局部宵禁，總理勒科爾尼稱此前宵禁有助維持治安，周六示威將大規模部署警力。",
+          "time_hkt": "2026-10-21T04:49:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874699-20261021.htm"
+            },
+            {
+              "name": "franceinfo",
+              "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/des-couvre-feux-a-nouveau-decretes-dans-plusieurs-villes-dont-paris-et-lyon_8245690.html"
+            },
+            {
+              "name": "Xinhua",
+              "url": "https://english.news.cn/20261021/0e70b3d6dbc845358fc1704a07651e59/c.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
