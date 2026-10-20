@@ -4,6 +4,8 @@
   var HKT = "Asia/Hong_Kong";
   var SECTIONS = ["local", "international", "finance-global", "finance-hk", "tech"];
   var MAX_ITEMS = 10;
+  var WINDOW_MS = 24 * 60 * 60 * 1000;
+  var HOUR_MS = 60 * 60 * 1000;
   var requestSerial = 0;
 
   function isIsoDate(value) {
@@ -44,6 +46,64 @@
       text += "+08:00";
     }
     return new Date(text);
+  }
+
+  function hktParts(date) {
+    var parts = new Intl.DateTimeFormat("en-US", {
+      timeZone: HKT,
+      year: "numeric",
+      month: "2-digit",
+      day: "2-digit",
+      hour: "2-digit",
+      minute: "2-digit",
+      second: "2-digit",
+      hourCycle: "h23",
+    }).formatToParts(date);
+    var out = { year: "", month: "", day: "", hour: "" };
+    for (var i = 0; i < parts.length; i++) {
+      if (Object.prototype.hasOwnProperty.call(out, parts[i].type)) {
+        out[parts[i].type] = parts[i].value;
+      }
+    }
+    if (out.hour === "24") out.hour = "00";
+    return out;
+  }
+
+  function hktHourStart(date) {
+    var parts = hktParts(date);
+    return parseHkt(parts.year + "-" + parts.month + "-" + parts.day + "T" + parts.hour + ":00:00+08:00");
+  }
+
+  // Today (or no date) ends at now. Any other selected day ends at 23:59 HKT,
+  // including that minute, so the window covers the calendar day.
+  function windowEndFor(selectedDate, today, now) {
+    var current = now instanceof Date ? now : new Date(now);
+    if (!isIsoDate(selectedDate) || selectedDate === today) return current;
+    return parseHkt(selectedDate + "T23:59:59.999+08:00");
+  }
+
+  function hourSlots(start, end) {
+    var slots = [];
+    if (!(start instanceof Date) || !(end instanceof Date)) return slots;
+    if (Number.isNaN(start.getTime()) || Number.isNaN(end.getTime())) return slots;
+    if (end.getTime() < start.getTime()) return slots;
+    var cursor = hktHourStart(start);
+    var last = hktHourStart(end);
+    var guard = 0;
+    while (cursor.getTime() <= last.getTime() && guard < 30) {
+      var hourStart = cursor.getTime();
+      var hourEnd = hourStart + HOUR_MS - 1;
+      if (hourStart <= end.getTime() && hourEnd >= start.getTime()) {
+        var parts = hktParts(cursor);
+        slots.push({
+          date: parts.year + "-" + parts.month + "-" + parts.day,
+          hour: parts.hour,
+        });
+      }
+      cursor = new Date(hourStart + HOUR_MS);
+      guard += 1;
+    }
+    return slots;
   }
 
   function formatDateLabel(isoDate) {
@@ -143,21 +203,76 @@
     return out;
   }
 
-  function prepareItems(items) {
-    var list = (Array.isArray(items) ? items : []).filter(function (item) {
-      return item && typeof item.headline === "string" && item.headline.trim();
+  function headlineKey(item) {
+    if (!item || typeof item.headline !== "string") return "";
+    return item.headline.trim();
+  }
+
+  function itemTime(item) {
+    return parseHkt(item && item.time_hkt);
+  }
+
+  function dedupeNewest(items) {
+    var best = {};
+    var order = [];
+    items.forEach(function (item) {
+      var key = headlineKey(item);
+      if (!key) return;
+      var when = itemTime(item);
+      if (Number.isNaN(when.getTime())) return;
+      var prev = best[key];
+      if (!prev) {
+        best[key] = item;
+        order.push(key);
+        return;
+      }
+      if (when.getTime() >= itemTime(prev).getTime()) best[key] = item;
     });
-    list.sort(function (a, b) {
-      var ra = Number(a.rank);
-      var rb = Number(b.rank);
-      var aOk = Number.isFinite(ra);
-      var bOk = Number.isFinite(rb);
-      if (aOk && bOk && ra !== rb) return ra - rb;
-      if (aOk && !bOk) return -1;
-      if (!aOk && bOk) return 1;
-      return 0;
+    return order.map(function (key) {
+      return best[key];
     });
-    return list.slice(0, MAX_ITEMS);
+  }
+
+  function mergeDigests(digests, start, end) {
+    var grouped = {};
+    SECTIONS.forEach(function (id) {
+      grouped[id] = [];
+    });
+    var latestUpdate = "";
+    var latestUpdateMs = -Infinity;
+    var startMs = start.getTime();
+    var endMs = end.getTime();
+
+    (Array.isArray(digests) ? digests : []).forEach(function (data) {
+      if (!data || typeof data !== "object") return;
+      var updated = parseHkt(data.updatedAt);
+      if (!Number.isNaN(updated.getTime()) && updated.getTime() >= latestUpdateMs) {
+        latestUpdateMs = updated.getTime();
+        latestUpdate = typeof data.updatedAt === "string" ? data.updatedAt : "";
+      }
+      var sections = Array.isArray(data.sections) ? data.sections : [];
+      sections.forEach(function (section) {
+        if (!section || SECTIONS.indexOf(section.id) === -1) return;
+        var items = Array.isArray(section.items) ? section.items : [];
+        items.forEach(function (item) {
+          var when = itemTime(item);
+          if (!headlineKey(item) || Number.isNaN(when.getTime())) return;
+          if (when.getTime() < startMs || when.getTime() > endMs) return;
+          grouped[section.id].push(item);
+        });
+      });
+    });
+
+    return {
+      updatedAt: latestUpdate,
+      sections: SECTIONS.map(function (id) {
+        var kept = dedupeNewest(grouped[id]);
+        kept.sort(function (a, b) {
+          return itemTime(b).getTime() - itemTime(a).getTime();
+        });
+        return { id: id, items: kept.slice(0, MAX_ITEMS) };
+      }),
+    };
   }
 
   function pageBase() {
@@ -292,7 +407,7 @@
     });
     SECTIONS.forEach(function (id) {
       var section = byId[id];
-      var items = section ? prepareItems(section.items) : [];
+      var items = section && Array.isArray(section.items) ? section.items : [];
       fillColumn(id, items, "暫無摘要");
     });
     setUpdated(data && data.updatedAt);
@@ -360,31 +475,60 @@
     }
   }
 
+  function emptyWindowMessage(date, today) {
+    return date === today ? "過去 24 小時尚未有摘要。" : "這段時間尚未有摘要。";
+  }
+
+  async function fetchHour(slot) {
+    try {
+      var response = await fetch(dataUrl(slot.date + "/" + slot.hour + ".json"), { cache: "no-cache" });
+      if (response.status === 404) return { missing: true };
+      if (!response.ok) return { error: true };
+      return { data: await response.json() };
+    } catch (err) {
+      return { error: true };
+    }
+  }
+
   async function loadDigest(date, today) {
     var serial = ++requestSerial;
+    var now = new Date();
+    var end = windowEndFor(date, today, now);
+    var start = new Date(end.getTime() - WINDOW_MS);
     var dateline = document.getElementById("dateline");
     dateline.textContent = isIsoDate(date) ? formatDateLabel(date) : "香港時間";
     setStatus("");
     setUpdated("");
     fillAll("載入中…");
 
-    try {
-      var response = await fetch(dataUrl(date + ".json"), { cache: "no-cache" });
-      if (serial !== requestSerial) return;
-      if (response.status === 404) {
-        fillAll("暫無摘要");
-        setStatus(date === today ? "今日尚未有摘要。" : "這一日尚未有摘要。");
+    var slots = hourSlots(start, end);
+    var results = await Promise.all(slots.map(fetchHour));
+    if (serial !== requestSerial) return;
+
+    var digests = [];
+    var hardError = false;
+    results.forEach(function (result) {
+      if (result && result.data) digests.push(result.data);
+      else if (result && result.error) hardError = true;
+    });
+
+    if (!digests.length) {
+      if (hardError) {
+        fillAll("暫時未能載入");
+        setStatus("暫時讀取不到摘要，請稍後再試。");
         return;
       }
-      if (!response.ok) throw new Error("status " + response.status);
-      var data = await response.json();
-      if (serial !== requestSerial) return;
-      renderDigest(data);
-    } catch (err) {
-      if (serial !== requestSerial) return;
-      fillAll("暫時未能載入");
-      setStatus("暫時讀取不到摘要，請稍後再試。");
+      fillAll("暫無摘要");
+      setStatus(emptyWindowMessage(date, today));
+      return;
     }
+
+    var merged = mergeDigests(digests, start, end);
+    renderDigest(merged);
+    var any = merged.sections.some(function (section) {
+      return section.items.length > 0;
+    });
+    if (!any) setStatus(emptyWindowMessage(date, today));
   }
 
   // Chips are <a href="#id"> inside .nav-inner { overflow-x: auto }, under a
@@ -483,8 +627,10 @@
       hktDateString: hktDateString,
       parseHkt: parseHkt,
       relativeLabel: relativeLabel,
-      prepareItems: prepareItems,
       validSources: validSources,
+      windowEndFor: windowEndFor,
+      hourSlots: hourSlots,
+      mergeDigests: mergeDigests,
     };
   }
 })();
