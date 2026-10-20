@@ -1,0 +1,113 @@
+{
+  "date": "2026-10-20",
+  "hour": "19",
+  "updatedAt": "2026-10-20T19:11:37+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "國際調解院成立一周年，李家超稱迅速成為獲信賴政府間機構",
+          "summary": "行政長官出席一周年活動指《公約》簽署國由 33 增至 48、締約國由 8 增至 18，並重申「調解為先」、歡迎處理新興產業爭議及考慮大宗商品專屬調解員名冊。",
+          "time_hkt": "2026-10-20T18:59:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874654-20261020.htm"
+            },
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202610/20/P2026102000594.htm"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "李家超冀港區省級政協委員做好香港五年規劃宣傳者、推動者、參與者",
+          "summary": "行政長官在聯誼會成立 20 周年慶典寄語委員發揮「超級聯繫人」角色，中聯辦主任周霽亦籲全力對接國家「十五五」並堅定支持維護國安。",
+          "time_hkt": "2026-10-20T18:16:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874647-20261020.htm"
+            },
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202610/20/P2026102000570.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "法國黃色外遊警示後，縱橫遊取消兩個西歐法國團；東瀛遊團抵巴黎由警車開路",
+          "summary": "縱橫遊暫取消本月底前兩個西歐法國團共約 30 人；東瀛遊稱上周六 10 人團抵巴黎受示威影響，未下車並由警車開路離開該區。",
+          "time_hkt": "2026-10-20T18:32:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874651-20261020.htm"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "海關屯門內河船碼頭檢約兩萬件懷疑冒牌貨，市值約一千萬元",
+          "summary": "海關抽查兩個由內地抵港貨櫃，檢獲約 2 萬件懷疑冒牌手提電話、配件、手表及鞋具，初步相信將轉口海外，案件仍在調查。",
+          "time_hkt": "2026-10-20T18:18:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874648-20261020.htm"
+            },
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202610/20/P2026102000428.htm"
+            }
+          ],
+          "rank": 4
+        },
+        {
+          "headline": "孫東：新田科技城百億起始資金約九成用作開荒，撬動企業一同發展",
+          "summary": "創科局局長在立法會指約 90 億元用於拓展土地等「開荒」、其餘作營運；並稱河套香港園區第二批四幅土地截標收到 9 份標書。",
+          "time_hkt": "2026-10-20T18:30:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874650-20261020.htm"
+            },
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202610/20/P2026102000462.htm"
+            }
+          ],
+          "rank": 5
+        },
+        {
+          "headline": "亞殘運乒乓女子 11 級單打，港隊王婷莛奪銀牌",
+          "summary": "王婷莛決賽對日本山口美也打滿五局，以 2:3 落敗，為港隊再添一面銀牌。",
+          "time_hkt": "2026-10-20T18:38:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874652-20261020.htm"
+            }
+          ],
+          "rank": 6
+        },
+        {
+          "headline": "港大研究指過去 35 年涉兒童性罪行判刑偏輕，倡設獨立判刑委員會",
+          "summary": "TALK Hong Kong 與港大法律學院分析 1990–2025 年六項最高可判終身監禁的兒童性罪行，平均刑期約 4.61 至 9.82 年，團體認為阻嚇力不足。",
+          "time_hkt": "2026-10-20T18:12:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874646-20261020.htm"
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    }
+  ]
+}
