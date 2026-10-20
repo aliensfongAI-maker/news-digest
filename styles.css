@@ -186,7 +186,7 @@ main {
   border-bottom: 2px solid var(--rule);
   border-radius: 10px 10px 0 0;
   position: sticky;
-  top: 2.55rem;
+  top: 3rem;
   z-index: 1;
 }
 
