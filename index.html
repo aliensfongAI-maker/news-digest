@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="zh-Hant-HK">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="新聞摘要：本地、國際、財經與科技。每日更新，香港時間。" />
+  <meta name="color-scheme" content="light" />
+  <title>新聞摘要</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <div class="brand">
+        <h1>新聞摘要</h1>
+        <p class="dateline" id="dateline">香港時間</p>
+      </div>
+      <div class="header-tools">
+        <div class="date-field">
+          <label for="dateSelect">日期</label>
+          <select id="dateSelect" aria-describedby="dateline">
+            <option value="">載入中…</option>
+          </select>
+        </div>
+        <p class="updated" id="updatedAt" aria-live="polite"></p>
+      </div>
+    </div>
+  </header>
+
+  <nav class="section-nav" aria-label="欄目">
+    <div class="wrap nav-inner">
+      <a href="#local">本地／香港</a>
+      <a href="#international">國際</a>
+      <a href="#finance-global">財經（全球）</a>
+      <a href="#finance-hk">財經（香港）</a>
+      <a href="#tech">科技</a>
+    </div>
+  </nav>
+
+  <main class="wrap">
+    <p id="status" class="status" role="status" hidden></p>
+    <div class="board" id="board">
+      <section class="column" id="local" aria-labelledby="heading-local">
+        <h2 id="heading-local">本地／香港</h2>
+        <p class="empty">載入中…</p>
+        <ol class="items"></ol>
+      </section>
+      <section class="column" id="international" aria-labelledby="heading-international">
+        <h2 id="heading-international">國際</h2>
+        <p class="empty">載入中…</p>
+        <ol class="items"></ol>
+      </section>
+      <section class="column" id="finance-global" aria-labelledby="heading-finance-global">
+        <h2 id="heading-finance-global">財經（全球）</h2>
+        <p class="empty">載入中…</p>
+        <ol class="items"></ol>
+      </section>
+      <section class="column" id="finance-hk" aria-labelledby="heading-finance-hk">
+        <h2 id="heading-finance-hk">財經（香港）</h2>
+        <p class="empty">載入中…</p>
+        <ol class="items"></ol>
+      </section>
+      <section class="column" id="tech" aria-labelledby="heading-tech">
+        <h2 id="heading-tech">科技</h2>
+        <p class="empty">載入中…</p>
+        <ol class="items"></ol>
+      </section>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">時間以香港時間計算。公開摘要，不含私人資料。</div>
+  </footer>
+
+  <noscript>
+    <p class="noscript">請啟用 JavaScript 以閱讀每日摘要。</p>
+  </noscript>
+
+  <script src="./app.js"></script>
+</body>
+</html>
