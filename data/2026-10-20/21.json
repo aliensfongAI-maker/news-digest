@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-20",
+  "hour": "21",
+  "updatedAt": "2026-10-20T21:08:49+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "大埔火災獨立委員會報告周四呈交政府，刪減版最快下周公開",
+          "summary": "據報調查大埔致命火災的獨立委員會將於周四向特區政府提交最終報告，並大致採納主辯律師嚴厲結案陳詞；為免影響相關刑事程序，刪減版報告最快下周向公眾發放。",
+          "time_hkt": "2026-10-20T20:22:00+08:00",
+          "sources": [
+            {
+              "name": "SCMP",
+              "url": "https://www.scmp.com/news/hong-kong/politics/article/3371533/tai-po-fire-report-be-submitted-thursday-scathing-submission-endorsed"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "衞生署轉介警方：註冊中醫師涉嫌未診症即發病假證明書",
+          "summary": "就傳媒報道懷疑有註冊中醫師未診症便簽發病假證明書，衞生署已將個案轉介中醫藥管理委員會及警務處作刑事調查；署方重申中醫須按專業判斷簽發合適病假證明。",
+          "time_hkt": "2026-10-20T20:18:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874663-20261020.htm"
+            },
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202610/20/P2026102000519.htm"
+            },
+            {
+              "name": "點新聞",
+              "url": "https://www.dotdotnews.com/a/202610/20/AP6ad75ac4e4b02fd1c5f52021.html"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "李家超：把握財長會機會介紹香港疊加優勢",
+          "summary": "行政長官出席粵港澳大灣區主題論壇時指，特區政府會把握在港揭幕的 APEC 財政部長會，介紹香港作為大灣區中心城市聯繫國家與國際機遇的疊加優勢。",
+          "time_hkt": "2026-10-20T20:01:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874662-20261020.htm"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "李強：中國願同各成員國攜手提升上合組織運行效能",
+          "summary": "國務院總理李強在杜尚別出席上合組織總理理事會第二十五次會議，籲加強協作、做實合作項目，並表示中方願資助成員國 1000 名醫務人員來華進修。",
+          "time_hkt": "2026-10-20T20:28:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874659-20261020.htm"
+            },
+            {
+              "name": "中新網",
+              "url": "https://www.chinanews.com.cn/gn/2026/10-20/10718037.shtml"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "國家數據集團在河北雄安新區成立，丁薛祥出席揭牌",
+          "summary": "以數據資源開發利用為主業的中央企業國家數據集團有限公司在雄安成立；副總理丁薛祥指組建有助把握人工智能先機、建設數字中國，並籲加快數據基礎設施與核心技術攻關。",
+          "time_hkt": "2026-10-20T20:40:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874665-20261020.htm"
+            },
+            {
+              "name": "新華網",
+              "url": "http://www.xinhuanet.com/fortune/20261020/310831d80f1b4f99806e52675928eb9e/c.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
