@@ -1,0 +1,756 @@
+{
+  "date": "2026-10-20",
+  "updatedAt": "2026-10-20T08:00:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "西營盤恆輝大廈火警，七旬男子不治，約 60 人疏散",
+          "summary": "周一晚薄扶林道單位起火，火源疑為廚房煮食；男子送院後不治。",
+          "time_hkt": "2026-10-19T23:30:00+08:00",
+          "sources": [
+            {
+              "name": "SCMP",
+              "url": "https://www.scmp.com/news/hong-kong"
+            },
+            {
+              "name": "TVB",
+              "url": "https://news.tvb.com/tc/1201641-%E8%96%84%E6%89%B6%E6%9E%97%E9%81%93%E6%81%92%E8%BC%9D%E5%A4%A7%E5%BB%88%E7%81%AB%E8%AD%A6%E6%95%91%E7%86%84%E4%B8%83%E6%97%AC%E7%94%B7%E5%AD%90%E6%AD%BB%E4%BA%A1"
+            },
+            {
+              "name": "HK01",
+              "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60401384/%E8%A5%BF%E7%87%9F%E7%9B%A4%E7%81%AB%E8%AD%A6%E7%94%B7%E5%AD%90%E9%80%81%E9%99%A2%E4%BA%A1-%E6%B6%88%E9%98%B2-%E7%81%AB%E8%AD%A6%E6%BA%90%E9%A0%AD%E7%82%BA%E5%96%AE%E4%BD%8D%E5%BB%9A%E6%88%BF-%E7%96%91%E5%9B%A0%E7%85%AE%E9%A3%9F%E5%BC%95%E8%B5%B7"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "尖沙咀文化中心後台短路火警，29 歲女工臉手三級燒傷",
+          "summary": "拆除配電箱失誤起火，傷者送深切治療部，情況穩定。",
+          "time_hkt": "2026-10-19T10:00:00+08:00",
+          "sources": [
+            {
+              "name": "The Standard",
+              "url": "https://www.thestandard.com.hk/news/article/345894/Morning-Recap-October-20-2026"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "機電署：臺日／大眾電梯負責樓宇再揭缺門框，累計 338 幢",
+          "summary": "截至 10-19 下午再多 186 幢私樓缺件，維修費由承辦商承擔。",
+          "time_hkt": "2026-10-19T19:14:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874514-20261019.htm"
+            },
+            {
+              "name": "The Standard",
+              "url": "https://www.thestandard.com.hk/news/article/345871/Missing-lift-door-frames-found-in-338-buildings-handled-by-Taizoom-EMSD-says"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "六歲女童甲流併發休克危殆；今季兒童重症累計 24 宗",
+          "summary": "未接種本季流感疫苗；當局指流感活動仍高，籲加快接種。",
+          "time_hkt": "2026-10-19T19:14:00+08:00",
+          "sources": [
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202610/19/P2026101900548.htm"
+            },
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874512-20261019.htm"
+            }
+          ],
+          "rank": 4
+        },
+        {
+          "headline": "新皇崗下午返港高峰：2–4 時約 9400 人入境，較舊口岸同期升逾三倍",
+          "summary": "全通道開放，運輸署加派約 120 輛專營巴士疏運。",
+          "time_hkt": "2026-10-19T18:07:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/latest-news/local.htm"
+            },
+            {
+              "name": "news.gov.hk",
+              "url": "https://www.news.gov.hk/eng/2026/10/20261019/20261019_184034_072.html"
+            }
+          ],
+          "rank": 5
+        },
+        {
+          "headline": "數字辦研究增撥深宵 1823 人手",
+          "summary": "市民凌晨報深水埗瀕死猴子無人接聽；已轉介漁護署。",
+          "time_hkt": "2026-10-19T18:00:00+08:00",
+          "sources": [
+            {
+              "name": "The Standard",
+              "url": "https://www.thestandard.com.hk/news/article/345894/Morning-Recap-October-20-2026"
+            }
+          ],
+          "rank": 6
+        },
+        {
+          "headline": "重陽假末日港珠澳大橋返港車龍約 500 米，私家車清關逾 40 分鐘",
+          "summary": "入境處籲避高峰並預先登記 e-道。",
+          "time_hkt": "2026-10-19T18:30:00+08:00",
+          "sources": [
+            {
+              "name": "多家報道",
+              "url": "https://news.rthk.hk/rthk/ch/latest-news.htm"
+            }
+          ],
+          "rank": 7
+        },
+        {
+          "headline": "警方：疑盜用信用卡預購 iPhone Duo 報案增至 130 宗，涉約 500 萬元",
+          "summary": "網罪科調查，暫無人被捕；Apple 及銀行會處理未授權交易。",
+          "time_hkt": "2026-10-19T09:00:00+08:00",
+          "sources": [
+            {
+              "name": "The Standard",
+              "url": "https://www.thestandard.com.hk/news/article/345824/Police-log-130-card-fraud-reports-tied-to-iPhone-Duo-pre-orders"
+            },
+            {
+              "name": "SCMP",
+              "url": "https://www.scmp.com/news/hong-kong/society/article/3371354/credit-card-fraud-reports-over-iphone-duo-pre-orders-jump-130-cases-police-say"
+            }
+          ],
+          "rank": 8
+        },
+        {
+          "headline": "重陽節新皇崗約 15.2 萬人次出入境，開通以來單日最高；全港逾 132 萬",
+          "summary": "羅湖約 26 萬、落馬洲支線逾 20 萬居首二。",
+          "time_hkt": "2026-10-19T09:41:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874438-20261019.htm"
+            },
+            {
+              "name": "HK01",
+              "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60401111/%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8-%E9%87%8D%E9%99%BD15-2%E8%90%AC%E4%BA%BA%E9%81%8E%E9%97%9C%E5%89%B5%E6%96%B0%E9%AB%98-4%E6%88%90%E9%9B%86%E4%B8%AD%E4%B8%AD%E5%8D%88%E9%80%BC%E7%88%864%E5%B0%8F%E6%99%82%E5%87%BA%E5%A2%83"
+            }
+          ],
+          "rank": 9
+        },
+        {
+          "headline": "入境處回應新皇崗人手壓力：開通前已增聘，會靈活調派",
+          "summary": "強調明白初期壓力，已增聘並調配確保通關。",
+          "time_hkt": "2026-10-19T11:00:00+08:00",
+          "sources": [
+            {
+              "name": "多家報道",
+              "url": "https://news.rthk.hk/rthk/ch/latest-news.htm"
+            }
+          ],
+          "rank": 10
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "日本成功發射 MMX 火星衛星探測任務",
+          "summary": "JAXA 以 H3 發射，目標採樣火衛一並約於 2031 年送回地球。",
+          "time_hkt": "2026-10-20T03:41:00+08:00",
+          "sources": [
+            {
+              "name": "JAXA",
+              "url": "https://global.jaxa.jp/press/2026/10/20261020-1_e.html"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/japan-mars-moon-mission-fb51fbbf90374631e8ae658f9ca46154"
+            },
+            {
+              "name": "Space.com",
+              "url": "https://www.space.com/space-exploration/launches-spacecraft/japan-launches-historic-mmx-sample-return-mission-to-mars-moon-phobos"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "特朗普稱願與普京、習近平舉行三邊峰會，焦點「去核」",
+          "summary": "暗示或可配合訪華／APEC；暫緩對俄新制裁亦引盟友批評。",
+          "time_hkt": "2026-10-20T06:00:00+08:00",
+          "sources": [
+            {
+              "name": "Straits Times",
+              "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-oct-20-2026"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "加拿大亞伯達省舉行分離／自治公投，留加派預期領先",
+          "summary": "開票因部分票站延遲放慢；勿將預測盤當成官方結果。",
+          "time_hkt": "2026-10-20T05:00:00+08:00",
+          "sources": [
+            {
+              "name": "CBC",
+              "url": "https://www.cbc.ca/news/canada/calgary/referendum-day-voters-react-9.7386960"
+            },
+            {
+              "name": "BBC Live",
+              "url": "https://www.bbc.com/news/live/cqy7ln0383pnt"
+            },
+            {
+              "name": "Global News",
+              "url": "https://globalnews.ca/news/12102586/alberta-referendum-2026/"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "法國因週末暴動實施局部宵禁，內政部長承認警方一度失控",
+          "summary": "逾約 2400–2500 人被捕；抗議主軸為生活成本與公共服務。",
+          "time_hkt": "2026-10-19T19:18:00+08:00",
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/oct/19/french-police-lost-control-during-riots-concedes-interior-minister"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/cx30ez03djyqo"
+            },
+            {
+              "name": "Euronews",
+              "url": "https://www.euronews.com/2026/10/19/french-pm-lecornu-calls-for-regional-authorities-to-impose-partial-curfews"
+            }
+          ],
+          "rank": 4
+        },
+        {
+          "headline": "澳洲獨立議員 Helen Haines 在選區辦公室外遭車撞，傷勢危殆",
+          "summary": "43 歲男子被扣查，警方及反恐單位查動機。",
+          "time_hkt": "2026-10-19T20:00:00+08:00",
+          "sources": [
+            {
+              "name": "ABC News",
+              "url": "https://www.abc.net.au/news/2026-10-19/helen-haines-police-update/107285326"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/cm5ynk1g88kwo"
+            }
+          ],
+          "rank": 5
+        },
+        {
+          "headline": "西班牙東部 Storm Adam 暴雨成災，至少數人死亡、大批居民受困",
+          "summary": "直升機自屋頂救人；當局曾對約 80 萬人發避難指示。",
+          "time_hkt": "2026-10-19T18:00:00+08:00",
+          "sources": [
+            {
+              "name": "Independent",
+              "url": "https://www.independent.co.uk/news/world/europe/storm-adam-floods-spain-ibiza-weather-b3069099.html"
+            },
+            {
+              "name": "CNN Español",
+              "url": "https://cnnespanol.cnn.com/2026/10/19/espana/lluvias-inundaciones-dana-valencia-reux"
+            }
+          ],
+          "rank": 6
+        },
+        {
+          "headline": "以色列警方就西岸定居者襲擊美媒記者與歐盟外交官拘捕約 10–11 人",
+          "summary": "美歐敦促打擊定居者暴力。",
+          "time_hkt": "2026-10-19T16:00:00+08:00",
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/israel-settlers-violence-levine-west-bank-palestinians-7812cdfd71fc7486322dd95e3547a176"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/cqn7323p0dxyo"
+            },
+            {
+              "name": "Times of Israel",
+              "url": "https://www.timesofisrael.com/police-say-10-suspects-arrested-for-west-bank-settler-attacks-on-journalist-eu-diplomats/"
+            }
+          ],
+          "rank": 7
+        },
+        {
+          "headline": "烏克蘭與俄羅斯互以大規模無人機／導彈攻擊能源設施",
+          "summary": "聖彼得堡油碼頭起火；基輔等地能源與民用目標再遭打擊。",
+          "time_hkt": "2026-10-19T15:00:00+08:00",
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/russia-ukraine-war-kyiv-attack-b041f78e5d037a0f3377b7108eac1dc7"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites"
+            }
+          ],
+          "rank": 8
+        },
+        {
+          "headline": "米蘭反生活成本抗議兩日演變成搶掠與警民衝突，扣查逾 200 人",
+          "summary": "防暴警察動用催淚彈與水炮；奢侈品店恐慌關門。",
+          "time_hkt": "2026-10-19T14:00:00+08:00",
+          "sources": [
+            {
+              "name": "Euronews",
+              "url": "https://www.euronews.com/2026/10/19/more-than-200-arrested-in-second-day-of-street-clashes-against-cost-of-living-in-milan"
+            },
+            {
+              "name": "ANSA",
+              "url": "https://www.ansa.it/english/news/2026/10/19/14-police-officers-injured-in-clashes-with-rioting-youths-in-milan_bc57bc02-ff56-4421-9209-418e9161f0c9.html"
+            }
+          ],
+          "rank": 9
+        },
+        {
+          "headline": "肯尼亞法院裁定 Shakahola「餓死教派」領袖等 29 人謀殺罪成（191 人，含 190 名兒童）",
+          "summary": "判刑約排期 11 月 6 日。",
+          "time_hkt": "2026-10-19T12:00:00+08:00",
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/kenya-doomsday-cult-convicted-e5b97df7e995c1ea59b92d211fb3a5c0"
+            },
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/ckd6d2l3dz4xo"
+            }
+          ],
+          "rank": 10
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "美股「黑色星期一」39 周年當日反彈，AI／芯片股帶動納指回升",
+          "summary": "納指約 +1.1%，標普約 +0.4%；亞馬遜大漲約 5%。",
+          "time_hkt": "2026-10-20T04:00:00+08:00",
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-5aec11ee466841cc2a69b2d23ab77f0e"
+            },
+            {
+              "name": "Yahoo Finance",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-futures-rise-113805730.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "油價自近五月高位回落：俄制裁豁免預期壓價，霍爾木茲風險托底",
+          "summary": "布倫特約 $108–$109.55／桶附近。",
+          "time_hkt": "2026-10-19T22:00:00+08:00",
+          "sources": [
+            {
+              "name": "WSJ",
+              "url": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-russia-sanctions-waiver-middle-east-risks-05053c4f"
+            },
+            {
+              "name": "CNA",
+              "url": "https://www.channelnewsasia.com/business/oil-slips-five-month-highs-hormuz-crossings-russian-sanctions-waiver-in-focus-6470481"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "全球銀行股與大市背離走弱，美債收益率高企拖累估值",
+          "summary": "10 年期美債約 5.0%–5.1%；未實現債券損失再受關注。",
+          "time_hkt": "2026-10-19T21:00:00+08:00",
+          "sources": [
+            {
+              "name": "多家報道",
+              "url": "https://news.rthk.hk/rthk/ch/latest-news.htm"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "比特幣在風險情緒回穩下重上約 8.3 萬美元關口附近",
+          "summary": "「黑色星期一」恐懼未兌現；市場關注 Uptober 連紅。",
+          "time_hkt": "2026-10-20T01:00:00+08:00",
+          "sources": [
+            {
+              "name": "多家報道",
+              "url": "https://news.rthk.hk/rthk/ch/latest-news.htm"
+            }
+          ],
+          "rank": 4
+        },
+        {
+          "headline": "華爾街迎關鍵業績週：Netflix、Tesla、Meta 等將陸續公布",
+          "summary": "約一成半標普成分股本週出業績，焦點 AI 資本開支與指引。",
+          "time_hkt": "2026-10-19T12:00:00+08:00",
+          "sources": [
+            {
+              "name": "Saxo 日程",
+              "url": "https://www.home.saxo/en-gb/content/articles/macro/market-quick-take---chipmakers-extend-their-slide-as-brent-holds-above-107---19-october-2026-19102026"
+            }
+          ],
+          "rank": 5
+        },
+        {
+          "headline": "對沖基金以約十年最快速度削減科技曝險，半導體相對標普走弱",
+          "summary": "Goldman 數據顯示芯片板塊倉位壓力仍高。",
+          "time_hkt": "2026-10-19T16:00:00+08:00",
+          "sources": [
+            {
+              "name": "多家報道",
+              "url": "https://news.rthk.hk/rthk/ch/latest-news.htm"
+            }
+          ],
+          "rank": 6
+        },
+        {
+          "headline": "日經 225 收跌約 0.6%，亞洲科技／半導體延續壓力",
+          "summary": "早盤急挫後收窄跌幅；香港因重陽休市。",
+          "time_hkt": "2026-10-19T14:00:00+08:00",
+          "sources": [
+            {
+              "name": "Nikkei",
+              "url": "https://www.nikkei.com/article/DGXZQOFL1941S0Z11C26A0000000/"
+            },
+            {
+              "name": "Sharecast Asia",
+              "url": "https://www.sharecast.com/news/market-report-asia/asian-stock-markets-nikkei-225-kospi-shanghai-composite-china-gdp-ai-stocks-tsmc-asian-market-movers--23883615.html"
+            }
+          ],
+          "rank": 7
+        },
+        {
+          "headline": "中國第三季 GDP 按年增長 4.5%，略優預期",
+          "summary": "前三季約 +4.6%；工業與出口偏強，零售與樓市仍弱。",
+          "time_hkt": "2026-10-19T10:00:00+08:00",
+          "sources": [
+            {
+              "name": "中國政府網",
+              "url": "https://english.www.gov.cn/archive/statistics/202610/19/content_WS6ad5a59bc6d00ca5f9a0dc86.html"
+            },
+            {
+              "name": "Investing／Reuters",
+              "url": "https://www.investing.com/news/economy-news/chinas-economic-growth-picks-up-in-third-quarter-beating-expectations-4956218"
+            }
+          ],
+          "rank": 8
+        },
+        {
+          "headline": "印度股市續挫，財長以「流動性充裕致外資易撤」解釋",
+          "summary": "市場爭論稅制不確定與資金輪動至 AI 供應鏈。",
+          "time_hkt": "2026-10-19T15:00:00+08:00",
+          "sources": [
+            {
+              "name": "多家報道",
+              "url": "https://news.rthk.hk/rthk/ch/latest-news.htm"
+            }
+          ],
+          "rank": 9
+        },
+        {
+          "headline": "紐交所與 Cboe 擴大熱門股票期權盤前／盤後交易時段",
+          "summary": "覆蓋 Nvidia、Apple、SPY 等高成交標的。",
+          "time_hkt": "2026-10-19T09:00:00+08:00",
+          "sources": [
+            {
+              "name": "多家報道",
+              "url": "https://news.rthk.hk/rthk/ch/latest-news.htm"
+            }
+          ],
+          "rank": 10
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "APEC 財長會今日起在港舉行（首度由香港承辦）",
+          "summary": "10-20 至 21 日於會展，約 500 名官員／政商領袖；藍佛安將致開幕辭。",
+          "time_hkt": "2026-10-20T07:00:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/latest-news/local.htm"
+            },
+            {
+              "name": "The Standard",
+              "url": "https://www.thestandard.com.hk/news/article/345822/APEC-Finance-Ministers-Meeting-to-showcase-HKs-role-as-super-connector-says-Paul-Chan"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "地產代理：重陽長周末二手交投受一手暢旺帶動回暖",
+          "summary": "十大屋苑成交回升；一手 10 月成交已破千。",
+          "time_hkt": "2026-10-20T06:54:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://gbcode.rthk.hk/TuniS/newsprd.rthk.hk/rthk/ch/latest-news.htm"
+            },
+            {
+              "name": "信報",
+              "url": "https://www.hkej.com/dailynews/property/article/4542334/%E5%8D%81%E5%A4%A7%E5%B1%8B%E8%8B%91%E6%88%90%E4%BA%A4%E9%87%8F++%E9%87%8D%E9%99%BD%E9%95%B7%E5%91%A8%E6%9C%AB%E5%9B%9E%E6%9A%96"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "港交所周一重陽補假休市；恒指停在上周五 24,186.83；今日重開",
+          "summary": "滬深港通同步暫停；關注重開後消化內地 GDP 與美股反彈。",
+          "time_hkt": "2026-10-20T06:00:00+08:00",
+          "sources": [
+            {
+              "name": "BBN Times",
+              "url": "https://www.bbntimes.com/global-economy/hong-kong-stock-exchange-closed-for-chung-yeung-holiday-hang-seng-holds-at-24-186-83-ahead-of-tuesday-s-lpr-decision"
+            },
+            {
+              "name": "東方財富",
+              "url": "https://finance.eastmoney.com/a/202610193899928695.html"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "李家超會見亞投行行長鄒加怡：歡迎在港設融資兼營運辦事處、續發港元債",
+          "summary": "強調綠色金融、創科金融與離岸人民幣市場可支援項目。",
+          "time_hkt": "2026-10-19T11:38:00+08:00",
+          "sources": [
+            {
+              "name": "news.gov.hk",
+              "url": "https://www.news.gov.hk/eng/2026/10/20261019/20261019_113853_401.html"
+            },
+            {
+              "name": "The Standard",
+              "url": "https://www.thestandard.com.hk/finance/article/345838/HKs-Lee-meets-AIIB-chief-ahead-of-APEC-finance-gathering-eyes-deeper-ties"
+            }
+          ],
+          "rank": 4
+        },
+        {
+          "headline": "陳茂波：藉 APEC 財長會展示香港「超級聯繫人」角色",
+          "summary": "稱一國兩制下可作區域經貿橋樑，並讓嘉賓體驗大灣區聯動。",
+          "time_hkt": "2026-10-19T08:22:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874425-20261019.htm"
+            },
+            {
+              "name": "The Standard",
+              "url": "https://www.thestandard.com.hk/news/article/345822/APEC-Finance-Ministers-Meeting-to-showcase-HKs-role-as-super-connector-says-Paul-Chan"
+            }
+          ],
+          "rank": 5
+        },
+        {
+          "headline": "太興副主席：本港消費市道回暖，惟整體增長空間有限；集團半年多賺 83%",
+          "summary": "計劃明年恢復開店但不盲目擴張。",
+          "time_hkt": "2026-10-19T14:00:00+08:00",
+          "sources": [
+            {
+              "name": "多家報道",
+              "url": "https://news.rthk.hk/rthk/ch/latest-news.htm"
+            }
+          ],
+          "rank": 6
+        },
+        {
+          "headline": "假期閉市外圍：內地 Q3 GDP 勝預期、美股科網反彈，成港股今早重開定價焦點",
+          "summary": "非港股盤中成交，屬重開背景。",
+          "time_hkt": "2026-10-19T16:00:00+08:00",
+          "sources": [
+            {
+              "name": "BBN Times",
+              "url": "https://www.bbntimes.com/global-economy/hong-kong-stock-exchange-closed-for-chung-yeung-holiday-hang-seng-holds-at-24-186-83-ahead-of-tuesday-s-lpr-decision"
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "OpenAI 趕在 Anthropic 上市前加速籌約 300 億美元、估值逾 1.4 萬億美元",
+          "summary": "據報向 SoftBank、阿聯酋 MGX 等募資。",
+          "time_hkt": "2026-10-20T07:22:00+08:00",
+          "sources": [
+            {
+              "name": "CNA／Reuters",
+              "url": "https://www.channelnewsasia.com/business/exclusive-openai-seeks-accelerate-fundraising-ahead-anthropic-ipo-sources-say-6473766"
+            },
+            {
+              "name": "U.S. News／Reuters",
+              "url": "https://money.usnews.com/investing/news/articles/2026-10-19/exclusive-openai-seeks-to-accelerate-fundraising-ahead-of-anthropic-ipo-sources-say"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "微軟推 Guardian Agents：前沿模型「不可信任」、視 AI 代理為內鬼風險",
+          "summary": "為企業推出監控 AI 代理的安全功能。",
+          "time_hkt": "2026-10-20T06:04:00+08:00",
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "日本 JAXA 成功發射 MMX，史上首個火星衛星樣本返回任務啟程",
+          "summary": "H3 於種子島升空，目標約 2031 年返回。",
+          "time_hkt": "2026-10-20T03:41:00+08:00",
+          "sources": [
+            {
+              "name": "Space.com",
+              "url": "https://www.space.com/space-exploration/launches-spacecraft/japan-launches-historic-mmx-sample-return-mission-to-mars-moon-phobos"
+            },
+            {
+              "name": "JAXA",
+              "url": "https://global.jaxa.jp/press/2026/10/20261020-1_e.html"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/japan-mars-moon-mission-fb51fbbf90374631e8ae658f9ca46154"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "AI 編程工具 OpenCode 遭入侵，約 1.4% Console 用戶 API 金鑰外洩",
+          "summary": "攻擊者濫用 OpenAI／Anthropic／Google 金鑰致帳單暴衝。",
+          "time_hkt": "2026-10-20T03:28:00+08:00",
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/"
+            }
+          ],
+          "rank": 4
+        },
+        {
+          "headline": "DeepSeek 與華為共研 Ascend AI 晶片，力減依賴 Nvidia",
+          "summary": "據報計劃年底前用 Ascend 950DT 訓練。",
+          "time_hkt": "2026-10-20T02:37:00+08:00",
+          "sources": [
+            {
+              "name": "Yahoo Finance",
+              "url": "https://finance.yahoo.com/technology/ai/articles/deepseek-teams-huawei-challenge-nvidia-183703468.html"
+            },
+            {
+              "name": "The Information",
+              "url": "https://www.theinformation.com/articles/deepseek-shaping-huaweis-ai-chips-growing-challenge-nvidia"
+            }
+          ],
+          "rank": 5
+        },
+        {
+          "headline": "亞馬遜聯手 X-energy、AEP 在印第安納興建核電，目標約 960MW",
+          "summary": "擬以 12 座 Xe-100 小型模組化反應堆供電網與數據中心。",
+          "time_hkt": "2026-10-19T23:44:00+08:00",
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana"
+            }
+          ],
+          "rank": 6
+        },
+        {
+          "headline": "駭客用開源 Cairn AI 代理攻破逾 100 個企業網站",
+          "summary": "含 John Deere、SharkNinja、Cummins；平均約 23 小時攻入。",
+          "time_hkt": "2026-10-19T21:58:00+08:00",
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins"
+            },
+            {
+              "name": "The Next Web",
+              "url": "https://thenextweb.com/news/ai-agents-hacker-cairn-100-sites-deere-norforge"
+            }
+          ],
+          "rank": 7
+        },
+        {
+          "headline": "美國國土安全部下令民用聯邦機構移除 DeepSeek 及相關產品",
+          "summary": "以數據與供應鏈風險為由禁止採購並要求清除。",
+          "time_hkt": "2026-10-19T21:29:00+08:00",
+          "sources": [
+            {
+              "name": "Yahoo／Reuters",
+              "url": "https://www.yahoo.com/news/politics/articles/us-banning-chinese-ai-deepseek-132700711.html"
+            },
+            {
+              "name": "WSJ",
+              "url": "https://www.wsj.com/tech/ai/dhs-orders-deepseek-technology-removed-from-federal-civilian-it-systems-060b6d3d"
+            },
+            {
+              "name": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-10-19/us-moves-to-bar-deepseek-from-federal-agencies-and-contracts"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/cjkgeq0k1wevo"
+            }
+          ],
+          "rank": 8
+        },
+        {
+          "headline": "AI 晶片新創 Tenstorrent 完成 15 億美元 E 輪、估值 62 億美元",
+          "summary": "Jim Keller 領軍，定位開源 RISC-V 抗衡 Nvidia。",
+          "time_hkt": "2026-10-19T19:40:00+08:00",
+          "sources": [
+            {
+              "name": "Tenstorrent",
+              "url": "https://tenstorrent.com/en/newsroom/tenstorrent-announces-series-e"
+            },
+            {
+              "name": "Investing／Reuters",
+              "url": "https://www.investing.com/news/stock-market-news/ai-chip-startup-tenstorrent-more-than-doubles-its-valuation-to-62-billion-in-funding-round-4957179"
+            }
+          ],
+          "rank": 9
+        },
+        {
+          "headline": "FT：AI 數據中心恐需防無人機／導彈，硬體防護成本上升",
+          "summary": "烏克蘭襲擊俄方數據中心後，基礎設施或需防爆與導彈防禦設計。",
+          "time_hkt": "2026-10-19T12:00:00+08:00",
+          "sources": [
+            {
+              "name": "Financial Times",
+              "url": "https://www.ft.com/content/15a049f3-b62e-40ed-b304-8a2452713338"
+            }
+          ],
+          "rank": 10
+        }
+      ]
+    }
+  ]
+}
