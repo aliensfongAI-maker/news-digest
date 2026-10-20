@@ -387,11 +387,52 @@
     }
   }
 
+  // Chips are <a href="#id"> inside .nav-inner { overflow-x: auto }, under a
+  // position: sticky bar. iOS WebKit (Chrome and Safari) resolves that fragment
+  // against the chip row, which does not contain the columns, so the tap does
+  // not move the page. Desktop Chromium scrolls the document, and the bar is
+  // hidden from 1080px up. Scroll the document to the column instead, using the
+  // column's scroll-margin-top so the title clears the bar.
+  function scrollColumnIntoView(section) {
+    var margin = parseFloat(window.getComputedStyle(section).scrollMarginTop) || 0;
+    var top = section.getBoundingClientRect().top + window.scrollY - margin;
+    window.scrollTo(0, top < 0 ? 0 : top);
+  }
+
+  function bindSectionNav() {
+    var nav = document.querySelector(".section-nav");
+    if (!nav) return;
+    nav.addEventListener("click", function (event) {
+      if (event.defaultPrevented || event.button !== 0) return;
+      if (event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
+      var source = event.target;
+      var link = source && source.closest ? source.closest("a") : null;
+      if (!link || !nav.contains(link)) return;
+      var href = link.getAttribute("href") || "";
+      if (href.charAt(0) !== "#") return;
+      var id = href.slice(1);
+      if (SECTIONS.indexOf(id) === -1) return;
+      var section = document.getElementById(id);
+      if (!section) return;
+      event.preventDefault();
+      // Record the entry before scrolling so Back restores the previous
+      // position instead of leaving the page. pushState does not scroll,
+      // unlike assigning location.hash (which re-enters the broken iOS path).
+      if (window.location.hash !== href) {
+        var next = new URL(window.location.href);
+        next.hash = href;
+        history.pushState(history.state, "", next.href);
+      }
+      scrollColumnIntoView(section);
+    });
+  }
+
   function boot() {
     var today = hktDateString(new Date());
     var active = dateFromQuery() || today;
     var select = document.getElementById("dateSelect");
 
+    bindSectionNav();
     fillSelect([], active, today);
     var datesPromise = loadDates();
     loadDigest(active, today).then(function () {
@@ -411,6 +452,9 @@
 
     window.addEventListener("popstate", function () {
       var date = dateFromQuery() || hktDateString(new Date());
+      // Hash-only history entries (category chips) must not refetch. The
+      // browser restores the scroll position for that entry.
+      if (select.value === date) return;
       var currentToday = hktDateString(new Date());
       fillSelect(
         Array.prototype.map.call(select.options, function (option) {
