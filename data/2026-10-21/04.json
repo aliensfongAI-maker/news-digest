@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-21",
+  "hour": "04",
+  "updatedAt": "2026-10-21T04:02:05+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "澤連斯基稱美方已恢復分享俄導彈預警情報；奧斯陸會談後指「現在運作」",
+          "summary": "烏克蘭總統澤連斯基在挪威奧斯陸與美國特使威特科夫等會談後表示，美方已恢復向烏分享俄羅斯導彈襲擊預警情報，稱早期預警「現在運作」並有助保護平民；芬蘭總統指和談建議取得實質進展，下步視俄方回應。",
+          "time_hkt": "2026-10-21T03:32:00+08:00",
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/oct/20/us-has-resumed-sharing-intelligence-with-ukraine-about-russian-strikes-says-zelenskyy"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/cq5ynkx3xy11o"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/russia-ukraine-zelenskyy-norway-trump-rubio-witkoff-140895c6c0a1682c46f4fe197e056996"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "尼日利亞確診一宗伊波拉病例，患者由烏干達抵阿布賈",
+          "summary": "尼日利亞衛生部長證實首都阿布賈一名由烏干達入境的女患者經化驗確診伊波拉，正接受隔離治療，當局已展開接觸者追蹤並識別44名密切接觸者；烏干達官方否認境內現有疫情。",
+          "time_hkt": "2026-10-21T03:08:00+08:00",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.yahoo.com/news/world/articles/nigeria-confirms-ebola-case-health-173024862.html"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/cm2l4xw7xpjgo"
+            },
+            {
+              "name": "Nigeria Federal Ministry of Health",
+              "url": "https://health.gov.ng/fg-confirms-ebola-disease-case-in-fct-activates-public-health-response/"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    }
+  ]
+}
