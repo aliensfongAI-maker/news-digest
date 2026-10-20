@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-21",
+  "hour": "03",
+  "updatedAt": "2026-10-21T03:05:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "阿聯酋與法國領導人就深化戰略關係及中東局勢交換意見",
+          "summary": "阿聯酋總統阿勒納哈揚與到訪的法國總統馬克龍在阿布扎比會談，就深化兩國戰略關係、拓展經貿科技與人工智能合作，以及中東局勢對海上安全與全球能源供應的影響交換意見，並強調加強協調以推動地區安全穩定。",
+          "time_hkt": "2026-10-21T02:13:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874697-20261021.htm"
+            },
+            {
+              "name": "WAM",
+              "url": "https://www.wam.ae/en/article/c2tla2d-uae-and-french-presidents-discuss-cooperation-and"
+            },
+            {
+              "name": "The National",
+              "url": "https://www.thenationalnews.com/business/economy/2026/10/20/uae-and-france-deepen-defence-ties-with-rafale-f5-fighter-jet-deal/"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
