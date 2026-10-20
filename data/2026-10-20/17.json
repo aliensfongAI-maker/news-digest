@@ -1,0 +1,185 @@
+{
+  "date": "2026-10-20",
+  "hour": "17",
+  "updatedAt": "2026-10-20T17:06:30+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "陳美寶上海簽署合作備忘錄，滬港建立「兄弟港」加強智慧港口協作",
+          "summary": "運輸及物流局局長在北外灘論壇與上海簽署備忘錄，涵蓋智慧港口、綠色港航、高端航運服務及人才培育等合作，並將見證「滬港快線」發布。",
+          "time_hkt": "2026-10-20T16:00:00+08:00",
+          "sources": [
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202610/20/P2026102000419.htm"
+            },
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874634-20261020.htm"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "新田科技城公司擬注資 100 億起始資金，約六成用於產業設施出租",
+          "summary": "孫東向立法會交代：約 60 億設計建造出租設施、30 億加快平整、10 億早期營運，計劃第四季向財委會申請撥款。",
+          "time_hkt": "2026-10-20T16:15:00+08:00",
+          "sources": [
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202610/20/P2026102000462.htm"
+            },
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874630-20261020.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "亞殘運游泳女子 S14 級 100 米背泳，港隊陳睿琳摘銅",
+          "summary": "陳睿琳以 1 分 10 秒 96 奪季軍，兩名日本泳手包辦金銀；張可盈、劉肖儀分列第六及第八。",
+          "time_hkt": "2026-10-20T16:53:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874635-20261020.htm"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "據報加拿大艾伯塔省公投決定繼續留在加拿大，卡尼稱人民作出明確選擇",
+          "summary": "CBC 初步結果顯示逾七成選民支持留加；總理卡尼強調選民選擇團結，分析指分離主義運動未必就此結束。",
+          "time_hkt": "2026-10-20T16:40:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874631-20261020.htm"
+            },
+            {
+              "name": "Prime Minister of Canada",
+              "url": "https://www.pm.gc.ca/en/news/statements/2026/10/20/statement-prime-minister-carney-albertans-choosing-build-stronger-canada"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "內地首次制定文化遺產保護五年規劃，對破壞行為嚴肅追責問責",
+          "summary": "國新辦介紹《文化遺產保護傳承「十五五」規劃》，目標 2030 年大保護格局基本形成，並推動立法與督察制度。",
+          "time_hkt": "2026-10-20T16:44:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874632-20261020.htm"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "報道：日本央行本月政策會議或維持利率不變",
+          "summary": "外電引述消息指除非日圓再貶加劇通脹，否則本月料按兵不動，並為最早 12 月再加息預留空間。",
+          "time_hkt": "2026-10-20T16:48:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874626-20261020.htm"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "恒指低收 319 點報 23867，聯想急跌近 10%",
+          "summary": "成交約 1905 億；科指跌 1.52%，AI 硬件股受壓，滙控、渣打亦跌逾 3%，翰森製藥逆市升逾 8%。",
+          "time_hkt": "2026-10-20T16:10:00+08:00",
+          "sources": [
+            {
+              "name": "TVB",
+              "url": "https://news.tvb.com/tc/1201762-%E6%B8%AF%E8%82%A1%E6%94%B6%E5%B8%82%E5%A0%B123867%E9%BB%9E%E8%B7%8C319%E9%BB%9E"
+            },
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874628-20261020.htm"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "陳茂波：各經濟體須堅持審慎理財，加強金融監管",
+          "summary": "APEC 財長會研討環節上，他指地緣政治與 AI 槓桿或加劇市場調整，強調政策可預期、深化風險監察及應急協作。",
+          "time_hkt": "2026-10-20T16:59:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874637-20261020.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "陳茂波倡營造有利投資環境，須確保政策可預期及管治規則透明",
+          "summary": "在 APEC 財長與商貿諮詢理事會午餐會提出三大方向，包括共用數字基建、多邊開發銀行參與及按市場階段制訂融資方案。",
+          "time_hkt": "2026-10-20T16:16:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874627-20261020.htm"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "工信部：推動人工智能與製造業深度融合，起草新一代智能製造政策",
+          "summary": "王衛明指首三季規模以上工業增加值按年升 5.3%，並將培育智能工廠、研發智能工業母機及工業垂域大模型。",
+          "time_hkt": "2026-10-20T16:28:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874629-20261020.htm"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "工信部：提升汽車產品安全技術性能，並前瞻布局 6G",
+          "summary": "謝存指首三季電信業務總量按年升 7.3%，將謀劃重大工程、加強通信網標準，並強化汽車創新設計准入與全鏈條監管。",
+          "time_hkt": "2026-10-20T16:55:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874636-20261020.htm"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    }
+  ]
+}
