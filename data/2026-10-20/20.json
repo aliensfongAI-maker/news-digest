@@ -1,0 +1,73 @@
+{
+  "date": "2026-10-20",
+  "hour": "20",
+  "updatedAt": "2026-10-20T20:07:30+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "選委會界別分組選舉提名期結束，共接獲1155份提名表格",
+          "summary": "選舉事務處公布提名期於下午五時結束，接獲1115份候選人提名及40份指定團體提名；有競逐界別分組將於11月22日投票，候選人資格審查委員會稍後在憲報公布有效提名。",
+          "time_hkt": "2026-10-20T19:30:00+08:00",
+          "sources": [
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202610/20/P2026102000610.htm"
+            },
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874658-20261020.htm"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "中國駐菲使館回應議員促列大使不受歡迎：稱「你已上榜」",
+          "summary": "在菲律賓參議員洪蒂維羅斯再提決議促馬可斯將中國大使景泉列為不受歡迎人物後，中國駐馬尼拉大使館發出強硬聲明，指「既然你們不歡迎我們，我們也不歡迎你們」，並對多名批評官員稱「你已上榜」。",
+          "time_hkt": "2026-10-20T19:09:00+08:00",
+          "sources": [
+            {
+              "name": "ABS-CBN",
+              "url": "https://www.abs-cbn.com/news/nation/2026/10/20/chinese-embassy-to-filipino-lawmakers-you-are-now-on-the-list-1909"
+            },
+            {
+              "name": "Inquirer",
+              "url": "https://globalnation.inquirer.net/342916/hontiveros-urges-marcos-to-declare-chinese-envoy-persona-non-grata"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "中移動首三季盈利跌近8%至1062億元人民幣",
+          "summary": "中國移動公布前三季股東應佔溢利約1062億元人民幣、按年跌近8%，收入跌近2%至7803億元；期內移動客戶增至10.14億戶，5G用戶7.02億戶。",
+          "time_hkt": "2026-10-20T19:48:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874657-20261020.htm"
+            },
+            {
+              "name": "華爾街見聞",
+              "url": "https://wallstreetcn.com/articles/3784031"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
