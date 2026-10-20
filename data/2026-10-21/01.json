@@ -1,0 +1,93 @@
+{
+  "date": "2026-10-21",
+  "hour": "01",
+  "updatedAt": "2026-10-21T01:03:52+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "法國內政部長：周六將部署「哨兵行動」軍力增援警方應對示威暴力",
+          "summary": "法國內政部長努內茲表示，為應對預計周六示威可能引發的暴力，將部署「哨兵行動」士兵作固定看守以騰出警力機動維穩，並考慮禁止未經申報或有失控風險的遊行；總理勒科爾尼亦承諾周六將大規模加強維穩部署。",
+          "time_hkt": "2026-10-21T00:34:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874686-20261021.htm"
+            },
+            {
+              "name": "Euronews",
+              "url": "https://www.euronews.com/2026/10/20/france-vows-massive-security-operation-involving-military-forces-for-expected-weekend-prot"
+            },
+            {
+              "name": "France 24",
+              "url": "https://www.france24.com/fr/france/20261020-d%C3%A9ploiement-militaires-24-octobre-dispositif-policier-massif-ce-qu-il-faut-retenir"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "英媒及英國國防部：皇家空軍「台風」將赴沙特執行防禦性制空任務",
+          "summary": "英國國防部宣布，因應也門胡塞武裝升級襲擊，將派皇家空軍「台風」戰鬥機在沙特上空執行防禦性制空任務以保護城市及關鍵基礎設施，並不會主動打擊胡塞目標，同時派遣軍事顧問及一架A400M運輸機。",
+          "time_hkt": "2026-10-21T00:54:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874690-20261021.htm"
+            },
+            {
+              "name": "UK Ministry of Defence",
+              "url": "https://www.gov.uk/government/news/operational-update-20-october-uk-military-support-to-the-kingdom-of-saudi-arabia"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/20/uk-to-deploy-raf-fighter-jets-to-defend-saudi-arabia-from-houthi-attacks"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "朝鮮譴責韓美及日美聯合軍演，稱東北亞出現新戰爭烏雲",
+          "summary": "朝中社刊登評論譴責韓美「護國」演習及日美「利劍」大規模聯合軍演為侵略挑釁，指美國核動力航母羅斯福號打擊群參演並首次在日部署新型反艦導彈系統，警告將以實力對等原則強化威懾。",
+          "time_hkt": "2026-10-21T00:40:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874687-20261021.htm"
+            },
+            {
+              "name": "Yonhap",
+              "url": "https://en.yna.co.kr/view/AEN20261020009600315"
+            },
+            {
+              "name": "The Korea Herald",
+              "url": "https://www.koreaherald.com/article/10909081"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "歐盟發布新版北極戰略，聚焦安全韌性與氣候應對",
+          "summary": "歐盟發布新版北極戰略，提出加強地區安全與韌性、應對氣候變化、促進經濟繁榮及為當地居民創造機會四大優先事項，並計劃與北極伙伴及北約互補合作，保護關鍵基礎設施並提升應急能力。",
+          "time_hkt": "2026-10-21T00:46:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874689-20261021.htm"
+            },
+            {
+              "name": "European Commission",
+              "url": "https://commission.europa.eu/news-and-media/news/eu-strategy-rapidly-changing-arctic-2026-10-20_en"
+            },
+            {
+              "name": "EEAS",
+              "url": "https://www.eeas.europa.eu/eeas/europes-northern-neighbourhood-new-strategy-arctic-remarks-high-representative-kallas-press_en"
+            }
+          ],
+          "rank": 4
+        }
+      ]
+    }
+  ]
+}
