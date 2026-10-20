@@ -1,0 +1,121 @@
+{
+  "date": "2026-10-20",
+  "hour": "18",
+  "updatedAt": "2026-10-20T18:08:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "特區政府對法國發出黃色外遊警示，籲港人留意示威局勢",
+          "summary": "因法國多地示威持續並出現暴力衝突與破壞，政府發出黃色警示，呼籲計劃前赴或在當地的港人提高警惕、避開聚集處，非必要避免進入示威區域。",
+          "time_hkt": "2026-10-20T17:37:00+08:00",
+          "sources": [
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202610/20/P2026102000442.htm"
+            },
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874645-20261020.htm"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "內地男子以虛假海外學歷獲本地專上學院取錄，判囚兩個月",
+          "summary": "20 歲來港就讀男子承認以欺騙手段取得服務罪；調查指其提交不存在的海外學院學歷證明報讀高級文憑，並向入境處申報同一虛假學歷。",
+          "time_hkt": "2026-10-20T17:31:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874643-20261020.htm"
+            },
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202610/20/P2026102000473.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "內地旅客進口市值約 29 萬未完稅香煙及另類吸煙產品，判囚 7 個月",
+          "summary": "42 歲女子經東京、台北抵港時被查獲逾 6 萬支未完稅香煙及 7600 支另類吸煙產品，西九龍裁判法院判監禁 7 個月。",
+          "time_hkt": "2026-10-20T17:21:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874641-20261020.htm"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "亞殘運輪椅劍擊混合花劍團體賽，港隊銅牌賽不敵韓國",
+          "summary": "鄺遠興、陳㬢、湯雅婷、余翠怡組合八強擊敗日本後四強負於國家隊，銅牌賽以 17:20 落敗無緣獎牌。",
+          "time_hkt": "2026-10-20T17:18:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874640-20261020.htm"
+            }
+          ],
+          "rank": 4
+        },
+        {
+          "headline": "新清水灣道校巴與巴士相撞，七人輕傷包括兩名學童",
+          "summary": "下午近 4 時校巴撞向巴士車尾致 7 人輕傷；運輸署指往龍翔道方向近彩興里部分行車線需封閉，交通繁忙。",
+          "time_hkt": "2026-10-20T17:06:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874639-20261020.htm"
+            }
+          ],
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "韓國宣布進一步撤回駐烏克蘭使領館部分人員",
+          "summary": "外交部指召回大使後烏方仍未採取積極措施，加上全境空襲威脅，決定撤部分人員；領事人員全數留守，臨時代辦維持外交溝通。",
+          "time_hkt": "2026-10-20T17:33:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874644-20261020.htm"
+            },
+            {
+              "name": "Yonhap",
+              "url": "https://en.yna.co.kr/view/AEN20261020006752315"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "在岸人民幣連升 5 日，創近 4 年半新高",
+          "summary": "在岸人民幣收報 6.6791 兌 1 美元，較上日升 26 點子；中間價升至 6.72，創近 3 年 9 個月新高。",
+          "time_hkt": "2026-10-20T17:39:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874638-20261020.htm"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
