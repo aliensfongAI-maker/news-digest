@@ -1,0 +1,55 @@
+{
+  "date": "2026-10-21",
+  "hour": "06",
+  "updatedAt": "2026-10-21T06:10:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "美國堪薩斯州一名男子涉威脅於集會行刺特朗普被捕",
+          "summary": "美國司法部堪薩斯州聯邦檢察官辦公室表示，24歲男子里德因在社交媒體留言威脅於當地周一共和黨集會向總統特朗普開槍，已於上周六被捕並遭刑事起訴；特朗普其後仍出席帕克城競選集會。",
+          "time_hkt": "2026-10-21T05:16:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874702-20261021.htm"
+            },
+            {
+              "name": "ABC News",
+              "url": "https://abcnews.com/Politics/man-arrested-alleged-threats-shoot-president-trump-kansas/story?id=137412221"
+            },
+            {
+              "name": "DOJ",
+              "url": "https://www.justice.gov/usao-ks/pr/kansas-man-charged-complaint-making-threats-against-president"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "歐股收市下跌，法國騷亂影響投資氣氛",
+          "summary": "歐洲主要股市收市下跌，德國DAX跌近0.1%報25304點、法國CAC跌近0.4%報7838點、英國富時100跌近0.3%報10733點，法國騷亂影響投資氣氛。",
+          "time_hkt": "2026-10-21T05:16:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874701-20261021.htm"
+            },
+            {
+              "name": "CNA",
+              "url": "https://www.cna.com.tw/news/afe/202610210004.aspx"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
