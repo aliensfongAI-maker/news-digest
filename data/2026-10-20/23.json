@@ -1,0 +1,93 @@
+{
+  "date": "2026-10-20",
+  "hour": "23",
+  "updatedAt": "2026-10-20T23:07:43+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "衞生署檢疑未經註冊俗稱「屍皮針」，女子涉非法人體器官交易被捕",
+          "summary": "衞生署連日突擊搜查尖沙咀、旺角、荃灣及元朗四間美容處所，檢獲逾100支懷疑第1部毒藥針劑及逾70支懷疑未經註冊針劑，包括包裝聲稱含人類組織的Elravie Re2O「屍皮針」；一名38歲女子涉嫌非法將人體器官作商業交易被捕。",
+          "time_hkt": "2026-10-20T22:33:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874680-20261020.htm"
+            },
+            {
+              "name": "商業電台",
+              "url": "https://www.881903.com/news/local/2655684"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "羅淑佩恭賀港隊亞殘運單日添9面獎牌，累計4銀8銅",
+          "summary": "文化體育及旅遊局局長羅淑佩表示，中國香港代表隊今日在亞殘運會單日增添9面獎牌，至今累計4銀、8銅共12面獎牌，並逐一恭賀劍擊、乒乓球及游泳項目奪牌運動員。",
+          "time_hkt": "2026-10-20T22:49:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874682-20261020.htm"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "外交部：中歐經貿分歧完全可透過對話解決，不應影響關係大局",
+          "summary": "外交部發言人毛寧回應外長王毅訪歐亞四國時表示，中歐關係總體健康平穩，經貿問題上的分歧完全可以透過對話加以解決，不應影響中歐關係大局，雙方應彼此尊重、共同承擔國際責任。",
+          "time_hkt": "2026-10-20T22:50:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874676-20261020.htm"
+            },
+            {
+              "name": "外交部",
+              "url": "https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/202610/t20261020_12043799.shtml"
+            },
+            {
+              "name": "中新網",
+              "url": "https://www.chinanews.com.cn/gn/2026/10-20/10717838.shtml"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "美國9月二手樓臨時買賣合約指數急跌7.3%至66，創新低",
+          "summary": "全美不動產協會（NAR）公布，9月二手樓臨時買賣合約指數按月急跌7.3%至66、遠遜預期微跌0.5%，按年跌約11.3%，四大地區齊跌；分析指按揭利率快速上升壓抑需求，30年期定息按揭上周平均約7.4%。",
+          "time_hkt": "2026-10-20T22:55:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874684-20261020.htm"
+            },
+            {
+              "name": "NAR",
+              "url": "https://www.nar.realtor/newsroom/pending-home-sales-decreased-7-3-percent-in-september"
+            },
+            {
+              "name": "新浪財經",
+              "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-20/doc-inivwuic7772500.shtml"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
