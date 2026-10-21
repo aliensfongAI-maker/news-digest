@@ -1,0 +1,91 @@
+{
+  "date": "2026-10-21",
+  "hour": "21",
+  "updatedAt": "2026-10-21T21:01:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "食安中心籲勿食美國進口「Mckenzie」即食火雞肉，涉貯存溫度不當已下架回收",
+          "summary": "食安中心得悉美國當局回收一批可能貯存溫度不當的即食火雞肉，初步發現本地進口商曾進口「Mckenzie」Oil Braised Oven Roasted Turkey Breast（批次26175，此日期前最佳2027年9月7日）；已指令停售下架並展開回收，呼籲市民勿食用，不適應求醫。",
+          "time_hkt": "2026-10-21T20:00:00+08:00",
+          "sources": [
+            {
+              "name": "on.cc東網",
+              "url": "https://hk.on.cc/hk/bkn/cnt/news/20261021/bkn-20261021200016569-1021_00822_001.html"
+            },
+            {
+              "name": "香港政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202610/21/P2026102100769.htm"
+            },
+            {
+              "name": "巴士的報",
+              "url": "https://www.bastillepost.com/global/article/6275481-cfs-warns-against-consuming-recalled-us-turkey-meat-due-to-temperature-abuse-concerns"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "海關機場檢獲約10公斤懷疑可卡因市值約600萬元，拘捕20歲內地男旅客",
+          "summary": "海關今日在香港國際機場偵破一宗航空入境旅客販毒案，於一名由土耳其伊斯坦堡抵港的20歲內地男旅客寄艙行李箱內檢獲約10公斤懷疑可卡因，市值約600萬元，男子已被拘捕，案件仍在調查。",
+          "time_hkt": "2026-10-21T20:48:00+08:00",
+          "sources": [
+            {
+              "name": "香港政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202610/21/P2026102100792.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "海關偵破3宗利用遠洋船走私案，檢獲貨物市值約2360萬元",
+          "summary": "海關本月偵破3宗涉嫌利用遠洋船走私案，檢獲貨物估計市值共約2360萬元；其中運往馬來西亞貨櫃檢獲逾1.1萬件捲髮器等，運往澳洲貨櫃則檢獲約240萬支懷疑私煙及電子、家居、美容產品等，案件仍在調查不排除有人被捕。",
+          "time_hkt": "2026-10-21T20:16:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874817-20261021.htm"
+            },
+            {
+              "name": "on.cc東網",
+              "url": "https://hk.on.cc/hk/bkn/cnt/news/20261021/bkn-20261021190924507-1021_00822_001.html"
+            },
+            {
+              "name": "香港政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202610/21/P2026102100697.htm"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "普京晤美特使威特科夫，稱未來兩三天將向美國發運首艘柴油運油輪",
+          "summary": "俄羅斯總統普京在聖彼得堡會見美國總統特使威特科夫，指按俄美柴油供應協議，俄方已備多艘運油輪，未來兩三天內將發運首艘共運4萬噸柴油，並稱可向美國供應大量化肥；威特科夫提交美方解決俄烏衝突構想，希望重啟俄美烏三方談判。",
+          "time_hkt": "2026-10-21T20:41:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874818-20261021.htm"
+            },
+            {
+              "name": "鳳凰網（新華社）",
+              "url": "https://news.ifeng.com/c/8xPR87d0Osf"
+            },
+            {
+              "name": "CNA",
+              "url": "https://www.channelnewsasia.com/world/russia-diesel-cargo-us-shipments-6478716"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
