@@ -1,0 +1,85 @@
+{
+  "date": "2026-10-21",
+  "hour": "08",
+  "updatedAt": "2026-10-21T08:05:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "伊朗安全負責人拒絕將濃縮鈾移出國外，稱須先滿足條件才與美談判",
+          "summary": "伊朗最高國家安全委員會秘書雷扎伊向到訪的巴基斯坦陸軍參謀長表明，不會容許任何濃縮核材料離開伊朗，並指美國須先履行伊朗條件、建立互信，否則不會談判；總統佩澤希齊揚亦拒絕在美方威脅下展開對話。",
+          "time_hkt": "2026-10-21T07:15:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/en/component/k2/1874703-20261021.htm"
+            },
+            {
+              "name": "The Times of Israel",
+              "url": "https://www.timesofisrael.com/iran-security-chief-rejects-moving-enriched-uranium-abroad-as-netanyahu-vows-to-topple-regime/"
+            },
+            {
+              "name": "The Korea Times",
+              "url": "https://www.koreatimes.co.kr/world/20261021/iran-security-chief-rejects-moving-enriched-uranium-out-of-country"
+            },
+            {
+              "name": "NDTV",
+              "url": "https://www.ndtv.com/world-news/iran-rejects-moving-enriched-uranium-out-of-country-12212792"
+            },
+            {
+              "name": "Mehr News",
+              "url": "https://en.mehrnews.com/news/248763/Enriched-uranium-will-not-exit-Iran-by-any-means-Rezaei"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "也門胡塞武裝襲擊政府軍訓練營死亡人數升至73人",
+          "summary": "也門南部能源大省舍卜沃當局把胡塞武裝周一襲擊政府安全部隊訓練營的死亡人數上調至73人，另有逾200人受傷、14人失蹤，屬近數周最致命攻擊之一；胡塞發言人稱目標為沙特相關據點。",
+          "time_hkt": "2026-10-21T07:03:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/en/component/k2/1874704-20261021.htm"
+            },
+            {
+              "name": "Al-Monitor／Reuters",
+              "url": "https://www.al-monitor.com/originals/2026/10/death-toll-houthi-attack-yemen-training-camp-rises-73"
+            },
+            {
+              "name": "Al Arabiya",
+              "url": "https://english.alarabiya.net/News/middle-east/2026/10/20/death-toll-from-houthi-attack-on-yemen-training-camp-rises-to-73"
+            },
+            {
+              "name": "The Hindu",
+              "url": "https://www.thehindu.com/news/international/death-toll-from-houthi-strike-on-yemen-government-camp-rises-to-73/article71605335.ece"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/cv0ld6lrr2zeo"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "蘇丹軍無人機襲擊爭議地區市集至少53人死亡",
+          "summary": "阿卜耶伊當局指蘇丹軍隊無人機周一襲擊阿米耶特市集，造成至少53人死亡、27人受傷，死者包括婦孺、商販及難民；南蘇丹外交部已召見蘇丹大使強烈譴責，聯合國亦關注當地無人機襲擊升級。",
+          "time_hkt": "2026-10-21T07:14:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/en/component/k2/1874696-20261021.htm"
+            },
+            {
+              "name": "Arab News",
+              "url": "https://www.arabnews.com/middle-east/sudan-army-strike-in-disputed-territory-kills-53-local-authorities-3007336"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    }
+  ]
+}
