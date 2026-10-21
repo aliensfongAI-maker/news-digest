@@ -1,0 +1,59 @@
+{
+  "date": "2026-10-22",
+  "hour": "00",
+  "updatedAt": "2026-10-22T00:16:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "美國最高法院拒准特朗普政府即時執行跨性別囚犯醫療限制政策",
+          "summary": "美國最高法院周三以簡短命令駁回特朗普政府緊急申請，維持下級法院禁令，聯邦監獄局暫時不得執行禁止變性手術、荷爾蒙治療及社交配套（如假髮、化妝等）的新政策；保守派大法官托馬斯、阿利托表明會批准申請。約千名跨性別囚犯受影響，訴訟仍繼續。",
+          "time_hkt": "2026-10-21T23:21:00+08:00",
+          "sources": [
+            {
+              "name": "NBC News",
+              "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-rejects-trump-transgender-prison-policy-rcna601889"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/supreme-court-transgender-inmates-trump-0b46a5cc302e1c8bcd292d32533e9a35"
+            },
+            {
+              "name": "SCOTUSblog",
+              "url": "https://www.scotusblog.com/2026/10/justices-leave-in-place-lower-court-order-preventing-trump-administration-from-implementing-new-/"
+            },
+            {
+              "name": "AP（X）",
+              "url": "https://x.com/AP/status/2112931521032003801"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "英特爾俄亥俄晶圓廠完成首道大型結構桁架安裝，進度仍較原計劃滯後至少五年",
+          "summary": "英特爾周三公布，俄亥俄州 New Albany「Ohio One」廠區首座晶圓廠完成首道主要結構桁架吊裝；該廠原訂2025年量產，現目標約2030至2031年竣工投產，同日亦指亞利桑那下一座廠預計2028年底前投入運作。",
+          "time_hkt": "2026-10-21T23:00:00+08:00",
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/21/intel-hits-construction-milestone-at-delayed-ohio-chip-fab-.html"
+            },
+            {
+              "name": "ServeTheHome",
+              "url": "https://www.servethehome.com/intel-moves-forward-at-ohio-one-with-first-major-structural-truss-installation/"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
