@@ -1,0 +1,135 @@
+{
+  "date": "2026-10-21",
+  "hour": "11",
+  "updatedAt": "2026-10-21T11:08:15+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "美媒稱馬斯克下令星鏈限速，事前曾與華府協調",
+          "summary": "《華爾街日報》引述官員與知情人士指，馬斯克下令限制烏克蘭使用的星鏈／軍規版連線速度，令部分無人機幾乎無法運作；消息指限速前後曾與特朗普及白宮官員討論，SpaceX亦稱事前已與美方協調，凸顯其對戰局的影響力。",
+          "time_hkt": "2026-10-21T10:14:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874734-20261021.htm"
+            },
+            {
+              "name": "中央社",
+              "url": "https://www.cna.com.tw/news/aopl/202610210026.aspx"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/20/trump-musk-starlink-ukraine-zelenskyy.html"
+            },
+            {
+              "name": "世界新聞網",
+              "url": "https://www.worldjournal.com/wj/story/124278/9827600"
+            },
+            {
+              "name": "WSJ",
+              "url": "https://www.wsj.com/world/ukraine-starlink-elon-musk-trump-dbc49193"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "測量師料臺日升降機門框缺失屬個別承辦商問題，倡引入第三方安全顧問",
+          "summary": "機電署指臺日更換的升降機約九成未裝門框組件；諮詢委員會成員姚潔凝指其他承辦商抽查均有安裝，屬個別管理誠信問題，並指現行驗收毋須查防火部件，建議日後加入獨立第三方安全顧問意見。",
+          "time_hkt": "2026-10-21T10:18:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874735-20261021.htm"
+            },
+            {
+              "name": "商業電台",
+              "url": "https://www.881903.com/news/local/2655743"
+            },
+            {
+              "name": "點新聞",
+              "url": "https://www.dotdotnews.com/immed/hknews"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "內地9月不含在校生青年失業率回落至18%",
+          "summary": "國家統計局數據顯示，9月全國城鎮不含在校生的16至24歲勞動力失業率降至18%，按月跌0.9個百分點，自8月一年高位回落，但仍高於去年同期；25至29歲失业率亦微跌至7.4%。",
+          "time_hkt": "2026-10-21T10:07:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874733-20261021.htm"
+            },
+            {
+              "name": "聯合早報",
+              "url": "https://www.zaobao.com.sg/news/china/story20261021-9869188"
+            },
+            {
+              "name": "Trading Economics",
+              "url": "https://zh.tradingeconomics.com/china/youth-unemployment-rate/news/593601"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "日股半日升逾1%，日經平均指數報64823點",
+          "summary": "日本股市上午收市，日經平均指數報64823點，升748點或約1.17%，延續早段升勢。",
+          "time_hkt": "2026-10-21T10:38:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874737-20261021.htm"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "寧德時代AH股急挫，H股跌逾9%創15個月低位",
+          "summary": "寧德時代三季報盈利增速放緩、毛利率創近年新低後，股價跌幅擴大，A股一度跌超10%，H股跌約9.4%報約373港元，創約15個月新低；市場亦指摩通等機構下調評級或目標價。",
+          "time_hkt": "2026-10-21T10:22:00+08:00",
+          "sources": [
+            {
+              "name": "第一財經",
+              "url": "https://www.yicai.com/brief/103401825.html"
+            },
+            {
+              "name": "新浪財經",
+              "url": "https://finance.sina.com.cn/stock/hkstock/2026-10-21/doc-inivxvuy4808550.shtml"
+            },
+            {
+              "name": "Investing.com",
+              "url": "https://ph.investing.com/news/stock-market-news/why-is-contemporary-amperex-technology-stock-sliding-today-93CH-2639489"
+            },
+            {
+              "name": "Dimsum Daily",
+              "url": "https://www.dimsumdaily.hk/hang-seng-index-rebounds-as-tech-shares-diverge-and-catl-falls-after-results/"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
