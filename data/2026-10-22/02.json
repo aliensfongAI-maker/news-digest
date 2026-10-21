@@ -1,0 +1,139 @@
+{
+  "date": "2026-10-22",
+  "hour": "02",
+  "updatedAt": "2026-10-22T02:15:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "土耳其、卡塔爾、巴基斯坦與印尼在多哈簽署「Badr」防務合作備忘錄",
+          "summary": "土耳其國防部表示，四國周三在多哈簽署名為「Badr」的備忘錄，旨在推動聯合軍工生產、技術共享、研發與軍事技術訓練，並設立執行委員會與戰略委員會選定及審批合作項目。",
+          "time_hkt": "2026-10-22T01:00:00+08:00",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/turkey-qatar-pakistan-indonesia-sign-defence-cooperation-accord-ankara-says-2026-10-21/"
+            },
+            {
+              "name": "Anadolu",
+              "url": "https://www.aa.com.tr/en/world/turkiye-qatar-indonesia-and-pakistan-sign-defense-cooperation-pact/4095836"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/21/how-qatar-turkiye-pakistan-and-indonesia-are-deepening-defence-ties"
+            },
+            {
+              "name": "Geo News",
+              "url": "https://www.geo.tv/latest/687624-pakistan-turkey-qatar-indonesia-sign-defence-cooperation-accord"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "超強颱風薔琵預料靠近日本先島群島；台灣已發海上颱風警報",
+          "summary": "日本氣象廳預測超強颱風薔琵明後兩天靠近先島群島，其後或逼近西日本，呼籲留意暴風、大浪及地質災害；台灣氣象部門已發海上颱風警報，專家指登陸機率下降但仍會有外圍強風暴雨。",
+          "time_hkt": "2026-10-22T01:14:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874836-20261022.htm"
+            },
+            {
+              "name": "NHK",
+              "url": "https://www3.nhk.or.jp/nhkworld/news/20261021de62801/"
+            },
+            {
+              "name": "Weathernews",
+              "url": "https://weathernews.jp/news/202610/210201/"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "埃及拒絕利比亞議會批准與土耳其的海域劃界協議；以色列與希臘亦強烈反對",
+          "summary": "埃及外交部周三指利比亞東部議會批准的2019年土利海域備忘錄對開羅無效、侵犯其專屬經濟區權利；以色列強烈譴責，希臘亦批評，反映東地中海海域與能源權爭議再起。",
+          "time_hkt": "2026-10-22T01:20:00+08:00",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/middle-east/israel-strongly-condemns-libyan-approval-maritime-deal-with-turkey-2026-10-21/"
+            },
+            {
+              "name": "TimesLIVE（Reuters）",
+              "url": "https://www.timeslive.co.za/news/africa/2026-10-21-egypt-rejects-libyan-approval-of-maritime-deal-with-turkey/"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/libya-turkey-maritime-deal-greece-egypt-c734515393b2eb9a9b66e69c21467831"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "美國制裁巴拿馬及希臘律師行，指協助伊朗「影子船隊」航運",
+          "summary": "美國財政部周三制裁在巴拿馬與希臘營運的Karnakis and Karnakis律師行及其相關人士與船務公司，指其多年來為伊朗影子船隊設立船公司架構，運送石油及石化產品；財長貝森特稱會追查任何支援伊朗政權者。",
+          "time_hkt": "2026-10-22T01:40:00+08:00",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/americas/us-imposes-sanctions-greek-panama-law-firm-helping-iran-shipping-2026-10-21/"
+            },
+            {
+              "name": "Al-Monitor",
+              "url": "https://www.al-monitor.com/originals/2026/10/us-sanctions-law-firm-based-panama-greece-over-iran-shipping-ties"
+            },
+            {
+              "name": "OFAC",
+              "url": "https://ofac.treasury.gov/recent-actions/20261021"
+            }
+          ],
+          "rank": 4
+        },
+        {
+          "headline": "布什家族成員支持民主黨人Talarico競逐德州聯邦參議員",
+          "summary": "前總統小布什之女Barbara Bush據報向支持民主黨候選人James Talarico的政治行動委員會捐款；其叔父Neil Bush亦稱已提前投票予Talarico，指不滿共和黨對手Ken Paxton質疑2020年大選結果的紀錄。",
+          "time_hkt": "2026-10-22T01:41:00+08:00",
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/cwx29lk15nxxo"
+            },
+            {
+              "name": "CBS",
+              "url": "https://www.cbsnews.com/news/texas-senate-race-james-talarico-neil-bush-george-w-bush/"
+            },
+            {
+              "name": "USA Today",
+              "url": "https://www.usatoday.com/story/news/state/texas/2026/10/21/neil-bush-brother-of-george-w-bush-votes-talarico-over-paxton/92362309007/"
+            }
+          ],
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "歐盟領袖擬11月26至27日特別峰會討論2027年烏克蘭融資及下期長期預算",
+          "summary": "知情歐盟官員表示，領袖將於11月26至27日特別峰會上爭取就烏克蘭2027年約700億歐元未獲滿足資金需求的融資方案達成共識，並同步討論歐盟下一期長期預算。",
+          "time_hkt": "2026-10-22T01:35:00+08:00",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/business/eu-leaders-discuss-2027-money-ukraine-next-eu-budget-november-26-27-2026-10-21/"
+            },
+            {
+              "name": "Reuters（X）",
+              "url": "https://x.com/Reuters/status/2112960887816421712"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
