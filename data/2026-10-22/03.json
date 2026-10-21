@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-22",
+  "hour": "03",
+  "updatedAt": "2026-10-22T03:10:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "李強晤普京：中俄緊密協作是變亂世界中難得穩定力量",
+          "summary": "國務院總理李強在聖彼得堡會見俄羅斯總統普京，指願加強重大問題溝通協調及上合、金磚等多邊配合；普京稱中國是俄最親密可靠夥伴，並支持中方主辦今年亞太經合組織領導人會議及明年金磚主席國工作。",
+          "time_hkt": "2026-10-22T02:10:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874837-20261022.htm"
+            },
+            {
+              "name": "Xinhua",
+              "url": "https://english.news.cn/20261022/32c0f549b8ca403c93a5d663bcb468b6/c.html"
+            },
+            {
+              "name": "Kremlin",
+              "url": "http://en.kremlin.ru/events/president/news/81045"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
