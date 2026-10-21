@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-21",
+  "hour": "14",
+  "updatedAt": "2026-10-21T14:02:44+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "建造業總工會：基建減少致薪酬受壓，倡政府工程試行月薪制",
+          "summary": "建造業總工會公布2026/27年度近20個工種薪酬，僅雲石工加薪6.67%，其餘凍薪；工會調查指近半工友過去三個月開工不足、近四成減薪，建議優先在政府工程推行月薪制以提升穩定性，並促完善多層外判下的工資保障及推動設計階段安全管理。",
+          "time_hkt": "2026-10-21T13:22:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874756-20261021.htm"
+            },
+            {
+              "name": "新浪香港",
+              "url": "https://portal.sina.com.hk/news-hongkong/news-realtime/rthk/2026/10/21/1961722/%e5%bb%ba%e9%80%a0%e6%a5%ad%e7%b8%bd%e5%b7%a5%e6%9c%83%e6%8c%87%e5%9f%ba%e5%bb%ba%e9%a0%85%e7%9b%ae%e6%b8%9b%e5%b7%a5%e4%ba%ba%e8%96%aa%e9%85%ac%e8%b7%8c%e3%80%80%e5%80%a1%e6%8e%a8%e6%9c%88%e8%96%aa/"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "盧寵茂：衞生署就涉嫌違規醫藥廣告發逾1600封警告信，將審視條例規管",
+          "summary": "醫務衞生局局長盧寵茂書面回覆指，2023年1月至今年9月衞生署審閱逾15萬條廣告，就涉嫌違反《不良廣告（醫藥）條例》發出逾1600封警告信（9封涉境外醫療推廣）且相關廣告已移除；政府會不時檢視條例範圍與執行，審慎平衡公眾健康、資訊權及規管相稱性。",
+          "time_hkt": "2026-10-21T13:45:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874759-20261021.htm"
+            },
+            {
+              "name": "新浪香港",
+              "url": "https://portal.sina.com.hk/news-hongkong/news-realtime/rthk/2026/10/21/1961741/%e6%94%bf%e5%ba%9c%e7%a8%b1%e4%b8%8d%e6%99%82%e6%aa%a2%e8%a6%96%e4%b8%8d%e8%89%af%e5%bb%a3%e5%91%8a%e6%a2%9d%e4%be%8b%e7%af%84%e5%9c%8d%e5%8f%8a%e5%9f%b7%e8%a1%8c%e3%80%80%e5%af%a9%e6%85%8e%e5%b9%b3/"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "恒指下午初段跌逾100點報約23760，科技指數跌0.72%",
+          "summary": "港股下午開市初段走弱，恒生指數較早时报23760點，跌107點或0.45%；科技指數報4016點，跌29點或0.72%，延續半日偏軟格局。",
+          "time_hkt": "2026-10-21T13:16:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874755-20261021.htm"
+            },
+            {
+              "name": "新浪香港",
+              "url": "https://portal.sina.com.hk/news-hongkong/news-realtime/rthk/2026/10/21/1961704/%e6%81%92%e6%8c%87%e4%b8%8b%e5%8d%88%e5%88%9d%e6%ae%b5%e8%b7%8c%e9%80%be100%e9%bb%9e-4/"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
