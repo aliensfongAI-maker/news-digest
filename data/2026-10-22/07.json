@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-22",
+  "hour": "07",
+  "updatedAt": "2026-10-22T06:59:27+08:00",
+  "sections": [
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "國際油價收市個別發展，布蘭特微升、紐約期油跌近0.7%；美國原油庫存減幅遠超預期",
+          "summary": "倫敦布蘭特期油收報每桶108.82美元、升3美仙，紐約期油報97.15美元、跌67美仙；美國能源信息署公布上星期原油庫存減少306萬桶，遠多於市場預期的82萬桶，市場並關注地緣政治因素。",
+          "time_hkt": "2026-10-22T06:12:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874848-20261022.htm"
+            },
+            {
+              "name": "Newsquawk",
+              "url": "https://www.newsquawk.com/headlines/crude-wrap-wti-z6-settles-usd-067-lower-at-9715bbl"
+            },
+            {
+              "name": "BOE Report",
+              "url": "https://boereport.com/2026/10/21/us-crude-and-gasoline-stocks-fall-distillates-rise-eia-says/"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "金價靠穩，現貨金在每盎司4100美元以上徘徊",
+          "summary": "現貨金較早時報每盎司4139.73美元、升約0.4%，紐約期金收市報4150美元、升近0.2%，金價繼續在4100美元關口之上靠穩。",
+          "time_hkt": "2026-10-22T06:13:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874849-20261022.htm"
+            },
+            {
+              "name": "WSJ",
+              "url": "https://www.wsj.com/finance/commodities-futures/gold-falls-amid-pressure-from-rising-crude-prices-ea4a6f71"
+            },
+            {
+              "name": "FXStreet",
+              "url": "https://www.fxstreet.com/news/gold-rebounds-above-4-130-as-oil-retreats-fed-decision-looms-202610211801"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "美元指數偏軟，紐約尾市報101.68",
+          "summary": "美元指數在紐約尾市報101.68、跌0.1%；歐元兌美元較早時報1.1233，英鎊兌美元升0.1%報1.3392，美元兌日圓報158.12。",
+          "time_hkt": "2026-10-22T06:11:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874847-20261022.htm"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "港股ADR與本港收市比較個別發展，滙控升1%、阿里京東跌逾1%",
+          "summary": "港股美國預託證券與本港收市比較個別發展：滙控ADR升1%、友邦跌0.5%；科技股方面阿里巴巴和京東ADR跌逾1%，騰訊升0.3%。",
+          "time_hkt": "2026-10-22T06:20:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874850-20261022.htm"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
