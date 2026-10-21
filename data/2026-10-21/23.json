@@ -1,0 +1,59 @@
+{
+  "date": "2026-10-21",
+  "hour": "23",
+  "updatedAt": "2026-10-21T23:07:31+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "世界正義工程公布今年法治指數，香港整體分數不變全球排24位",
+          "summary": "律政司回應「世界正義工程」《2026年法治指數》指，香港在全球143個國家和地區中位列第24、東亞及太平洋地區第6，排名不變；「廉潔」及「秩序和安全」續列全球十大，其中「秩序和安全」升至全球第7，惟「基本權利」及「刑事司法」排名輕微下調。",
+          "time_hkt": "2026-10-21T22:38:00+08:00",
+          "sources": [
+            {"name": "香港政府新聞公報", "url": "https://www.info.gov.hk/gia/general/202610/21/P2026102100888.htm"},
+            {"name": "RTHK", "url": "https://news.rthk.hk/rthk/ch/component/k2/1874829-20261021.htm"},
+            {"name": "World Justice Project", "url": "https://worldjusticeproject.org/rule-of-law-index/country/2026/Hong%20Kong%20SAR%2C%20China"}
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "羅淑佩恭賀港隊在亞殘運硬地滾球、游泳及劍擊項目增添獎牌",
+          "summary": "文化體育及旅遊局局長羅淑佩恭賀港隊今日在亞殘運會再添9面獎牌，包括硬地滾球劉慧茵女子BC4級個人賽金牌，以及楊曉林、梁育榮、張沅銀牌與游泳、劍擊等多面銀銅牌；港隊至今累計1金、8銀、12銅共21面獎牌。",
+          "time_hkt": "2026-10-21T22:44:00+08:00",
+          "sources": [
+            {"name": "RTHK", "url": "https://news.rthk.hk/rthk/ch/component/k2/1874828-20261021.htm"}
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "本港部分地區下午氣溫高達35度，天文台料本周餘下時間持續高溫",
+          "summary": "天文台表示受熱帶氣旋薔琵外圍下沉氣流及高空反氣旋影響，下午各區氣溫普遍約33度，部分地區達35度或以上；預計本周餘下時間持續較高溫，星期五及星期六日間非常乾燥，部分地區酷熱，籲公眾防暑並留意日夜溫差。",
+          "time_hkt": "2026-10-21T22:51:00+08:00",
+          "sources": [
+            {"name": "RTHK", "url": "https://news.rthk.hk/rthk/ch/component/k2/1874830-20261021.htm"}
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "路透：匈牙利考慮撤換俄羅薩托姆擔任核電擴建主承包商",
+          "summary": "路透引述知情人士報道，匈牙利政府正檢討帕克什（Paks）核電廠擴建項目，考慮以其他供應商取代俄羅斯國家原子能公司羅薩托姆（Rosatom）作為主承包商，並已開始接觸替代供應商，料年底或明年初作最終決定。",
+          "time_hkt": "2026-10-21T22:45:00+08:00",
+          "sources": [
+            {"name": "Reuters（Yahoo）", "url": "https://malaysia.news.yahoo.com/exclusive-hungary-considers-replacing-russias-115116183.html"},
+            {"name": "Global Banking & Finance", "url": "https://www.globalbankingandfinance.com/exclusive-hungary-considers-replacing-russias-rosatom/"},
+            {"name": "Reuters（X）", "url": "https://x.com/Reuters/status/2112918125209415775"}
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
