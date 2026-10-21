@@ -1,0 +1,113 @@
+{
+  "date": "2026-10-21",
+  "hour": "13",
+  "updatedAt": "2026-10-21T13:05:08+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "APEC財長會在港閉幕，藍佛安稱達成務實成果並加強宏觀政策協調",
+          "summary": "首次在香港舉行的亞太經合組織財政部長會中午閉幕，中國財政部長藍佛安表示各方圍繞普惠金融、青年財經人才及財長聯合聲明等議程深入交流，達成系列務實成果，並就加強宏觀經濟政策溝通協調、深化區域金融合作形成共識。",
+          "time_hkt": "2026-10-21T12:04:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874746-20261021.htm"
+            },
+            {
+              "name": "The Standard",
+              "url": "https://www.thestandard.com.hk/china/article/346064/APEC-finance-ministers-agree-to-boost-policy-coordination-Chinas-Lan-says"
+            },
+            {
+              "name": "APEC",
+              "url": "https://www.apec.org/press/news-releases/2026/1021_FMM"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "孫玉菡：外籍家居照顧員試驗計劃將小規模循序推行，初期每年約數百人",
+          "summary": "勞工及福利局局長孫玉菡書面回覆質詢指，施政報告提出的外籍家居照顧員試驗計劃最快2027年下半年試行，初期規模約每年數百人；照顧員須具最少三年長者照顧經驗，並在原居地完成特區政府擬定培訓及評核合格後才可來港，詳情預計明年年中公布。",
+          "time_hkt": "2026-10-21T12:27:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874750-20261021.htm"
+            },
+            {
+              "name": "新浪香港",
+              "url": "https://portal.sina.com.hk/news-hongkong/news-realtime/rthk/2026/10/21/1961653/%E5%AD%AB%E7%8E%89%E8%8F%A1%E5%BC%B7%E8%AA%BF%E4%BB%A5%E5%B0%8F%E8%A6%8F%E6%A8%A1%E5%BE%AA%E5%BA%8F%E6%BC%B8%E9%80%B2%E6%96%B9%E5%BC%8F%E6%8E%A8%E8%A1%8C%E5%A4%96%E7%B1%8D%E5%AE%B6%E5%B1%85%E7%85%A7/"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "甯漢豪：過去五年承建商工地安全評核一間欠佳、15間極差",
+          "summary": "發展局局長甯漢豪書面回覆指出，工務工程標書技術評分中工地安全約佔三成；過去五年季度表現評核中，工地安全分項被評「欠佳」一間、「極差」15間，嚴重者可暫停投標或除名，並正推動「安全智慧工地」及房委會「AI+智築目」加強監察。",
+          "time_hkt": "2026-10-21T12:37:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874753-20261021.htm"
+            },
+            {
+              "name": "新浪香港",
+              "url": "https://portal.sina.com.hk/news-hongkong/news-realtime/rthk/2026/10/21/1961661/%E9%81%8E%E5%8E%BB%E4%BA%94%E5%B9%B4%E6%89%BF%E5%BB%BA%E5%95%86%E5%AD%A3%E5%BA%A6%E8%A1%A8%E7%8F%BE%E5%A0%B1%E5%91%8A%E3%80%80%E4%B8%80%E9%96%93%E5%B7%A5%E5%9C%B0%E5%AE%89%E5%85%A8%E8%A2%AB%E8%A9%95/"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "恒指半日跌83點報23784，科技指數跌0.75%，寧德時代挫逾一成",
+          "summary": "港股高開後轉跌，恒生指數中午收市報23784點，跌83點或0.35%，半日主板成交約904億元；科技指數跌0.75%報4015點，美團及騰訊跌近2%，寧德時代業績後急挫逾10%成跌幅最大藍籌，生物醫藥股則逆市偏強。",
+          "time_hkt": "2026-10-21T12:17:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874747-20261021.htm"
+            },
+            {
+              "name": "The Standard",
+              "url": "https://www.thestandard.com.hk/finance/article/346058/Hong-Kong-stocks-dip-by-midday-CATL-plunges-10-percent"
+            },
+            {
+              "name": "Yahoo財經",
+              "url": "https://hk.finance.yahoo.com/news/%E6%81%92%E6%8C%87%E5%8D%8A%E6%97%A5%E6%94%B6%E5%A0%B123784-27%E9%BB%9E-%E8%B7%8C-0-35-041500449.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "分析：人行擬以隔夜回購作主要政策利率屬框架完善，不宜視為減息",
+          "summary": "人行早前表示研究擇機將公開市場主要操作改為隔夜，使隔夜回購利率成為主要政策利率；《金融時報》及星展策略師指此舉旨在與國際接軌、提高傳導精準度，與現行7日期利率差距不大，並非為降低資金成本，料年底前無迫切減息降準需要。",
+          "time_hkt": "2026-10-21T12:32:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874751-20261021.htm"
+            },
+            {
+              "name": "中國經濟網",
+              "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202610/t20261021_3265877.shtml"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
