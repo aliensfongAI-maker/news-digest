@@ -1,0 +1,141 @@
+{
+  "date": "2026-10-21",
+  "hour": "17",
+  "updatedAt": "2026-10-21T17:05:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "新一期居屋今日起揀樓，啟陽苑交通便利受注目",
+          "summary": "新一期居屋今日起揀樓，推售啟德啟陽苑、錦田匯熙苑、將軍澳影輝苑、屏山朗風苑及東涌裕豐苑五個項目；準買家普遍看好啟陽苑鄰近港鐵宋皇臺站、交通與配套較佳，樂富房委會客務中心氣氛活躍。",
+          "time_hkt": "2026-10-21T16:43:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874779-20261021.htm"
+            },
+            {
+              "name": "點新聞",
+              "url": "https://www.dotdotnews.com/a/202610/21/AP6ad822bce4b02fd1c5f52ad1.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "過去一周警方接獲逾50宗投資騙案，婦人購買加密幣失450萬元",
+          "summary": "警方過去一周接獲逾50宗投資騙案，總損失逾3,000萬港元；其中一名六旬退休婦人經買賣房屋平台認識假扮租客的騙徒，被誘騙進入虛假虛擬貨幣投資網站購買加密幣，損失約450萬元。",
+          "time_hkt": "2026-10-21T16:50:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874780-20261021.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "部分監測站空氣質素健康指數風險達嚴重水平，料今日稍後改善",
+          "summary": "環保署表示，今日上午起空氣污染水平偏高，部分監測站空氣質素健康指數已達嚴重水平；署方指本港風勢微弱不利污染物擴散，充沛陽光助長光化煙霧活動，預計情況稍後改善。",
+          "time_hkt": "2026-10-21T16:58:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874782-20261021.htm"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "臺日電梯無裝耐火門框組件，周浩鼎促政府嚴肅檢視",
+          "summary": "升降機承辦商臺日電梯被揭多幢樓宇升降機未裝耐火門框組件；民建聯議員周浩鼎指屯門兆康苑第三、四期由臺日更換的升降機同樣存在問題，已去信發展局要求嚴肅跟進。",
+          "time_hkt": "2026-10-21T16:25:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874775-20261021.htm"
+            }
+          ],
+          "rank": 4
+        },
+        {
+          "headline": "教育局稱48所直資學校獲批「擴容」，170名非本地生入讀",
+          "summary": "教育局表示目前已有48間直資學校獲批參與「直資擴容」計劃，本學年持學生簽證以自資模式入讀直資學校的非本地生共170人，較去年上升13%，形容計劃開局良好。",
+          "time_hkt": "2026-10-21T16:16:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874773-20261021.htm"
+            }
+          ],
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "恒指跌逾200點，科指跌穿4000點關口收市",
+          "summary": "港股先高後低連跌兩日，恒生指數收報23651點，跌215點、跌近1%，主板成交約1766億元；恒生科技指數低收逾1%跌穿4000點，收報約3995點，寧德時代等權重股拖累大市。",
+          "time_hkt": "2026-10-21T16:46:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874777-20261021.htm"
+            },
+            {
+              "name": "東方財富網",
+              "url": "https://finance.eastmoney.com/a/202610213902641320.html"
+            },
+            {
+              "name": "新浪財經",
+              "url": "https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-10-21/doc-inivynsq8121857.shtml"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "陳茂波稱APEC財長會對推動跨境融資及企業尋找商機均有幫助",
+          "summary": "財政司司長陳茂波表示，APEC財長會對推動跨境融資及協助企業尋找商機等均有幫助。",
+          "time_hkt": "2026-10-21T16:51:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874781-20261021.htm"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "印尼央行不對稱加息，隔夜存款工具利率升至5厘",
+          "summary": "印尼央行連續第四次維持指標利率5.75厘不變，但將隔夜存款工具利率上調25個基點至5厘，貸款工具利率維持6.5厘；決定旨在穩定匯率並吸引外資流入。",
+          "time_hkt": "2026-10-21T16:33:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874774-20261021.htm"
+            },
+            {
+              "name": "ANTARA",
+              "url": "https://www.antaranews.com/berita/5801545/bi-rate-tetap-575-persen-bunga-deposit-facility-naik-jadi-5-persen"
+            },
+            {
+              "name": "Reuters via Investing.com",
+              "url": "https://www.investing.com/news/economy-news/indonesias-central-bank-keeps-main-rate-unchanged-hikes-deposit-facility-rate-4961822"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
