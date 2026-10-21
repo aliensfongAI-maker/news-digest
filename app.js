@@ -7,6 +7,12 @@
   var WINDOW_MS = 24 * 60 * 60 * 1000;
   var HOUR_MS = 60 * 60 * 1000;
   var requestSerial = 0;
+  // Wall-clock gap between silent refreshes of today. Stub this to verify.
+  var AUTO_REFRESH_MS = 30 * 60 * 1000;
+  var autoRefreshTimer = null;
+  var autoRefreshGeneration = 0;
+  var lastRefreshAt = 0;
+  var activeDate = "";
 
   function isIsoDate(value) {
     if (typeof value !== "string" || !/^\d{4}-\d{2}-\d{2}$/.test(value)) return false;
@@ -490,16 +496,85 @@
     }
   }
 
-  async function loadDigest(date, today) {
+  function stopAutoRefresh() {
+    if (autoRefreshTimer === null) return;
+    window.clearTimeout(autoRefreshTimer);
+    autoRefreshTimer = null;
+  }
+
+  function isViewingToday() {
+    return isIsoDate(activeDate) && activeDate === hktDateString(new Date());
+  }
+
+  function scheduleAutoRefresh() {
+    stopAutoRefresh();
+    if (typeof document !== "undefined" && document.hidden) return;
+    if (!isViewingToday()) return;
+    autoRefreshTimer = window.setTimeout(function () {
+      autoRefreshTimer = null;
+      if (typeof document !== "undefined" && document.hidden) return;
+      if (!isViewingToday()) return;
+      autoRefreshToday();
+    }, AUTO_REFRESH_MS);
+  }
+
+  // Silent re-fetch of the selected today view. Keeps the current board until
+  // the new digest renders, then arms the next 30-minute tick.
+  function autoRefreshToday() {
+    var today = hktDateString(new Date());
+    if (typeof document !== "undefined" && document.hidden) return;
+    if (activeDate !== today) {
+      stopAutoRefresh();
+      return;
+    }
+    var generation = ++autoRefreshGeneration;
+    lastRefreshAt = Date.now();
+    scheduleAutoRefresh();
+    return loadDigest(today, today, { silent: true }).then(afterSilentRefresh, afterSilentRefresh);
+
+    function afterSilentRefresh() {
+      if (generation !== autoRefreshGeneration) return;
+      if (typeof document !== "undefined" && document.hidden) return;
+      if (!isViewingToday()) return;
+      if (autoRefreshTimer === null) scheduleAutoRefresh();
+    }
+  }
+
+  function onVisibilityChange() {
+    if (document.hidden) {
+      stopAutoRefresh();
+      return;
+    }
+    var onToday = isViewingToday();
+    var elapsed = lastRefreshAt > 0 && Date.now() - lastRefreshAt >= AUTO_REFRESH_MS;
+    // Catch up if the 30-minute interval elapsed or this visible view is
+    // today. Historical dates stay idle: no auto fetch, no resumed timer.
+    if ((elapsed || onToday) && onToday) autoRefreshToday();
+  }
+
+  async function loadDigest(date, today, options) {
+    var silent = !!(options && options.silent);
     var serial = ++requestSerial;
     var now = new Date();
     var end = windowEndFor(date, today, now);
     var start = new Date(end.getTime() - WINDOW_MS);
-    var dateline = document.getElementById("dateline");
-    dateline.textContent = isIsoDate(date) ? formatDateLabel(date) : "香港時間";
-    setStatus("");
-    setUpdated("");
-    fillAll("載入中…");
+
+    if (!silent) {
+      autoRefreshGeneration += 1;
+      activeDate = date;
+      document.getElementById("dateline").textContent = isIsoDate(date)
+        ? formatDateLabel(date)
+        : "香港時間";
+      setStatus("");
+      setUpdated("");
+      fillAll("載入中…");
+      if (date === today) {
+        lastRefreshAt = Date.now();
+        scheduleAutoRefresh();
+      } else {
+        stopAutoRefresh();
+      }
+    }
 
     var slots = hourSlots(start, end);
     var results = await Promise.all(slots.map(fetchHour));
@@ -514,12 +589,14 @@
 
     if (!digests.length) {
       if (hardError) {
+        if (silent) return;
         fillAll("暫時未能載入");
         setStatus("暫時讀取不到摘要，請稍後再試。");
         return;
       }
       fillAll("暫無摘要");
       setStatus(emptyWindowMessage(date, today));
+      setUpdated("");
       return;
     }
 
@@ -529,6 +606,7 @@
       return section.items.length > 0;
     });
     if (!any) setStatus(emptyWindowMessage(date, today));
+    else if (silent) setStatus("");
   }
 
   // Chips are <a href="#id"> inside .nav-inner { overflow-x: auto }, under a
@@ -575,6 +653,7 @@
     var today = hktDateString(new Date());
     var active = dateFromQuery() || today;
     var select = document.getElementById("dateSelect");
+    activeDate = active;
 
     bindSectionNav();
     fillSelect([], active, today);
@@ -593,6 +672,8 @@
       history.pushState({ date: date }, "", url);
       loadDigest(date, hktDateString(new Date()));
     });
+
+    document.addEventListener("visibilitychange", onVisibilityChange);
 
     window.addEventListener("popstate", function () {
       var date = dateFromQuery() || hktDateString(new Date());
