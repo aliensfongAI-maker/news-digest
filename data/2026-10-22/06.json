@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-22",
+  "hour": "06",
+  "updatedAt": "2026-10-22T06:10:15+08:00",
+  "sections": [
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "CoreWeave本月股價跌近三成，債券孳息與CDS飆升反映人工智能基建融資信心受壓",
+          "summary": "CNBC報道，人工智能雲端運算商CoreWeave本月股價累跌約29%、市值約340億美元，無擔保債券孳息約15%，五年期信用違約掉期利差擴大至約1067個基點；高孳息債市人士指傾向待美國中期選舉後再融資，行政總裁向員工發備忘錄強調仍有基建抵押、企業債、股權及客戶預付款等渠道。",
+          "time_hkt": "2026-10-22T05:12:29+08:00",
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/21/coreweaves-market-confidence-erodes-as-bond-yields-spike-stock-sinks.html"
+            },
+            {
+              "name": "CNBC（X）",
+              "url": "https://x.com/CNBC/status/2113016893946658904"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
