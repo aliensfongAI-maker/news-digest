@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-22",
+  "hour": "04",
+  "updatedAt": "2026-10-22T04:05:44+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "馬克龍指有外國領導人為選舉利用法國散播不實信息",
+          "summary": "法國總統馬克龍在多哈指法國示威相關資訊遭境外操縱，並有AI生成假畫面及「移民與極端分子入侵」等錯誤敘事，批評部分外國領導人為自身選舉散播愚蠢且不可接受的言論；他亦重申嚴防周末示威再釀騷亂。",
+          "time_hkt": "2026-10-22T03:23:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874838-20261022.htm"
+            },
+            {
+              "name": "France 24",
+              "url": "https://www.france24.com/en/france/20261021-macron-says-world-leaders-have-made-stupid-comments-on-france-riots-based-on-fake-ai-videos"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo"
+            },
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/oct/21/macron-trump-foreign-leaders-stupid-comments-france-unrest"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/france-macron-trump-comments-protests-b46829a8161a4d152124642fd275f595"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
