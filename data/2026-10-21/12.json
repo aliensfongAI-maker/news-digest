@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-21",
+  "hour": "12",
+  "updatedAt": "2026-10-21T12:08:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "消防處澄清絕無要求診所代訂電動輪椅，籲慎防假冒消防人員騙案",
+          "summary": "有物理治療診所職員指騙徒自稱「消防隊長」預約診症後要求代訂20張電動輪椅並墊支訂金；消防處今日發文澄清絕無此事，強調不會要求商戶或市民代向第三方購貨，呼籲遇類似來電切勿轉帳並盡快報警。",
+          "time_hkt": "2026-10-21T11:37:00+08:00",
+          "sources": [
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60401960/%E9%A8%99%E5%BE%92%E8%87%AA%E7%A8%B1-%E6%B6%88%E9%98%B2%E9%9A%8A%E9%95%B7-%E8%A6%81%E8%A8%BA%E6%89%80%E4%BB%A3%E8%A8%82%E9%9B%BB%E5%8B%95%E8%BC%AA%E6%A4%85-%E6%B6%88%E9%98%B2%E8%99%95%E6%BE%84%E6%B8%85-%E7%B5%95%E7%84%A1%E6%AD%A4%E4%BA%8B"
+            },
+            {
+              "name": "點新聞",
+              "url": "https://www.dotdotnews.com/immed/hknews"
+            },
+            {
+              "name": "on.cc東網",
+              "url": "https://hk.on.cc/hk/bkn/cnt/news/20261020/bkn-20261020233026113-1020_00822_001.html"
+            },
+            {
+              "name": "The Standard",
+              "url": "https://www.thestandard.com.hk/news/article/346024/Fraudster-poses-as-Fire-Station-Officer-in-wheelchair-deposit-scam"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "陳國基：環保署已優化廚餘收集合約招標與評審，7月起實施新程序",
+          "summary": "政務司司長陳國基在立法會回應帳目委員會報告時表示，環保署正按審計建議完善廚餘管理，包括擴展回收網絡、加強篩查多餘物料，並已優化收集服務合約的招標預算估價與評審準則，於今年7月招標合約實施；署方亦試用人工智能覆檢招標文件。",
+          "time_hkt": "2026-10-21T11:51:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874744-20261021.htm"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "滬深股市半日下跌，創業板指數跌逾1%",
+          "summary": "內地股市半日收市偏軟，電池、能源金屬等板塊下跌；上證綜合指數報3723點，跌約0.31%，深證成指跌約0.31%，創業板指數跌約1.07%，兩市半日成交約九千多億元人民幣。",
+          "time_hkt": "2026-10-21T11:46:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874743-20261021.htm"
+            },
+            {
+              "name": "新浪財經",
+              "url": "https://finance.sina.com.cn/jjxw/2026-10-21/doc-inivyaat6233117.shtml"
+            },
+            {
+              "name": "東方財富",
+              "url": "https://finance.eastmoney.com/news/1345,202610213902459023.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "埃森哲調查：僅約3%港企將人工智能全面融入工作流程",
+          "summary": "埃森哲《香港人工智能指數2026》訪問150名高層，指企業對AI興趣高但落地滯後，僅約3%已將AI與數據全面融入核心業務策略，僅1%在跨職能部署代理式AI；阻力包括組織變革抗拒及舊有數碼基建。",
+          "time_hkt": "2026-10-21T11:00:00+08:00",
+          "sources": [
+            {
+              "name": "SCMP",
+              "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3371557/only-3-hong-kong-firms-have-fully-integrated-ai-workflows-survey-finds"
+            },
+            {
+              "name": "Accenture",
+              "url": "https://www.accenture.com/content/dam/accenture/final/accenture-com/document-fy27/q1/Accenture-Hong-Kong-AI-Index-2026-Release.pdf"
+            },
+            {
+              "name": "Accenture Insights",
+              "url": "https://www.accenture.com/en-cn/insights/ai-data/hong-kong-ai-index-2026"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
