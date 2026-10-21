@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-21",
+  "hour": "15",
+  "updatedAt": "2026-10-21T15:05:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "首三季23名65歲或以上長者交通意外亡，運輸署籲過馬路勿心急",
+          "summary": "運輸署表示今年首三季有逾600名65歲或以上年長行人在交通意外中傷亡，其中23人死亡、較去年同期為多；署方提醒長者過馬路勿心急，建議戴好眼鏡或助聽器、選最安全路線，並留意電動車較靜及勿在停定或慢駛車輛空隙行走。",
+          "time_hkt": "2026-10-21T14:12:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874760-20261021.htm"
+            },
+            {
+              "name": "東網",
+              "url": "https://hk.on.cc/hk/bkn/cnt/news/20261021/bkn-20261021142758023-1021_00822_001.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "美特使威特科夫抵達聖彼得堡，料向普京通報奧斯陸會談重點",
+          "summary": "俄媒報道美國總統特使威特科夫抵達聖彼得堡，料與普京會談並通報前一日在奧斯陸與澤連斯基、芬蘭總統等會談重點；澤連斯基稱討論包括類似北約第五條款的安全保障，並指美方已恢復向烏提供俄導彈預警情報。",
+          "time_hkt": "2026-10-21T14:24:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874761-20261021.htm"
+            },
+            {
+              "name": "Reuters",
+              "url": "https://www.streetinsider.com/Reuters/US+envoy+Witkoff+arrives+in+St+Petersburg+for+talks+with+Putin/27211851.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
