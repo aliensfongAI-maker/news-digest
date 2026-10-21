@@ -1,0 +1,143 @@
+{
+  "date": "2026-10-21",
+  "hour": "16",
+  "updatedAt": "2026-10-21T16:10:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "亞殘運港隊奪今屆首面金牌，硬地滾球女子BC4級劉慧茵奪冠",
+          "summary": "名古屋亞殘運硬地滾球女子BC4級個人賽，港隊劉慧茵以7:2擊敗隊友張沅奪金，張沅獲銀；另楊曉林、梁育榮分別奪銀，龍子健奪銅，劉慧茵金牌為港隊今屆首金。",
+          "time_hkt": "2026-10-21T15:23:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874769-20261021.htm"
+            },
+            {
+              "name": "新浪香港",
+              "url": "https://portal.sina.com.hk/news-hongkong/news-realtime/rthk/2026/10/21/1961845/%E4%BA%9E%E6%AE%98%E9%81%8B%E6%B8%AF%E9%9A%8A%E5%A5%AA%E4%BB%8A%E5%B1%86%E9%A6%96%E9%9D%A2%E9%87%91%E7%89%8C%E3%80%80%E7%A1%AC%E5%9C%B0%E6%BB%BE%E7%90%83%E5%A5%B3%E5%AD%90bc4%E7%B4%9A%E5%8A%89/"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "政府支持會展業發展，優先推灣仔北重建及亞博館二期擴建增場地",
+          "summary": "商務及經濟發展局局長丘應樺在立法會表示，政府自2020年起已撥款逾31億港元支援會展業，目前最優先推進灣仔北重建及亞博館第二期擴建以增加展覽場地；議員亦建議研究北部都會區展館及深港會展合作。",
+          "time_hkt": "2026-10-21T15:14:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874768-20261021.htm"
+            },
+            {
+              "name": "etnet",
+              "url": "https://www.etnet.com.hk/www/tc/news/news-article.php?category=latest&newsid=20261021274&section=categorized"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "議員關注外傭過度借貸殃及僱主，政府稱新規管上加強執法堵截情況",
+          "summary": "財經事務及庫務局副局長陳浩濂在立法會表示，今年8月實施加強規管持牌放債人後，未有證據顯示低收入人士包括外傭普遍轉向非法貸款；議員關注外傭斷供跳工令僱主受滋擾，當局稱會加強執法堵截非法放債及追債。",
+          "time_hkt": "2026-10-21T15:42:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874770-20261021.htm"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "海關過去3年偵破逾千宗懷疑非法進口藥劑製品案，貨值3億多元",
+          "summary": "醫務衞生局局長盧寵茂在立法會表示，過去3年海關共偵破1043宗懷疑非法進口藥劑製品案件，檢獲物品總值約3.64億元，並已就其中140宗提出檢控；衞生署同期處理108宗相關定罪個案，最高刑罰為判監10個月或罰款24.2萬元。",
+          "time_hkt": "2026-10-21T15:49:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874771-20261021.htm"
+            }
+          ],
+          "rank": 4
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "內地全國碳排放權交易市場成交量突破10億噸",
+          "summary": "生態環境部副部長李高表示，全國碳排放權交易市場近期配額累計成交量突破10億噸，目前管控二氧化碳排放約83億噸、佔全國排放總量逾65%，啓動逾5年來已建成全球規模最大碳排放權交易市場。",
+          "time_hkt": "2026-10-21T15:52:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874742-20261021.htm"
+            },
+            {
+              "name": "新華網",
+              "url": "https://www.news.cn/fortune/20261021/f1821cc0d10a43178c9e070c6abb5870/c.html"
+            },
+            {
+              "name": "China Daily",
+              "url": "https://www.chinadaily.com.cn/a/202610/21/WS6ad83e6ae4b06d4aa0563f4c.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "內地3大指數先高後低，滬指跌0.6%，寧德時代A股跌約12%",
+          "summary": "滬深股市先高後低，上證指數收報3713點跌0.6%，深成指跌0.82%，創業板指跌1.62%；電池股急挫，寧德時代A股大跌約12%，白酒及證券股下挫，數據要素與AI漫劇概念股上升。",
+          "time_hkt": "2026-10-21T15:21:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874767-20261021.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "韓股反彈逾3%，首爾綜合指數收報5735點",
+          "summary": "韓國股市大幅反彈，首爾綜合指數收報5735點，升182點、升幅3.29%。",
+          "time_hkt": "2026-10-21T15:08:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874766-20261021.htm"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "日股高收約1%，未能企穩65000點",
+          "summary": "日經指數最多升約1330點、高見65404點，其後升幅收窄，收報64621點，升545點、升幅約1%，未能企穩65000點。",
+          "time_hkt": "2026-10-21T15:06:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874764-20261021.htm"
+            }
+          ],
+          "rank": 4
+        },
+        {
+          "headline": "台股高收約1.3%",
+          "summary": "台股回穩，加權指數收報46887點，升594點、升幅約1.3%。",
+          "time_hkt": "2026-10-21T15:03:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874763-20261021.htm"
+            }
+          ],
+          "rank": 5
+        }
+      ]
+    }
+  ]
+}
