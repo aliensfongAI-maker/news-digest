@@ -1,0 +1,97 @@
+{
+  "date": "2026-10-21",
+  "hour": "07",
+  "updatedAt": "2026-10-21T07:12:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "天文台發出酷熱天氣警告，提醒市民慎防中暑",
+          "summary": "香港天文台於早上6時45分發出酷熱天氣警告，預測今日大致天晴，日間市區最高氣溫約33度，新界再高兩三度，部分地區極端酷熱，呼籲市民慎防中暑。",
+          "time_hkt": "2026-10-21T06:51:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874710-20261021.htm"
+            },
+            {
+              "name": "香港天文台／政府新聞處",
+              "url": "https://www.info.gov.hk/gia/wr/202610/21/P2026102100013.htm"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "國際油價先升後回，布蘭特觸及五個月高位後收低",
+          "summary": "國際油價觸及五個月高位後回落，倫敦布蘭特12月期油高見每桶111.99美元後收報108.79美元、跌約0.7%，紐約期油亦先升後回，市場繼續關注中東局勢及斡旋消息。",
+          "time_hkt": "2026-10-21T06:31:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874708-20261021.htm"
+            },
+            {
+              "name": "鉅亨網",
+              "url": "https://news.cnyes.com/news/id/6634517"
+            },
+            {
+              "name": "聯合新聞",
+              "url": "https://www.yna.co.kr/view/AKR20261021005000072"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/20/brent-crude-holds-near-five-month-high-middle-east-tension.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "金價偏軟，現貨金在每盎司4100美元以上徘徊",
+          "summary": "金價偏軟，現貨金在每盎司4100美元以上徘徊，較早時報約4123美元、跌約0.4%；紐約期金收市報4142.6美元。",
+          "time_hkt": "2026-10-21T06:30:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874707-20261021.htm"
+            },
+            {
+              "name": "FXBus",
+              "url": "https://www.fxbus.com/zh/news/20261021010113755083.html"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "港股ADR普遍較本港收市上升，阿里巴巴ADR升近2%",
+          "summary": "港股美國預託證券普遍較本港收市上升；金融股方面滙控和友邦ADR升近1%，科技股方面阿里巴巴ADR升近2%的幅度較大。",
+          "time_hkt": "2026-10-21T06:32:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874709-20261021.htm"
+            },
+            {
+              "name": "SL886",
+              "url": "https://www.sl886.com/adr"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
