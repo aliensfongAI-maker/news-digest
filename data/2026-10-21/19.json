@@ -1,0 +1,145 @@
+{
+  "date": "2026-10-21",
+  "hour": "19",
+  "updatedAt": "2026-10-21T19:10:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "12歲女童感染甲型流感併發敗血性休克不治，潛伏期內沒有外遊",
+          "summary": "衞生防護中心公布一名有自身健康狀況的12歲女童感染甲型流感，併發敗血性休克、血管內瀰漫性凝血及多重器官衰竭，延至昨日不治；女童尚未接種本年度流感疫苗，今季兒童嚴重流感個案累計25宗，中心呼籲盡快接種疫苗。",
+          "time_hkt": "2026-10-21T18:46:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874805-20261021.htm"
+            },
+            {
+              "name": "on.cc東網",
+              "url": "https://hk.on.cc/hk/bkn/cnt/news/20261021/bkn-20261021184531170-1021_00822_001.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "《香港01》新聞部收到白色粉末可疑信，警方派員調查",
+          "summary": "《香港01》表示新聞部收到一封藏有白色粉末的可疑信件；警方稱下午3時接獲報案後已派員到場調查，該報譴責任何意圖阻嚇新聞工作者、干預編採自主的行徑。",
+          "time_hkt": "2026-10-21T18:35:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874802-20261021.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "羅淑佩：旅發局會就山頂光影匯聽取意見，或再作修訂一切未是定案",
+          "summary": "文化體育及旅遊局局長羅淑佩表示，旅發局會就山頂光影匯聽取意見，或再作修訂，強調一切尚未定案。",
+          "time_hkt": "2026-10-21T18:57:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874807-20261021.htm"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "亞殘運港隊再添獎牌，洪泳朗蛙泳、湯雅婷輪椅重劍各摘銅",
+          "summary": "亞殘運游泳項目港隊洪泳朗於男子SB14級100米蛙泳決賽以1分09秒96奪銅；輪椅劍擊女子B級重劍個人賽湯雅婷四強不敵韓國對手，因不設銅牌賽為港隊再添一面銅牌。",
+          "time_hkt": "2026-10-21T18:23:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874800-20261021.htm"
+            },
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874798-20261021.htm"
+            }
+          ],
+          "rank": 4
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "法國將部署反恐士兵應對周末示威暴力，意大利增派軍人維持治安至年底",
+          "summary": "法國政府將部署法軍反恐力量士兵應對本周六可能出現的暴力場面，並考慮禁止未經申報或存在失控風險的示威；意大利則決定向米蘭增派500名軍人協助警方維持治安至年底。",
+          "time_hkt": "2026-10-21T18:49:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874806-20261021.htm"
+            },
+            {
+              "name": "Euronews",
+              "url": "https://www.euronews.com/2026/10/20/france-vows-massive-security-operation-involving-military-forces-for-expected-weekend-prot"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "APEC財長會政策聲明：數字化基礎設施對長期經濟增長至關重要",
+          "summary": "亞太經合組織財長會閉幕並審議通過聯合聲明，核准發布亞太地區數字基礎設施融資政策聲明；財長會主席藍佛安指各方鼓勵公共部門營造有利監管環境、支持私人部門與多邊開發銀行共同為數字基礎設施融資。",
+          "time_hkt": "2026-10-21T18:38:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874803-20261021.htm"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "政府重視防範非法開立銀行戶口，遙距開戶銀行須落實風險管理",
+          "summary": "財經事務及庫務局副局長陳浩濂表示，金管局已要求銀行就遙距開戶落實身分核實及風險管理措施，並透過「網銀安全ABCD」及逐步融入「智方便」多重身分認證，防範傀儡戶口用於清洗犯罪得益。",
+          "time_hkt": "2026-10-21T18:18:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874797-20261021.htm"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "民航處出席C929遠程客機合格審定會議，發揮適航審定專業優勢",
+          "summary": "民航處處長黃嘉華率團出席中國民航局在上海舉行的C929型號合格審定會議；C929為中國自主研製首款雙通道遠程寬體客機，預計可載約290座、航程達12000公里，三地民航當局落實聯合審定合作安排。",
+          "time_hkt": "2026-10-21T18:06:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874796-20261021.htm"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
