@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-22",
+  "hour": "01",
+  "updatedAt": "2026-10-22T01:08:47+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "普京晤美特使後表明原則上願重啟俄美烏三方會談；澤連斯基稱願有條件達成和平協議",
+          "summary": "俄羅斯總統助理烏沙科夫稱，普京與特朗普特使威特科夫在聖彼得堡會面後確認，俄方原則上願於約11月10日在阿布扎比等地重啟技術層級三方會談；烏克蘭總統澤連斯基則表示，願在維持現狀、烏克蘭保留至少75%領土並獲美歐安全保障的前提下達成和平協議。",
+          "time_hkt": "2026-10-22T00:13:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874831-20261022.htm"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/cq3djn5nxx12o"
+            },
+            {
+              "name": "Axios",
+              "url": "https://www.axios.com/2026/10/21/russia-ukraine-putin-witkoff-peace"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/russia-ukraine-witkoff-putin-trump-zelenskyy-talks-3f00c0c6fd10bab948c2c3f8502e0a91"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "新墨西哥州起訴愛潑斯坦前律師及會計師，指隱瞞性販運活動",
+          "summary": "新墨西哥州檢察長周三入稟起訴愛潑斯坦長期律師Darren Indyke及會計師Richard Kahn，指控二人知悉並隱瞞其在聖達菲附近Zorro Ranch的性販運及性侵行為，並尋求阻止他們從愛潑斯坦遺產取得任何款項。",
+          "time_hkt": "2026-10-22T00:52:00+08:00",
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/epstein-new-mexico-ranch-lawsuit-7b00ad7f809c585a82c4cd9eb4c81467"
+            },
+            {
+              "name": "AP（X）",
+              "url": "https://x.com/AP/status/2112950723549737346"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "PHP曝嚴重漏洞，多國政府網站緊急下線；美國國安局促即時修補",
+          "summary": "編程語言PHP被揭兩項嚴重漏洞，恐致未認證遠程代碼執行；芬蘭、荷蘭、法國等地多個政府及機構網站預防性下線，英國廣播公司部分節目頁及維基百科部分系統亦受影響，美國國安局及多國網絡安全機構促立即更新或下線未修補系統。",
+          "time_hkt": "2026-10-22T00:17:00+08:00",
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/21/government-websites-go-dark-as-software-flaw-sparks-security-scramble.html"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/cmly0lg3w5x2o"
+            },
+            {
+              "name": "AFP（X）",
+              "url": "https://x.com/AFP/status/2112949134109872174"
+            },
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/technology/what-is-php-why-did-it-take-government-websites-offline-2026-10-21/"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
