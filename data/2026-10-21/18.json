@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-21",
+  "hour": "18",
+  "updatedAt": "2026-10-21T18:58:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "颱風薔琵逼近，港航取消明日來往沖繩兩航班",
+          "summary": "超強颱風「薔琵」橫過西北太平洋逼近台灣北部；香港航空宣布取消明日來往香港及沖繩的HX658、HX659班機，受影響已確認機位乘客可免費改簽、更改航點或退票，經旅行社訂票者則應聯絡旅行社；港台線暫仍正常，但明至周六或延誤或取消。",
+          "time_hkt": "2026-10-21T18:58:00+08:00",
+          "sources": [
+            {
+              "name": "點新聞",
+              "url": "https://www.dotdotnews.com/a/202610/21/AP6ad89af4e4b02fd1c5f53637.html"
+            },
+            {
+              "name": "中央社",
+              "url": "https://www.cna.com.tw/news/ahel/202610210289.aspx"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "哈薩克斯坦主權財富基金在港發行人民幣30億元「點心債」",
+          "summary": "「一帶一路」辦公室指哈薩克斯坦主權財富基金薩姆魯克—卡澤納完成人民幣30億元「點心債」發行，並已於上周五在港交所舉行上市儀式；連同該國開發銀行及國家石油公司近期發行，哈薩克斯坦機構自特首訪中亞以來經「點心債」籌集逾人民幣100億元。",
+          "time_hkt": "2026-10-21T18:17:00+08:00",
+          "sources": [
+            {
+              "name": "點新聞",
+              "url": "https://www.dotdotnews.com/a/202610/21/AP6ad8912ce4b02fd1c5f53555.html"
+            },
+            {
+              "name": "ACN Newswire",
+              "url": "https://www.acnnewswire.com/press-release/english/110968/"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
