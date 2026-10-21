@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-21",
+  "hour": "22",
+  "updatedAt": "2026-10-21T22:01:12+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "李強與米舒斯京共同主持中俄總理第三十一次定期會晤，簽署聯合公報",
+          "summary": "國務院總理李強在聖彼得堡與俄羅斯總理米舒斯京共同主持中俄總理第三十一次定期會晤，雙方強調推進經貿能源互聯互通及人工智能等前沿合作，會後簽署聯合公報並達成經貿、航天、科技、教育等合作文件。",
+          "time_hkt": "2026-10-21T21:08:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874819-20261021.htm"
+            },
+            {
+              "name": "中國外交部",
+              "url": "https://www.mfa.gov.cn/wjdt_674879/gjldrhd_674881/202610/t20261021_12044564.shtml"
+            },
+            {
+              "name": "俄羅斯政府",
+              "url": "http://government.ru/en/news/60254/"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "美股初段上升納指升約0.7%，SpaceX績後升約8%重燃AI交易氣氛",
+          "summary": "美股初段上升，納斯達克指數升約0.7%、標普500升約0.3%；SpaceX公布上季收入按年大增並轉盈，兼傳與特斯拉研合併，績後／盤中升約8%，超微電腦亦急升，有助緩和市場對人工智能投資回報的憂慮。",
+          "time_hkt": "2026-10-21T21:40:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874824-20261021.htm"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html"
+            },
+            {
+              "name": "Bloomberg（swissinfo）",
+              "url": "https://www.swissinfo.ch/eng/stocks-climb-as-spacex-results-reignite-ai-trade%3A-markets-wrap/92248255"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "機電署：兩個租置屋邨及129幢私人樓宇門框組件安裝工程已展開",
+          "summary": "機電署公布已巡查90幢由其他註冊承辦商安裝升降機的樓宇，全部有安裝門框組件；漏裝個案仍僅涉臺日電梯，署方正集中補裝，兩個租置屋邨及129幢私人樓宇的勘察及安裝工程已展開，其餘有關樓宇料數天內陸續展開。",
+          "time_hkt": "2026-10-21T21:54:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874826-20261021.htm"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
