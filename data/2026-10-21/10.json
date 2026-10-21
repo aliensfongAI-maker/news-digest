@@ -1,0 +1,95 @@
+{
+  "date": "2026-10-21",
+  "hour": "10",
+  "updatedAt": "2026-10-21T10:01:36+08:00",
+  "sections": [
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "恒指競價時段升271點重返24000水平，科技指數升約1.6%",
+          "summary": "港股開市高開，恒生指數競價時段報24139點，升271點或約1.14%，重返24000點水平；恒生科技指數升約1.6%，聯想反彈逾6%，阿里巴巴升逾2%。",
+          "time_hkt": "2026-10-21T09:24:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874726-20261021.htm"
+            },
+            {
+              "name": "新浪香港",
+              "url": "https://portal.sina.com.hk/finance/sina/2026/10/21/1961385/%E5%BF%AB%E8%A8%8A%EF%BC%9A%E6%81%92%E6%8C%87%E9%AB%98%E9%96%8B1-14%E9%87%8D%E5%9B%9E24000%E9%BB%9E-%E6%81%92%E7%A7%91%E6%8C%87%E6%BC%B21-6-%E7%A7%91%E7%B6%B2%E8%82%A1%E6%99%AE%E6%BC%B2-%E5%AD%98/"
+            },
+            {
+              "name": "經濟觀察網",
+              "url": "http://www.eeo.com.cn/2026/1021/1071489.shtml"
+            },
+            {
+              "name": "巴士的報",
+              "url": "https://www.bastillepost.com/hongkong/article/17015708-%e6%b8%af%e8%82%a1%e9%96%8b%e5%8d%87271%e9%bb%9e-%e5%af%a7%e5%be%b7%e9%80%86%e8%b7%8c%e8%bf%913-%e8%81%af%e6%83%b3%e5%8f%8d%e5%bd%88%e9%80%be6"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "台股初段升逾1%，加權指數一度升逾700點",
+          "summary": "台灣股市開市高開後進一步上揚，加權指數較早時升逾1.5%，一度升逾700點；台積電、聯發科等科技權值股帶動大市，受隔晚美股個別發展及油價回落影響。",
+          "time_hkt": "2026-10-21T09:20:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874724-20261021.htm"
+            },
+            {
+              "name": "中央社",
+              "url": "https://www.cna.com.tw/news/afe/202610210028.aspx"
+            },
+            {
+              "name": "中央社（早盤）",
+              "url": "https://www.cna.com.tw/news/afe/202610210033.aspx"
+            },
+            {
+              "name": "經濟日報",
+              "url": "https://money.udn.com/money/story/5607/9827735"
+            },
+            {
+              "name": "三立新聞網",
+              "url": "https://www.setn.com/news/1925814"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "人民幣中間價報6.7192兌1美元，再創逾3年半高位",
+          "summary": "中國外匯交易中心公布，人民幣兌美元中間價報6.7192，較上日升8點子，再創逾三年半高位。",
+          "time_hkt": "2026-10-21T09:21:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874725-20261021.htm"
+            },
+            {
+              "name": "中國經濟網",
+              "url": "http://finance.ce.cn/fe/gdxw/202610/t20261021_3266311.shtml"
+            },
+            {
+              "name": "FXStreet",
+              "url": "https://www.fxstreet.com/news/pboc-sets-usd-cny-reference-rate-at-67192-vs-67200-previous-202610210115"
+            },
+            {
+              "name": "旺得富／中時",
+              "url": "https://wantrich.chinatimes.com/news/20261021900165-420201"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    }
+  ]
+}
