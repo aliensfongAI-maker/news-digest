@@ -1,0 +1,147 @@
+{
+  "date": "2026-10-21",
+  "hour": "20",
+  "updatedAt": "2026-10-21T20:05:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "菲律賓進口蟹樣本鎘含量超標，食安中心指令停售並追查分銷",
+          "summary": "食安中心公布透過恆常食物監測從進口層面抽取的菲律賓進口蟹樣本，鎘含量為百萬分之4.12，超出法例上限百萬分之2；已指令進口商停售下架，並正追查來源與分銷情況，亦會知會菲律賓當局。",
+          "time_hkt": "2026-10-21T19:01:00+08:00",
+          "sources": [
+            {
+              "name": "on.cc東網",
+              "url": "https://hk.on.cc/hk/bkn/cnt/news/20261021/bkn-20261021190137160-1021_00822_001.html"
+            },
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874814-20261021.htm"
+            },
+            {
+              "name": "香港政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202610/21/P2026102100722.htm"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "李家超在禮賓府與藍佛安會面，稱積極把握財長會平台展示獨特優勢",
+          "summary": "行政長官李家超在禮賓府與財政部部長藍佛安會面，就內地和香港經濟金融發展交流；李家超感謝藍佛安率團主持APEC財長會，指香港積極把握會議平台展示內聯外通優勢，並提及財政部連續多年在港發行人民幣國債及今年首發人民幣綠色主權債券。",
+          "time_hkt": "2026-10-21T19:02:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874808-20261021.htm"
+            },
+            {
+              "name": "香港政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202610/21/P2026102100745.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "林哲玄稱「屍皮針」主要取自離世者皮下組織，陳凱欣關注有無臨床驗證",
+          "summary": "就衞生署檢獲俗稱「屍皮針」的懷疑未經註冊針劑，立法會議員林哲玄指產品多為離世人體抽取皮下組織去細胞後製成，並未在港註冊，或有過敏、感染風險；陳凱欣關注有無臨床驗證，強調注射程序應由本地註冊醫生或牙醫進行。",
+          "time_hkt": "2026-10-21T19:46:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874816-20261021.htm"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "陳恒鑌：天星小輪加幅較原申請低，月票不加價減低上班族影響",
+          "summary": "行會早前批准天星小輪兩條專營航線加價，平日每程加6毫至1元、周末加1元至1.8元；立法會交通事務委員會主席陳恒鑌指今次加幅低於原先申請且月票不加價，已減低對上班族影響，並建議分階段實施及加快電動船計劃。",
+          "time_hkt": "2026-10-21T19:06:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874810-20261021.htm"
+            }
+          ],
+          "rank": 4
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "陳茂波：香港上市制度與時並進，方便不同類型科企上市但不會放寬監管",
+          "summary": "財政司司長陳茂波總結APEC財長會時回應市場關注AI相關IPO佔港股集資約七成，指上市制度須緊貼實體經濟發展、方便不同類型科技企業上市，同時強調證監會及港交所不會放鬆監管。",
+          "time_hkt": "2026-10-21T19:03:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874809-20261021.htm"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "黃偉綸：香港人民幣存款及存款證約1.3萬億元，清算投融資角色重要",
+          "summary": "財政司副司長黃偉綸出席金融街論壇年會表示，截至今年7月底香港人民幣存款和存款證餘額約1.3萬億元，人民幣債券發行規模連續兩年逾1萬億元，反映香港在人民幣清算、投融資和風險管理方面角色重要。",
+          "time_hkt": "2026-10-21T19:15:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874812-20261021.htm"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "中人壽擬向控股股東出售養老險公司逾33%股權，料錄收益近26億元人民幣",
+          "summary": "中國人壽公告擬以約41.5億元人民幣向控股股東出售所持養老險公司33.73%股權，旗下資產管理公司擬同步出售3.53%股權；交割後持股將降至約37%，養老險公司不再並表，預計可帶來約25.7億元收益。",
+          "time_hkt": "2026-10-21T19:23:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874813-20261021.htm"
+            },
+            {
+              "name": "第一財經",
+              "url": "https://www.yicai.com/brief/103402761.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "歐盟依《數碼服務法》正式調查Booking.com防詐與廣告標示",
+          "summary": "歐盟委員會對Booking.com展開正式程序，評估其是否未充分評估及緩解虛假房源與釣魚詐騙風險，以及付費提升排名的房源是否清楚標示為廣告；調查屬《數碼服務法》下優先深入跟進。",
+          "time_hkt": "2026-10-21T19:00:00+08:00",
+          "sources": [
+            {
+              "name": "European Commission",
+              "url": "https://digital-strategy.ec.europa.eu/en/news/commission-investigate-how-bookingcom-combats-scams-and-fraud-under-digital-services-act"
+            },
+            {
+              "name": "RTÉ",
+              "url": "https://www.rte.ie/news/2026/1021/1596262-booking-eu-investigation/"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
