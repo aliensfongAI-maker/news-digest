@@ -1,0 +1,111 @@
+{
+  "date": "2026-10-22",
+  "hour": "05",
+  "updatedAt": "2026-10-22T05:06:21+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "教宗良十四世肺腺癌無擴散，醫生確認毋須進一步治療",
+          "summary": "梵蒂岡表示，上周切除右肺下葉後的組織病理及分子檢測顯示，良十四世的肺腺癌屬局限、未擴散，腫瘤科評估後確認毋須進一步治療；教宗周三已主持出院後首次公開接見，主診醫生料下月初拉丁美洲訪問可如期成行。",
+          "time_hkt": "2026-10-22T04:11:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874841-20261022.htm"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/pope-leo-lung-cancer-operation-c03a9973ecd529a17193c23ac7585050"
+            },
+            {
+              "name": "Vatican News",
+              "url": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leo-xiv-doctors-confirm-no-further-treatment-necessary.html"
+            },
+            {
+              "name": "Washington Post",
+              "url": "https://www.washingtonpost.com/world/2026/10/21/pope-leo-lung-cancer-operation/e4c8ae36-cd84-11f1-ac04-9f58578a68b4_story.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "特朗普否認下令限制烏克蘭Starlink網速，稱不知誰人決定",
+          "summary": "美國總統特朗普周三離白宮赴競選活動時回應《華爾街日報》報道，堅稱自己沒有參與SpaceX旗下Starlink在烏克蘭被限速一事，並表示不知道是否馬斯克下令；該報道指馬斯克曾與特朗普討論後下令限速，影響烏軍通訊。",
+          "time_hkt": "2026-10-22T04:33:00+08:00",
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/21/trump-starlink-ukraine-elon-musk.html"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "Meta第三季收入646億美元勝預期，並上調第四季展望",
+          "summary": "Meta公布第三季收入646億美元、按年升26%，勝市場預期，並指引第四季收入730億至760億美元；惟因約100億美元州檢察長和解等支出，經營溢利受壓，自由現金流轉負，全年資本開支指引收窄至1,350億至1,450億美元。",
+          "time_hkt": "2026-10-22T04:17:00+08:00",
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/21/meta-earnings-q3-2026-live-updates.html"
+            },
+            {
+              "name": "Fortune",
+              "url": "https://fortune.com/2026/10/21/meta-q3-earnings-mark-zuckerberg-capex-muse/"
+            },
+            {
+              "name": "CNBC（X）",
+              "url": "https://x.com/CNBC/status/2113003535344243004"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "Tesla第三季業績勝預期，惟汽車收入按年跌3%",
+          "summary": "Tesla公布第三季經調整每股盈利48美分、收入280.5億美元，均高於預期；汽車收入按年跌3%至205.6億美元，淨利潤跌29%至7.87億美元，反映機器人及人工智能資本開支急增，股價盤後微升。",
+          "time_hkt": "2026-10-22T04:00:00+08:00",
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html"
+            },
+            {
+              "name": "CNBC（X）",
+              "url": "https://x.com/CNBC/status/2113003210671583688"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "IBM第三季業績勝預期，上調全年自由現金流展望",
+          "summary": "IBM第三季收入171億美元、按年升5%，非公認會計原則每股盈利2.95美元，均勝預期；行政總裁克里希納強調客戶部署「超級智能」改造營運模式，公司維持全年固定貨幣收入增長4%至5%指引，並上調全年自由現金流增幅展望。",
+          "time_hkt": "2026-10-22T04:33:00+08:00",
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/21/ibm-q3-earnings-report-2026.html"
+            },
+            {
+              "name": "PR Newswire",
+              "url": "https://www.prnewswire.com/news-releases/ibm-releases-third-quarter-results-302915985.html"
+            },
+            {
+              "name": "CNBC（X）",
+              "url": "https://x.com/CNBC/status/2113005653643944107"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    }
+  ]
+}
