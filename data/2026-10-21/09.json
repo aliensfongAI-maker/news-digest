@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-21",
+  "hour": "09",
+  "updatedAt": "2026-10-21T09:10:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "美特使威特科夫赴俄轉交烏克蘭安全保障方案，特朗普促基輔達成協議",
+          "summary": "美國特使威特科夫在奧斯陸與澤連斯基及歐盟北約代表會談後前往俄羅斯會見普京，轉交涵蓋安全保障與戰後經濟等和平框架方案；特朗普稱烏克蘭是時候結束戰爭，敦促基輔達成協議。",
+          "time_hkt": "2026-10-21T08:17:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874720-20261021.htm"
+            },
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/oct/21/ukraine-war-briefing-us-envoy-witkoff-to-meet-putin-after-constructive-talks-with-zelenskyy-in-norway"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/cq5ynkx3xy11o"
+            },
+            {
+              "name": "Axios",
+              "url": "https://www.axios.com/2026/10/20/putin-witkoff-russia-ukraine-war"
+            },
+            {
+              "name": "The Japan Times／Reuters",
+              "url": "https://www.japantimes.co.jp/news/2026/10/21/world/witkoff-putin-trump-russia-ukraine/"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "意大利增派500軍人駐米蘭並通過治安法令，應對周末騷亂",
+          "summary": "意大利總理梅洛尼宣布向米蘭增派500名軍人至年底協助維穩，內閣並通過法令，將「暴力參與示威」入罪最高可判五年及罰款兩萬歐元，亦可追究未成年人父母賠償責任。",
+          "time_hkt": "2026-10-21T08:49:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874723-20261021.htm"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/italy-protests-security-measures-government-78dd53cb94d34a1109069f2d2eba3efe"
+            },
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe"
+            },
+            {
+              "name": "Xinhua",
+              "url": "https://english.news.cn/20261021/2b9947319bcc49559da483b4a253705e/c.html"
+            },
+            {
+              "name": "ANSA",
+              "url": "https://www.ansa.it/english/newswire/english_service/2026/10/20/ansagovt-approves-new-security-and-youth-crime-decree-after-riots_ba38f5b8-bec4-4dc9-a2a4-3ab711a94c5c.html"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "韓股初段升逾2%，日經平均指數升逾1%",
+          "summary": "亞洲股市開市高開，首爾綜合指數較早時升約2.15%報5672點，日經平均指數升約1.51%報65040點，市場關注美企業績及科技股動向。",
+          "time_hkt": "2026-10-21T08:08:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK（韓股）",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874717-20261021.htm"
+            },
+            {
+              "name": "RTHK（日股）",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874716-20261021.htm"
+            },
+            {
+              "name": "Yonhap",
+              "url": "https://en.yna.co.kr/view/AEN20261021001851320"
+            },
+            {
+              "name": "聯合新聞",
+              "url": "https://www.yna.co.kr/view/AKR20261021034000008"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
