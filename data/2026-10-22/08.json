@@ -1,0 +1,81 @@
+{
+  "date": "2026-10-22",
+  "hour": "08",
+  "updatedAt": "2026-10-22T08:12:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "歐洲多城示威騷亂蔓延，意大利向米蘭增派500名軍人維持治安",
+          "summary": "意大利決定向米蘭增派約500名軍人協助維穩至年底；歐洲經濟受俄烏及中東戰事外溢與財政緊縮夾擊，民怨加深，分析指明年多國選舉年或加劇政治動盪風險。",
+          "time_hkt": "2026-10-22T07:49:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874856-20261022.htm"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/italy-protests-security-measures-government-78dd53cb94d34a1109069f2d2eba3efe"
+            },
+            {
+              "name": "Euronews",
+              "url": "https://www.euronews.com/2026/10/21/italy-deploys-500-troops-to-milan-under-new-security-decree-following-violent-clashes"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "Meta將發行無表決權C類普通股，相當於股份1拆2以支持AI擴張",
+          "summary": "Meta董事會批准明年1月以股票股息方式，按每持有1股A或B類派發1股無表決權C類股份；上季收入646億美元勝預期，並上調全年資本開支預期下限。",
+          "time_hkt": "2026-10-22T07:43:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874855-20261022.htm"
+            },
+            {
+              "name": "WSJ",
+              "url": "https://www.wsj.com/articles/metaplatforms-meta-3q-earnings-report-2026-stock-f28d64c2"
+            },
+            {
+              "name": "Meta IR",
+              "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "政府本季招標沙田小瀝源專用學生宿舍用地，料提供約600宿位",
+          "summary": "發展局將於10至12月季招標小瀝源圓順圍與圓康街交界約1100平方米用地作專用學生宿舍，分析指可吸引大型發展商切入預估短缺約10萬宿位的學生住宿市場。",
+          "time_hkt": "2026-10-22T07:00:00+08:00",
+          "sources": [
+            {
+              "name": "SCMP",
+              "url": "https://www.scmp.com/business/article/3371634/could-hong-kongs-student-housing-boom-lure-property-giants-sidelines"
+            },
+            {
+              "name": "news.gov.hk",
+              "url": "https://www.news.gov.hk/eng/2026/10/20261015/20261015_165119_360.html?type=ticker"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
