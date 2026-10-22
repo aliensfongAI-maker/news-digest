@@ -1,0 +1,123 @@
+{
+  "date": "2026-10-23",
+  "hour": "03",
+  "updatedAt": "2026-10-23T03:05:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "特朗普據報致電馬斯克要求解除烏克蘭星鏈限速；系統其後運作較正常",
+          "summary": "據《華爾街日報》引述美方官員，美國總統特朗普致電SpaceX行政總裁馬斯克，要求解除對烏克蘭軍用星鏈／Starshield的限速；美烏官員指通話後系統運作較為正常，惟部分烏方人士稱尚未全面恢復。",
+          "time_hkt": "2026-10-23T02:04:00+08:00",
+          "sources": [
+            {
+              "name": "WSJ",
+              "url": "https://www.wsj.com/world/ukraine-starlink-elon-musk-trump-dbc49193"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/22/trump-musk-starlink-ukraine.html"
+            },
+            {
+              "name": "Reuters",
+              "url": "https://www.devdiscourse.com/article/international/3996690-trump-asks-musk-to-lift-ukraine-starlink-restrictions-wsj-reports"
+            },
+            {
+              "name": "The Straits Times",
+              "url": "https://www.straitstimes.com/world/europe/trump-asks-musk-to-lift-ukraine-starlink-restrictions-wsj-reports"
+            },
+            {
+              "name": "The Moscow Times",
+              "url": "https://www.themoscowtimes.com/2026/10/22/trump-asks-musk-to-lift-ukraine-starlink-restrictions-wsj-reports-a94060"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "埃及外長促尋外交途徑解決也門衝突　國會下周表決是否軍事支援沙特",
+          "summary": "路透報道，埃及外長阿卜杜拉提表示將探索一切政治解決機會，並要求胡塞武裝撤出巴布·曼德海峽附近新佔地區；議會原擬授權軍隊支援沙特抗擊胡塞，表決延至10月26日。",
+          "time_hkt": "2026-10-23T02:01:00+08:00",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.devdiscourse.com/article/international/3996688-egypt-calls-for-yemen-talks-as-parliament-weighs-military-support-to-saudi-arabia"
+            },
+            {
+              "name": "Al-Monitor",
+              "url": "https://www.al-monitor.com/originals/2026/10/egypt-calls-yemen-talks-parliament-weighs-military-support-saudi-arabia"
+            },
+            {
+              "name": "Ahram Online",
+              "url": "https://english.ahram.org.eg/NewsContentP/1/580626/Egypt/Egypt-backs-Saudi-defence,-urges-political-solutio.aspx"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "洛克比空難被告敗訴：美法官拒因「非法引渡」撤銷起訴",
+          "summary": "被控製造洛克比空難炸彈的利比亞男子馬里米聲稱2022年遭非法綁架移交美國，要求撤案；華盛頓聯邦法官駁回動議，指即使強制帶審亦不妨礙公平審訊，案件定於2027年1月開審。",
+          "time_hkt": "2026-10-23T02:31:00+08:00",
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/cw1l3q1z8358o"
+            },
+            {
+              "name": "AOL",
+              "url": "https://www.aol.com/articles/lockerbie-bombing-accused-loses-bid-183138000.html"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "微軟稱診斷AI於模擬複雜病例準確率遠超全科醫生　邁向「醫學超級智能」",
+          "summary": "微軟AI診斷系統MAI-DxO於《Science》研究中，在《新英格蘭醫學雜誌》複雜病例模擬準確率約83%，對比全科醫生約36%；公司稱屬邁向「醫學超級智能」一步，並計劃與醫院展開真實臨床評估。",
+          "time_hkt": "2026-10-23T02:00:00+08:00",
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence"
+            },
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/"
+            },
+            {
+              "name": "Microsoft AI",
+              "url": "https://microsoft.ai/news/building-medical-superintelligence/"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "前OpenAI科學主管推出Warp Sciences　集資2.15億美元以機械人自動化藥研實驗室",
+          "summary": "前OpenAI科學主管Kevin Weil創辦的Warp Sciences以AI與機械人自動化濕式實驗室藥研工序，由Lightspeed領投集資2.15億美元、估值約8.65億美元，冀減少對海外代工依賴。",
+          "time_hkt": "2026-10-23T02:38:00+08:00",
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/"
+            },
+            {
+              "name": "Business Wire",
+              "url": "https://www.businesswire.com/news/home/20261022200104/en/Warp-Sciences-Emerges-From-Stealth-With-%24215-Million-to-Build-U.S.-Chemistry-Services-for-Drug-Research"
+            },
+            {
+              "name": "The Next Web",
+              "url": "https://thenextweb.com/news/warp-sciences-kevin-weil-215m-ai-drug-lab"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    }
+  ]
+}
