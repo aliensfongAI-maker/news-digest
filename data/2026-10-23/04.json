@@ -1,0 +1,57 @@
+{
+  "date": "2026-10-23",
+  "hour": "04",
+  "updatedAt": "2026-10-23T04:06:00+08:00",
+  "sections": [
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "Canva推出自研圖像生成模型Craft　獨立榜排第4、僅次OpenAI",
+          "summary": "設計平台Canva發布首個自研圖像生成模型Canva Craft，採兩階段規劃再生成、最高2K解析度並支援約30種長寬比；公司稱於Design Arena盲測榜暫列第4、僅次OpenAI，並向所有用戶及API開放。",
+          "time_hkt": "2026-10-23T03:00:00+08:00",
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/"
+            },
+            {
+              "name": "AFR",
+              "url": "https://www.afr.com/technology/canva-reveals-new-ai-image-tool-as-it-races-to-beat-google-openai-20261023-p617xj"
+            },
+            {
+              "name": "Capital Brief",
+              "url": "https://www.capitalbrief.com/article/canva-enters-ai-model-race-with-first-homegrown-image-generator-96b52e0e-ece8-4e17-a797-175c7763c173/"
+            },
+            {
+              "name": "CryptoBriefing",
+              "url": "https://cryptobriefing.com/canva-releases-canva-craft-image-model/"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "OpenAI Decisions API全面開放　以GPT-6 Luna做低延遲分類與路由",
+          "summary": "OpenAI宣布以GPT-6 Luna為基礎的Decisions API結束公開測試並全面開放，專責有限選項的分類、路由與評分，號稱較Responses API快最多約10倍，輸入每百萬token收費0.10美元且不另收輸出費用。",
+          "time_hkt": "2026-10-23T03:00:00+08:00",
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/"
+            },
+            {
+              "name": "OpenAI",
+              "url": "https://openai.com/index/decisions-api/"
+            },
+            {
+              "name": "Unite.AI",
+              "url": "https://www.unite.ai/openai-makes-decisions-api-generally-available-with-gpt-6-luna/"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    }
+  ]
+}
