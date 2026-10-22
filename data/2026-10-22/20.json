@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-22",
+  "hour": "20",
+  "updatedAt": "2026-10-22T20:00:08+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "中介人涉助客戶虛假提早提取強積金，被廉署起訴串謀詐騙罪成",
+          "summary": "廉署早前起訴一名強積金中介人夥同客戶以虛假文件申請提早提取強積金，涉款約460萬元；該中介人今在區域法院被裁定串謀詐騙及使用虛假文書罪成，3名客戶早前認罪，案押後至下月5日求情、26日判刑。",
+          "time_hkt": "2026-10-22T19:37:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874962-20261022.htm"
+            },
+            {
+              "name": "ICAC",
+              "url": "https://www.icac.org.hk/tc/p/press/index_id_5045.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "消委會研究報告指消費者回收表現仍需進步",
+          "summary": "消委會發表可持續消費追蹤研究，指過去十年消費者認知及參與持續進步，但回收表現較弱，建議加強推廣回收資訊。",
+          "time_hkt": "2026-10-22T19:41:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874958-20261022.htm"
+            },
+            {
+              "name": "消費者委員會",
+              "url": "https://www.consumer.org.hk/tc/press-release/p-ecf-sustainable-consumption-study"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "亞殘運游泳：港隊混合S14級4X100米自由泳接力奪銅",
+          "summary": "亞殘運游泳混合S14級4X100米自由泳接力決賽，港隊由陳睿琳、劉肖儀、張浚諾及黃漢彥出賽，以3分53秒77奪銅；日本奪金，韓國第四。",
+          "time_hkt": "2026-10-22T19:45:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874963-20261022.htm"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "恒大清盤人：已回收逾4億美元，目標明年上半年首次中期債款攤還",
+          "summary": "中國恒大清盤人發布第二份進展報告，指經出售資產及追討貸款已回收4.359億美元，僅佔債權人約460億美元申索不足1%，目標2027年上半年作首次中期攤還，金額未定。",
+          "time_hkt": "2026-10-22T19:31:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874956-20261022.htm"
+            },
+            {
+              "name": "Nikkei Asia",
+              "url": "https://asia.nikkei.com/business/markets/china-debt-crunch/evergrande-liquidators-plan-first-payout-with-under-1-of-claims-recovered"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "數字辦：高度關注PHP嚴重安全漏洞，向政府部門發保安警報",
+          "summary": "數字政策辦公室稱已向所有決策局、部門及公營機構發保安警報，要求即時檢視並修補受PHP嚴重漏洞影響的系統，否則須暫時離線或隔離；政府主頁寄存服務已完成修補，至今未接獲相關事故報告。",
+          "time_hkt": "2026-10-22T19:16:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874960-20261022.htm"
+            },
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202610/22/P2026102200631.htm"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
