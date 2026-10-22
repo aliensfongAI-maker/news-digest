@@ -1,0 +1,85 @@
+{
+  "date": "2026-10-22",
+  "hour": "21",
+  "updatedAt": "2026-10-22T21:09:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "超強颱風薔琵影響，多班來往香港及台灣航班取消",
+          "summary": "薔琵迫近台灣，港航取消周五6班來往台北航班並豁免改期退票手續費；長榮取消周五及周六14班來往港台航班，華航亦取消多班香港—台北／高雄航班，預料上海浦東周末航班或受影響。",
+          "time_hkt": "2026-10-22T20:31:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874966-20261022.htm"
+            },
+            {
+              "name": "Now新聞",
+              "url": "https://news.now.com/home/local/player?newsId=666749"
+            },
+            {
+              "name": "星島頭條",
+              "url": "https://www.stheadline.com/society/3628772/%E8%B6%85%E5%BC%B7%E9%A2%B1%E9%A2%A8%E8%96%94%E7%90%B5%E5%9C%8B%E6%B3%B0%E5%BF%AB%E9%81%8B%E6%B8%AF%E8%88%AA%E5%8F%96%E6%B6%88%E5%A4%9A%E7%8F%AD%E5%BE%80%E8%BF%94%E5%8F%B0%E7%81%A3%E8%88%AA%E6%A9%9F-%E6%B8%AF%E8%88%AA%E6%96%991024%E4%B8%8A%E6%B5%B7%E6%B5%A6%E6%9D%B1%E8%88%AA%E7%8F%AD%E6%88%96%E5%8F%97%E5%BD%B1%E9%9F%BF"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "伊朗安全官員：如戰爭繼續，伊朗擁有繼續應對的必要手段",
+          "summary": "伊朗最高國家安全委員會秘書雷扎伊表示更傾向外交，但若戰爭持續伊朗有能力繼續回應，並警告局勢延續將令能源市場動盪長達約三年；海灣國家正重新定義對伊關係。",
+          "time_hkt": "2026-10-22T20:12:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874961-20261022.htm"
+            },
+            {
+              "name": "Mehr News",
+              "url": "https://en.mehrnews.com/news/248819/Iran-ready-for-next-war-phase-Rezaei-warns"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/22/iran-reveals-offensive-doctrine-us-issues-alert-is-war-imminent"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "中電信首3季盈利跌近15%",
+          "summary": "中國電信公布首三季股東應佔利潤約262億元人民幣，按年跌近15%；經營收入約3824億元，跌近4%；期內移動用戶淨增662萬戶至逾4.45億戶。",
+          "time_hkt": "2026-10-22T20:13:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874964-20261022.htm"
+            },
+            {
+              "name": "第一財經",
+              "url": "https://www.yicai.com/news/103404585.html"
+            },
+            {
+              "name": "港交所披露易",
+              "url": "https://iis.aastocks.com/20261022/12380244-0.PDF"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
