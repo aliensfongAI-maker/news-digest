@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-22",
+  "hour": "22",
+  "updatedAt": "2026-10-22T22:00:30+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "調查指五成六受訪學生有抑鬱表徵，青協籲家長留意子女情緒變化",
+          "summary": "香港青年協會訪問逾5400名中學生，近五成七出現抑鬱情緒表徵、開學壓力平均5.9分，約四成六曾向AI傾訴心事；青協提醒家長留意隱性情緒警號，並指AI不能取代真人支援。",
+          "time_hkt": "2026-10-22T21:38:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874973-20261022.htm"
+            },
+            {
+              "name": "香港青年協會",
+              "url": "https://www.hkfyg.org.hk/zh/2026/10/22/%E9%9D%92%E5%8D%94%E5%85%AC%E5%B8%83%E3%80%8C%E4%B8%AD%E5%AD%B8%E7%94%9F%E9%96%8B%E5%AD%B8%E9%81%A9%E6%87%89%E3%80%8D%E8%AA%BF%E6%9F%A5%E7%B5%90%E6%9E%9C/"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/en/839438-%E9%9D%92%E5%8D%94%E8%A8%AA%E5%95%8F%E9%80%BE5500%E5%90%8D%E4%B8%AD%E5%AD%B8%E7%94%9F%E8%B6%85%E9%81%8E%E4%B8%80%E5%8D%8A%E5%87%BA%E7%8F%BE%E6%8A%91%E9%AC%B1%E8%A1%A8%E5%BE%B5"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "有進口藍鰭吞拿魚樣本檢出孔雀石綠，食安中心追查來源及分銷情況",
+          "summary": "食安中心在進口層面抽取的藍鰭吞拿魚樣本檢出禁用染料孔雀石綠，含量為十億分之1.74；中心已知會涉事進口商，正追查來源與分銷，違例最高可罰款5萬元及監禁6個月。",
+          "time_hkt": "2026-10-22T21:27:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874970-20261022.htm"
+            },
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202610/22/P2026102200580.htm"
+            },
+            {
+              "name": "商業電台",
+              "url": "https://www.881903.com/news/local/2656045"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "陳國基稱香港女性有能力及有擔當，推動社會發展",
+          "summary": "政務司司長陳國基出席婦女活動時指，香港女性在法律、會計等專業界別已佔逾半，政策局及常任秘書長亦有高比例女性；政府將善用增至3000萬元的婦女自強基金，並延長「友妳啟導」計劃三年。",
+          "time_hkt": "2026-10-22T21:30:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874971-20261022.htm"
+            },
+            {
+              "name": "商業電台",
+              "url": "https://www.881903.com/news/local/2656039"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "韓國指朝鮮企圖轉嫁地區緊張升級責任，去信要求聯合國安理會關注",
+          "summary": "朝鮮金與正警告對韓心理戰擴音器將全線投入運作；韓國外交部指朝方企圖轉嫁緊張責任，常駐聯合國代表將去信安理會主席，並要求朝方就非軍事區地雷爆炸事故道歉。",
+          "time_hkt": "2026-10-22T21:02:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874967-20261022.htm"
+            },
+            {
+              "name": "The Korea Herald",
+              "url": "https://www.koreaherald.com/article/10911649"
+            },
+            {
+              "name": "韓聯社",
+              "url": "https://cn.yna.co.kr/view/ACK20261022002600881"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "西班牙和意大利政府決定取消休達危機後實施的邊境管控措施",
+          "summary": "西意兩國內政部長通話後同意不再延長因7月休達移民潮而互設的入境檢查，措施隨即告終，並改以加強警方資訊共享取代實體邊境抽查。",
+          "time_hkt": "2026-10-22T21:41:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874969-20261022.htm"
+            },
+            {
+              "name": "Euronews",
+              "url": "https://www.euronews.com/2026/10/22/italy-and-spain-to-end-border-checks-easing-tensions-after-ceuta-migrant-row"
+            },
+            {
+              "name": "The Straits Times",
+              "url": "https://www.straitstimes.com/world/europe/italy-spain-lift-border-controls-brought-in-after-ceuta-migrant-rush"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "美股初段下跌，納指跌逾1%，Meta挫近6%",
+          "summary": "美股初段下挫，納指跌約1.4%、標普跌約0.8%；Meta公布業績後股價挫近6%，Tesla跌逾2%，市場憂慮大型科技股AI開支與造價壓力。",
+          "time_hkt": "2026-10-22T21:40:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874974-20261022.htm"
+            },
+            {
+              "name": "Morningstar／MarketWatch",
+              "url": "https://www.morningstar.com/news/marketwatch/20261022113/metas-stock-falls-in-early-trading-amid-broader-sector-selloff-despite-well-received-results"
+            },
+            {
+              "name": "Investing.com",
+              "url": "https://www.investing.com/news/stock-market-news/meta-falls-as-investors-balance-muse-growth-with-rising-ai-costs-4965902"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "美國上周新申領失業救濟人數減至19.4萬人，少過預期",
+          "summary": "美國上周首次申領失業救濟人數減至19.4萬人，按周減少6000人並低於預期；四周平均值約19.8萬人，但持續申領人數增至172.8萬人。",
+          "time_hkt": "2026-10-22T21:03:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874968-20261022.htm"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/employment-layoffs-inflaton-job-cuts-8e962dcdefefa86ebc91ee9c663f1f3b"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    }
+  ]
+}
