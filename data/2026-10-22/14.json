@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-22",
+  "hour": "14",
+  "updatedAt": "2026-10-22T14:10:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "台灣因超強颱風「薔琵」發陸上警報；香港快運取消明日十班來往台灣航班",
+          "summary": "超強颱風「薔琵」預料今明兩日移向台灣以東海域，台灣氣象部門已發海上及陸上颱風警報，首波陸上警戒包括宜蘭、花蓮、台東及屏東恆春半島；香港快運宣布取消明日十班來往台北、台中及高雄航班，部分延至後日出發，旅客可免費改期或退款。",
+          "time_hkt": "2026-10-22T13:28:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874907-20261022.htm"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "恒指下午初段跌近3%報22974，科指跌近半成報3808",
+          "summary": "港股下午初段續弱，恒生指數較早時報22974點，跌677點或2.86%；科技指數報3808點，跌186點或4.67%，延續半日失守23000點後的跌勢。",
+          "time_hkt": "2026-10-22T13:16:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874905-20261022.htm"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "渣打：融資及出口增長迅速有助支持本港明年經濟；料今年增4.3%、明年2.7%",
+          "summary": "渣打大中華及北亞高級經濟師胡東安估計今年本港經濟增長4.3%、明年放緩至2.7%，主因高基數；他指中小企信心連續兩季改善、AI超級周期帶動對外貿易，融資及出口增長迅速有助支持明年經濟，惟聯儲局加息及能源價格或帶來息口與固定投資下行風險。",
+          "time_hkt": "2026-10-22T13:37:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874908-20261022.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "香港年金公司：約4萬名客戶滲透率仍低，需提高大眾對年金與長壽風險認知",
+          "summary": "香港年金公司總裁梁靈智表示現約4萬名市民為客戶，僅佔60歲以上人口小部分，須繼續推廣年金作為終身穩定收入而非一般投資產品；公司8月推出跨境年金支付後已有客戶在內地收款，並收到逾百個查詢。",
+          "time_hkt": "2026-10-22T13:38:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874909-20261022.htm"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "內地CSI 300跌入熊市：自6月高位累跌逾兩成，連跌十周",
+          "summary": "追蹤滬深300隻大型股的CSI 300指數周四跌逾1%，自6月高位累跌約20%正式踏入技術性熊市，並錄得連續十周下跌；分析指AI估值疑慮、企業盈利受壓及內需疲弱拖累，科創相關股份跌勢尤深。",
+          "time_hkt": "2026-10-22T13:44:00+08:00",
+          "sources": [
+            {
+              "name": "Investing.com",
+              "url": "https://uk.investing.com/news/stock-market-news/chinas-csi-300-slips-into-bearmarket-territory-as-ai-rout-deepens-4924141"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/22/chinas-stock-market-csi-300-bear-market.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "台股低收近2%，加權指數報46041點跌846點",
+          "summary": "台灣股市全日偏弱，加權指數以全日低位收市報46041點，跌846點或1.81%。",
+          "time_hkt": "2026-10-22T13:45:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874910-20261022.htm"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    }
+  ]
+}
