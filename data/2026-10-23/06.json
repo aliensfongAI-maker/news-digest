@@ -1,0 +1,89 @@
+{
+  "date": "2026-10-23",
+  "hour": "06",
+  "updatedAt": "2026-10-23T06:58:00+08:00",
+  "sections": [
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "特朗普援引《國防生產法》推動美國石油生產與煉油",
+          "summary": "特朗普週四以總統備忘錄認定石油生產、煉油及相關管線儲運屬國防必需，援引冷戰時期《國防生產法》開闢資助化石能源項目的空間，冀紓緩自美以聯手打擊伊朗後飆升的油價與柴油價對中期選舉的壓力。",
+          "time_hkt": "2026-10-23T05:35:00+08:00",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.investing.com/news/commodities-news/trump-invokes-cold-war-era-defense-production-act-for-oil-production-refining-4967625"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/22/trump-defense-production-act.html"
+            },
+            {
+              "name": "SCMP",
+              "url": "https://www.scmp.com/news/world/united-states-canada/article/3371836/trump-invokes-cold-war-era-defence-production-act-boost-oil-production-and-refining"
+            },
+            {
+              "name": "White House",
+              "url": "https://www.whitehouse.gov/presidential-actions/2026/10/presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended-on-domestic-petroleum-production-refining-and-logistics-capacity-c139/"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "SpaceX稱與特斯拉潛在合併須獲馬斯克批准",
+          "summary": "路透報道SpaceX表示，與特斯拉的潛在合併除董事會與股東同意外，亦須獲同時出任兩家公司行政總裁的馬斯克批准；雙方已成立特別委員會審視交易，馬斯克稱構想不錯但尚未敲定。",
+          "time_hkt": "2026-10-23T05:10:00+08:00",
+          "sources": [
+            {
+              "name": "Reuters / Investing",
+              "url": "https://www.investing.com/news/stock-market-news/spacex-says-tesla-merger-would-need-musks-approval-4967546"
+            },
+            {
+              "name": "U.S. News",
+              "url": "https://money.usnews.com/investing/news/articles/2026-10-22/spacex-says-tesla-merger-would-need-musks-approval"
+            },
+            {
+              "name": "LA Times",
+              "url": "https://www.latimes.com/business/story/2026-10-22/behind-elon-musks-plans-for-mega-merger-of-spacex-tesla"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "厄爾尼諾相關暴雨肆虐拉丁美洲　由墨西哥至智利",
+          "summary": "路透等報道，加強中的厄爾尼諾風暴季在拉丁美洲引發洪災：巴拉圭巴拉那河水位上升影響約4200戶家庭，阿根廷有人遇難，秘魯、墨西哥沿海亦受損；現象料於12月前後達高峰。",
+          "time_hkt": "2026-10-23T05:05:00+08:00",
+          "sources": [
+            {
+              "name": "Reuters / Hindustan Times",
+              "url": "https://www.hindustantimes.com/world-news/us-news/el-ni-o-rains-batter-latin-america-from-mexico-to-chile-101792702317171.html"
+            },
+            {
+              "name": "El Nuevo Herald",
+              "url": "https://www.elnuevoherald.com/noticias/estados-unidos/article317736434.html"
+            },
+            {
+              "name": "MarketScreener",
+              "url": "https://es.marketscreener.com/noticias/las-lluvias-de-el-ni-o-azotan-latinoamerica-desde-mexico-hasta-chile-ce785cdedf8cf624"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
