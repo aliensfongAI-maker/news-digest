@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-22",
+  "hour": "12",
+  "updatedAt": "2026-10-22T12:10:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "徐樂堅：今夏流感季已近16周仍未回落，料較去年更長；疫苗接種率各年齡組均跌",
+          "summary": "衞生防護中心總監徐樂堅表示本港夏季流感季已進入約第16周仍無明顯下降，預計較去年（約18周結束）更長；過去一個月呼吸道樣本流感陽性比例約10%至12%，兒童重症／死亡個案達25宗（兩人死亡），成人重症或死亡841宗，而流感疫苗接種較去年同期少約一成。",
+          "time_hkt": "2026-10-22T11:20:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/en/component/k2/1874881-20261022.htm"
+            },
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874877-20261022.htm"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "宏福苑火災獨立委員會向特首提交報告，政府指不即日公開",
+          "summary": "大埔宏福苑火災獨立委員會今早向行政長官提交數百頁報告（據悉逾10章、設中英文文本），政府表示須先檢視內容，不會即日公開全文，並稱會按報告盡快跟進改革與問責。",
+          "time_hkt": "2026-10-22T11:15:00+08:00",
+          "sources": [
+            {
+              "name": "Dimsum Daily",
+              "url": "https://www.dimsumdaily.hk/independent-committee-submits-wang-fuk-court-fire-report-to-government-as-publication-held-back/"
+            },
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874882-20261022.htm"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "金與正警告邊境「新對應手段」進入戒備，對南韓廣播喇叭數日內待命",
+          "summary": "北韓領導人金正恩胞妹金與正發表談話，指沿南部邊境的「新對應手段」將進入戒備，對南韓宣傳廣播喇叭亦將於數日內待命；韓聯社及國際媒體跟進，南韓軍方稱暫未發現新武器部署並會密切監察。",
+          "time_hkt": "2026-10-22T11:11:00+08:00",
+          "sources": [
+            {
+              "name": "Yonhap",
+              "url": "https://en.yna.co.kr/view/AEN20261022001152320"
+            },
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/oct/22/north-korea-to-restart-propaganda-loudspeakers-south-korea"
+            },
+            {
+              "name": "SBS",
+              "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008809361"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
