@@ -1,0 +1,59 @@
+{
+  "date": "2026-10-22",
+  "hour": "23",
+  "updatedAt": "2026-10-22T22:59:30+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "美媒稱美以軍方已制定美國中期選舉後打擊伊朗計劃",
+          "summary": "紐約時報引述美國官員報道，美以軍方已擬定中期選舉後短時間高強度打擊伊朗的具體計劃，目標或包括能源基礎設施、核設施及導彈無人機庫；國防部長赫格塞思日前與內塔尼亞胡會晤，惟特朗普會否批准仍未明。",
+          "time_hkt": "2026-10-22T22:51:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874972-20261022.htm"
+            },
+            {
+              "name": "聯合早報",
+              "url": "https://www.zaobao.com.sg/news/world/story20261022-9878403"
+            },
+            {
+              "name": "El País",
+              "url": "https://english.elpais.com/international/2026-10-22/us-and-israel-develop-plans-to-attack-iran-after-the-midterms.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "受強颱風「薔琵」影響，台股明日休市",
+          "summary": "薔琵預料今明兩日移向台灣以東海域，台北市宣布周五停班停課後，台灣證交所及櫃買中心確認周五股市、櫃買、期貨及台北外匯等金融市場全日休市，應屆交割款券順延至下一營業日。",
+          "time_hkt": "2026-10-22T22:41:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874976-20261022.htm"
+            },
+            {
+              "name": "中央社",
+              "url": "https://www.cna.com.tw/news/afe/202610220388.aspx"
+            },
+            {
+              "name": "Yahoo奇摩股市",
+              "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E5%8C%97%E8%82%A1%E5%8C%AF%E4%BC%91%E5%B8%82%EF%BC%81-%E8%96%94%E7%90%B5%E9%A2%B1%E9%A2%A8%E5%81%9C%E7%8F%AD-4%E6%AA%94%E5%80%8B%E8%82%A1%E9%99%A4%E6%AC%8A%E6%81%AF%E5%BB%B6%E5%BE%8C%E5%88%B0%E4%B8%8B%E5%91%A8%E4%B8%80-120307154.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
