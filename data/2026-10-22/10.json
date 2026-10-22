@@ -1,0 +1,105 @@
+{
+  "date": "2026-10-22",
+  "hour": "10",
+  "updatedAt": "2026-10-22T10:08:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "世茂接管人同意以27億港元出售東涌兩酒店予Oceanfront",
+          "summary": "世茂集團公布，接管人已於10月20日與Oceanfront Hong Kong Limited訂立協議，出售東涌喜來登及福朋喜來登兩酒店及相關業務，總代價27億港元（約3.44億美元），預料年底前完成，所得款項淨額將用作部分償還銀團貸款。",
+          "time_hkt": "2026-10-22T09:38:00+08:00",
+          "sources": [
+            {
+              "name": "SCMP",
+              "url": "https://www.scmp.com/business/article/3371707/debt-laden-mainland-developer-shimao-sells-its-2-hong-kong-hotels-us344-million"
+            },
+            {
+              "name": "巴士的報",
+              "url": "https://www.bastillepost.com/hongkong/article/17022808-%e4%b8%96%e8%8c%82%e5%ae%8c%e6%88%90%e5%87%ba%e5%94%ae%e6%9d%b1%e6%b6%8c%e9%85%92%e5%ba%97-%e4%bd%9c%e5%83%b927%e5%84%84-%e7%94%a8%e4%bd%9c%e5%84%9f%e9%82%84%e5%82%b5%e5%8b%99"
+            },
+            {
+              "name": "東方財富",
+              "url": "https://finance.eastmoney.com/a/202610223903097753.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "世界正義項目法治指數：香港全球排第24；政府指整體排名仍靠前",
+          "summary": "世界正義項目公布2026年法治指數，香港在143個司法管轄區中排第24、東亞及太平洋排第6，整體分數略降；政府回應指誠信與治安等範疇仍居全球前列，並強調國安法例有助維持營商環境。",
+          "time_hkt": "2026-10-22T09:33:00+08:00",
+          "sources": [
+            {
+              "name": "SCMP",
+              "url": "https://www.scmp.com/news/hong-kong/society/article/3371705/hong-kong-ranks-24th-global-rule-law-index-overall-score-falls"
+            },
+            {
+              "name": "news.gov.hk",
+              "url": "https://www.news.gov.hk/eng/2026/10/20261021/20261021_224344_813.html"
+            },
+            {
+              "name": "The Standard",
+              "url": "https://www.thestandard.com.hk/news/article/346139/HKSAR-Govt-responds-to-World-Justice-Project-Rule-of-Law-Index-2026"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "恒指低開0.58%報23513點；恒科指跌1.15%，聯想、阿里、京東齊弱",
+          "summary": "港股三大指數開市齊跌，恒生指數報23513.79點跌0.58%，恒生科技指數跌1.15%；科網股普跌，聯想跌逾4%，京東、阿里跌逾2%，寧德時代跌逾3%。",
+          "time_hkt": "2026-10-22T09:20:00+08:00",
+          "sources": [
+            {
+              "name": "新浪港股",
+              "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-22/doc-iniwaezt5900190.shtml"
+            },
+            {
+              "name": "東方財富",
+              "url": "https://finance.eastmoney.com/a/202610223903534232.html"
+            },
+            {
+              "name": "新浪香港",
+              "url": "https://portal.sina.com.hk/finance/sina/2026/10/22/1962833/%E5%BF%AB%E8%A8%8A%EF%BC%9A%E6%81%92%E6%8C%87%E4%BD%8E%E9%96%8B0-58-%E6%81%92%E7%A7%91%E6%8C%87%E8%B7%8C1-15-%E7%A7%91%E7%B6%B2%E8%82%A1%E6%99%AE%E8%B7%8C-%E9%BB%83%E9%87%91%E8%82%A1%E4%BD%8E%E9%96%8B/"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "亞股早市個別發展：韓股、日經偏軟，投資者關注AI基建回報與油價",
+          "summary": "亞洲股市周四早市氣氛審慎，南韓KOSPI開市後跌約0.5%，日經亦偏軟；市場消化美股科技業績好壞參半，以及中東局勢推高油價後的情緒。",
+          "time_hkt": "2026-10-22T09:26:00+08:00",
+          "sources": [
+            {
+              "name": "Yonhap",
+              "url": "https://en.yna.co.kr/view/AEN20261022001851320"
+            },
+            {
+              "name": "CNBC TV18",
+              "url": "https://www.cnbctv18.com/market/asian-stocks-nikkei-225-kospi-hang-seng-jio-platforms-ipo-rbi-minutes-meta-tesla-ibm-q3-earnings-crude-price-20016521.htm"
+            },
+            {
+              "name": "NDTV Profit",
+              "url": "https://www.ndtvprofit.com/markets/asian-markets-today-nikkei-kospi-fall-as-oil-climbs-on-middle-east-tensions-12217792"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
