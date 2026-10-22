@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-23",
+  "hour": "05",
+  "updatedAt": "2026-10-23T05:12:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "西藏那曲巴青7級地震據報已致至少16至18人遇難　逾三百戶房屋倒塌",
+          "summary": "那曲官方及美聯社等報道地震已造成至少16人遇難、32人受傷（其中11人重傷），房屋倒塌約339戶；央視新聞引述西藏自治區應急指揮部稱遇難人數為18人，公安消防醫療等救援力量已到場，搜救與安置持續進行。",
+          "time_hkt": "2026-10-23T04:26:00+08:00",
+          "sources": [
+            {
+              "name": "SCMP",
+              "url": "https://www.scmp.com/news/china/article/3371831/casualties-reported-after-70-quake-strikes-chinas-tibet"
+            },
+            {
+              "name": "AP / NBC",
+              "url": "https://www.nbcnews.com/world/china/70-earthquake-hits-chinas-tibet-killing-16-injuring-32-rcna605100"
+            },
+            {
+              "name": "CBS",
+              "url": "https://www.cbsnews.com/news/powerful-earthquake-tibet-china/"
+            },
+            {
+              "name": "央視新聞／鳳凰",
+              "url": "https://feng.ifeng.com/c/8xRdNqzwdym"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60402670/%E8%A5%BF%E8%97%8F%E9%82%A3%E6%9B%B2%E5%B7%B4%E9%9D%92%E7%B8%A37%E7%B4%9A%E5%9C%B0%E9%9C%87-%E5%B7%B2%E9%80%A0%E6%88%9016%E4%BA%BA%E9%81%87%E9%9B%A332%E4%BA%BA%E5%8F%97%E5%82%B7%E6%88%BF%E5%B1%8B%E5%80%92%E5%A1%8C339%E6%88%B6"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
