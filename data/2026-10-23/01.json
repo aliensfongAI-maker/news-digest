@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-23",
+  "hour": "01",
+  "updatedAt": "2026-10-23T01:08:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "中方及駐港公署強烈反對英國「香港半年報告」；南華早報報道北京斥「不負責任言論」",
+          "summary": "英國公布第59份《香港問題半年報告》後，中國駐英使館稱已嚴正交涉並敦促停止干預；外交部駐港公署強烈反對英方抹黑國安法與司法案件；《南華早報》報道北京抨擊英方「不負責任言論」。",
+          "time_hkt": "2026-10-23T00:08:00+08:00",
+          "sources": [
+            {
+              "name": "點新聞",
+              "url": "https://www.dotdotnews.com/a/202610/23/AP6ada3510e4b02fd1c5f551a0.html"
+            },
+            {
+              "name": "點新聞",
+              "url": "https://www.dotdotnews.com/a/202610/23/AP6ada36b7e4b02fd1c5f551b6.html"
+            },
+            {
+              "name": "SCMP",
+              "url": "https://www.scmp.com/news/hong-kong/politics/article/3371828/beijing-slams-uks-irresponsible-remarks-hong-kong-6-monthly-report"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "美法官下令特朗普須於12月11日前就控告BBC誹謗案接受宣誓取證",
+          "summary": "美國聯邦裁判官命令總統特朗普須在12月11日前就其對BBC約100億美元誹謗訴訟接受宣誓錄取證供，否則或面對包括撤銷訴訟等制裁；BBC指他曾取消原定10月16日取證並改為在喬治亞州助選。",
+          "time_hkt": "2026-10-23T00:03:00+08:00",
+          "sources": [
+            {
+              "name": "The Independent",
+              "url": "https://www.independent.co.uk/news/uk/home-news/donald-trump-bbc-tim-davie-florida-trump-b3071676.html"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/cmy0ryjx7741o"
+            },
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/us-news/2026/oct/22/trump-bbc-lawsuit-deposition-discovery"
+            },
+            {
+              "name": "SCMP",
+              "url": "https://www.scmp.com/news/world/united-states-canada/article/3371829/judge-gives-trump-deadline-sit-deposition-bbc-defamation-suit"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/trump-bbc-media-defamation-0a26fa60b265f55a9bcf7ed88cfacab8"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
