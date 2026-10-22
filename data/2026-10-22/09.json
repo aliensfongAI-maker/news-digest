@@ -1,0 +1,59 @@
+{
+  "date": "2026-10-22",
+  "hour": "09",
+  "updatedAt": "2026-10-22T09:08:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "專家警告美容「屍皮針」缺臨床安全數據；當局連日搜查處所檢獲未註冊針劑",
+          "summary": "衞生署連日搜查尖沙咀、旺角等四間美容處所，檢獲包括韓國包裝Elravie Re2O（俗稱屍皮針）等未經註冊針劑，並有女子被捕；專家及官員警告產品屬受規管人體組織製品、缺臨床安全數據，注射須由註冊醫生或牙醫進行。",
+          "time_hkt": "2026-10-22T08:30:00+08:00",
+          "sources": [
+            {
+              "name": "SCMP",
+              "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3371673/health-warning-over-beauty-jabs-using-dead-peoples-skin-following-hong-kong-raids"
+            },
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874816-20261021.htm"
+            },
+            {
+              "name": "news.gov.hk",
+              "url": "https://www.info.gov.hk/gia/general/202610/20/P2026102000710.htm"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "卡尼與安大略省長宣布87億加元戰略產業援助，支援受美關稅衝擊工人",
+          "summary": "加拿大總理卡尼與安大略省長福特宣布總額87億加元（約62億美元）行動計劃，包括聯合鋼鐵行動基金、汽車產線升級及北部關鍵礦產基建配套，以保護受美國關稅影響的工人與企業並推動長期增長。",
+          "time_hkt": "2026-10-22T08:37:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1874861-20261022.htm"
+            },
+            {
+              "name": "Prime Minister of Canada",
+              "url": "https://www.pm.gc.ca/en/news/news-releases/2026/10/21/prime-minister-carney-and-premier-ford-launch-new-action-plan-protect"
+            },
+            {
+              "name": "Canada.ca",
+              "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/10/prime-minister-carney-and-premier-ford-launch-new-action-plan-to-protect-workers-from-tariffs-and-strengthen-ontario-industries.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
