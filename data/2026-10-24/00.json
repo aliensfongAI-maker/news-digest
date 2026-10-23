@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-24",
+  "hour": "00",
+  "updatedAt": "2026-10-24T00:10:00+08:00",
+  "sections": [
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "標普全球：美國10月製造業PMI初值報56勝預期　服務業及綜合回落",
+          "summary": "標普全球公布，美國10月製造業採購經理指數初值報56.0，高於市場預期並略高於9月的55.9，為約四年半來最強；服務業初值報57.9、略低於預期，綜合PMI由58.4回落至57.6，惟企業售價升幅為2022年8月以來最快。",
+          "time_hkt": "2026-10-23T23:23:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875132-20261023.htm"
+            },
+            {
+              "name": "Sharecast",
+              "url": "https://www.sharecast.com/news/international-economic/wall-street-nyse-usa-manufacturing-services-purchasing-managers-index--23915673.html"
+            },
+            {
+              "name": "InvestingLive",
+              "url": "https://investinglive.com/news/us-s-p-global-flash-october-services-pmi-57-9-vs-58-0-expected/"
+            },
+            {
+              "name": "新浪財經",
+              "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwfrun2588250.shtml"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
