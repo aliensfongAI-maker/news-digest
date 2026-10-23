@@ -1,0 +1,135 @@
+{
+  "date": "2026-10-23",
+  "hour": "22",
+  "updatedAt": "2026-10-23T22:00:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "薔琵吹襲台灣1死逾170傷　海陸空交通受阻多地停工停課",
+          "summary": "強颱風薔琵為台灣帶來狂風大雨，造成1死逾170傷，全台逾1700宗災情、逾10萬戶一度停電、2600多人撤離，海陸空交通受阻且多地停工停課；內地氣象台發藍色預警，浙江、上海及福建加強防範。",
+          "time_hkt": "2026-10-23T21:35:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875129-20261023.htm"
+            },
+            {
+              "name": "新華網",
+              "url": "https://www.xinhuanet.com/20261023/b380258302b34006b133ebba23cdbe80/c.html"
+            },
+            {
+              "name": "自由時報",
+              "url": "https://news.ltn.com.tw/news/life/breakingnews/5616390"
+            },
+            {
+              "name": "BBC中文",
+              "url": "https://www.bbc.com/zhongwen/live/c6y8lvmvj151t/trad"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "美股初段延續跌勢　道指跌近500點",
+          "summary": "美股周五開市初段延續跌勢，道指較早時跌近500點、跌幅約0.9%，納指及標普500亦分別跌約0.3%及0.5%，市場仍受人工智能相關開支及科技股拋售餘波拖累。",
+          "time_hkt": "2026-10-23T21:46:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875130-20261023.htm"
+            },
+            {
+              "name": "Yahoo Finance",
+              "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-23-dow-sp-500-nasdaq-tesla-meta-093000521.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "紫金礦業上季多賺26%　首3季盈利升近52%",
+          "summary": "紫金礦業公布上季盈利183.6億元人民幣、按年升26%，首3季盈利升近52%；公司指業績受惠主營金屬及副產品價格大幅上升，礦產品毛利率顯著提升。",
+          "time_hkt": "2026-10-23T21:13:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875126-20261023.htm"
+            },
+            {
+              "name": "第一財經",
+              "url": "https://www.yicai.com/news/103406896.html"
+            },
+            {
+              "name": "新浪財經",
+              "url": "https://finance.sina.com.cn/roll/2026-10-23/doc-iniwfmnh8344489.shtml"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "中國神華首9個月多賺逾2%",
+          "summary": "中國神華按國際會計準則計，首9個月盈利升逾2%至超過473億元人民幣，收入約2960億元、按年升約9%；期內商品煤產量按年跌逾2%，煤炭銷售量微升0.1%。",
+          "time_hkt": "2026-10-23T21:13:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875125-20261023.htm"
+            },
+            {
+              "name": "第一財經",
+              "url": "https://www.yicai.com/brief/103406843.html"
+            },
+            {
+              "name": "新浪財經",
+              "url": "https://finance.sina.com.cn/jjxw/2026-10-23/doc-iniwfmnn1882378.shtml"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "羅淑佩恭賀港隊於亞殘運游泳、乒乓球及劍擊項目增添獎牌",
+          "summary": "文化體育及旅遊局局長羅淑佩恭賀港隊今日再添6面獎牌，包括陳睿琳混合四式銀牌、乒乓球雙打2銀2銅及余翠怡劍擊銅牌；港隊暫累積2金13銀21銅共36面獎牌，明日賽事煞科。",
+          "time_hkt": "2026-10-23T21:41:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875131-20261023.htm"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "土拓署稱蘭桂坊光影藝術將更換不同主題　路政署於核心路面加圖案",
+          "summary": "發展局指蘭桂坊美化首階段已如期完成，德己立街石牆光影藝術以約3分鐘片段每10分鐘播放，主題會隨節日更換；路政署首次在核心行車路面加入特色圖案並加防滑塗層。",
+          "time_hkt": "2026-10-23T21:26:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875127-20261023.htm"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    }
+  ]
+}
