@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-24",
+  "hour": "07",
+  "updatedAt": "2026-10-24T07:07:00+08:00",
+  "sections": [
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "穆迪維持法國主權評級Aa3不變　暫免降評、展望仍為負面",
+          "summary": "穆迪周五完成定期檢討，維持法國主權信貸評級Aa3及負面展望，未如市場定價般降評；指評級假設2027年減赤預算可通過，惟政治分裂與社會動盪仍令債市承壓。",
+          "time_hkt": "2026-10-24T06:04:00+08:00",
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/23/moodys-holds-steady-on-frances-credit-rating-as-country-grapples-with-turmoil-and-higher-yields.html"
+            },
+            {
+              "name": "WSJ",
+              "url": "https://www.wsj.com/world/europe/moodys-keeps-frances-credit-rating-unchanged-76d49b2d"
+            },
+            {
+              "name": "Reuters",
+              "url": "https://live.euronext.com/en/financial-news/france-spared-moodys-ratings-downgrade-it-struggles-unrest"
+            },
+            {
+              "name": "franceinfo",
+              "url": "https://www.franceinfo.fr/economie/l-agence-moody-s-maintient-la-note-souveraine-de-la-france-a-aa3-avec-perspective-negative_8251510.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
