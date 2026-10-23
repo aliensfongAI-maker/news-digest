@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-24",
+  "hour": "03",
+  "updatedAt": "2026-10-24T03:05:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "薔琵吹襲台灣增至1死350傷　約14萬戶一度停電",
+          "summary": "強颱風薔琵襲台，截至昨晚造成1人死亡、傷者增至350人，各地通報逾3600宗災情；全台約14萬戶一度停電，昨晚7時仍有逾2萬戶未復電，台北桃園機場估計今日陸續恢復逾600班機升降。",
+          "time_hkt": "2026-10-24T02:12:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875142-20261024.htm"
+            },
+            {
+              "name": "中央社",
+              "url": "https://www.cna.com.tw/news/asoc/202610230277.aspx"
+            },
+            {
+              "name": "Taipei Times",
+              "url": "https://www.taipeitimes.com/News/front/archives/2026/10/24/2003866521"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/typhoon-champi-taiwan-japan-8cf1c88611fc6ede98ebac11201f91cb"
+            },
+            {
+              "name": "南華早報",
+              "url": "https://www.scmp.com/news/china/politics/article/3371901/typhoon-champi-grounds-hundreds-flights-taiwan-threatens-eastern-mainland-china"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
