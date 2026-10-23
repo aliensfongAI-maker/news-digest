@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-24",
+  "hour": "01",
+  "updatedAt": "2026-10-24T02:00:49+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "王毅：中美有能力有責任發展及管控人工智能",
+          "summary": "外長王毅在河北雄安與來華出席全球治理論壇的美方代表會面，指中美作為人工智能第一梯隊國家，有能力亦有責任共同發展並管控人工智能，確保受控於人、造福於民，並合作商討全球適用的規則標準。",
+          "time_hkt": "2026-10-24T00:11:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875138-20261024.htm"
+            },
+            {
+              "name": "新華社",
+              "url": "https://english.news.cn/20261024/3d635a41609d4008bb0a93d4c16c0c9b/c.html"
+            },
+            {
+              "name": "中國日報",
+              "url": "https://www.chinadaily.com.cn/a/202610/23/WS6adb72c4e4b06d4aa0564892.html"
+            },
+            {
+              "name": "中國外交部",
+              "url": "https://www.fmprc.gov.cn/wjdt_674879/wjbxw_674885/202610/t20261023_12046093.shtml"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
