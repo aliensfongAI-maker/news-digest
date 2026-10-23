@@ -1,0 +1,143 @@
+{
+  "date": "2026-10-23",
+  "hour": "15",
+  "updatedAt": "2026-10-23T15:08:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "薔琵吹襲台灣一死逾90傷　浙江上調防颱應急響應為三級",
+          "summary": "強颱風薔琵襲台期間全台錄得1死逾90傷，死者為屏東小琉球遭海浪捲走男子，逾千人疏散、近千航班取消；浙江將防颱應急響應上調至三級並停航大量客運渡輪，日本氣象廳亦警告先島群島風力可破壞房屋。",
+          "time_hkt": "2026-10-23T14:58:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875052-20261023.htm"
+            },
+            {
+              "name": "中央社",
+              "url": "https://www.cna.com.tw/news/asoc/202610230042.aspx"
+            },
+            {
+              "name": "新華網",
+              "url": "https://www.news.cn/politics/20261023/7fff1b7b7e9349adbf2a9d7db4756125/c.html"
+            },
+            {
+              "name": "浙江在線",
+              "url": "https://zjnews.zjol.com.cn/zjnews/202610/t20261023_31982892.shtml"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "社區藥房計劃本月底啟動　首階段4區20間藥房與病人配對",
+          "summary": "醫衞局公布社區藥房計劃本月底啟動病人配對，首階段在東區、油尖旺、沙田及元朗共20間指定藥房試行，成功配對者可於自選藥房取藥並獲藥劑師諮詢，目標明年第4季擴至全港；同日公布共治網絡診症共付額11月1日起調整，逾八成服務點維持不變。",
+          "time_hkt": "2026-10-23T14:42:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875068-20261023.htm"
+            },
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202610/23/P2026102300291.htm"
+            },
+            {
+              "name": "東網",
+              "url": "https://hk.on.cc/hk/bkn/cnt/news/20261023/bkn-20261023132720052-1023_00822_001.html"
+            },
+            {
+              "name": "商業電台",
+              "url": "https://www.881903.com/news/local/2656154"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "亞殘運乒乓球煞科　港隊今屆共奪5銀10銅",
+          "summary": "亞殘運乒乓球煞科日港隊再添兩銀兩銅，焦瑾珊／王愉程及吳玫薈／王婷莛分獲女子雙打銀牌，男子雙打亦奪兩銅；連同較早賽事，港隊乒乓球合共取得5銀10銅共15面獎牌。",
+          "time_hkt": "2026-10-23T14:27:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875064-20261023.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "天文台錄得31.2度　創有記錄以來最熱霜降",
+          "summary": "受乾燥東北季候風影響，本港下午炎熱，截至下午1時半天文台錄得最高氣溫31.2度，是有記錄以來最熱的霜降；天文台預料周末天晴非常乾燥，日夜溫差頗大。",
+          "time_hkt": "2026-10-23T14:17:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875062-20261023.htm"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "日經收市跌0.34%全周跌4%　韓股收升0.3%",
+          "summary": "東京股市午後跌幅收窄，日經指數收報62693點，跌214點或0.34%，全周累計跌約4%；首爾綜合指數收報5550點，升16點或0.3%，惟本周仍累跌約2.1%。",
+          "time_hkt": "2026-10-23T14:40:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875066-20261023.htm"
+            },
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875065-20261023.htm"
+            },
+            {
+              "name": "韓聯社",
+              "url": "https://www.yna.co.kr/view/AKR20261023129200008"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "港股午後升勢擴大　寧德時代反彈逾7%",
+          "summary": "港股午後升幅擴大，恒指一度升逾290點、科指升逾2.5%；寧德時代反彈逾7%成藍籌升幅居前，比亞迪及中鋁亦升逾6%，消費及汽車股普遍造好，大市成交逾1800億元。",
+          "time_hkt": "2026-10-23T14:32:00+08:00",
+          "sources": [
+            {
+              "name": "巴士的報",
+              "url": "https://www.bastillepost.com/hongkong/article/17032714-%e6%b8%af%e8%82%a1%e5%8d%88%e5%be%8c%e5%8d%87%e5%8b%a2%e5%8a%a0%e5%8a%87-%e5%af%a7%e5%be%b7%e5%a0%b1%e5%be%a9%e5%bc%8f%e5%bd%88%e9%80%be7"
+            },
+            {
+              "name": "鈦媒體",
+              "url": "https://www.tmtpost.com/nictation/8178973.html"
+            },
+            {
+              "name": "華爾街見聞",
+              "url": "https://wallstreetcn.com/articles/3784272"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
