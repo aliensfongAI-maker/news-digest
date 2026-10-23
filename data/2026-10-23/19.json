@@ -1,0 +1,133 @@
+{
+  "date": "2026-10-23",
+  "hour": "19",
+  "updatedAt": "2026-10-23T19:03:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "3歲男童感染甲型流感併發敗血性休克情況危殆　潛伏期曾到過美國",
+          "summary": "衞生防護中心公布一宗兒童流感嚴重個案，一名有長期病患的3歲男童感染甲型流感併發敗血性休克，於屯門醫院留醫情況危殆，潛伏期內曾到過美國。",
+          "time_hkt": "2026-10-23T18:41:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875113-20261023.htm"
+            },
+            {
+              "name": "新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202610/23/P2026102300666.htm"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "新增兩宗外地傳入登革熱感染個案　今年累計36宗",
+          "summary": "衞生防護中心過去一星期錄得兩宗外地傳入登革熱個案，病人潛伏期內分別到過印度及孟加拉，本港今年累計36宗登革熱（34宗外地傳入、兩宗本地），同期無新增基孔肯雅熱。",
+          "time_hkt": "2026-10-23T18:17:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875110-20261023.htm"
+            },
+            {
+              "name": "新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202610/23/P2026102300481.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "海關機場偵破兩宗入境旅客販毒案　檢約190萬元毒品拘兩人",
+          "summary": "海關在機場偵破兩宗入境旅客販毒案，檢獲約2公斤懷疑可卡因及約3公斤懷疑大麻花，估計市值約190萬元，拘捕兩名旅客。",
+          "time_hkt": "2026-10-23T18:09:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875107-20261023.htm"
+            },
+            {
+              "name": "新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202610/23/P2026102300605.htm"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "亞殘運游泳　港隊陳睿琳混合四式奪銀今屆個人1金1銀2銅",
+          "summary": "亞殘運游泳賽事，港隊陳睿琳在女子SM14級200米個人混合四式以2分32秒44奪銀，今屆個人合共取得1金1銀2銅；同場張可盈及劉倩婷亦晉身決賽。",
+          "time_hkt": "2026-10-23T18:44:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875114-20261023.htm"
+            }
+          ],
+          "rank": 4
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "韓國向朝鮮提議舉行軍方會談　商討軍事分界線及恢復通信",
+          "summary": "韓國國防部正式向朝鮮提議舉行軍方會談，就相互確認陸地軍事分界線位置、恢復軍事通信線路及防止邊境意外衝突協商，並指必要時可納入聯合國軍司令部舉行三方會談。",
+          "time_hkt": "2026-10-23T18:57:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875115-20261023.htm"
+            },
+            {
+              "name": "韓聯社",
+              "url": "https://cn.yna.co.kr/view/ACK20261023002500881"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/south-north-korea-border-mines-military-talks-9498c415c93ae9bc3767caf83e15b8b3"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "澳門政府與6企注資設200億元基金　推動經濟適度多元",
+          "summary": "澳門政府推動經濟適度多元發展的200億澳門元引導基金正式運作，政府與6間綜合旅遊休閒企業簽訂協議，企業作為首批社會資本合共出資90億澳門元。",
+          "time_hkt": "2026-10-23T18:16:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875109-20261023.htm"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "陳茂波北京晤中證監及商務部　見證簽署兩份經貿合作備忘錄",
+          "summary": "財政司司長陳茂波在北京與中證監主席吳清及商務部部長助理袁曉明會面，就加強證券監管協同、互聯互通及經貿合作交換意見，並見證商經局與商務部簽署兩份經貿及自貿區港合作諒解備忘錄。",
+          "time_hkt": "2026-10-23T18:25:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875111-20261023.htm"
+            },
+            {
+              "name": "新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202610/23/P2026102300596.htm"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
