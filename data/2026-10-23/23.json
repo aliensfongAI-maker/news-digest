@@ -1,0 +1,97 @@
+{
+  "date": "2026-10-23",
+  "hour": "23",
+  "updatedAt": "2026-10-23T23:00:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "白宮稱梅蘭妮亞促成俄烏奧萊什基局部停火　預定10月29日生效",
+          "summary": "白宮表示，美國第一夫人梅蘭妮亞促成俄烏在俄控烏南城市奧萊什基局部停火，預定10月29日起暫停軍事行動，以便人道援助進入並安排平民經安全通道撤離；當地戰前約2.4萬人、現約1700至2000人，俄烏當局暫未立即回應。",
+          "time_hkt": "2026-10-23T22:14:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/en/component/k2/1875133-20261023.htm"
+            },
+            {
+              "name": "自由時報",
+              "url": "https://news.ltn.com.tw/news/world/breakingnews/5616876"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/russia-ukraine-war-ceasefire-oleshky-melania-trump-60167627316e0e2f62fc359cf78f317d"
+            },
+            {
+              "name": "白宮",
+              "url": "https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-secures-ceasefire-between-russia-and-ukraine-localized-to-oleshky/"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "美國10月密歇根大學消費者信心指數終值報48　勝預期",
+          "summary": "美國10月密歇根大學消費者信心指數終值錄得48.0，較9月終值48.1微跌0.1，但高於市場預期及初值的46.3；消費者對未來1年通脹預期終值維持4.7%，未來5年維持3.5%。",
+          "time_hkt": "2026-10-23T22:04:00+08:00",
+          "sources": [
+            {
+              "name": "新浪財經",
+              "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwfruk1835884.shtml"
+            },
+            {
+              "name": "FXStreet",
+              "url": "https://www.fxstreet.com/news/united-states-michigan-consumer-sentiment-index-above-expectations-463-in-october-actual-48-202610231400"
+            },
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875135-20261023.htm"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "周內4宗粉末信案　圖書館及傳媒成目標　警稱粉末無爆炸危險",
+          "summary": "警方表示本周二至四接獲4宗報案，指圖書館及傳媒機構收到載有白色粉末的可疑信件，涉油麻地公共圖書館、《香港01》、《橙新聞》及《點新聞》等；爆炸品處理人員初步相信粉末無爆炸危險，已檢走化驗，案件暫列發現可疑物品。",
+          "time_hkt": "2026-10-23T22:09:00+08:00",
+          "sources": [
+            {
+              "name": "東網",
+              "url": "https://hk.on.cc/hk/bkn/cnt/news/20261023/bkn-20261023220959259-1023_00822_001.html"
+            },
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875137-20261023.htm"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "亞殘運明閉幕　湯雅婷將擔任中國香港代表團閉幕禮持旗手",
+          "summary": "第五屆亞洲殘疾人運動會明日閉幕，中國香港殘疾人奧委會宣布由女子輪椅劍擊代表湯雅婷擔任閉幕禮持旗手；她今屆於個人及團體賽共奪2銀1銅，包括女子重劍B級個人銅牌，以及女子花劍、重劍團體銀牌。",
+          "time_hkt": "2026-10-23T22:16:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875134-20261023.htm"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    }
+  ]
+}
