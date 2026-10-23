@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-24",
+  "hour": "05",
+  "updatedAt": "2026-10-24T05:05:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "法國周末或再現大規模示威　政府部署共7萬名警察和憲兵戒備",
+          "summary": "法國內政部長努內茲表示，因應周末可能再出現大型生活成本示威，政府將全國部署約7萬名警察和憲兵，並出動裝甲車與水炮車，避免重演上周暴力與搶掠；羅浮宮等巴黎博物館亦計劃關閉。",
+          "time_hkt": "2026-10-24T04:12:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875140-20261024.htm"
+            },
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/oct/23/france-police-demonstrations-civil-unrest"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/paris-protests-france-art-basel-0208e62321f811e3003460f71b7fcc89"
+            },
+            {
+              "name": "新華網",
+              "url": "http://www.xinhuanet.com.cn/20261023/0cde0fdbcd554961831a9f0ef6a95c15/c.html"
+            },
+            {
+              "name": "franceinfo",
+              "url": "https://www.franceinfo.fr/societe/manifestations/blindes-unites-d-elite-70-000-policiers-et-gendarmes-laurent-nunez-detaille-l-important-dispositif-de-securite-mobilise-pour-les-manifestations-du-24-octobre_8250754.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
