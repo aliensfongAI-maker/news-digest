@@ -1,0 +1,149 @@
+{
+  "date": "2026-10-23",
+  "hour": "11",
+  "updatedAt": "2026-10-23T11:03:49+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "韓國就非軍事區地雷爆炸事件致函聯合國安理會　要求朝方道歉",
+          "summary": "韓聯社等報道，韓國常駐聯合國代表致函安理會主席，指朝鮮軍方埋設地雷導致韓軍9月21日在非軍事區爆炸、三人受傷，屬違反停戰協定，要求朝方道歉並採取負責任措施，同時敦促對話以防緊張升級；朝方早前駁斥相關指控為「鬧劇」。",
+          "time_hkt": "2026-10-23T10:01:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875027-20261023.htm"
+            },
+            {
+              "name": "韓聯社",
+              "url": "https://www.yna.co.kr/view/AKR20261023004500072"
+            },
+            {
+              "name": "新華社",
+              "url": "https://english.news.cn/20261023/04f12cb381284ee1a436fffaaba73015/c.html"
+            },
+            {
+              "name": "新華網",
+              "url": "https://www.news.cn/world/20261023/7becbf4b9f01435784035e5f236378fe/c.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "日股半日跌近2%　日經上午收市報61825點",
+          "summary": "受隔夜美股科技股急挫拖累，日經平均指數上午收市報61,825點，跌1,082點或1.72%，半日跌近2%；共同社等指美高估值科技股賣壓蔓延東京市場。",
+          "time_hkt": "2026-10-23T10:47:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875036-20261023.htm"
+            },
+            {
+              "name": "共同通信",
+              "url": "https://topics.smt.docomo.ne.jp/article/kyodo_nor/business/kyodo_nor-2026102301000698"
+            },
+            {
+              "name": "日本經濟新聞",
+              "url": "https://www.nikkei.com/article/DGXZQOFL230JE0T21C26A0000000/"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "警務處為朱振國舉行警隊最高榮譽喪禮　李家超鄧炳強等到場致祭",
+          "summary": "2005年執勤遇襲癱瘓的高級警員朱振國上月離世，警務處今日在世界殯儀館及和合石浩園舉行警隊最高榮譽喪禮，行政長官李家超、保安局局長鄧炳強、警務處處長周一鳴等致祭，靈柩稍後安葬浩園。",
+          "time_hkt": "2026-10-23T10:28:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875032-20261023.htm"
+            },
+            {
+              "name": "香港文匯報",
+              "url": "https://www.wenweipo.com/a/202610/23/AP6ada9898e4b0fa894989f8e6.html"
+            },
+            {
+              "name": "新浪香港",
+              "url": "https://portal.sina.com.hk/news-hongkong/news-realtime/rthk/2026/10/23/1964157/%E8%AD%A6%E5%8B%99%E8%99%95%E7%82%BA%E6%9C%B1%E6%8C%AF%E5%9C%8B%E8%88%89%E8%A1%8C%E8%AD%A6%E9%9A%8A%E6%9C%80%E9%AB%98%E6%A6%AE%E8%AD%BD%E5%96%AA%E7%A6%AE%E3%80%80%E6%9D%8E%E5%AE%B6%E8%B6%85%E9%84%A7/"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "粵港澳發布珠三角2025年空氣質素報告　污染物較20年前大減",
+          "summary": "粵港澳共同發布珠江三角洲區域空氣監測網絡2025年空氣質素報告，二氧化硫、二氧化氮、一氧化碳、可吸入及細顆粒物均呈持續下降，年均濃度較20年前跌23%至86%，細顆粒物降至19微克／立方米，反映三地減排措施具成效。",
+          "time_hkt": "2026-10-23T10:00:00+08:00",
+          "sources": [
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202610/23/P2026102200339.htm"
+            },
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875034-20261023.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "盧寵茂：醫健通與HA GO合併或成「大笨象」　兩平台已有對接",
+          "summary": "醫務衞生局向立法會交代「醫健通+」進展，局長盧寵茂指若將醫管局HA GO併入醫健通會過於複雜，強調兩平台已有對接；醫健通登記已突破657萬、覆蓋逾87%人口，並連結逾4800間公私營醫護機構。",
+          "time_hkt": "2026-10-23T10:20:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875031-20261023.htm"
+            },
+            {
+              "name": "新浪香港",
+              "url": "https://portal.sina.com.hk/news-hongkong/news-realtime/rthk/2026/10/23/1964140/%E9%86%AB%E5%81%A5%E9%80%9A%E8%88%87ha-go-%E5%85%B7%E5%B0%8D%E6%8E%A5%E5%8A%9F%E8%83%BD%E3%80%80%E7%9B%A7%E5%AF%B5%E8%8C%82%E7%A8%B1%E5%80%98%E5%90%88%E4%BD%B5%E5%8F%8D%E6%88%90%E5%A4%A7%E7%AC%A8/"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "鄧炳強：新皇崗口岸運作有改善空間　已調派人手應對前線壓力",
+          "summary": "保安局局長鄧炳強表示，新皇崗口岸平日約8.3萬人次、重陽假期日均約13萬人次，整體暢順但仍有改善空間，包括加強e-道預先登記及分流；當局明白前線壓力大，已特別調派人手並適當延長工時。",
+          "time_hkt": "2026-10-23T10:02:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875028-20261023.htm"
+            },
+            {
+              "name": "RTHK English",
+              "url": "https://news.rthk.hk/rthk/en/component/k2/1875037-20261023.htm"
+            }
+          ],
+          "rank": 4
+        },
+        {
+          "headline": "亞殘運港隊乒乓球添一銀兩銅",
+          "summary": "亞殘運乒乓球最後一日，港隊吳玫薈／王婷莛奪女子WD22級雙打銀牌，何嘉盛／王志賢男子MD18級雙打獲銅，溫偉樂／袁景誠男子MD22級雙打亦摘銅。",
+          "time_hkt": "2026-10-23T10:06:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875029-20261023.htm"
+            }
+          ],
+          "rank": 5
+        }
+      ]
+    }
+  ]
+}
