@@ -1,0 +1,143 @@
+{
+  "date": "2026-10-23",
+  "hour": "10",
+  "updatedAt": "2026-10-23T10:15:00+08:00",
+  "sections": [
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "日本9月核心CPI按年升2.1%　9個月來首次高過央行目標",
+          "summary": "日本總務省公布，扣除生鮮食品後的9月核心消費物價指數按年升2.1%，由8月的1.7%加快，符合預期並為9個月來首次高於日銀2%目標；剔除食品與能源的「核心核心」則升2.4%，市場關注日銀12月再升息機會。",
+          "time_hkt": "2026-10-23T09:05:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875014-20261023.htm"
+            },
+            {
+              "name": "中央社",
+              "url": "https://www.cna.com.tw/news/aopl/202610230034.aspx"
+            },
+            {
+              "name": "NHK",
+              "url": "https://news.web.nhk/newsweb/na/nd-20261023de63991"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/23/japan-inflation-september-highest-in-2026.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "內地股市開市初段跌近2%　創業板跌逾2%",
+          "summary": "滬深股市開市初段明顯回落，上證綜合指數較早時跌約1.5%、深證成指跌約1.7%，創業板指數跌逾2%，延續隔夜美股科技股急挫及油價高企下的避險氣氛。",
+          "time_hkt": "2026-10-23T09:41:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875025-20261023.htm"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "習近平就西藏巴青7級地震作重要指示　要求全力搜救與救治",
+          "summary": "西藏那曲市巴青縣7級地震造成重大傷亡後，習近平作出重要指示，要求全力搜救人員、做好傷患救治並最大限度減少傷亡，同時因應高海拔寒冷天氣密切監測震情、調撥物資及防範次生災害。",
+          "time_hkt": "2026-10-23T09:08:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875017-20261023.htm"
+            },
+            {
+              "name": "中新網",
+              "url": "https://www.chinanews.com.cn/gn/2026/10-23/10719503.shtml"
+            },
+            {
+              "name": "人民網",
+              "url": "http://politics.people.com.cn/n1/2026/1023/c1024-40820185.html"
+            },
+            {
+              "name": "央視新聞",
+              "url": "https://news.cctv.cn/2026/10/23/ARTIHFkxxpfb9CFkscAimFLh261023.shtml"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "港股競價時段反彈93點　恒指重上23000點",
+          "summary": "受港股ADR回升帶動，恒生指數競價時段高開約93點或0.41%，報約23,027點重上23,000關口，恒生科技指數同步高開約0.5%；科網股個別回升，惟寧德時代等續弱、金股受金價拖累。",
+          "time_hkt": "2026-10-23T09:25:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875020-20261023.htm"
+            },
+            {
+              "name": "Bastille Post",
+              "url": "https://www.bastillepost.com/hongkong/article/17030604-%e6%b8%af%e8%82%a1%e9%96%8b%e5%8d%8793%e9%bb%9e%e9%98%bf%e9%87%8c%e5%9b%9e%e5%8d%87-%e5%af%a7%e5%be%b7%e7%ba%8c%e8%b7%8c-%e9%87%91%e8%82%a1%e4%b8%8b%e6%8c%ab"
+            },
+            {
+              "name": "東方日報 on.cc",
+              "url": "https://hk.on.cc/hk/bkn/cnt/finance/20261023/bkn-20261023092006951-1023_00842_001.html"
+            },
+            {
+              "name": "新浪港股",
+              "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-23/doc-iniweiyt5674564.shtml"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "人民幣中間價再創逾3年半高位",
+          "summary": "人民幣兌美元中間價報6.718，較上日升15點子，再創逾3年半新高，惟仍較市場預測偏弱約420點子。",
+          "time_hkt": "2026-10-23T09:23:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875018-20261023.htm"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "鄧炳強：就大火災及火警裝置已推新措施　將有連串法例改革",
+          "summary": "大埔宏福苑火災獨立委員會報告已交行政長官；保安局局長鄧炳強表示，過去一年當局已因應特大火災或火警裝置問題推出行政新措施，並將推出連串法例改革以改善情況。",
+          "time_hkt": "2026-10-23T09:35:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875024-20261023.htm"
+            },
+            {
+              "name": "新浪香港",
+              "url": "https://portal.sina.com.hk/news-hongkong/news-realtime/rthk/2026/10/23/1964096/%E9%84%A7%E7%82%B3%E5%BC%B7%E7%A8%B1%E6%94%BF%E5%BA%9C%E5%B0%B1%E5%A4%A7%E7%81%AB%E7%81%BD%E6%88%96%E7%81%AB%E8%AD%A6%E8%A3%9D%E7%BD%AE%E5%B7%B2%E6%8E%A8%E6%96%B0%E6%8E%AA%E6%96%BD%E6%94%B9%E5%96%84/"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
