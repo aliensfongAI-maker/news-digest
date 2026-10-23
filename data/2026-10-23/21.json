@@ -1,0 +1,109 @@
+{
+  "date": "2026-10-23",
+  "hour": "21",
+  "updatedAt": "2026-10-23T21:00:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "機電署：所有由臺日負責的樓宇門框組件勘察及安裝工程已經展開",
+          "summary": "機電署表示，所有由臺日負責安裝升降機的樓宇（包括兩個租置屋邨及338幢私人樓宇）的門框組件勘察及安裝工程已展開，費用由承辦商承擔；署方會按條例規管違規行為，警方正跟進刑事調查。",
+          "time_hkt": "2026-10-23T20:25:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875123-20261023.htm"
+            },
+            {
+              "name": "機電工程署",
+              "url": "https://www.emsd.gov.hk/tc/media/lift_door_frame_c/index.html"
+            },
+            {
+              "name": "商業電台",
+              "url": "https://www.881903.com/news/local/2656252"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "白紋伊蚊誘蚊器指數荔景及天水圍最高　食環署跟進發出3張通知書",
+          "summary": "食環署公布十月份第三批白紋伊蚊誘蚊器指數，荔景第一階段指數最高達15.1%，其次天水圍12%；署方就葵青區一公共屋邨及元朗區一公園積水情況發出共3張法定通知書，要求限期清除。",
+          "time_hkt": "2026-10-23T20:20:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875121-20261023.htm"
+            },
+            {
+              "name": "香港政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202610/23/P2026102300665.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "西藏7級地震　入境處至今未接獲港人求助",
+          "summary": "西藏那曲市巴青縣7級地震後，入境處表示至今未接獲港人求助，已透過駐成都經貿辦及旅遊業監管局了解情況，並提醒在外港人可致電1868熱線或經應用程式、WhatsApp、微信及網上表格求助。",
+          "time_hkt": "2026-10-23T20:36:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875124-20261023.htm"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "俄方稱俄美烏會談將於下月上旬在阿布扎比舉行",
+          "summary": "克宮發言人佩斯科夫表示，俄美烏三方會談計劃於11月上旬在阿聯酋阿布扎比舉行，主要議題為實現和平後如何確保俄烏雙方安全；他又指按協議俄對美柴油供應已開始，首艘油輪已啟航。",
+          "time_hkt": "2026-10-23T20:35:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875122-20261023.htm"
+            },
+            {
+              "name": "新華社",
+              "url": "https://english.news.cn/20261023/ba2ea2836ed44dadbcc1a3f7ba3d8f3c/c.html"
+            },
+            {
+              "name": "光明網",
+              "url": "https://m.gmw.cn/2026-10/23/content_1304578665.htm"
+            },
+            {
+              "name": "中央社",
+              "url": "https://www.cna.com.tw/news/aopl/202610230208.aspx"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "中煤能源首3季盈利升逾15%",
+          "summary": "港股上市的中煤能源公布，首3季按國際會計準則盈利128.84億元人民幣，按年增長逾15%；煤炭業務營業收入930.5億元，升4.2%，其中自產商品煤銷售收入受售價上升帶動增長8.3%。",
+          "time_hkt": "2026-10-23T20:32:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875112-20261023.htm"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
