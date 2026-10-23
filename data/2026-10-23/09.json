@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-23",
+  "hour": "09",
+  "updatedAt": "2026-10-23T09:04:06+08:00",
+  "sections": [
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "亞股跟隨美股科技股急挫　韓股開市跌逾2%、日經跌逾1%",
+          "summary": "受隔夜納指急挫約2.6%及半導體板塊大跌拖累，南韓綜合指數開市跌逾2%、日經平均指數早段跌逾1%，油價高企亦加劇避險氣氛；台灣股市則因颱風薔琵休市。",
+          "time_hkt": "2026-10-23T08:03:00+08:00",
+          "sources": [
+            {
+              "name": "Yonhap",
+              "url": "https://en.yna.co.kr/view/AEN20261023001200320"
+            },
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875011-20261023.htm"
+            },
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875010-20261023.htm"
+            },
+            {
+              "name": "朝鮮日報 Biz",
+              "url": "https://biz.chosun.com/en/en-finance/2026/10/23/CBPTE3AR3VAXLCUWAETOJJMYTE/"
+            },
+            {
+              "name": "財経新聞",
+              "url": "https://www.zaikei.co.jp/article/20261023/874649.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "浸大調查：應屆生感AI衝擊　學士與副學位起薪差距收窄",
+          "summary": "南華早報報道浸會大學大灣區薪酬調查顯示，學士與副學位畢業生起薪差距由去年3,000港元收窄至2,500港元；專家指AI正影響入職市場，促學生調整就業策略、政府檢視教育政策。",
+          "time_hkt": "2026-10-23T08:30:00+08:00",
+          "sources": [
+            {
+              "name": "SCMP",
+              "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3371826/fresh-hong-kong-graduates-feel-ai-impact-degree-pay-advantage-narrows"
+            },
+            {
+              "name": "香港浸會大學",
+              "url": "https://www.hkbu.edu.hk/zh_hk/whats-new/press-release/2026/1022-2026-guangdong-hong-kong-macau-greater-bay-area-pay-and-benefits-survey-salary-growth-in-hong-kong-and-macau-slows-companies-generally-lack-formal-ai-policies.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
