@@ -1,0 +1,91 @@
+{
+  "date": "2026-10-24",
+  "hour": "06",
+  "updatedAt": "2026-10-24T06:05:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "巴黎市郊發生槍擊案最少1死5傷　反恐部門接手調查",
+          "summary": "法國巴黎西南郊區特拉普等地發生駕車隨機槍擊，最少造成1死5傷，包括一名身中多槍的12歲女童；疑兇已落網，反恐部門循與恐怖主義相關謀殺罪調查，總統馬克龍指屬種族主義恐怖襲擊。",
+          "time_hkt": "2026-10-24T05:07:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875143-20261024.htm"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/c6ev38dj1g8zo"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/france-shooting-trappes-arrest-edcd3ab6c5ec2112505b358ca0a3de5a"
+            },
+            {
+              "name": "franceinfo",
+              "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attaque-a-trappes/ce-que-l-on-sait-de-kevin-t-l-homme-de-39-ans-soupconne-de-l-attaque-terroriste-qui-fait-un-mort-et-plusieurs-blesses-graves-a-trappes-et-la-verriere_8250916.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "道指低收逾600點　本周累升0.4%",
+          "summary": "受中東局勢緊張及油價急升拖累，道瓊斯指數收市跌652點（1.2%）報52215點，標普500及納指分別跌0.5%及0.2%；全星期計道指仍累升0.4%，納指及標指則連跌兩周。",
+          "time_hkt": "2026-10-24T05:47:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875146-20261024.htm"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/22/stock-market-today-live-update.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "國際油價高收逾3%　中東局勢緊張",
+          "summary": "胡塞武裝襲擊沙特等地令市場憂慮中東能源供應，倫敦布蘭特期油收市升3.1%報每桶116.72美元，創4月底以來最高，紐約期油升3.8%報103.27美元；全星期布蘭特累升逾6%。",
+          "time_hkt": "2026-10-24T05:53:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875147-20261024.htm"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "英法德股市本周累跌近2%或以上",
+          "summary": "歐洲主要股市收市下跌，德國DAX跌近0.8%、法國CAC跌近0.4%、英國富時100跌0.3%；Gucci母企開雲急挫近17%，沃爾沃汽車因虧損及裁員低收逾24%，全星期英法德股市累跌近2%或以上。",
+          "time_hkt": "2026-10-24T05:19:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875144-20261024.htm"
+            },
+            {
+              "name": "Investing.com",
+              "url": "https://www.investing.com/news/stock-market-news/european-shares-slip-as-french-fiscal-turmoil-drives-weekly-loss-4968153"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    }
+  ]
+}
