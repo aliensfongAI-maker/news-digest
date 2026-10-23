@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-23",
+  "hour": "08",
+  "updatedAt": "2026-10-23T07:57:00+08:00",
+  "sections": [
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "中鋁集團在港設立企業財資中心　打造離岸資金管理平台",
+          "summary": "投資推廣署今日宣布中國鋁業集團全資成立「中鋁集團財資管理有限公司」，作為集團離岸資金管理平台，負責離岸資金集中管理、融資及匯率利率風險管理，突顯香港作為企業財資中心樞紐角色。",
+          "time_hkt": "2026-10-23T07:00:00+08:00",
+          "sources": [
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202610/23/P2026102100723.htm"
+            },
+            {
+              "name": "Bastille Post",
+              "url": "https://www.bastillepost.com/global/article/6282103-chinalco-establishes-treasury-centre-in-hong-kong-to-enhance-offshore-fund-management-and-global-expansion"
+            },
+            {
+              "name": "同花順財經",
+              "url": "http://news.10jqka.com.cn/20261023/c680999675.shtml"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
