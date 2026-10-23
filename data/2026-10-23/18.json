@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-23",
+  "hour": "18",
+  "updatedAt": "2026-10-23T18:12:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "李家超對西藏地震深感難過　特區政府隨時準備賑災基金援助",
+          "summary": "行政長官李家超就西藏那曲市巴青縣7.0級地震表示深感難過，向遇難同胞哀悼並慰問傷者及家屬，指特區政府會留意災情發展，隨時準備透過賑災基金提供適切援助。",
+          "time_hkt": "2026-10-23T17:58:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875103-20261023.htm"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "屯門醫院神經醫學中心開幕　磁波刀及術中磁力共振陸續投入服務",
+          "summary": "屯門醫院神經醫學中心舉行開幕禮，設44張病床的綜合病房並引入磁波刀及術中磁力共振等技術，至今約44人接受磁波刀、約76人接受術中造影；盧寵茂指可響應香港五年規劃，醫管局擬在其他龍頭醫院推展同類中心。",
+          "time_hkt": "2026-10-23T17:22:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875093-20261023.htm"
+            },
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875095-20261023.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "分判商行賄時任機電署工程師罪成　下月判刑",
+          "summary": "一名59歲機電署分判商就兩份總值約9140萬元小型工程合約涉嫌行賄時任高級工程師換取優待，在東區裁判法院被裁定向公職人員提供利益罪成，押後至11月6日判刑；該工程師早前已因相關案判囚5年3個月。",
+          "time_hkt": "2026-10-23T17:49:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875100-20261023.htm"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "亞殘運硬地滾球　港隊混合BC4雙打晉級決賽坐銀望金",
+          "summary": "亞殘運硬地滾球，梁育榮與張沅在混合BC4級雙打四強以5:2擊敗泰國隊晉級決賽，明日對國家隊爭金；混合BC3雙打及BC1/BC2團體賽港隊四強落敗，明日分別爭奪銅牌。",
+          "time_hkt": "2026-10-23T17:37:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875097-20261023.htm"
+            }
+          ],
+          "rank": 4
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "人行下周一開展7000億元人民幣1年期MLF操作",
+          "summary": "人民銀行公布10月26日開展7000億元人民幣、期限1年的中期借貸便利操作，操作量較本月到期量少2000億元，以固定數量、利率招標、多重價位中標方式進行，以保持銀行體系流動性充裕。",
+          "time_hkt": "2026-10-23T17:50:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875089-20261023.htm"
+            },
+            {
+              "name": "第一財經",
+              "url": "https://www.yicai.com/brief/103406630.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "在岸人民幣收報6.6711　再創逾4年新高",
+          "summary": "在岸人民幣兌美元收報6.6711，較上日升16點子，連續多日走強並再創逾4年新高；交易員指升值預期下客盤結匯意願較多帶動匯價，亦有看法指年底或進一步向6.5附近靠攏。",
+          "time_hkt": "2026-10-23T17:14:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875089-20261023.htm"
+            },
+            {
+              "name": "第一財經",
+              "url": "https://www.yicai.com/brief/103406630.html"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "財政部：下一步將做好政策儲備　緊扣消費及民間投資",
+          "summary": "財政部金融司副司長李楠表示，下一步將做好政策儲備，緊扣居民消費、民間投資及供需結構優化等環節豐富工具箱；首3季協同促內需政策已支持新發放信貸逾28萬億元人民幣，購房貸款貼息本月起全國實施。",
+          "time_hkt": "2026-10-23T17:04:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875088-20261023.htm"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "港交所推出人工智能及半導體指數　擬授權南方基金發追蹤ETF",
+          "summary": "港交所推出人工智能指數（追蹤40家AI產業鏈相關港股）及半導體指數（追蹤30家半導體相關公司），並與南方基金簽訂授權協議擬在內地發行追蹤AI指數的ETF；港交所冀與市場參與者開發更多指數掛鈎產品。",
+          "time_hkt": "2026-10-23T17:29:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875090-20261023.htm"
+            },
+            {
+              "name": "香港交易所",
+              "url": "https://www.hkex.com.hk/News/News-Release/2026/261023news?sc_lang=zh-HK"
+            },
+            {
+              "name": "第一財經",
+              "url": "https://www.yicai.com/brief/103406656.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "中原CCL報159.91　二手樓價按周微跌連跌兩周",
+          "summary": "中原城市領先指數最新報159.91，按周微跌約0.09%、連跌兩周共約0.8%，穿160點創逾兩個月低位；九龍連跌較明顯，新界西則升逾1%，中原地產指股市波動及息口預期令二手樓市持續受壓。",
+          "time_hkt": "2026-10-23T17:11:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875083-20261023.htm"
+            },
+            {
+              "name": "Yahoo財經",
+              "url": "https://hk.finance.yahoo.com/news/%E6%B8%AF%E6%A8%93-%E4%B8%AD%E5%8E%9Fccl%E6%8C%89%E5%91%A8%E5%BE%AE%E8%B7%8C0-09-%E9%80%A3%E8%B7%8C%E5%85%A9%E5%91%A8%E5%85%B10-8-082037933.html"
+            },
+            {
+              "name": "有線新聞",
+              "url": "https://www.i-cable.com/%E8%B2%A1%E7%B6%93%E8%B3%87%E8%A8%8A/515776/%E4%B8%AD%E5%8E%9F%E5%9F%8E%E5%B8%82%E9%A0%98%E5%85%88%E6%8C%87%E6%95%B8%E9%80%A3%E8%B7%8C%E5%85%A9%E5%91%A8-%E5%A0%B1159-91"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    }
+  ]
+}
