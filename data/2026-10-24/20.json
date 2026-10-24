@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-24",
+  "hour": "20",
+  "updatedAt": "2026-10-24T20:04:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "新華社證實王滬寧陪同金正恩訪問丹東　向抗美援朝紀念塔獻花籃",
+          "summary": "新華社晚間證實朝鮮勞動黨總書記金正恩今日訪問遼寧丹東，全國政協主席王滬寧陪同並轉達習近平問候；雙方上午向抗美援朝紀念塔敬獻花籃、參觀紀念館，下午參觀汽車工廠後經新鴨綠江大橋送行，王毅亦有出席。",
+          "time_hkt": "2026-10-24T19:10:00+08:00",
+          "sources": [
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1202586-%E6%96%B0%E8%8F%AF%E7%A4%BE%E5%85%A8%E5%9C%8B%E6%94%BF%E5%8D%94%E4%B8%BB%E5%B8%AD%E7%8E%8B%E6%BB%AC%E5%AF%A7%E9%99%AA%E5%90%8C%E6%9C%9D%E9%AE%AE%E9%A0%98%E8%A2%96%E9%87%91%E6%AD%A3%E6%81%A9%E8%A8%AA%E5%95%8F%E4%B8%B9%E6%9D%B1"
+            },
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875212-20261024.htm"
+            },
+            {
+              "name": "中新網",
+              "url": "https://www.chinanews.com.cn/gn/2026/10-24/10720442.shtml"
+            },
+            {
+              "name": "中央社",
+              "url": "https://www.cna.com.tw/news/acn/202610240187.aspx"
+            },
+            {
+              "name": "新華社",
+              "url": "https://english.news.cn/20261024/37420bc7fdc741aaac87a13c61cc155b/c.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
