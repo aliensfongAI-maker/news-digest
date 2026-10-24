@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-24",
+  "hour": "13",
+  "updatedAt": "2026-10-24T13:02:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "港深聯手瓦解跨境信用卡詐騙集團　拘33人涉款逾180萬",
+          "summary": "警方與深圳市公安局瓦解有組織跨境信用卡詐騙集團，港方拘11男5女、內地拘17人（包括主腦），涉至少60宗盜卡案、騙款逾180萬元；集團在深圳旅遊熱點盜港人信用卡後即返港購買高價手機轉售套現，警方提醒市民小心保管財物並留意異常簽帳通知。",
+          "time_hkt": "2026-10-24T12:05:00+08:00",
+          "sources": [
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1202546-%E7%8F%BE%E5%A0%B4%E6%9C%AC%E6%B8%AF%E8%AD%A6%E6%96%B9%E8%88%87%E5%85%A7%E5%9C%B0%E5%85%AC%E5%AE%89%E6%89%93%E6%93%8A%E8%B7%A8%E5%A2%83%E4%BF%A1%E7%94%A8%E5%8D%A1%E8%A9%90%E9%A8%99%E9%9B%86%E5%9C%98%E6%8B%9833%E4%BA%BA"
+            },
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875181-20261024.htm"
+            },
+            {
+              "name": "有線新聞",
+              "url": "https://www.i-cable.com/%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A/515956/%E8%AD%A6%E6%96%B9%E8%88%87%E5%85%A7%E5%9C%B0%E5%85%AC%E5%AE%89%E6%89%93%E6%93%8A%E8%B7%A8%E5%A2%83%E7%9B%9C%E7%94%A8%E4%BF%A1%E7%94%A8%E5%8D%A1%E8%A9%90%E9%A8%99%E9%9B%86%E5%9C%98-%E5%85%B1"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "亞殘運硬地滾球BC4級雙人賽　港隊梁育榮及張沅奪金",
+          "summary": "第五屆亞殘運硬地滾球混合BC4級雙打決賽，港隊梁育榮及張沅以9比0擊敗國家隊奪金；港隊硬地滾球項目本屆合共取得兩金三銀三銅。",
+          "time_hkt": "2026-10-24T12:24:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875180-20261024.htm"
+            },
+            {
+              "name": "新浪香港",
+              "url": "https://portal.sina.com.hk/news-hongkong/news-realtime/rthk/2026/10/24/1965331/%E4%BA%9E%E6%AE%98%E9%81%8B%E7%A1%AC%E5%9C%B0%E6%BB%BE%E7%90%83bc4%E7%B4%9A%E9%9B%99%E4%BA%BA%E8%B3%BD%E3%80%80%E6%B8%AF%E9%9A%8A%E6%A2%81%E8%82%B2%E6%A6%AE%E5%8F%8A%E5%BC%B5%E6%B2%85%E5%A5%AA/"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    }
+  ]
+}
