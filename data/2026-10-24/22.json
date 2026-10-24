@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-24",
+  "hour": "22",
+  "updatedAt": "2026-10-24T22:06:00+08:00",
+  "sections": [
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "商務部：堅決反對美國發布新版對外投資限制擬議規則",
+          "summary": "商務部新聞發言人回應美財政部新版對外投資限制擬議規則，指其歧視性擴大對華投資限制、泛化國家安全並違背兩國元首共識，中方嚴重關切、堅決反對並保留採取相應措施的權利，敦促美方停止將經貿問題政治化、武器化。",
+          "time_hkt": "2026-10-24T21:26:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875217-20261024.htm"
+            },
+            {
+              "name": "人民網",
+              "url": "http://finance.people.com.cn/n1/2026/1024/c1004-40820861.html"
+            },
+            {
+              "name": "中新網",
+              "url": "https://www.chinanews.com.cn/cj/2026/10-24/10720450.shtml"
+            },
+            {
+              "name": "商務部",
+              "url": "https://www.mofcom.gov.cn/syxwfb/art/2026/art_fe1a483e92bf48a88409978cc738e62f.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
