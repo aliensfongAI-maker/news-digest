@@ -1,0 +1,85 @@
+{
+  "date": "2026-10-24",
+  "hour": "09",
+  "updatedAt": "2026-10-24T09:10:00+08:00",
+  "sections": [
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "特朗普調整對加國商品50%關稅範圍　膠合板等豁免、閥門地毯等加徵",
+          "summary": "白宮公布總統簽署文件，自美東時間10月30日起調整對加拿大商品加徵50%關稅的適用範圍，膠合板、漂白紙及部分包裝物料等豁免，閥門、地毯等則納入；分析指與中期選舉前爭取緬因州共和黨連任有關。",
+          "time_hkt": "2026-10-24T08:25:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875155-20261024.htm"
+            },
+            {
+              "name": "White House",
+              "url": "https://www.whitehouse.gov/presidential-actions/2026/10/further-modifying-the-scope-of-products-of-canada-subject-to-the-additional-duties-imposed-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-motor-vehicles/"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/c60qk573yzz8o"
+            },
+            {
+              "name": "Supply Chain Dive",
+              "url": "https://www.supplychaindive.com/news/trump-tweaks-canada-tariffs-removing-certain-goods-while-adding-others/833895/"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "澤連斯基：安全保障是談判核心　烏美俄擬11月上旬阿布扎比會談",
+          "summary": "烏克蘭總統澤連斯基在美國智庫哈得孫研究所網上會議上指，切實可靠的安全保障是烏方談判核心，並稱烏美俄三方會談擬於11月前半月在阿聯酋阿布扎比舉行，烏方隨時準備但取決於俄羅斯。",
+          "time_hkt": "2026-10-24T08:27:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875156-20261024.htm"
+            },
+            {
+              "name": "Interfax-Ukraine",
+              "url": "https://en.interfax.com.ua/news/general/1225475.html"
+            },
+            {
+              "name": "Al Arabiya",
+              "url": "https://english.alarabiya.net/News/world/2026/10/23/zelenskyy-says-ukrainian-russian-and-us-negotiators-to-meet-in-november-in-abu-dhabi"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "陳美寶：粵艇南下已開通32個帳戶　料帶動旅遊消費新模式",
+          "summary": "運輸及物流局局長陳美寶在港台《星期六問責》表示，海事處電子業務系統至今已開通32個「粵艇南下」帳戶，首航5艘內地遊艇留港三至四日並上岸消費；又指超過300名內地船長報考本港水域培訓，網約車牌照料11月底至12月初陸續批出。",
+          "time_hkt": "2026-10-24T08:44:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875158-20261024.htm"
+            },
+            {
+              "name": "新浪香港",
+              "url": "https://portal.sina.com.hk/news-hongkong/news-realtime/rthk/2026/10/24/1965168/%e9%99%b3%e7%be%8e%e5%af%b6%ef%bc%9a%e7%b2%b5%e8%89%87%e5%8d%97%e4%b8%8b%e5%b7%b2%e9%96%8b%e9%80%9a32%e5%80%8b%e5%b8%b3%e6%88%b6%e3%80%80%e6%96%99%e5%b8%b6%e4%be%86%e6%97%85%e9%81%8a%e6%b6%88%e8%b2%bb/"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
