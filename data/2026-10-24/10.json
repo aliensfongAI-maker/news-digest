@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-24",
+  "hour": "10",
+  "updatedAt": "2026-10-24T10:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "陳美寶：會對巴士加價申請把關　冀巴士公司推展非票務收入",
+          "summary": "運輸及物流局局長陳美寶在港台《星期六問責》表示，三間專營巴士公司申請加價8.1%至17.7%，當局會嚴謹把關並獨立審視油價、工資及客量等長遠因素；又期望推動車身廣告、轉車站零售及車廠日間充電等非票務收入，並指網約車筆試及格率逾六成、擬11月內公布一萬個車輛配額分配安排。",
+          "time_hkt": "2026-10-24T09:54:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875162-20261024.htm"
+            },
+            {
+              "name": "港台第一台",
+              "url": "https://www.rthk.hk/radio/radio1/programme/accountability/episode/1135326"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "議員稱APEC財長會助本港提升接待高端旅客能力",
+          "summary": "多名立法會議員在電台節目指，日前在港舉行的APEC財長會有助鞏固國際金融中心地位；陳宗彝認為可提升接待高端政要及商務旅客能力並對外宣傳香港，陳振英則指數字基建融資示範有助把本地標準推廣至亞太並促進人民幣交易。",
+          "time_hkt": "2026-10-24T09:07:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875160-20261024.htm"
+            },
+            {
+              "name": "都市日報",
+              "url": "https://metrohk.com.hk/%E6%B8%AF%E8%81%9E/%E8%AD%B0%E5%93%A1%E7%A8%B1APEC%E8%B2%A1%E9%95%B7%E6%9C%83%E5%8A%A9%E6%B8%AF%E6%8F%90%E5%8D%87%E6%8E%A5%E5%BE%85%E9%AB%98%E7%AB%AF%E6%97%85%E5%AE%A2%E8%83%BD%E5%8A%9B-139dc5"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    }
+  ]
+}
