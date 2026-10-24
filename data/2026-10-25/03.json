@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-25",
+  "hour": "03",
+  "updatedAt": "2026-10-25T03:08:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "以色列周二舉行議會選舉　數千人周末特拉維夫參與反政府示威",
+          "summary": "以色列將於星期二舉行議會選舉，數千人星期六在特拉維夫人質廣場集會，要求成立獨立國家調查委員會追究政府未能阻止哈馬斯突襲的責任；多個反對黨領袖出席，民調顯示兩大陣營均難單獨取得議會多數。",
+          "time_hkt": "2026-10-25T02:52:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875224-20261025.htm"
+            },
+            {
+              "name": "Times of Israel",
+              "url": "https://www.timesofisrael.com/thousands-expected-in-tel-aviv-for-sat-night-anti-government-rally-3-days-before-election/"
+            },
+            {
+              "name": "Jerusalem Post",
+              "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-912717"
+            },
+            {
+              "name": "France 24",
+              "url": "https://www.france24.com/en/middle-east/20261024-thousands-take-to-tel-aviv-streets-for-protests-against-netanyahu"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "曼城作客不敵維拉英超七連勝告終　阿仙奴挫愛華頓追至同分",
+          "summary": "英超榜首曼城作客1:2不敵阿士東維拉，尼高拉積遜梅開二度令藍月亮開季七連勝中止；阿仙奴主場2:0擊敗愛華頓，與曼城同得21分並列榜首。",
+          "time_hkt": "2026-10-25T02:39:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875223-20261025.htm"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/sport/football/live/cj62ynzwg4pet"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/premier-league-scores-man-city-arseanl-5fab3cbcb8217ea9fee4f0155632434b"
+            },
+            {
+              "name": "ESPN",
+              "url": "https://www.espn.com/soccer/story/_/id/50220422/premier-league-live-updates-aston-villa-manchester-city-arsenal-everton-chelsea-tottenham-hotspur"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    }
+  ]
+}
