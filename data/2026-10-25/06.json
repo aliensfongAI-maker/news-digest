@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-25",
+  "hour": "06",
+  "updatedAt": "2026-10-25T06:08:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "特朗普為中期選舉提前投票　共和黨力爭保住國會兩院控制權",
+          "summary": "美國中期選舉下月3日舉行，總統特朗普星期六在佛羅里達州與夫人梅拉尼婭提前投票後前往佐治亞州競選；民調顯示共和黨或失眾議院甚至參議院控制權，影響其餘下任期立法議程。",
+          "time_hkt": "2026-10-25T05:23:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875228-20261025.htm"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/trump-voting-florida-midterms-2195b4226316fa8cb13b875f08d5df88"
+            },
+            {
+              "name": "CBS News",
+              "url": "https://www.cbsnews.com/news/trump-melania-vote-early-in-person-florida-saturday/"
+            },
+            {
+              "name": "PBS News",
+              "url": "https://www.pbs.org/newshour/politics/trump-casts-his-midterm-ballot-early-in-florida"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
