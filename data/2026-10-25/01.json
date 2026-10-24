@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-25",
+  "hour": "01",
+  "updatedAt": "2026-10-25T01:08:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "法國多處再有反政府示威　部分城市演變成警民衝突",
+          "summary": "法國星期六全國再有反政府示威，里昂、馬賽等地警方動用催淚氣體；內政部估計約41萬人參與、拘捕135人，並部署約7萬名警力，巴黎羅浮宮等文化場所關閉。",
+          "time_hkt": "2026-10-25T00:55:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875220-20261025.htm"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/france-protests-paris-unrest-ad2fb9206e72e5d1b4ae43fdf7aa96a9"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/live/cq1j38x0n4zrt"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "澤連斯基：星鏈與星盾衛星通信速度已恢復至受限前水平",
+          "summary": "烏克蘭總統澤連斯基表示，「星鏈」和「星盾」運行速度已恢復至受限前水平，足以應付前線、後勤及防禦無人機襲擊需求；通信恢復工作於星期六凌晨啟動並經防長確認。",
+          "time_hkt": "2026-10-25T00:10:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875218-20261025.htm"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/russia-ukraine-war-starlink-drones-a3a0139dfc23365550306dd66fe43daa"
+            },
+            {
+              "name": "CBS News",
+              "url": "https://www.cbsnews.com/news/ukraine-starlink-drone-spacex-musk-speed-restriction/"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "巴西周日舉行總統選舉第二輪投票　盧拉與弗拉維奧支持度接近",
+          "summary": "巴西星期日舉行總統選舉第二輪投票，現任總統盧拉與前總統博爾索納羅之子弗拉維奧對決；民調顯示雙方支持度接近，兩人星期五晚最後一次電視辯論聚焦生活成本與治安等議題。",
+          "time_hkt": "2026-10-25T00:13:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875219-20261025.htm"
+            },
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/24/segundo-turno-das-eleicoes-sera-neste-domingo-25.ghtml"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    }
+  ]
+}
