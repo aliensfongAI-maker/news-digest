@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-24",
+  "hour": "14",
+  "updatedAt": "2026-10-24T14:01:12+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "反恐教育專題展開幕　鄧炳強冀提升大眾防範意識應變能力",
+          "summary": "「反恐怖主義教育專題展覽」在香港歷史博物館開幕，保安局局長鄧炳強主禮並強調恐怖主義無分國界，呼籲市民「見疑即報」、提防可疑爆炸品，並以安全路線逃生或掩護，提升全民防範與應變能力。",
+          "time_hkt": "2026-10-24T13:43:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875186-20261024.htm"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1202554-%E9%A6%99%E6%B8%AF%E6%AD%B7%E5%8F%B2%E5%8D%9A%E7%89%A9%E9%A4%A8%E6%96%B0%E5%A2%9E%E5%8F%8D%E6%81%90%E6%80%96%E4%B8%BB%E7%BE%A9%E6%95%99%E8%82%B2%E5%B0%88%E9%A1%8C%E5%B1%95%E8%A6%BD%E9%84%A7%E7%82%B3%E5%BC%B7%E7%AD%89%E5%87%BA%E5%B8%AD%E9%96%8B%E5%B9%95%E7%A6%AE"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "亞殘運女子佩劍團體賽　港隊奪銀牌",
+          "summary": "第五屆亞殘運煞科日，余翠怡、林嘉雯、湯雅婷及鍾婉萍組成的港隊於女子佩劍團體決賽以16比30不敵國家隊奪銀；劍擊隊今屆賽事已取得3銀4銅。",
+          "time_hkt": "2026-10-24T13:07:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875183-20261024.htm"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/60403131/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9E%E6%AE%98%E9%81%8B-%E6%B8%AF%E9%9A%8A%E8%BC%AA%E6%A4%85%E5%A5%B3%E4%BD%A9%E5%9C%98%E9%AB%94%E6%B7%BB%E9%8A%80-%E4%BD%99%E7%BF%A0%E6%80%A1%E9%80%A3%E7%BA%8C6%E6%97%A5%E7%99%BB%E9%A0%92%E7%8D%8E%E5%8F%B0"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "約旦有東正教教堂發生槍擊案至少七死　全國哀悼三日",
+          "summary": "約旦南部卡拉克省一座東正教教堂在葬禮期間遭槍手襲擊，至少7人死亡、數十人受傷，當局定性為恐襲並全國哀悼三日；國王阿卜杜拉二世表明將以最嚴厲手段打擊威脅。",
+          "time_hkt": "2026-10-24T13:09:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875184-20261024.htm"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1202507-%E7%B4%84%E6%97%A6%E5%A4%9A%E5%90%8D%E6%A7%8D%E6%89%8B%E5%90%91%E6%95%99%E5%A0%82%E6%96%BD%E8%A5%B2%E6%9C%80%E5%B0%917%E6%AD%BB%E7%95%B6%E5%B1%80%E5%AE%9A%E6%80%A7%E7%82%BA%E6%81%90%E8%A5%B2"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/jordan-gunmen-greek-orthodox-church-deaths-karak-19599ce75b9ab6749a1e1bf2ff66f2ab"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
