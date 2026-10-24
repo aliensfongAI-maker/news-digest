@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-24",
+  "hour": "16",
+  "updatedAt": "2026-10-24T16:03:18+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "李家超讚揚港隊亞殘運表現卓越　令全港市民敬佩自豪",
+          "summary": "行政長官李家超祝賀港隊於第五屆亞殘運取得3金14銀24銅共41面獎牌，硬地滾球創歷屆最佳；他指政府上調殘疾精英運動員資助並首設「成年隊」級別，出色成績反映政策方向正確。",
+          "time_hkt": "2026-10-24T15:18:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875195-20261024.htm"
+            },
+            {
+              "name": "政府新聞處",
+              "url": "https://www.info.gov.hk/gia/general/202610/24/P2026102400471p.htm"
+            },
+            {
+              "name": "商業電台",
+              "url": "https://www.881903.com/news/sports/2656329"
+            },
+            {
+              "name": "點新聞",
+              "url": "https://www.dotdotnews.com/a/202610/24/AP6adc5f6fe4b02fd1c5f57356.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "羅淑佩恭賀「世一」組合奪港隊亞殘運第三金　感謝所有運動員付出",
+          "summary": "文化體育及旅遊局局長羅淑佩恭賀梁育榮、張沅奪硬地滾球混合BC4級雙人金牌，並祝賀劍擊及硬地滾球隊伍於煞科日再添一銀三銅；港隊今屆累計3金14銀24銅共41面獎牌。",
+          "time_hkt": "2026-10-24T15:13:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875194-20261024.htm"
+            },
+            {
+              "name": "政府新聞處",
+              "url": "https://www.info.gov.hk/gia/general/202610/24/P2026102400484p.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "陳茂波：五年規劃以北都作創科產業載體　推動教育科技產業一體化",
+          "summary": "財政司司長陳茂波在「創新科技嘉年華2026」開幕致辭，指五年規劃以北部都會區作創科產業載體，推動教育、科技、人才與產業銜接，並提及航天專區展示港研「天韻相機」於天宮空間站應用。",
+          "time_hkt": "2026-10-24T15:58:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875197-20261024.htm"
+            },
+            {
+              "name": "商業電台",
+              "url": "https://www.881903.com/news/local/2656331"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    }
+  ]
+}
