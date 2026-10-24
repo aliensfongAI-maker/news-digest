@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-25",
+  "hour": "05",
+  "updatedAt": "2026-10-25T05:08:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "俄烏官員稱將為奧列什基人道主義行動同步停火",
+          "summary": "俄羅斯人權事務專員蘭特拉托娃表示，已與烏方人權專員網上會談，雙方將按約定在赫爾松州奧列什基同步停火，以推進人道援助；美方早前亦稱第一夫人促成當地局部停火。",
+          "time_hkt": "2026-10-25T04:50:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875227-20261025.htm"
+            },
+            {
+              "name": "新華社",
+              "url": "https://english.news.cn/20261025/0be0b15e6c354b5084cc751a8916b99e/c.html"
+            },
+            {
+              "name": "Hromadske",
+              "url": "https://hromadske.ua/en/war/273075-ukraine-russia-agree-to-ceasefire-in-occupied-oleshky-for-humanitarian-mission-starting-oct-27"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "胡塞武裝稱一日內七襲沙特目標　利雅得機場周日恢復航班",
+          "summary": "也門胡塞武裝聲稱以導彈及無人機襲擊包括利雅得在內的沙特機場與設施，回應聯軍空襲，並否認攻擊麥加麥地那；利雅得哈立德國王國際機場宣布星期日恢復航班升降。",
+          "time_hkt": "2026-10-25T04:34:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875226-20261025.htm"
+            },
+            {
+              "name": "Times of Israel",
+              "url": "https://www.timesofisrael.com/liveblog_entry/saudi-arabia-says-riyadh-airport-to-resume-flights-on-sunday-after-two-week-closure-amid-houthi-attacks/"
+            },
+            {
+              "name": "Roya News",
+              "url": "https://en.royanews.tv/news/75280"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    }
+  ]
+}
