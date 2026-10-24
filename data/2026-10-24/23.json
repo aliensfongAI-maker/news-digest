@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-24",
+  "hour": "23",
+  "updatedAt": "2026-10-24T23:05:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "中國殲-20設計人員提出將大型雷達陣列嵌入機翼",
+          "summary": "南華早報報道，中國軍機設計人員於學術期刊提出將大型天線陣列整合入機翼、並以機動與無人機編隊擴展預警覆蓋的方案；該構想刊於《測控技術》10月10日網上版，並未確認已裝配於殲-20。",
+          "time_hkt": "2026-10-24T22:00:00+08:00",
+          "sources": [
+            {
+              "name": "南華早報",
+              "url": "https://www.scmp.com/news/china/science/article/3371706/chinas-j-20-stealth-jet-designers-plan-put-powerful-radar-aircraft-wing"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "加國Couche-Tard據報出價最高80億美元收購美國便利店Cumberland Farms",
+          "summary": "路透引述《泰晤士報》報道，加拿大Alimentation Couche-Tard擬以75億至80億美元收購美國便利店營運商Cumberland Farms（前稱EG Group），低於對方擬上市估值約90億美元；雙方未即時回應。",
+          "time_hkt": "2026-10-24T22:33:00+08:00",
+          "sources": [
+            {
+              "name": "路透社",
+              "url": "https://world.newsx.com/business-news/couche-tard-proposes-up-to-8-billion-offer-for-cumberland-farms-the-times-reports-246995/"
+            },
+            {
+              "name": "Boursorama",
+              "url": "https://www.boursorama.com/bourse/actualites/couche-tard-propose-une-offre-pouvant-atteindre-8-milliards-de-dollars-pour-cumberland-farms-rapporte-le-times-9cf54fb3b9ba45e63870f5eb175c4bea"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "安進Imdelltra聯用阿斯利康Imfinzi　廣泛期小細胞肺癌死亡風險降58%",
+          "summary": "歐腫瘤學會會議公布第三期試驗完整數據，安進Imdelltra（tarlatamab）與阿斯利康Imfinzi作一線維持治療，較單用Imfinzi將死亡風險降低58%，中位總生存期21.1個月對12.7個月；結果亦刊於《新英格蘭醫學雜誌》。",
+          "time_hkt": "2026-10-24T22:30:00+08:00",
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/24/amgen-imdelltra-lung-cancer-data.html"
+            },
+            {
+              "name": "路透社",
+              "url": "https://wkzo.com/2026/10/24/amgen-drug-combined-with-immunotherapy-extends-survival-in-lung-cancer-trial/"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
