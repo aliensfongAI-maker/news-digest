@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-25",
+  "hour": "07",
+  "updatedAt": "2026-10-25T07:08:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "奧巴馬為民主黨中期選舉拉票　抨擊特朗普施政「混亂與殘酷」",
+          "summary": "前美國總統奧巴馬星期六在俄亥俄州克利夫蘭為民主黨候選人助選，指特朗普兩年施政充斥混亂、殘酷、腐敗與無能，並將生活成本上升與「無人要求的戰爭」歸咎於其錯誤決定，呼籲選民在11月3日中期選舉表態。",
+          "time_hkt": "2026-10-25T06:50:00+08:00",
+          "sources": [
+            {
+              "name": "南華早報",
+              "url": "https://www.scmp.com/news/world/united-states-canada/article/3372042/obama-blasts-trumps-chaos-and-cruelty-while-campaigning-democrats"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/michigan-ohio-senate-elsayed-obama-rogers-midterms-bbaa09ad9105c5076e0f67d88cb85291"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/cmj6jwe1j1gjo"
+            },
+            {
+              "name": "NBC News",
+              "url": "https://www.nbcnews.com/politics/2026-election/obama-trump-chaos-cruelty-midterm-election-pitch-acton-ramaswamy-rcna605223"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
