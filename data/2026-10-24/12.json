@@ -1,0 +1,95 @@
+{
+  "date": "2026-10-24",
+  "hour": "12",
+  "updatedAt": "2026-10-24T12:10:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "海關首三季檢獲逾6億支私煙　當中兩億轉運至其他地區",
+          "summary": "海關關長陳子達表示，今年首三季檢獲超過6億支私煙、與去年全年相若，當中逾2億支並非以本港為目的地、屬經港轉運而被截獲；他又澄清旅客超額免稅煙多以現場罰款處理，與倉庫或大量走私案則一律檢控。",
+          "time_hkt": "2026-10-24T11:03:00+08:00",
+          "sources": [
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1202540-%E6%B5%B7%E9%97%9C%E6%8C%87%E9%A6%96%E4%B8%89%E5%AD%A3%E5%85%B1%E6%AA%A2%E7%8D%B2%E5%85%AD%E5%84%84%E6%94%AF%E7%A7%81%E7%85%99%E8%B6%85%E8%B6%8A%E5%8E%BB%E5%B9%B4%E7%B8%BD%E6%95%B8"
+            },
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875171-20261024.htm"
+            },
+            {
+              "name": "新浪香港",
+              "url": "https://portal.sina.com.hk/news-hongkong/news-realtime/rthk/2026/10/24/1965250/%E6%B5%B7%E9%97%9C%E9%A6%96%E4%B8%89%E5%AD%A3%E6%AA%A2%E7%8D%B2%E9%80%BE6%E5%84%84%E6%94%AF%E7%A7%81%E7%85%99%E3%80%80%E7%95%B6%E4%B8%AD%E5%85%A9%E5%84%84%E8%BD%89%E9%81%8B%E8%87%B3%E5%85%B6%E4%BB%96/"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "亞殘運硬地滾球項目　港隊添兩面銅牌",
+          "summary": "第五屆亞殘運硬地滾球銅牌戰，港隊陳柏麟、龍子健及楊曉林在混合BC1/BC2級團體賽以7比5擊敗南韓奪銅；謝德樺及陳可欣則在混合BC3級雙人賽以3比2擊敗泰國再添一銅。",
+          "time_hkt": "2026-10-24T11:33:00+08:00",
+          "sources": [
+            {
+              "name": "東網",
+              "url": "https://hk.on.cc/hk/bkn/cnt/sport/20261024/bkn-20261024113334617-1024_00882_001.html"
+            },
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875176-20261024.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "陳美寶：推動成立香港海事學院　開創「校企協作」育才新模式",
+          "summary": "運輸及物流局局長陳美寶表示，今年《施政報告》將推動成立香港海事學院，與海內外院校及國際航運企業協作培育人才；並透露香港國際航空學院正與中國商飛等研擬C919相關專業課程。",
+          "time_hkt": "2026-10-24T11:04:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875170-20261024.htm"
+            },
+            {
+              "name": "新浪香港",
+              "url": "https://portal.sina.com.hk/news-hongkong/news-realtime/rthk/2026/10/24/1965245/%E9%99%B3%E7%BE%8E%E5%AF%B6%EF%BC%9A%E6%8E%A8%E5%8B%95%E6%88%90%E7%AB%8B%E9%A6%99%E6%B8%AF%E6%B5%B7%E4%BA%8B%E5%AD%B8%E9%99%A2%E3%80%80%E9%96%8B%E5%89%B5%E3%80%8C%E6%A0%A1%E4%BC%81%E5%8D%94%E4%BD%9C/"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "美防長稱已將大學校園內孔子學院列為對美國國家安全的威脅",
+          "summary": "美國防長赫格塞思稱，國防部已將美大學校園內由中國資助的孔子學院列為國安威脅，指30所大學出現80個換名宣傳據點、過去兩個月已系統性解除；中方此前曾批評美方將教育交流項目政治化。",
+          "time_hkt": "2026-10-24T11:33:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875174-20261024.htm"
+            },
+            {
+              "name": "CNA",
+              "url": "https://www.channelnewsasia.com/east-asia/pentagon-designates-china-funded-confucius-institutes-us-national-security-threat-6488301"
+            },
+            {
+              "name": "聯合早報",
+              "url": "https://www.zaobao.com.sg/news/china/story20261024-9886973"
+            },
+            {
+              "name": "新浪香港",
+              "url": "https://portal.sina.com.hk/news-intl/rthk/2026/10/24/1965302/%E7%BE%8E%E9%98%B2%E9%95%B7%E7%A8%B1%E5%B7%B2%E5%B0%87%E5%A4%A7%E5%AD%B8%E6%A0%A1%E5%9C%92%E5%85%A7%E5%AD%94%E5%AD%90%E5%AD%B8%E9%99%A2%E5%88%97%E7%82%BA%E5%B0%8D%E7%BE%8E%E5%9C%8B%E5%9C%8B%E5%AE%B6/"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
