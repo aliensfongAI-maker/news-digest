@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-25",
+  "hour": "00",
+  "updatedAt": "2026-10-25T00:05:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "男子涉嫌在石硤尾公園流浪貓食盆摻老鼠藥被捕　另涉藏有攻擊性武器",
+          "summary": "南華早報報道，警方接報一名34歲男子涉嫌在石硤尾公園網球場附近流浪貓餵食處混入老鼠藥，現場檢獲疑似毒鼠藥及約14厘米水果刀；該男子以涉嫌殘酷對待動物及管有攻擊性武器被捕扣查，暫未有貓隻受傷。",
+          "time_hkt": "2026-10-24T23:47:00+08:00",
+          "sources": [
+            {
+              "name": "南華早報",
+              "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3372037/man-arrested-over-suspected-rat-poison-stray-cat-food-kowloon-park"
+            },
+            {
+              "name": "英文虎報",
+              "url": "https://www.thestandard.com.hk/news/article/346390/Night-jogger-arrested-after-volunteers-catch-suspected-serial-cat-poisoner-in-Shek-Kip-Mei-Park"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/sc/1202585-34yomanarrestedforallegedlyplacingratpoisonintocatfood"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
