@@ -1,0 +1,75 @@
+{
+  "date": "2026-10-24",
+  "hour": "19",
+  "updatedAt": "2026-10-24T19:05:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "兩名機場入境內地男子行李分別被檢懷疑毒品市值共約437萬",
+          "summary": "海關一連兩日在機場偵破兩宗入境旅客販毒案，檢獲約5公斤懷疑大麻花及5.4公斤懷疑可卡因，市值共約437萬元；37歲男子由曼谷經胡志明市抵港、46歲男子由聖保羅經蘇黎世抵港，兩人各被控一項販運危險藥物罪，下周一西九龍裁判法院提堂。",
+          "time_hkt": "2026-10-24T18:26:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875205-20261024.htm"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403255/%E6%9B%BC%E8%B0%B7%E5%8F%8A%E5%B7%B4%E8%A5%BF%E6%8A%B5%E6%B8%AF%E5%85%A9%E5%85%A7%E5%9C%B0%E6%BC%A2%E6%A9%9F%E5%A0%B4%E8%A2%AB%E6%8D%95-%E6%B5%B7%E9%97%9A%E6%AA%A2-437%E8%90%AC%E5%A4%A7%E9%BA%BB%E8%8A%B1%E5%8F%AF%E5%8D%A1%E5%9B%A0"
+            },
+            {
+              "name": "文匯報",
+              "url": "https://www.wenweipo.com/a/202610/24/AP6adc83a0e4b0fa89498a2d18.html"
+            },
+            {
+              "name": "政府新聞處",
+              "url": "https://www.info.gov.hk/gia/general/202610/24/P2026102400566.htm"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "第五屆亞殘運閉幕　湯雅婷擔任中國香港代表團持旗手進場",
+          "summary": "第五屆亞殘運傍晚在名古屋舉行閉幕禮，中國香港代表團由女子殘疾人劍擊代表湯雅婷擔任持旗手進場；愛知名古屋大會將亞殘奧委會旗幟交予下屆主辦城市多哈，港隊今屆共奪3金14銀24銅共41面獎牌。",
+          "time_hkt": "2026-10-24T18:35:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875206-20261024.htm"
+            },
+            {
+              "name": "中新網",
+              "url": "https://www.chinanews.com.cn/ty/2026/10-24/10720395.shtml"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "救災物資陸續運往西藏那曲地震災區　逾萬人入住帳篷",
+          "summary": "西藏那曲市巴青縣7級地震截至今日上午11時最少16人遇難、76人受傷；救災物資及大型無人機已抵災區，巴青縣共搭建1830個帳篷、逾12400人入住，主幹道暢通，瑪如鄉安置中心已通電，崗切鄉部分區域仍未通電。",
+          "time_hkt": "2026-10-24T18:49:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875208-20261024.htm"
+            },
+            {
+              "name": "中國經濟網",
+              "url": "http://www.ce.cn/xwzx/shgj/gdxw/202610/t20261024_3269967.shtml"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
