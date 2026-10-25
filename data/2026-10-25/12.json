@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-25",
+  "hour": "12",
+  "updatedAt": "2026-10-25T12:10:00+08:00",
+  "sections": [
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "陳茂波︰財長會在港舉行具多方面意義　外賓反映香港市面暢旺",
+          "summary": "財政司司長陳茂波於電台節目表示，出席亞太經合組織APEC財長會議的外賓普遍覺得香港市面暢旺、氣氛積極，會議有助政府了解海外政商界需要並發揮融資與專業服務角色；他又指零售指數已連升16個月，住宅及商業物業回穩，有助消費信心。",
+          "time_hkt": "2026-10-25T11:15:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875240-20261025.htm"
+            },
+            {
+              "name": "METROHK",
+              "url": "https://metrohk.com.hk/%E6%B8%AF%E8%81%9E/%E9%99%B3%E8%8C%82%E6%B3%A2%E6%8C%87%E8%B2%A1%E9%95%B7%E6%9C%83%E8%AD%B0%E5%87%B8%E9%A1%AF%E9%A6%99%E6%B8%AF%E5%B8%82%E9%9D%A2%E6%9A%A2%E6%97%BA-66ecce"
+            },
+            {
+              "name": "香港商報",
+              "url": "https://www.hkcd.com.hk/hkcdweb/content/2026/10/25/content_8781680.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
