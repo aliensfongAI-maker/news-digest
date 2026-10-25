@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-26",
+  "hour": "05",
+  "updatedAt": "2026-10-26T05:10:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "巴西最高法院延長總統選舉次輪投票時間兩小時",
+          "summary": "巴西總統選舉次輪投票選情緊湊，最高法院應盧拉與弗拉維奧兩陣營要求，將全國投票時間延長兩小時至當地晚上7時；盧拉陣營指多市削減選舉日公共交通影響投票，弗拉維奧陣營則以天氣惡劣為由提出延長。",
+          "time_hkt": "2026-10-26T04:30:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875289-20261026.htm"
+            },
+            {
+              "name": "G1",
+              "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/zanin-prorroga-votacao.ghtml"
+            },
+            {
+              "name": "O Globo",
+              "url": "https://oglobo.globo.com/politica/noticia/2026/10/25/zanin-do-stf-determina-extensao-da-votacao-em-todo-o-pais-ate-as-19h-apos-problemas-no-transporte.ghtml"
+            },
+            {
+              "name": "Anadolu Agency",
+              "url": "https://www.aa.com.tr/en/politics/brazil-supreme-court-extends-presidential-voting-by-2-hours/4100472"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
