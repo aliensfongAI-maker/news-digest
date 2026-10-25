@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-25",
+  "hour": "23",
+  "updatedAt": "2026-10-25T23:01:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "「一帶一路」綠色發展國際聯盟第二次會員大會在港舉行",
+          "summary": "聯盟第二次會員大會周日在港舉行，環境保護署署長徐浩光當選聯盟理事，信和集團及港交所獲接納為新會員；當局指已設立綠色發展合作平台及培訓中心，明天起舉辦首次於內地以外舉行的綠色創新大會。",
+          "time_hkt": "2026-10-25T22:56:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875275-20261025.htm"
+            },
+            {
+              "name": "政府新聞處",
+              "url": "https://www.info.gov.hk/gia/general/202610/25/P2026102300757.htm"
+            },
+            {
+              "name": "文匯報",
+              "url": "https://www.wenweipo.com/a/202610/25/AP6ade04bbe4b0fa89498a5162.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "海關機場檢2.2公斤懷疑可卡因市值約130萬元　男子被捕",
+          "summary": "海關周日在香港國際機場截查一名由馬來西亞檳城抵港的39歲內地男旅客，於隨身行李檢獲約2.2公斤懷疑可卡因，估計市值約130萬元；男子被控販運危險藥物罪，周一在西九龍裁判法院提堂。",
+          "time_hkt": "2026-10-25T22:40:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875274-20261025.htm"
+            },
+            {
+              "name": "政府新聞處",
+              "url": "https://www.info.gov.hk/gia/general/202610/25/P2026102500632.htm"
+            },
+            {
+              "name": "商業電台",
+              "url": "https://www.881903.com/news/local/2656443"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    }
+  ]
+}
