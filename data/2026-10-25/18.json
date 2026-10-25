@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-25",
+  "hour": "18",
+  "updatedAt": "2026-10-25T18:05:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "業界指凌晨一度有大批跨境私家車使用皇崗口岸致擠塞",
+          "summary": "昨晚萬聖節活動及演唱會後，新皇崗口岸一度出現長長車龍；業界指持其他口岸過境牌照的私家車凌晨可轉用皇崗是擠塞原因之一，建議大型活動高峰設巴士及旅遊巴優先車道，並提早實施交通管制。",
+          "time_hkt": "2026-10-25T17:15:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875254-20261025.htm"
+            },
+            {
+              "name": "新浪香港",
+              "url": "https://portal.sina.com.hk/news-hongkong/news-realtime/rthk/2026/10/25/1966198/%e6%a5%ad%e7%95%8c%e6%8c%87%e5%87%8c%e6%99%a8%e4%b8%80%e5%ba%a6%e6%9c%89%e5%a4%a7%e6%89%b9%e8%b7%a8%e5%a2%83%e7%a7%81%e5%ae%b6%e8%bb%8a%e4%bd%bf%e7%94%a8%e7%9a%87%e5%b4%97%e5%8f%a3%e5%b2%b8%e8%87%b4/"
+            },
+            {
+              "name": "Now新聞",
+              "url": "https://news.now.com/home/local/player?newsId=667033"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "政府推廣山嶺活動安全　民安隊將試驗以無人機運送急救器材",
+          "summary": "民安隊在荃灣舉辦山嶺活動安全推廣日，表示已在搜救中使用無人機，並將透過低空經濟監管沙盒試行巡邏、偵測山火，以及運送自動體外心臟除顫器等急救器材，以把握黃金救援時機。",
+          "time_hkt": "2026-10-25T17:59:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875257-20261025.htm"
+            },
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202610/25/P2026102300501.htm"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    }
+  ]
+}
