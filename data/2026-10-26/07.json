@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-26",
+  "hour": "07",
+  "updatedAt": "2026-10-26T07:04:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "巴西總統選舉次輪投票結束　點票展開料數小時內有結果",
+          "summary": "巴西總統選舉第二輪投票經最高法院延長兩小時後結束並展開點票，現任總統盧拉與弗拉維奧·博爾索納羅選情膠著；雙方曾以交通及天氣等原因要求延時，點票一度暫停後恢復，預計數小時內有結果。",
+          "time_hkt": "2026-10-26T06:33:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875292-20261026.htm"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/brazil-election-lula-bolsonaro-runoff-vote-president-e2c9fe8fc4aa3e3675b9a8ec15405d93"
+            },
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula"
+            },
+            {
+              "name": "Reuters",
+              "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/10/25/tse-divulga-primeira-parcial-de-resultados-apesar-de-extensao-de-horario-de-votacao.htm"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
