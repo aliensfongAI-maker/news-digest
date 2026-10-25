@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-25",
+  "hour": "16",
+  "updatedAt": "2026-10-25T16:00:11+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "陳國基視察皇崗及深圳灣口岸　已指示保安局確保口岸運作安全有序",
+          "summary": "政務司司長陳國基今早完成東莞行程後回港途中視察深圳灣及皇崗口岸，表示已指示保安局確保口岸安全高效有序運作，並要求運輸及物流局與公共交通營辦商協調，按客流靈活加開櫃檯及調配車輛。",
+          "time_hkt": "2026-10-25T15:12:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875249-20261025.htm"
+            },
+            {
+              "name": "新浪香港",
+              "url": "https://portal.sina.com.hk/news-hongkong/news-realtime/rthk/2026/10/25/1966125/%e9%99%b3%e5%9c%8b%e5%9f%ba%e8%a6%96%e5%af%9f%e7%9a%87%e5%b4%97%e5%8f%8a%e6%b7%b1%e5%9c%b3%e7%81%a3%e5%8f%a3%e5%b2%b8%e3%80%80%e5%b7%b2%e6%8c%87%e7%a4%ba%e4%bf%9d%e5%ae%89%e5%b1%80%e7%a2%ba%e4%bf%9d/"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "意國多地周六有民眾上街抗議生活成本上漲等　部分引發警民衝突",
+          "summary": "意大利羅馬、米蘭、都靈、博洛尼亞等地周六有數千人上街抗議生活成本上漲及軍備增加，部分示威演變成警民衝突；警方稱拘捕9人並短暫扣留371人，內政部長強調已在重點城市加強警力。",
+          "time_hkt": "2026-10-25T15:06:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875248-20261025.htm"
+            },
+            {
+              "name": "CNA",
+              "url": "https://www.channelnewsasia.com/world/thousands-protest-in-italy-under-heavy-security-6489781"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "巴塞羅那周六晚爆發示威　街道有設施被縱火焚燒　約百人被捕",
+          "summary": "西班牙巴塞羅那周六晚有蒙面示威者在加泰羅尼亞廣場一帶搶掠店舖並縱火焚燒街道設施，全市逾30處起火、14間商舖遭破壞或洗劫，警方拘捕約100人（約四分一為未成年）；市長表明將追究法律責任。",
+          "time_hkt": "2026-10-25T15:33:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875252-20261025.htm"
+            },
+            {
+              "name": "GMA News",
+              "url": "https://www.gmanetwork.com/news/topstories/world/1007064/100-arrested-in-barcelona-after-anti-system-rioters-loot-shops-set-fires/story/"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "布魯塞爾有反政府示威　警方施放催淚彈驅散　數人被拘",
+          "summary": "比利時首都布魯塞爾周六有數以百計以年輕人為主的示威者要求增加教育經費並指控警方過度使用暴力，其後與警方衝突；警方施放催淚彈及胡椒噴劑驅散，並以擾亂秩序及持有違禁武器等理由拘留9人。",
+          "time_hkt": "2026-10-25T15:36:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875251-20261025.htm"
+            },
+            {
+              "name": "The Star",
+              "url": "https://www.thestar.com.my/news/world/2026/10/25/belgian-protesters-and-police-skirmish-at-anti-government-demonstrations-in-brussels"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "葡萄牙多地周末續有示威及集會　要求政府應對住房危機",
+          "summary": "葡萄牙里斯本、波爾圖、科英布拉等城市周六繼續有大規模示威及集會，要求停止無替代方案下的驅逐、增加公共房屋、實施租金上限及將空置房產用作住房；相關房屋抗議已持續約兩星期。",
+          "time_hkt": "2026-10-25T15:16:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875250-20261025.htm"
+            },
+            {
+              "name": "Euronews",
+              "url": "https://pt.euronews.com/2026/10/24/portugal-manifestacoes-pela-habitacao-em-varias-cidades"
+            }
+          ],
+          "rank": 4
+        }
+      ]
+    }
+  ]
+}
