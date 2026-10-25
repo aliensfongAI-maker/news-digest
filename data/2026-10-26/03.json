@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-26",
+  "hour": "03",
+  "updatedAt": "2026-10-26T03:08:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "特朗普：美俄烏三方會談很快舉行　俄方願在11月4日後恢復談判",
+          "summary": "美國總統特朗普表示有關烏克蘭問題的美俄烏三方會談很快舉行，認為雙方均有意達成協議；俄總統助理烏沙科夫稱俄方願在11月4日後恢復專家層面初步接觸，並指正籌備亞太經合組織深圳峰會期間俄中美首腦會談。",
+          "time_hkt": "2026-10-26T02:33:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875285-20261026.htm"
+            },
+            {
+              "name": "央視／國際在線",
+              "url": "https://news.cri.cn/20261026/e1db4583-8d4e-923e-d19e-8b52dc243ae0.html"
+            },
+            {
+              "name": "俄新社",
+              "url": "https://ria.ru/20261025/tramp-2126914949.html"
+            },
+            {
+              "name": "新華社",
+              "url": "https://www.news.cn/world/20261025/ca7578d9146c41639a517c3d05e2c96d/c.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "蒙古考慮就草原火警向涉事日企索賠",
+          "summary": "日本電信商KDDI子公司高層在蒙古自然保護區活動引致大規模草原火警後，蒙古副總理表示僅道歉不足夠，政府將調查並考慮向相關責任方索賠；KDDI已承認火警與子公司莫比康日籍高層活動有關並公開致歉。",
+          "time_hkt": "2026-10-26T02:45:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875286-20261026.htm"
+            },
+            {
+              "name": "央視／國際在線",
+              "url": "https://news.cri.cn/20261025/5ddda9c3-ce61-bf52-baa3-d2b97118952a.html"
+            },
+            {
+              "name": "日本經濟新聞",
+              "url": "https://www.nikkei.com/article/DGXZQOGM242NX0U6A021C2000000/"
+            },
+            {
+              "name": "時事通信",
+              "url": "https://www.jiji.com/jc/article?g=int&k=2026102400322"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    }
+  ]
+}
