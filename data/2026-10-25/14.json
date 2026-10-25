@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-25",
+  "hour": "14",
+  "updatedAt": "2026-10-25T14:05:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "馬斯克指烏軍方用星鏈操控攻擊型無人機　從未被允許亦不應被允許",
+          "summary": "SpaceX行政總裁馬斯克表示烏克蘭軍方利用民用「星鏈」操控攻擊型無人機違反服務條款，相關漏洞上周已堵上；他強調「星盾」由美國政府控制，並稱若關閉星鏈烏克蘭前線將立即崩潰。",
+          "time_hkt": "2026-10-25T13:17:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875246-20261025.htm"
+            },
+            {
+              "name": "聯合早報",
+              "url": "https://www.zaobao.com.sg/news/world/story20261025-9890825"
+            },
+            {
+              "name": "路透社",
+              "url": "https://www.japantimes.co.jp/news/2026/10/25/world/musk-starlink-ukraine-us-trump/"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
