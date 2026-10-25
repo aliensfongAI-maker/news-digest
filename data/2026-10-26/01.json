@@ -1,0 +1,107 @@
+{
+  "date": "2026-10-26",
+  "hour": "01",
+  "updatedAt": "2026-10-26T01:08:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "警方稱現時前往新皇崗口岸交通非常繁忙　正實施人群及交通管制",
+          "summary": "警方表示大量旅客正前往新皇崗口岸港方大樓，連接道路擠塞，現正實施人群及交通管制，車輛平均約須輪候25分鐘才到落客區，呼籲預留充裕時間並遵從現場指示。",
+          "time_hkt": "2026-10-26T00:56:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875281-20261026.htm"
+            },
+            {
+              "name": "商業電台",
+              "url": "https://www.881903.com/news/local/2656451"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "藥械監管中心年底成立　總監李自力冀建立獨立評審能力",
+          "summary": "「香港藥物及醫療器械監督管理中心」預計今年底成立，衞生署藥械監管總監李自力期望組建以臨床審評為核心的跨專業團隊，建立獨立評審能力，並促進科創落地為醫療產品。",
+          "time_hkt": "2026-10-26T00:00:00+08:00",
+          "sources": [
+            {
+              "name": "商業電台",
+              "url": "https://www.881903.com/news/local/2656433"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "委內瑞拉反對派領袖馬查多宣布已回國",
+          "summary": "流亡近一年的委內瑞拉反對派領袖馬查多周日於社交平台宣布已經回國；她去年底秘密出境並領取諾貝爾和平獎，美方官員早前據報曾要求她押後行程。",
+          "time_hkt": "2026-10-26T00:49:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875280-20261026.htm"
+            },
+            {
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/venezuela-maria-corina-machado-return-democracy-maduro-e6eff0c2ff962fd9b0f87270b24ef567"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "受地區局勢影響　明年1月達喀爾拉力賽將改地舉行",
+          "summary": "國際汽車聯合會宣布，原定明年1月1日至15日在沙特舉行的達喀爾拉力賽因地區局勢改在其他國家或地區舉辦，新地點數日內公布，並指賽事將於2028年重返沙特迎來第50屆。",
+          "time_hkt": "2026-10-26T00:32:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875279-20261026.htm"
+            },
+            {
+              "name": "國際汽車聯合會",
+              "url": "https://www.fia.com/news/dakar-2027-will-not-take-place-saudi-arabia-rally-will-return-kingdom-2028-its-50th-edition"
+            },
+            {
+              "name": "Gulf News",
+              "url": "https://gulfnews.com/sport/motorsport/2027-dakar-rally-will-not-be-held-in-saudi-arabia-organisers-say-1.500723227"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "法國周六示威逾1300人被捕　工會號召11月5日全國罷工",
+          "summary": "法國內政部指連續第二個周六全國約41萬人反政府示威、1314人被捕，其後部分演變成警民衝突；工會領袖呼籲繼續抗議，並於11月5日舉行全國罷工。",
+          "time_hkt": "2026-10-26T00:11:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875276-20261026.htm"
+            },
+            {
+              "name": "中央社",
+              "url": "https://www.cna.com.tw/news/aopl/202610250193.aspx"
+            },
+            {
+              "name": "新華網",
+              "url": "https://www.news.cn/20261025/190b84e62b6a4249b67e4bc19a631721/c.html"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    }
+  ]
+}
