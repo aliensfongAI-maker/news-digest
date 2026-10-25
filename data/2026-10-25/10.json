@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-25",
+  "hour": "10",
+  "updatedAt": "2026-10-25T10:05:15+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "香港校園欺凌個案年均近五百宗　三年升三成",
+          "summary": "教育局向立法會提供數據顯示，公營中小學在2022至2025學年平均每年錄得496宗欺凌個案，較前三年年均377宗上升32%；有青年團體指增幅或與精神健康意識提高令更多人舉報有關，亦有學生難分玩笑與欺凌。",
+          "time_hkt": "2026-10-25T09:00:17+08:00",
+          "sources": [
+            {
+              "name": "SCMP",
+              "url": "https://www.scmp.com/news/hong-kong/education/article/3372020/school-bullying-cases-hong-kong-rise-32-nearly-500-year"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "首階段強積金「全自由行」今年12月推出　助成員更好管控強積金",
+          "summary": "積金局主席劉麥嘉軒於網誌表示，首階段強積金「全自由行」將於2026年12月21日推出，涵蓋約100萬名於2025年5月1日或之後入職或轉職的僱員，每年可一次將僱主供款全數轉至自選個人帳戶。",
+          "time_hkt": "2026-10-25T09:14:00+08:00",
+          "sources": [
+            {
+              "name": "RTHK",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875231-20261025.htm"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
