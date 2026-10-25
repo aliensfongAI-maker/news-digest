@@ -1,0 +1,75 @@
+{
+  "date": "2026-10-25",
+  "hour": "19",
+  "updatedAt": "2026-10-25T19:00:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "入境處料皇崗口岸晚上至凌晨人流及車流較多",
+          "summary": "入境處預計今日黃昏起為旅客返港高峰，加上市區有多項大型活動，皇崗口岸晚上至凌晨人流車流會較多，呼籲尤其需用人工櫃檯的旅客預留充裕時間，並建議北上旅客乘公共交通及查閱「口岸通」選擇合適口岸。",
+          "time_hkt": "2026-10-25T18:09:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875258-20261025.htm"
+            },
+            {
+              "name": "新浪香港",
+              "url": "https://portal.sina.com.hk/news-hongkong/news-realtime/rthk/2026/10/25/1966230/%e5%85%a5%e5%a2%83%e8%99%95%e6%96%99%e7%9a%87%e5%b4%97%e5%8f%a3%e5%b2%b8%e6%99%9a%e4%b8%8a%e8%87%b3%e5%87%8c%e6%99%a8%e4%ba%ba%e6%b5%81%e5%8f%8a%e8%bb%8a%e6%b5%81%e8%bc%83%e5%a4%9a/"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "駐日美兵涉於沖繩那霸殺害女子被控搶劫殺人罪",
+          "summary": "日本共同社報道，沖繩縣那霸地檢以搶劫殺人罪起訴駐日美國海軍陸戰隊士兵巴拉德，指他本月3日在那霸市一酒店用電話聽筒線勒殺一名女子並搶走其物品，翌日被沖繩縣警方拘捕。",
+          "time_hkt": "2026-10-25T18:42:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875261-20261025.htm"
+            },
+            {
+              "name": "新浪香港",
+              "url": "https://portal.sina.com.hk/news-intl/rthk/2026/10/25/1966255/%e9%a7%90%e6%97%a5%e7%be%8e%e5%85%b5%e6%b6%89%e6%96%bc%e6%b2%96%e7%b9%a9%e9%82%a3%e9%9c%b8%e6%ae%ba%e5%ae%b3%e5%a5%b3%e5%ad%90%e8%a2%ab%e6%8e%a7%e6%90%b6%e5%8a%ab%e6%ae%ba%e4%ba%ba%e7%bd%aa/"
+            },
+            {
+              "name": "The Japan Times",
+              "url": "https://www.japantimes.co.jp/news/2026/10/25/japan/crime-legal/us-marine-indicted-in-okinawa-murder-case/"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "習近平與比利時國王菲利普就中比建交55周年互致賀信",
+          "summary": "國家主席習近平與比利時國王菲利普互致賀信慶祝建交55周年；習近平指願引領中比全方位友好合作伙伴關係邁上新台階並推動中歐關係健康穩定發展，菲利普表示願繼續開放對話、拓展務實合作並應對全球挑戰。",
+          "time_hkt": "2026-10-25T18:33:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875259-20261025.htm"
+            },
+            {
+              "name": "新浪香港",
+              "url": "https://portal.sina.com.hk/news-intl/rthk/2026/10/25/1966250/%e7%bf%92%e8%bf%91%e5%b9%b3%e8%88%87%e6%af%94%e5%88%a9%e6%99%82%e5%9c%8b%e7%8e%8b%e8%8f%b2%e5%88%a9%e6%99%ae%e5%b0%b1%e4%b8%ad%e6%af%94%e5%bb%ba%e4%ba%a455%e5%91%a8%e5%b9%b4%e4%ba%92%e8%87%b4%e8%b3%80/"
+            },
+            {
+              "name": "人民網",
+              "url": "http://politics.people.com.cn/n1/2026/1025/c1024-40821148.html"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    }
+  ]
+}
