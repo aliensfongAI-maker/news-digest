@@ -1,0 +1,67 @@
+{
+  "date": "2026-10-26",
+  "hour": "06",
+  "updatedAt": "2026-10-26T06:00:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "武契奇承認塞爾維亞前進黨在議會選舉中落敗",
+          "summary": "塞爾維亞提前議會選舉後，前總統、前進黨領銜人武契奇承認根據抽樣結果前進黨落敗，「學生名單」將獲約135至140席、前進黨約105席；投票率近七成創1992年以來新高，大批學生上街慶祝。",
+          "time_hkt": "2026-10-26T05:13:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875290-20261026.htm"
+            },
+            {
+              "name": "Politico",
+              "url": "https://www.politico.eu/article/serbia-aleksandar-vucic-concedes-defeat-after-tense-parliamentary-elections/"
+            },
+            {
+              "name": "Euronews",
+              "url": "https://www.euronews.com/2026/10/25/vucic-concedes-defeat-in-pivotal-serbian-elections-says-student-movement-has-won"
+            },
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/serbia-election-students-vucic-fdf5def8a20aebc8ae139fd719478775"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "本周超級央行周　市場關注聯儲局沃什議息後言論及美國PCE數據",
+          "summary": "本周為超級央行周，市場預期聯儲局、歐洲央行及日本央行均維持利率不變，焦點在聯儲局主席沃什議息後記者會；美國將公布9月PCE（預期按年升3.6%）及第三季GDP初值，微軟、Alphabet、亞馬遜等亦將公布業績。",
+          "time_hkt": "2026-10-26T05:42:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875291-20261026.htm"
+            },
+            {
+              "name": "韓聯社",
+              "url": "https://www.yna.co.kr/view/AKR20261025004600009"
+            },
+            {
+              "name": "Newsquawk",
+              "url": "https://www.newsquawk.com/headlines/week-in-focus-26-30th-october-2026-fomc-boc-rbnz-ecb-boj-policy-decisions-us-pce"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
