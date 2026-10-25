@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-26",
+  "hour": "02",
+  "updatedAt": "2026-10-26T02:08:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "警方稱新皇崗口岸的跨境車輛流量回復正常",
+          "summary": "警方表示新皇崗口岸跨境車輛流量在凌晨1時前已回復正常；較早前因大量旅客前往港方大樓致連接道路擠塞，車輛平均輪候約25分鐘，警方曾實施人群及交通管制。",
+          "time_hkt": "2026-10-26T01:34:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875283-20261026.htm"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "巴西舉行總統選舉第二輪投票　盧拉與弗拉維奧分別投票",
+          "summary": "巴西總統選舉第二輪投票進行中，現任總統盧拉與自由黨候選人弗拉維奧・博索納羅分別在聖保羅附近及里約熱內盧投票，首輪得票膠著，預計投票結束後數小時內有結果。",
+          "time_hkt": "2026-10-26T01:53:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875284-20261026.htm"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/brazil-election-lula-bolsonaro-runoff-vote-president-e2c9fe8fc4aa3e3675b9a8ec15405d93"
+            },
+            {
+              "name": "DW",
+              "url": "https://www.dw.com/en/brazil-election-lula-bolsonaro-cast-votes-in-final-bout/live-79755630"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "塞爾維亞議會選舉投票踴躍　武契奇稱將以負責任態度面對結果",
+          "summary": "塞爾維亞提前舉行議會選舉，初步顯示選民踴躍；前總統武契奇領銜前進黨名單與學生推動的「學生名單」對決，投票結束後預計很快公布初步結果，他表示會以負責任態度面對並尊重選民意願。",
+          "time_hkt": "2026-10-26T01:35:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875282-20261026.htm"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/c6jdmj1ej715o"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/serbia-election-students-vucic-fdf5def8a20aebc8ae139fd719478775"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    }
+  ]
+}
