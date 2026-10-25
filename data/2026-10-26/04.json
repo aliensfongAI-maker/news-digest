@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-26",
+  "hour": "04",
+  "updatedAt": "2026-10-26T04:05:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "澤連斯基證實烏美俄擬11月舉行三方技術層級工作會談",
+          "summary": "烏克蘭總統澤連斯基證實烏、美、俄計劃11月舉行三方技術層級工作會談，地點仍在磋商，候選包括阿聯酋阿布扎比、中東其他地區及歐洲城市；會談屬工作層面、旨在為元首對話創造條件，優先討論能源設施及黑海相關區域停火，並指美方已全面恢復俄導彈襲擊預警情報共享。",
+          "time_hkt": "2026-10-26T03:33:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875288-20261026.htm"
+            },
+            {
+              "name": "格隆匯",
+              "url": "https://www.gelonghui.com/live/2728277"
+            },
+            {
+              "name": "烏克蘭國際文傳電訊社",
+              "url": "https://interfax.com.ua/news/general/1225769.html"
+            },
+            {
+              "name": "UNN",
+              "url": "https://unn.ua/en/news/ukraine-the-united-states-and-russia-have-agreed-to-hold-talks-in-november-zelenskyy-reports-the-results-of-the-consultations"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "韓國警方在首爾梨泰院等人流密集區域增加部署防範人踩人",
+          "summary": "萬聖節臨近，首爾警方宣布10月23日至11月1日派遣近4600名警員，在梨泰院、弘大、聖水洞、明洞及益善洞五個重點區域管控人流並加強巡邏；10月30日至11月1日將採取交通管制，以防再出現類似2022年梨泰院踩踏事故。",
+          "time_hkt": "2026-10-26T03:21:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875287-20261026.htm"
+            },
+            {
+              "name": "韓聯社",
+              "url": "https://en.yna.co.kr/view/AEN20261023005900315"
+            },
+            {
+              "name": "韓國時報",
+              "url": "https://www.koreatimes.co.kr/southkorea/20261023/seoul-police-step-up-crowd-safety-measures-for-halloween"
+            },
+            {
+              "name": "亞洲今日（中文）",
+              "url": "https://cn.asiatoday.co.kr/view.php?key=20261023001317193"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    }
+  ]
+}
