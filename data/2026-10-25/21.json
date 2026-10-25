@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-25",
+  "hour": "21",
+  "updatedAt": "2026-10-25T21:00:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "西藏巴青縣發生5.7級地震",
+          "summary": "中國地震台網測定，西藏那曲市巴青縣晚上7時25分發生5.7級地震，震源深度10公里，震中約北緯32.43度、東經93.99度；當局指屬10月22日7.0級主震餘震，亦是目前最大餘震，震中距主震約19公里，同晚另錄得4.7級及多次較小餘震。",
+          "time_hkt": "2026-10-25T20:05:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875267-20261025.htm"
+            },
+            {
+              "name": "中國日報",
+              "url": "https://www.chinadaily.com.cn/a/202610/25/WS6addefd5e4b06d4aa0564aa5.html"
+            },
+            {
+              "name": "鳳凰網",
+              "url": "https://feng.ifeng.com/c/8xW6sVb8bXv"
+            },
+            {
+              "name": "中新網",
+              "url": "https://www.chinanews.com.cn/sh/2026/10-25/10720792.shtml"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
