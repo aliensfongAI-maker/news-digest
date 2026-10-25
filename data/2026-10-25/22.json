@@ -1,0 +1,59 @@
+{
+  "date": "2026-10-25",
+  "hour": "22",
+  "updatedAt": "2026-10-25T22:00:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "風暴波洛襲英國北部逾八萬戶停電　多處航班取消",
+          "summary": "英國本季第二個命名風暴波洛周日挾強風豪雨襲擊北部及蘇格蘭、北愛爾蘭，能源網絡協會指逾8.2萬戶一度停電，蘇格蘭陣風達每小時約135公里，貝爾法斯特及阿姆斯特丹史基浦等機場多班航班取消，渡輪及鐵路亦受阻。",
+          "time_hkt": "2026-10-25T21:12:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/en/component/k2/1875270-20261025.htm"
+            },
+            {
+              "name": "民視新聞",
+              "url": "https://www.ftvnews.com.tw/news/detail/2026A25W0471"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/c84g10r00221o"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/storm-boelo-austen-britain-03f32d07ef6d6d45178a412728590624"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "余翠怡今屆亞殘運取6面獎牌勝往績感到開心",
+          "summary": "第五屆亞殘運昨閉幕，港隊部分成員今晚返港；代表團今屆共奪3金14銀24銅共41面獎牌，輪椅劍擊主將余翠怡個人及團體合共3銀3銅，指今屆6面獎牌為歷屆最多感到開心，未來目標兩年後殘奧會。",
+          "time_hkt": "2026-10-25T21:25:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875271-20261025.htm"
+            },
+            {
+              "name": "新浪香港",
+              "url": "https://portal.sina.com.hk/news-hongkong/news-realtime/rthk/2026/10/25/1966365/%E4%BD%99%E7%BF%A0%E6%80%A1%E4%BB%8A%E5%B1%86%E4%BA%9E%E6%AE%98%E9%81%8B%E5%8F%966%E9%9D%A2%E7%8D%8E%E7%89%8C%E5%8B%9D%E5%BE%80%E7%B8%BE%E6%84%9F%E5%88%B0%E9%96%8B%E5%BF%83/"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
