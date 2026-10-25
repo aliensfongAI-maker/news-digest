@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-25",
+  "hour": "08",
+  "updatedAt": "2026-10-25T08:08:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "海地發現四具遺體據報為遇襲失蹤的薩爾瓦多士兵",
+          "summary": "《紐約時報》引述接近聯合國授權「打擊幫派部隊」人士報道，四名早前在太子港郊外遇伏失蹤的薩爾瓦多士兵遺體已於周六在首都郊外尋獲，遺體嚴重燒焦尚待解剖確認身份；路透未能即時獨立核實。",
+          "time_hkt": "2026-10-25T07:24:00+08:00",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/world/americas/bodies-ambushed-salvadoran-soldiers-found-haiti-new-york-times-reports-2026-10-24/"
+            },
+            {
+              "name": "The Straits Times",
+              "url": "https://www.straitstimes.com/world/bodies-of-ambushed-salvadoran-soldiers-found-in-haiti-new-york-times-reports"
+            },
+            {
+              "name": "MarketScreener",
+              "url": "https://www.marketscreener.com/news/bodies-of-ambushed-salvadoran-soldiers-found-in-haiti-new-york-times-reports-ce785cdfde80f121"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
