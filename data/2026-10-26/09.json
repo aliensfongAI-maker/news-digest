@@ -1,0 +1,111 @@
+{
+  "date": "2026-10-26",
+  "hour": "09",
+  "updatedAt": "2026-10-26T09:00:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "巴西現任總統盧拉在總統選舉第二輪投票中獲勝　贏得連任",
+          "summary": "巴西高等選舉法院公布次輪計票結果，現任總統盧拉擊敗前總統博爾索納羅之子弗拉維奧，贏得史無前例的第四個總統任期，得票約51.8%對48.2%，扭轉首輪落後並阻截拉美右翼擴張勢頭。",
+          "time_hkt": "2026-10-26T08:23:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875310-20261026.htm"
+            },
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "馬斯克稱SpaceX完成400億美元債務融資　用作採購輝達AI晶片",
+          "summary": "馬斯克在X表示SpaceX已完成約400億美元可提前贖回債務融資，主要用於採購明年首兩季到貨的GPU，並預測新興雲端運算業者將面臨大規模整併與倒閉潮。",
+          "time_hkt": "2026-10-26T08:24:00+08:00",
+          "sources": [
+            {
+              "name": "中央社",
+              "url": "https://www.cna.com.tw/news/aopl/202610260022.aspx"
+            },
+            {
+              "name": "聯合新聞網",
+              "url": "https://udn.com/news/story/6811/9837084"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "美團擬發行人民幣優先票據　所得主要用於離岸債務再融資",
+          "summary": "港股上市的美團公告建議僅向專業投資者國際發售人民幣優先票據，本金與利率等條款尚未釐定，完成與否視市況而定，所得款項淨額主要用於現有離岸債務再融資及其他一般企業用途。",
+          "time_hkt": "2026-10-26T08:36:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875309-20261026.htm"
+            },
+            {
+              "name": "第一財經",
+              "url": "https://www.yicai.com/news/103408534.html"
+            },
+            {
+              "name": "新浪財經",
+              "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-26/doc-iniwnzcy2540403.shtml"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "國際刑警香港大會擬推動「銀色通報」追蹤犯罪資產",
+          "summary": "國際刑警組織秘書長表示，下月在港舉行的第94屆全體大會將尋求成員國認可「銀色通報」機制，以協助跨國追查及凍結犯罪分子隱藏的金融資產；港警亦表明將金融調查與防騙列為會議優先議題。",
+          "time_hkt": "2026-10-26T08:00:00+08:00",
+          "sources": [
+            {
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3372074/interpols-hong-kong-meeting-consider-silver-notice-targeting-criminal-assets"
+            },
+            {
+              "name": "The Standard",
+              "url": "https://www.thestandard.com.hk/news/article/346455/Interpol-to-push-asset-tracing-in-HK-meeting"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
