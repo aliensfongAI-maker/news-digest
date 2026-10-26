@@ -1,0 +1,131 @@
+{
+  "date": "2026-10-26",
+  "hour": "10",
+  "updatedAt": "2026-10-26T10:00:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "首階段強積金「全自由行」12月21日推出　周小松籲加強宣傳",
+          "summary": "僱員可每年一次將僱主強制性供款權益全數轉至自選強積金計劃；積金局非執行董事周小松指安排有助引入競爭、降低行政費，但不少打工仔仍不清楚內容，促積金局加強宣傳並整理信託公司資訊方便比較。",
+          "time_hkt": "2026-10-26T09:31:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875321-20261026.htm"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1201147-%E5%BC%B7%E7%A9%8D%E9%87%91%E9%A6%96%E9%9A%8E%E6%AE%B5%E5%85%A8%E8%87%AA%E7%94%B1%E8%A1%8C%E5%B0%87%E6%96%BC12%E6%9C%8821%E6%97%A5%E5%AF%A6%E6%96%BD"
+            },
+            {
+              "name": "積金局",
+              "url": "https://www.mpfa.org.hk/mpfa/blog/20261025"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "中共二十屆五中全會在北京開幕　一連四日研究全面從嚴治黨",
+          "summary": "中共二十屆五中全會今日至星期四在北京召開，主要議程為中央政治局向中央委員會報告工作，並研究持之以恆推進全面從嚴治黨若干重大問題，外界關注人事變動與反腐整肅延伸至政治軍事高層的影響。",
+          "time_hkt": "2026-10-26T09:27:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875320-20261026.htm"
+            },
+            {
+              "name": "東方日報即時",
+              "url": "https://hk.on.cc/hk/bkn/cnt/news/20261026/bkn-20261026080028132-1026_00822_001.html"
+            },
+            {
+              "name": "中國新聞網",
+              "url": "https://www.chinanews.com.cn/gn/2026/10-26/10720929.shtml"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "特朗普稱差不多是時候決定伊朗問題去向　伊方指外交大門未關",
+          "summary": "美國總統特朗普表示差不多要決定與伊朗達成協議抑或恢復襲擊，指伊朗及胡塞武裝對中東美軍威脅持續；伊朗外交部稱未關上外交大門，惟不能接受「全面投降」要求，沙特利雅得機場局部重開後再遭胡塞聲稱襲擊。",
+          "time_hkt": "2026-10-26T09:40:00+08:00",
+          "sources": [
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1202759-%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8B%A2%E7%89%B9%E6%9C%97%E6%99%AE%E7%A8%B1%E5%B7%AE%E4%B8%8D%E5%A4%9A%E6%98%AF%E6%99%82%E5%80%99%E6%B1%BA%E5%AE%9A%E4%BC%8A%E6%9C%97%E5%95%8F%E9%A1%8C%E5%8E%BB%E5%90%91%E4%BC%8A%E6%96%B9%E7%A8%B1%E6%B2%92%E6%9C%89%E9%97%9C%E4%B8%8A%E5%A4%96%E4%BA%A4%E5%A4%A7%E9%96%80"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "法國極右國民聯盟瑪琳·勒龐正式展開2027總統競選",
+          "summary": "勒龐在奥尔良黨大會閉幕演說中承諾帶領法國「復興」，強調移民、治安與主權，並提出更多公投及比例代表制；場外反法西斯示威在重警戒備下舉行，此前周六反國民聯盟遊行估計逾萬人。",
+          "time_hkt": "2026-10-26T09:00:00+08:00",
+          "sources": [
+            {
+              "name": "RFI",
+              "url": "https://www.rfi.fr/en/france/20261025-far-right-le-pen-promises-french-rebirth-as-rn-sets-sights-on-2027-presidency"
+            },
+            {
+              "name": "The Star",
+              "url": "https://www.thestar.com.my/news/world/2026/10/26/france039s-le-pen-launches-presidential-bid-as-protests-rattle-the-nation"
+            },
+            {
+              "name": "AP News",
+              "url": "https://apnews.com/article/france-marine-le-pen-emmanuel-macron-f7be845d572b9cf21acdf269ec90eae1"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "恒指競價時段報23156點　升63點　科技指數亦升",
+          "summary": "港股開市前競價時段恒生指數報23156點，升63點或0.28%；恒生科技指數報3888點，升16點或0.43%。",
+          "time_hkt": "2026-10-26T09:24:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875319-20261026.htm"
+            },
+            {
+              "name": "新浪香港",
+              "url": "https://portal.sina.com.hk/finance/sina/2026/10/26/1966640/%E5%BF%AB%E8%A8%8A%EF%BC%9A%E6%81%92%E6%8C%87%E9%AB%98%E9%96%8B0-28-%E6%81%92%E7%A7%91%E6%8C%87%E6%BC%B20-43-%E5%89%B5%E6%96%B0%E8%97%A5%E6%A6%82%E5%BF%B5%E8%82%A1%E9%AB%98%E9%96%8B/"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "滬深股市初段下跌　創業板跌近兩成幅度居前",
+          "summary": "滬深股市開市後初段下跌，上證指數較早報3677點跌13點或0.36%，深證成指11548點跌124點或1.07%，創業板指數2631點跌52點或1.94%。",
+          "time_hkt": "2026-10-26T09:47:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875324-20261026.htm"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
