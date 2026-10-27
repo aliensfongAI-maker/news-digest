@@ -1,0 +1,185 @@
+{
+  "date": "2026-10-27",
+  "hour": "12",
+  "updatedAt": "2026-10-27T12:00:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "筲箕灣道工地爆水管　黃泥水淹路濺傷女長者　一帶緊急停水",
+          "summary": "今早約10時筲箕灣道西行線路邊工地地底水管爆裂，黃泥水噴上大廈並淹浸行車線，院舍玻璃爆裂濺傷一名女長者，運輸署封閉慢線，水務署指西灣河至筲箕灣一帶自11時起緊急停水。",
+          "time_hkt": "2026-10-27T11:21:00+08:00",
+          "sources": [
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60403925/%E6%9C%89%E7%89%87-%E7%AD%B2%E7%AE%95%E7%81%A3%E9%81%93%E5%9C%B0%E7%9B%A4%E7%88%86%E6%B0%B4%E7%AE%A1-%E6%95%B8%E7%B1%B3%E9%AB%98%E6%B0%B4%E6%9F%B1%E5%A6%82%E5%99%B4%E6%B3%89%E6%B7%B9%E8%B7%AF-%E8%A1%97%E5%9D%8A-%E5%8F%88%E5%86%87%E6%B0%B4"
+            },
+            {
+              "name": "點新聞",
+              "url": "https://www.dotdotnews.com/a/202610/27/AP6ae01e34e4b02fd1c5f5af1d.html"
+            },
+            {
+              "name": "東方日報即時",
+              "url": "https://hk.on.cc/hk/bkn/cnt/news/20261027/bkn-20261027104111922-1027_00822_001.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "李家超籲全球大學領袖投身北都　大學城將強化產學研合作",
+          "summary": "行政長官李家超在全球大學校長領袖峰會開幕致辭，指北部都會區新田、洪水橋及打鼓嶺大學城將吸引優秀學者與學生，並邀請院校設立基礎研究院與大型共享研究平台，加強產學研連結。",
+          "time_hkt": "2026-10-27T11:27:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/en/component/k2/1875470-20261027.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875468-20261027.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "宏福苑前法團委員江祥發夫婦涉騙貸逾33萬元提訊　押後明年1月再訊",
+          "summary": "大埔宏福苑前法團委員江祥發及妻子張若蘭涉以欺詐手段取得「百分百擔保特惠貸款」共約33.13萬元，被控兩項欺詐及一項洗黑錢罪，今日在區域法院提訊後押後至2027年1月28日再訊，兩人續准有條件保釋。",
+          "time_hkt": "2026-10-27T11:23:00+08:00",
+          "sources": [
+            {
+              "name": "點新聞",
+              "url": "https://www.dotdotnews.com/a/202610/27/AP6ae01933e4b02fd1c5f5ae70.html"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "近三成受訪SEN學童曾有自傷行為　機構倡家長主動求援",
+          "summary": "協康會聯同浸大調查100個SEN家庭，發現29名學童曾出現自傷行為；研究指家長越願意與子女一起主動尋求支援，自傷風險越低，浸大並開發家長情緒支援手機應用程式擬明年初推出。",
+          "time_hkt": "2026-10-27T11:13:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875476-20261027.htm"
+            }
+          ],
+          "rank": 4
+        },
+        {
+          "headline": "陳奕迅唱片重錄騷明起網上抽籤　一連26場不重複曲目",
+          "summary": "陳奕迅將於12月至明年2月在香港演藝學院歌劇院舉行26場《Recording Sessions with Mr. Eason Chan》，門票經Cityline網上登記抽籤，點新聞整理登記資料、重要日期、座位表及防騙提醒，抽籤明（28日）起開始。",
+          "time_hkt": "2026-10-27T11:42:00+08:00",
+          "sources": [
+            {
+              "name": "點新聞",
+              "url": "https://www.dotdotnews.com/a/202610/27/AP6ae01d95e4b02fd1c5f5af16.html"
+            }
+          ],
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "Nicki Minaj乘空軍一號為特朗普助選　總統當眾讚其臀部",
+          "summary": "美國中期選舉倒數，饒舌歌手Nicki Minaj周日乘空軍一號與總統特朗普前往密歇根州共和黨造勢會力挺候選人，特朗普當眾稱讚其臀部「很漂亮」，白宮通訊主任更戲言她或成新發言人人選。",
+          "time_hkt": "2026-10-27T11:47:00+08:00",
+          "sources": [
+            {
+              "name": "點新聞",
+              "url": "https://www.dotdotnews.com/a/202610/27/AP6ae01ee4e4b02fd1c5f5af56.html"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/cqrmyl1mljppo"
+            },
+            {
+              "name": "Fox News",
+              "url": "https://www.foxnews.com/politics/nicki-minaj-pledges-support-donald-trump-michigan-republican-campaign-rally"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "內地9月規模以上工業企業利潤按年升14.4%　創三個月高",
+          "summary": "國家統計局數據顯示，9月規模以上工業企業利潤按年增長14.4%，遠高於8月的4.2%；1至9月累計利潤升15.5%，電子等高科技行業強勁，惟家具等消費相關行業仍疲弱，反映經濟復甦不均。",
+          "time_hkt": "2026-10-27T11:48:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/en/component/k2/1875477-20261027.htm"
+            },
+            {
+              "name": "國家統計局",
+              "url": "https://www.stats.gov.cn/sj/zxfb/202610/t20261027_1965697.html"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/27/china-industrial-profits-september-ai-tech-exports-.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "滬深股市半日偏軟　上證跌0.13%創業板跌0.45%",
+          "summary": "內地股市半日走勢偏軟，農業及電池相關股份下跌，銀行、零售及機器人股份向好；上證綜合指數半日收報3692點跌4點，深證成指跌0.33%，創業板指數跌0.45%。",
+          "time_hkt": "2026-10-27T11:43:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875478-20261027.htm"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "港股開市升48點　Anthropic申請上市提振亞洲市場情緒",
+          "summary": "人工智能公司Anthropic提交上市申請提振風險胃口，恒生指數開市升48點或0.21%報23260點，國企指數及恒生科技指數同步高開，區內股市亦受AI相關情緒帶動。",
+          "time_hkt": "2026-10-27T11:18:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/en/component/k2/1875472-20261027.htm"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "私隱公署發布智能眼鏡指引　倡只收集所需資料及避免持續攝錄",
+          "summary": "個人資料私隱專員公署發布智能眼鏡使用指引，指裝置可在不易察覺下拍照錄影並可能經AI分析，增加過度或隱蔽收集資料風險，呼籲用戶限制分享、避免在醫院更衣室等場所攝錄，並只收集所需資料。",
+          "time_hkt": "2026-10-27T11:44:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875479-20261027.htm"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
