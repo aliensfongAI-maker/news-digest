@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-28",
+  "hour": "03",
+  "updatedAt": "2026-10-28T03:10:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "普京與挪威及芬蘭領導人通話　丹麥首相批削弱歐洲團結",
+          "summary": "俄羅斯總統普京星期二與挪威首相斯特勒及芬蘭總統斯圖布通電話約90分鐘，三方歡迎11月在阿布扎比恢復有美國參與的烏克蘭問題會談；北歐兩國強調並非代表整個歐洲，克里姆林宮指普京重申須全面考慮俄方利益，丹麥首相則批評兩國單獨行動削弱歐洲團結。",
+          "time_hkt": "2026-10-28T02:21:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875558-20261028.htm"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/c6vgj813mlelo"
+            },
+            {
+              "name": "芬蘭總統府",
+              "url": "https://www.presidentti.fi/en/president-stubb-and-prime-minister-store-held-a-phone-call-with-president-putin/"
+            },
+            {
+              "name": "克里姆林宮",
+              "url": "http://en.kremlin.ru/events/president/news/81097"
+            },
+            {
+              "name": "NRK",
+              "url": "https://www.nrk.no/artikkel/putin-hadde-samtale-med-store-og-finlands-president-1531082"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
