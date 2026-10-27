@@ -1,0 +1,119 @@
+{
+  "date": "2026-10-28",
+  "hour": "06",
+  "updatedAt": "2026-10-28T06:09:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "約旦與敘利亞同意成立聯合安全委員會　檢視空襲「伊斯蘭國」後果",
+          "summary": "兩國外長發表聯合聲明，同意成立聯合安全委員會，檢視約旦近日空襲敘利亞境內「伊斯蘭國」據點（據報造成平民傷亡）的詳情與影響，並加強反恐情報協調。",
+          "time_hkt": "2026-10-28T05:50:00+08:00",
+          "sources": [
+            {
+              "name": "路透社",
+              "url": "https://www.reuters.com/world/middle-east/jordan-syria-form-security-committee-after-deadly-strikes-islamic-state-sites-2026-10-27/"
+            },
+            {
+              "name": "Arab News",
+              "url": "https://www.arabnews.com/middle-east/jordan-syria-agree-to-form-joint-security-committee-after-deadly-airstrikes-on-daesh-3008595"
+            },
+            {
+              "name": "Al-Monitor",
+              "url": "https://www.al-monitor.com/originals/2026/10/jordan-syria-form-security-committee-after-deadly-strikes-islamic-state-sites"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "美方稱將向弗拉維奧·博索納羅及家人發簽證",
+          "summary": "美國國務院高層表示，巴西前總統之子弗拉維奧·博索納羅在周末敗選後，其本人及家人將獲發美國簽證准予入境；巴西當局此前曾要求他交出護照並追問其下落。",
+          "time_hkt": "2026-10-28T05:35:00+08:00",
+          "sources": [
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/brazil-flavio-bolsonaro-passport-lula-1f64bda20de066eeea04349e0319820a"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/live/cq4g1wy8k328t"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "中方代表稱中東局勢持續緊張　籲各方推進美伊止戰促談",
+          "summary": "中國常駐聯合國代表傅聰在安理會伊朗核問題公開會上表示，美伊談判僵持、再軍事打擊言論令人關切，強調應堅持政治解決並推進止戰促談。",
+          "time_hkt": "2026-10-28T05:52:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875568-20261028.htm"
+            },
+            {
+              "name": "中國常駐聯合國代表團",
+              "url": "https://un.china-mission.gov.cn/dbtxx_141603/czdbzjds/fcdshd/202610/t20261027_12047926.htm"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "科技股帶動納指高收逾1%　道指升15點",
+          "summary": "美股上升、科技股強勁，納指收升1.18%報26477點，標普500升0.6%，道指微升15點；費城半導體指數升近約4%，市場等待聯儲局議息。",
+          "time_hkt": "2026-10-28T05:49:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875566-20261028.htm"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-eae2932c0c253be1039e1545909656a8"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "油價低收近2%　紐約期油失守100美元",
+          "summary": "國際油價連跌兩日，12月紐約期油收報每桶99.9美元、跌1.83%，失守100美元；布蘭特收報113.88美元、跌1.67%，市場仍關注中東局勢。",
+          "time_hkt": "2026-10-28T05:52:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875567-20261028.htm"
+            },
+            {
+              "name": "韓聯社",
+              "url": "https://www.yna.co.kr/view/AKR20261028006000072"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "滙控拖低英股　法德股市靠穩收市",
+          "summary": "英國富時100指數收跌0.75%報10686點，創近一個月最大單日跌幅，重磅股滙控因季績遜預期跌逾5%拖累；法國CAC、德國DAX則分別升約0.51%及0.71%。",
+          "time_hkt": "2026-10-28T05:48:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875565-20261028.htm"
+            },
+            {
+              "name": "Euronext",
+              "url": "https://live.euronext.com/en/financial-news/ftse-100-falls-hsbc-weighs-budget-caution-persists"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    }
+  ]
+}
