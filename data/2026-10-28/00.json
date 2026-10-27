@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-28",
+  "hour": "00",
+  "updatedAt": "2026-10-28T00:13:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "港鐵青衣站非禮案　警方翻查天眼拘56歲男子",
+          "summary": "港鐵青衣站上日一女子報稱遭非禮後疑犯逃走，青衣警方翻查大量閉路電視鎖定目標，今日在青衣城巴士總站拘捕一名56歲本地男子扣查；非禮罪一經定罪最高可判監10年。",
+          "time_hkt": "2026-10-27T23:00:45+08:00",
+          "sources": [
+            {
+              "name": "巴士的報",
+              "url": "https://www.bastillepost.com/hongkong/article/17060078-%e6%b8%af%e9%90%b5%e9%9d%92%e8%a1%a3%e7%ab%99%e9%9d%9e%e7%a6%ae%e6%a1%88-%e8%ad%a6%e6%96%b9%e7%bf%bb%e6%9f%a5%e5%a4%a9%e7%9c%bc%e6%8b%9856%e6%ad%b2%e7%94%b7%e5%ad%90"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60404235/%E6%B8%AF%E9%90%B5%E9%9D%92%E8%A1%A3%E7%AB%99%E5%A5%B3%E5%AD%90%E9%81%AD%E9%9D%9E%E7%A6%AE-%E8%AD%A6%E7%BF%BB%E6%9F%A5%E5%A4%A7%E9%87%8Fcctv-%E5%85%A9%E6%97%A5%E5%BE%8C%E6%8B%98%E6%8D%9556%E6%AD%B2%E7%94%B7"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "本田高層警告：對加拿大汽車關稅若升至50%對業界屬「災難」",
+          "summary": "美國本田企業事務高級副總裁Jennifer Thomas在路透汽車會議上表示，若美加未能達成貿易協議、明年1月1日把對加拿大汽車及零部件關稅由25%倍增至50%，對整個汽車業將屬「災難性」衝擊，並呼籲維持美墨加三邊框架。",
+          "time_hkt": "2026-10-27T23:45:00+08:00",
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
