@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-27",
+  "hour": "14",
+  "updatedAt": "2026-10-27T14:04:00+08:00",
+  "sections": [
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "恒指下午初段轉跌逾百點　滙控季績後挫近半成",
+          "summary": "恒生指數下午初段轉跌逾百點，報23107點跌103點或0.45%；滙控中午公布上季稅前盈利升32%後股價挫近4.8%報135.4元，科技指數亦跌近0.8%。",
+          "time_hkt": "2026-10-27T13:23:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875490-20261027.htm"
+            },
+            {
+              "name": "Bastille Post",
+              "url": "https://www.bastillepost.com/hongkong/article/17056280-%e6%bb%99%e6%8e%a7%e5%ad%a3%e5%ba%a6%e7%9b%88%e5%88%a9%e7%95%a5%e9%81%9c%e9%a0%90%e6%9c%9f-%e7%b8%be%e5%be%8c%e6%8d%b1%e6%b2%bd-%e6%b8%a3%e6%89%93%e5%8d%88%e5%be%8c%e8%b7%9f%e8%b7%8c"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
