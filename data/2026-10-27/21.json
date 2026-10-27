@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-27",
+  "hour": "21",
+  "updatedAt": "2026-10-27T21:00:30+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "房署主任承認公職人員行為失當　無呈交加戶申請但訛稱已批",
+          "summary": "36歲房屋署房屋事務主任吳明儀今日在西九龍裁判法院承認兩項公職人員行為失當，涉未呈交公屋加戶及社區活動申請卻向申請人訛稱已獲批，案件押後至11月10日判刑，並須向政府賠償約3.4萬元。",
+          "time_hkt": "2026-10-27T20:27:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875539-20261027.htm"
+            },
+            {
+              "name": "廉政公署",
+              "url": "https://www.icac.org.hk/tc/p/press/index_id_5047.html"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60404199/%E6%88%BF%E7%BD%B2%E4%B8%BB%E4%BB%BB%E8%AA%8D%E5%85%AC%E8%81%B7%E4%BA%BA%E5%93%A1%E8%A1%8C%E7%82%BA%E5%A4%B1%E7%95%B6-%E8%A8%9B%E7%A8%B1%E6%89%B9%E5%87%86%E5%8A%A0%E6%88%B6%E7%94%B3%E8%AB%8B%E7%AD%89-11-10%E5%88%A4%E5%88%91"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "HKCERT籲警惕假冒客服　港航等資料外洩後騙案可準確報航班資料",
+          "summary": "私隱公署接獲香港航空、友和及百老匯合共逾1600人資料外洩通報後，HKCERT提醒即使來電者能準確說出航班或購物資料亦不代表身分真實；近日有騙徒冒充港航客服誘騙，一宗個案受害人損失120萬元。",
+          "time_hkt": "2026-10-27T20:57:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875542-20261027.htm"
+            },
+            {
+              "name": "香港文匯報",
+              "url": "https://www.wenweipo.com/a/202610/27/AP6ae090a6e4b0fa89498a9d28.html"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "習近平致電祝賀盧拉當選連任巴西總統",
+          "summary": "國家主席習近平致電祝賀盧拉連任巴西總統，指願共同引領中巴命運共同體建設邁上新台階、開拓全方位戰略協作；國家副主席韓正亦致電祝賀阿爾克明連任副總統。",
+          "time_hkt": "2026-10-27T20:56:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875541-20261027.htm"
+            },
+            {
+              "name": "新華社",
+              "url": "https://english.www.gov.cn/news/202610/27/content_WS6ae0853cc6d00ca5f9a0df40.html"
+            },
+            {
+              "name": "外交部",
+              "url": "https://www.fmprc.gov.cn/web/wjb_673085/zzjg_673183/xws_674681/xgxw_674683/202610/t20261027_12047807.shtml"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "美國9月耐用品訂單按月升1.8%　高於預期",
+          "summary": "美國人口普查局公布9月耐用品訂單按月升1.8%至3454億美元，高於市場預期的0.6%，亦扭轉8月跌0.1%；扣除運輸後升0.5%，運輸設備訂單升4.6%為主要動力。",
+          "time_hkt": "2026-10-27T20:51:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875540-20261027.htm"
+            },
+            {
+              "name": "FXStreet",
+              "url": "https://www.fxstreet.com/news/united-states-durable-goods-orders-rise-18-in-september-vs-06-expected-202610271236"
+            },
+            {
+              "name": "華爾街見聞",
+              "url": "https://wallstreetcn.com/articles/3784587"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
