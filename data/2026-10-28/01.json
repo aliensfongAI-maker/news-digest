@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-28",
+  "hour": "01",
+  "updatedAt": "2026-10-28T01:15:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "穆傑塔巴稱為結束戰事應落實伊朗設定條件",
+          "summary": "伊朗最高領袖穆傑塔巴會見最高國家安全委員會秘書雷扎伊，強調為結束戰事及「非戰非和」狀態、維護伊朗與抵抗陣線利益，應落實伊朗所設條件，並討論管控霍爾木茲海峽等安全議題。",
+          "time_hkt": "2026-10-28T00:14:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875554-20261028.htm"
+            },
+            {
+              "name": "新華網",
+              "url": "https://www.news.cn/20261027/41e11d46ec1d47eb903f9d6df3cbf97f/c.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
