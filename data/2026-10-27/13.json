@@ -1,0 +1,143 @@
+{
+  "date": "2026-10-27",
+  "hour": "13",
+  "updatedAt": "2026-10-27T13:02:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "將軍澳工業區傷人案3男被捕　警不排除涉非法燃油利益糾紛",
+          "summary": "警方就本月21日將軍澳工業區意圖傷人案拘捕3名16至19歲有三合會背景男子，其中兩人已暫控串謀意圖傷人；警方稱不排除與非法燃油活動利益糾紛有關，並在事主貨車檢獲約150公升未完稅燃油。",
+          "time_hkt": "2026-10-27T12:46:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875486-20261027.htm"
+            },
+            {
+              "name": "點新聞",
+              "url": "https://www.dotdotnews.com/a/202610/27/AP6ae02e25e4b02fd1c5f5b0c5.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "藍田站初步調查指絕緣膠失效及電纜過熱　港鐵須一個月內交報告",
+          "summary": "運輸及物流局與港鐵向立法會交代觀塘綫藍田站兩宗起火事故，初步指涉道岔絕緣膠失效短路，以及便攜式接地開關維持閉合致電纜過熱冒煙；政府要求港鐵一個月內提交詳細調查報告及改善措施。",
+          "time_hkt": "2026-10-27T12:25:00+08:00",
+          "sources": [
+            {
+              "name": "點新聞",
+              "url": "https://www.dotdotnews.com/a/202610/27/AP6ae027d7e4b02fd1c5f5b040.html"
+            },
+            {
+              "name": "商業電台",
+              "url": "https://www.881903.com/news/legco/2656651"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "政府擬四方向修訂《建築物條例》　目標年底提交立會",
+          "summary": "跟進宏福苑火災獨立委員會報告，政府正推進《建築物條例》修訂，涵蓋加強大維修施工規管與紀律處分、研究圍標刑事化及代辦招標支援、簡化檢控並加重罰則等，發展局目標今年內向立法會提交草案。",
+          "time_hkt": "2026-10-27T12:17:00+08:00",
+          "sources": [
+            {
+              "name": "點新聞",
+              "url": "https://www.dotdotnews.com/a/202610/27/AP6ae025f1e4b02fd1c5f5b02b.html"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "信置黃永光：會研究政府推出任何北都項目",
+          "summary": "信和集團主席黃永光在股東周年大會後表示，對北部都會區發展充滿信心，集團會研究未來政府推出的任何北都項目，並因應條款與合作夥伴商討方案；信置指未來一年計劃推出近2900個單位。",
+          "time_hkt": "2026-10-27T12:58:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875489-20261027.htm"
+            }
+          ],
+          "rank": 4
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "以色列舉行國會選舉　內塔尼亞胡連任受考驗",
+          "summary": "以色列今日舉行國會選舉，總理內塔尼亞胡領導的利庫德陣營與前軍方將領埃森科特率領的中間派聯盟陷入拉鋸，民調顯示雙方均難單獨取得過半議席，組閣談判及阿拉伯政黨動向料成關鍵。",
+          "time_hkt": "2026-10-27T12:25:00+08:00",
+          "sources": [
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/israel-election-netanyahu-eisenkot-3b5a0fd078208155337ee9a0b9fbfde2"
+            },
+            {
+              "name": "中國新聞網",
+              "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721459.shtml"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/israel-election-netanhayu-gaza-palestinians-trump-iran-9962f87d11534908f553146f07039e92"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": []
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "港股午市恒指跌31點報23180　科指跌約0.8%",
+          "summary": "港股早市窄幅上落，恒生指數中午收市報23180點，跌31點或0.14%，主板半日成交約887億元；恒生科技指數報3827點，跌約0.8%，金融股相對支撐，地產及科技股偏弱。",
+          "time_hkt": "2026-10-27T12:15:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875482-20261027.htm"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1202970-%E6%B8%AF%E8%82%A1%E4%B8%AD%E5%8D%88%E6%94%B6%E5%B8%82%E5%A0%B123180%E9%BB%9E%E8%B7%8C31%E9%BB%9E"
+            },
+            {
+              "name": "第一財經",
+              "url": "https://www.yicai.com/brief/103410872.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "滙控上季稅前盈利升32%　派息並啟動最多10億美元回購",
+          "summary": "滙控公布上季列帳稅前盈利96.32億美元，按年升32%，普通股股東應佔盈利70.9億美元；集團派發第三次股息每股10美仙，並計劃啟動最多10億美元股份回購，預期全年業績公布前完成。",
+          "time_hkt": "2026-10-27T12:19:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875484-20261027.htm"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": []
+    }
+  ]
+}
