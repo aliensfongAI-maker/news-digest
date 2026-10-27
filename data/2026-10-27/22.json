@@ -1,0 +1,159 @@
+{
+  "date": "2026-10-27",
+  "hour": "22",
+  "updatedAt": "2026-10-27T22:08:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "筲箕灣及部分西灣河用戶食水供應晚上9時半起陸續恢復正常",
+          "summary": "筲箕灣道食水管爆裂影響逾萬戶後，水務署／工程人員表示筲箕灣及部分西灣河用戶食水供應由晚上約9時半起陸續恢復正常。",
+          "time_hkt": "2026-10-27T21:44:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875549-20261027.htm"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "麥巴比承認言論欠妥致歉　稱對中國人民懷有深深敬意",
+          "summary": "法國球星麥巴比就涉華不當言論發表多語聲明，承認言論欠妥並向受影響者道歉，強調對中國人民及其歷史懷有深深敬意；此前已有多家中國品牌終止合作。",
+          "time_hkt": "2026-10-27T21:55:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875550-20261027.htm"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/china-mbappe-companies-mao-zedong-837fee251df278d5657894ec226fa069"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/cv62yg0erp8zo"
+            },
+            {
+              "name": "半島電視台",
+              "url": "https://www.aljazeera.com/sports/2026/10/27/kylian-mbappe-apologises-after-dictator-comment-angers-chinese-fans"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "以色列議會選舉正在投票　投票率創數十年新高　內塔尼亞胡籲選民作出正確選擇",
+          "summary": "以色列新一屆議會選舉投票進行中，截至當地中午投票率已逾三成、屬數十年來同期最高；總理內塔尼亞胡呼籲選民作出正確選擇，選前民調顯示右翼與反對陣營形勢膠著。",
+          "time_hkt": "2026-10-27T21:20:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875546-20261027.htm"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/live/israel-election-netanyahu-gaza-mideast-news-updates-10-27-2026"
+            },
+            {
+              "name": "CNN",
+              "url": "https://www.cnn.com/2026/10/27/world/live-news/israel-elections-live-results-latest-votes-intl"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "卡塔爾埃米爾與伊朗總統在莫斯科會晤　討論中東戰事及荷姆茲海峽",
+          "summary": "卡塔爾埃米爾與伊朗總統佩澤希齊揚在莫斯科天然氣出口國論壇期間會晤，雙方討論中東戰事、荷姆茲海峽及雙邊關係；卡方強調伊朗需展現善意並重開海峽。",
+          "time_hkt": "2026-10-27T21:19:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/en/component/k2/1875545-20261027.htm"
+            },
+            {
+              "name": "半島電視台",
+              "url": "https://www.aljazeera.com/news/2026/10/27/qatars-emir-meets-irans-pezeshkian-in-moscow"
+            },
+            {
+              "name": "塔斯社",
+              "url": "https://tass.com/world/2208687"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "美股初段造好　納指升逾0.7%",
+          "summary": "美股開市初段造好，納斯達克指數升約190點或0.73%，標普500升約0.37%，道指微升；市場關注油價回落、科技股表現及本周聯儲局議息。",
+          "time_hkt": "2026-10-27T21:45:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875548-20261027.htm"
+            },
+            {
+              "name": "路透社",
+              "url": "https://www.investing.com/news/stock-market-news/sp-500-nasdaq-open-higher-as-oil-pulls-back-ahead-of-fed-decision-4975858"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "美國8月FHFA樓價按月升0.3%　按年升2.4%",
+          "summary": "美國聯邦住房金融局公布8月樓價按月升0.3%、按年升2.4%，分析指中東相關通脹推高按揭利率壓抑需求，但樓價仍續升加重住屋負擔。",
+          "time_hkt": "2026-10-27T21:45:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875547-20261027.htm"
+            },
+            {
+              "name": "FHFA",
+              "url": "https://www.fhfa.gov/reports/house-price-index/2026/10"
+            },
+            {
+              "name": "U.S. News",
+              "url": "https://money.usnews.com/investing/news/articles/2026-10-27/us-single-family-home-prices-rise-further-in-august-fhfa-says"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "信置委任劉業強為獨立非執董　接替退任的李民橋",
+          "summary": "信和置業委任行政會議成員、立法會議員兼鄉議局主席劉業強為獨立非執行董事及審核、薪酬委員會主席，即日起生效任期三年，接替退任的李民橋。",
+          "time_hkt": "2026-10-27T21:20:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875544-20261027.htm"
+            },
+            {
+              "name": "新浪財經",
+              "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-27/doc-iniwsfqw3748335.shtml"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
