@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-28",
+  "hour": "05",
+  "updatedAt": "2026-10-28T05:05:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "以色列議會選舉出口民調顯示無明確勝者　內塔尼亞胡去留未明",
+          "summary": "投票於當地晚上10時結束後，多家電視台出口民調指反內塔尼亞胡陣營取得約52至53席、其陣營約50席，雙方均未達61席多數，利庫德仍為最大單一政黨，料需數週組閣談判。",
+          "time_hkt": "2026-10-28T04:01:00+08:00",
+          "sources": [
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/israel-election-netanyahu-eisenkot-3b5a0fd078208155337ee9a0b9fbfde2"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/live/cqpvgnlm9944t"
+            },
+            {
+              "name": "《衛報》",
+              "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates"
+            },
+            {
+              "name": "半島電視台",
+              "url": "https://www.aljazeera.com/news/2026/10/27/exit-polls-following-israeli-elections-indicate-no-clear-winner"
+            },
+            {
+              "name": "路透社",
+              "url": "https://www.reuters.com/graphics/ISRAEL-ELECTION/RESULTS/akvelybkapr/"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "亞歷山大三兄弟性販運案各判囚30年",
+          "summary": "紐約聯邦法官星期二分別判處奧倫、阿隆及塔爾·亞歷山大各30年監禁，三人早前被裁定性販運等罪成，多名受害人於判刑聆訊講述遭落藥強姦經歷。",
+          "time_hkt": "2026-10-28T04:45:00+08:00",
+          "sources": [
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/alexander-brothers-sex-trafficking-sentencing-7bb4833c8b049f8f35228c30ba605452"
+            },
+            {
+              "name": "《衛報》",
+              "url": "https://www.theguardian.com/us-news/2026/oct/27/oren-alon-tal-alexander-sentenced-sex-trafficking"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/cqn498mng08ro"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    }
+  ]
+}
