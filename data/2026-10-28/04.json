@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-28",
+  "hour": "04",
+  "updatedAt": "2026-10-28T04:05:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "美軍稱在東太平洋打擊販毒船　令船上5人死亡",
+          "summary": "美軍南方司令部表示，星期二美軍西半球聯合特遣部隊在東太平洋既定販毒路線上對一艘快艇實施致命打擊，打死5名毒品恐怖分子；自2025年9月以來美軍已多次打擊加勒比海及東太平洋涉毒船隻。",
+          "time_hkt": "2026-10-28T03:14:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875560-20261028.htm"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/boat-strikes-alleged-drug-boat-latin-america-cartels-trump-ef5e229630e00f370e0d1772edc34dd9"
+            },
+            {
+              "name": "美國南方司令部",
+              "url": "https://www.southcom.mil/News/PressReleases/Article/4634591/lethal-kinetic-strike-october-27-2026/"
+            },
+            {
+              "name": "安納托利亞通訊社",
+              "url": "https://www.aa.com.tr/en/americas/us-says-strike-on-suspected-drug-smuggling-vessel-in-eastern-pacific-killed-5/4102796"
+            },
+            {
+              "name": "Stars and Stripes",
+              "url": "https://www.stripes.com/theaters/americas/2026-10-27/us-strike-pacific-kills-5-23278633.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
