@@ -1,0 +1,85 @@
+{
+  "date": "2026-10-27",
+  "hour": "18",
+  "updatedAt": "2026-10-27T18:05:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "不法份子利用大馬力快艇走私　海關檢約1千萬元私煙拘兩人",
+          "summary": "海關在香港東南面水域果洲群島對開截獲一艘未開啟航行燈、配備三個舷外引擎的大馬力快艇，檢獲約223萬支懷疑私煙，市值約1000萬元、應課稅值約737萬元，兩名內地男子被捕。",
+          "time_hkt": "2026-10-27T17:41:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875520-20261027.htm"
+            },
+            {
+              "name": "香港政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202610/27/P2026102700476.htm"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "外交部：對英國警方任意過度執法行為表示強烈不滿嚴重關切",
+          "summary": "外交部發言人郭嘉昆稱近日接獲多宗中國公民遭英國邊境人員長時間扣留盤查及查扣電子設備的報告，中方已向英方提出嚴正交涉，並提醒計劃赴英公民細閱駐英使館提示。",
+          "time_hkt": "2026-10-27T17:49:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875524-20261027.htm"
+            },
+            {
+              "name": "中新網",
+              "url": "https://www.chinanews.com.cn/gn/2026/10-27/10721665.shtml"
+            },
+            {
+              "name": "CGTN",
+              "url": "https://news.cgtn.com/news/2026-10-27/China-lodges-representation-over-UK-police-s-excessive-law-enforcement-1RAc1zSrKFO/p.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "習近平向日本前首相福田康夫遺屬致唁電",
+          "summary": "國家主席習近平向已故日本前首相福田康夫的遺屬致唁電，表達哀悼之意。",
+          "time_hkt": "2026-10-27T17:57:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875525-20261027.htm"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "滙控與恒生管理層整合　正建立共同科技平台",
+          "summary": "滙控財務總監郭珮瑛表示集團已公布滙豐與恒生管理層整合計劃，正建立共同科技平台以簡化營運並改善效率，又指第2季內地合規要求帶動恒生新開戶數量升幅逾一倍。",
+          "time_hkt": "2026-10-27T17:45:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875522-20261027.htm"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
