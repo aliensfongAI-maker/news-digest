@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-28",
+  "hour": "02",
+  "updatedAt": "2026-10-28T02:05:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "伊朗海軍稱一艘運油輪試圖通過霍爾木茲海峽東部時觸雷起火",
+          "summary": "伊朗海軍表示，一艘關閉船舶追蹤系統的運油輪星期二試圖穿越霍爾木茲海峽東部禁航區時觸碰水雷，船體受損並起火；海軍稱海峽目前處於危險狀態，禁止未經協調擅自通行，船隻須與伊朗武裝部隊協調。",
+          "time_hkt": "2026-10-28T01:17:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875557-20261028.htm"
+            },
+            {
+              "name": "安納托利亞通訊社",
+              "url": "https://www.aa.com.tr/en/middle-east/iran-says-oil-tanker-catches-fire-after-hitting-naval-mine-east-of-strait-of-hormuz/4102560"
+            },
+            {
+              "name": "中新網",
+              "url": "https://www.chinanews.com.cn/gj/2026/10-27/10721918.shtml"
+            },
+            {
+              "name": "Iran International",
+              "url": "https://www.iranintl.com/en/202610276458"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
