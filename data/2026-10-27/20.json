@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-27",
+  "hour": "20",
+  "updatedAt": "2026-10-27T20:15:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "塞爾維亞議會選舉有初步結果　學生團體名單得票逾半領先",
+          "summary": "塞爾維亞選舉委員會公布初步結果，由學生運動推動的「學生名單」得票逾52%、料獲140席可單獨組閣，執政前進黨主導名單得票不足40%；獲推舉為總理候選人的前總統武契奇已承認落敗。",
+          "time_hkt": "2026-10-27T19:08:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875533-20261027.htm"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/serbian/articles/c9p8gr51dl42o/cyr"
+            },
+            {
+              "name": "Tanjug",
+              "url": "https://www.tanjug.rs/english/politics/292719/student-list-won-5271-pct-of-vote-or-140-seats-sns-won-3917-pct-or-104-seats-commission/vest"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "外交部：傷害中國人民感情的言行自會遭到中國社會各界共同抵制",
+          "summary": "外交部發言人郭嘉昆回應法國球星麥巴比涉華不當言論引發品牌解約時表示，傷害中國人民感情的言行自然會遭各界共同抵制；央視亦已叫停涉及其人的西甲賽事播出及廣告。",
+          "time_hkt": "2026-10-27T19:26:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875536-20261027.htm"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/china-mbappe-companies-mao-zedong-837fee251df278d5657894ec226fa069"
+            },
+            {
+              "name": "BBC中文",
+              "url": "https://www.bbc.com/zhongwen/articles/c6x2v4p284ylo/simp"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "萬洲國際首9個月盈利跌近13%　經調整盈利跌逾27%",
+          "summary": "萬洲國際公布首9個月生物公允價值調整前盈利10.17億美元、按年跌近13%，調整後盈利跌逾27%至8.81億美元；收入微升0.6%至206.1億美元，公司指全球豬肉價格下行及需求疲弱持續影響營運。",
+          "time_hkt": "2026-10-27T19:33:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875532-20261027.htm"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1203080-%E8%90%AC%E6%B4%B2%E5%9C%8B%E9%9A%9B%E9%A6%96%E4%B8%89%E5%AD%A3%E5%B0%91%E8%B3%BA%E4%B8%80%E6%88%90%E4%B8%89"
+            },
+            {
+              "name": "新浪財經",
+              "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-27/doc-iniwsfqw3748341.shtml"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
