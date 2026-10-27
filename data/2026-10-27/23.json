@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-27",
+  "hour": "23",
+  "updatedAt": "2026-10-27T23:14:00+08:00",
+  "sections": [
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "美國10月消費者信心指數意外升至91.7",
+          "summary": "世界大型企業研究會公布，美國10月消費者信心指數出乎意料升至91.7，遠高於市場預期的約81，9月數據亦上調至84.2；分析指汽油價格回落帶動信心改善，但消費者對物價及生活成本高企的不滿仍在增加。",
+          "time_hkt": "2026-10-27T22:50:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875552-20261027.htm"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/consumer-confidence-inflation-gasoline-tariffs-10aae13e93501c1c7f8803d44316eb28"
+            },
+            {
+              "name": "路透社",
+              "url": "https://www.investing.com/news/economic-indicators/us-consumer-confidence-improves-in-october-4976114"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "波音行政總裁：737月產量目標要到2027年初才能達標",
+          "summary": "波音行政總裁奧特伯格表示，公司原定今年夏季達到每月生產47架737的目標，現預計要到明年初才能達標，主因機翼產能不足；消息傳出後波音股價早段曾跌約5%。",
+          "time_hkt": "2026-10-27T22:24:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/en/component/k2/1875551-20261027.htm"
+            },
+            {
+              "name": "Channel NewsAsia",
+              "url": "https://www.channelnewsasia.com/business/boeing-will-not-reach-737-production-target-until-early-2027-6496551"
+            },
+            {
+              "name": "路透社",
+              "url": "https://www.investing.com/news/stock-market-news/boeing-jetliner-production-challenges-weigh-on-thirdquarter-results-4975148"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    }
+  ]
+}
