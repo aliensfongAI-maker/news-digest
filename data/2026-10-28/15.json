@@ -1,0 +1,167 @@
+{
+  "date": "2026-10-28",
+  "hour": "15",
+  "updatedAt": "2026-10-28T15:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "科大醫學院聘港大梁如鴻任高級副院長　葉玉如否認主動挖角",
+          "summary": "科大正籌建本港第三間醫學院，聘港大醫學院臨床醫學科學家梁如鴻出任高級副院長及臨床醫學部署理主任；校長葉玉如稱各地人才陸續加盟、招聘順利，並否認主動向兩間本地醫學院挖角，強調願與港大及中大合作提升本港醫療水平。",
+          "time_hkt": "2026-10-28T14:01:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875627-20261028.htm"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60404426/%E7%A7%91%E5%A4%A7%E9%86%AB%E5%AD%B8%E9%99%A2%E8%81%98%E6%B8%AF%E5%A4%A7%E6%A2%81%E5%A6%82%E9%B4%BB%E8%A2%AB%E6%8C%87%E6%8C%96%E8%A7%92-%E8%91%89%E7%8E%89%E5%A6%82%E5%90%A6%E8%AA%8D-%E5%86%80%E8%88%87%E5%85%A9%E9%86%AB%E5%AD%B8%E9%99%A2%E5%90%88%E4%BD%9C"
+            },
+            {
+              "name": "星島頭條",
+              "url": "https://www.stheadline.com/daily-hongkong/3630353/%E7%A7%91%E5%A4%A7%E9%86%AB%E5%AD%B8%E9%99%A2%E6%8C%96%E8%A7%92%E6%B8%AF%E5%A4%A7%E9%A0%82%E5%B0%96%E6%95%99%E6%8E%88%E9%81%8E%E6%AA%94"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "政府稱樂齡產品認證計劃陸續推行　助消費者知情選擇",
+          "summary": "商務及經濟發展局常任秘書長李頌恩在消委會消費權益新聞報道獎頒獎禮上表示，政府大力推動銀髮消費並推廣銀髮品質保證，樂齡產品認證計劃正陸續推行；她又指消委會將於12月推出「選擇資訊通」手機應用程式，方便消費者掌握資訊。",
+          "time_hkt": "2026-10-28T14:02:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875628-20261028.htm"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "韓股高收近7%創月底來最大升幅　KOSPI報6012點連升兩日",
+          "summary": "韓國股市高收近7%，創7月底以來最大單日升幅；首爾綜合指數收報6012點，升374點或6.63%，連續兩日上升，半導體股及SK海力士業績帶動市場氣氛。",
+          "time_hkt": "2026-10-28T14:45:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875632-20261028.htm"
+            },
+            {
+              "name": "聯合新聞",
+              "url": "https://www.yna.co.kr/view/AKR20261028141600008"
+            },
+            {
+              "name": "鳳凰網財經",
+              "url": "https://finance.ifeng.com/c/8xafyWG7wB8"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "日股高收約1.1%連升兩日　日經收報63954點",
+          "summary": "日股連升兩日，日經指數最多升逾千點、高見64308點，收報63954點，升685點或約1.1%，未能企穩64000點關口。",
+          "time_hkt": "2026-10-28T14:45:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875631-20261028.htm"
+            },
+            {
+              "name": "日本經濟新聞",
+              "url": "https://www.nikkei.com/article/DGXZQOFL285BK0Y6A021C2000000/"
+            },
+            {
+              "name": "時事通信",
+              "url": "https://www.jiji.com/jc/article?g=eco&k=2026102800773"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "台股高收2%連升兩日　加權指數升穿47000點報47035點",
+          "summary": "台灣股市連升兩日，加權指數升穿47000點，收市報47035點，升939點或2.04%。",
+          "time_hkt": "2026-10-28T14:23:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875629-20261028.htm"
+            },
+            {
+              "name": "中央社",
+              "url": "https://www.cna.com.tw/news/afe/202610280139.aspx"
+            },
+            {
+              "name": "Yahoo財經",
+              "url": "https://hk.finance.yahoo.com/news/%E5%8F%B0%E8%82%A1%E6%94%B6%E5%A0%B147035-58%E9%BB%9E-%E5%8D%872-04-060026364.html"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "港交所綜合基金平台推出平台及代理人服務　主要服務齊投入運作",
+          "summary": "港交所宣布旗下綜合基金平台即日起推出平台及代理人服務，加入總分銷、代理人及行政功能，連接基金經理、過戶代理及分銷商；證監會表示歡迎，經紀行等分銷商可在平台為客戶認購贖回基金，參與者已逾60家，平台主要服務至此全部投入運作。",
+          "time_hkt": "2026-10-28T14:11:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875626-20261028.htm"
+            },
+            {
+              "name": "港交所",
+              "url": "https://www.hkex.com.hk/News/News-Release/2026/261028news?sc_lang=zh-HK"
+            },
+            {
+              "name": "證監會",
+              "url": "https://apps.sfc.hk/edistributionWeb/gateway/EN/news-and-announcements/news/doc?refNo=26PR175"
+            },
+            {
+              "name": "香港商報",
+              "url": "https://hkcd.com/hkcdweb/content/2026/10/28/content_8782237.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "陳茂波：智能時代成就應看能否改善生活　港可作AI應用示範平台",
+          "summary": "財政司司長陳茂波在「一個地球高峰論壇」致辭指，智能時代成就不應只看機器能力，更應衡量能否改善民生；他稱全球須共同應對可持續轉型融資、科技成果共享及人才培訓，香港可發揮超級聯繫人角色，為人工智能與機械人等創新方案提供測試及應用示範平台。",
+          "time_hkt": "2026-10-28T14:13:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875630-20261028.htm"
+            },
+            {
+              "name": "新浪香港",
+              "url": "https://portal.sina.com.hk/news-hongkong/news-realtime/rthk/2026/10/28/1969400/%E9%99%B3%E8%8C%82%E6%B3%A2%E7%9B%B8%E4%BF%A1%E6%99%BA%E8%83%BD%E6%99%82%E4%BB%A3%E6%88%90%E5%B0%B1%E4%B8%8D%E6%87%89%E5%83%85%E7%9C%8B%E6%A9%9F%E5%99%A8%E8%83%BD%E5%8A%9B%E3%80%80%E6%87%89%E6%94%BE/"
+            },
+            {
+              "name": "星島頭條",
+              "url": "https://www.stheadline.com/politics/3627359/%E9%99%B3%E8%8C%82%E6%B3%A2AI%E7%86%B1%E6%BD%AE%E8%88%87%E8%83%BD%E6%BA%90%E8%A1%9D%E6%93%8A-%E9%87%8D%E5%A1%91%E5%85%A8%E7%90%83%E7%B6%93%E6%BF%9F%E6%A0%BC%E5%B1%80"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
