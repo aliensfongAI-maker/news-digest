@@ -1,0 +1,107 @@
+{
+  "date": "2026-10-28",
+  "hour": "20",
+  "updatedAt": "2026-10-28T20:05:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "亞洲物流航運及空運會議下周舉行　料逾2300人參與",
+          "summary": "第16屆亞洲物流航運及空運會議下月16至17日在灣仔會展舉行，由政府與貿發局合辦，預計逾40個國家及地區逾2300人與會，李家超將於翌日特別致辭，議題涵蓋供應鏈韌性、綠色能源及數碼轉型。",
+          "time_hkt": "2026-10-28T19:14:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875670-20261028.htm"
+            },
+            {
+              "name": "貿發局",
+              "url": "https://almac.hktdc.com/conference/almac/tc/about-almac"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "皇家馬德里就麥巴比言論發聲明向中國人民致歉",
+          "summary": "西甲皇家馬德里在麥巴比昨日個人道歉後發聲明，就球員近期言論向中國人民致歉，重申尊重中國歷史文化及球迷；中國外交部表示重視當事人作出的道歉，央視總台亦確認收到皇馬道歉函。",
+          "time_hkt": "2026-10-28T19:38:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875671-20261028.htm"
+            },
+            {
+              "name": "皇家馬德里",
+              "url": "https://www.realmadrid.com/en-US/news/club/announcements/comunicado-oficial-28-10-2026"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/china-kylian-mbappe-real-madrid-apology-aa80ba67dc0db33a39d86e30303876fd"
+            },
+            {
+              "name": "央視",
+              "url": "https://news.cctv.cn/2026/10/28/ARTIwb3BHzavqBttbcGS7Iif261028.shtml"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "以色列議會選舉點票中　內塔尼亞胡陣營初步領先仍未過半",
+          "summary": "以色列議會選舉持續點票，初步結果顯示內塔尼亞胡領導的利庫德得票約兩成、其右翼陣營暫約54席，主要對手埃森科特陣營約47至49席，雙方均未達組閣所需61席多數，投票率77.7%為1999年以來最高。",
+          "time_hkt": "2026-10-28T19:06:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875666-20261028.htm"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/israel-elections-netanyahu-eisenkot-arab-coalition-results-d4680e90210c9a8611853fda9d0deb61"
+            },
+            {
+              "name": "衛報",
+              "url": "https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb"
+            },
+            {
+              "name": "以色列時報",
+              "url": "https://www.timesofisrael.com/liveblog_entry/with-72-of-ballots-counted-netanyahu-led-bloc-at-54-seats-arab-parties-strengthen-to-18/"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "美國環球郵輪因燃油成本急升在柬埔寨中止航程　約200名乘客滯留",
+          "summary": "經營「終身郵輪」概念的Villa Vie Residences因亞洲航段每艙月燃油費由約1800美元飆至6000至8000美元，在柬埔寨西哈努克港中止環球航程，約200名乘客須下船，公司稱正安排臨時住宿並尋求60日內重組。",
+          "time_hkt": "2026-10-28T19:50:00+08:00",
+          "sources": [
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/us-cambodia-cruise-ship-fuel-88fa620415d8e490cbe5a25ca5cb0691"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/cwj342k62exyo"
+            },
+            {
+              "name": "ABC",
+              "url": "https://www.abc.net.au/news/2026-10-28/cruise-passengers-stranded-after-fuel-prices-tanks-operator/107320706"
+            },
+            {
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/10/28/nx-s1-6020180/us-cruise-ship-ends-voyage-passengers-lose-homes"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    }
+  ]
+}
