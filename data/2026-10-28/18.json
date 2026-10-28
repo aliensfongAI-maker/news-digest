@@ -1,0 +1,113 @@
+{
+  "date": "2026-10-28",
+  "hour": "18",
+  "updatedAt": "2026-10-28T18:05:25+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "政府料萬聖節周末深宵皇崗北行出境最繁忙　高峰時段公共交通優先",
+          "summary": "政務司司長陳國基聯同兩名局長會見傳媒，預計本周五至周日晚11時至翌晨2時皇崗口岸北行出境最繁忙，當局將採取公共交通優先並提早開放通道，提醒跨境私家車或輪候逾一小時。",
+          "time_hkt": "2026-10-28T17:19:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875651-20261028.htm"
+            },
+            {
+              "name": "點新聞",
+              "url": "https://www.dotdotnews.com/a/202610/28/AP6ae1c2a9e4b02fd1c5f5cf08.html"
+            },
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202610/28/P2026102800587.htm"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "蔡若蓮稱政府暫無計劃全面檢討校網劃分制度",
+          "summary": "教育局局長蔡若蓮在立法會表示，中小學校按校網分配學位機制行之已久、社會廣泛認受，政府暫無全面檢討校網劃分計劃，並指北都已預留學校用地、未來校舍分配以重置為主。",
+          "time_hkt": "2026-10-28T17:51:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875655-20261028.htm"
+            },
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202610/28/P2026102800467.htm"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "西班牙托萊多省兩列高鐵相撞　初步估計至少數十人喪生",
+          "summary": "西班牙馬德里至安達盧西亞高鐵線在托萊多省烏爾達附近發生兩列列車相撞及出軌，當局初步確認至少10人死亡、當地傳媒指死亡人數或達數十，馬德里至南部高鐵服務暫停。",
+          "time_hkt": "2026-10-28T17:55:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875657-20261028.htm"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/train-accident-spain-4f65471a0e36f448d7ee9efe0768cd77"
+            },
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/oct/28/spain-train-crash-high-speed-toledo"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "瑞士聯邦主席帕姆蘭10月30日起來華工作訪問",
+          "summary": "外交部公布瑞士聯邦主席帕姆蘭將於10月30日至11月1日來華工作訪問，國家主席習近平將與他會面，並指今年適逢中瑞建立創新戰略夥伴關係10周年。",
+          "time_hkt": "2026-10-28T17:01:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875648-20261028.htm"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "中國平安首3季盈利跌逾27%　營業收入跌近13%",
+          "summary": "中國平安公布首三季歸母淨利潤966.5億元人民幣、按年跌逾27%，營業收入7876億元跌12.6%；營運利潤則升8.3%至1259億元，產險營運利潤跌近七成。",
+          "time_hkt": "2026-10-28T17:39:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875653-20261028.htm"
+            },
+            {
+              "name": "新浪財經",
+              "url": "https://finance.sina.com.cn/jryx/insurance/2026-10-28/doc-iniwukpz6007412.shtml"
+            },
+            {
+              "name": "第一財經",
+              "url": "https://www.yicai.com/news/103413519.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
