@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-29",
+  "hour": "00",
+  "updatedAt": "2026-10-29T00:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "41歲男子確診猴痘　過去一個月660名高風險人士接種疫苗",
+          "summary": "衞生防護中心公布本港新增一宗猴痘確診，41歲男子潛伏期內曾在香港及外地有高風險性接觸，情況穩定；中心指8至9月個案曾急升，採取多元阻截後本月新增顯著減少，過去一個月共為660名高風險人士接種疫苗。",
+          "time_hkt": "2026-10-28T20:52:00+08:00",
+          "sources": [
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202610/28/P2026102800707.htm"
+            },
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875679-20261028.htm"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60404617/%E7%8C%B4%E7%97%98-41%E6%AD%B2%E7%94%B7%E7%A2%BA%E8%A8%BA%E6%9B%BE%E5%9C%A8%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%AB%98%E9%A2%A8%E9%9A%AA%E6%8E%A5%E8%A7%B8-%E9%98%B2%E8%AD%B7%E4%B8%AD%E5%BF%83-10%E6%9C%88%E5%80%8B%E6%A1%88%E6%B8%9B%E5%B0%91"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "三星據報撤出香港大型家電市場　集中電視顯示及手機業務",
+          "summary": "三星電子香港網店雪櫃、洗衣機、冷氣及吸塵機等大型家電顯示售罄或無法下單，公司回覆指正調整產品組合、集中資源於電視、顯示、音響、商用顯示屏及流動通訊，已售產品售后維修維持；韓媒指此舉繼5月退出內地家電市場後延伸至香港。",
+          "time_hkt": "2026-10-28T20:26:00+08:00",
+          "sources": [
+            {
+              "name": "Dimsum Daily",
+              "url": "https://www.dimsumdaily.hk/samsung-ends-hong-kong-sales-of-large-appliances-to-focus-on-tvs-displays-and-mobiles/"
+            },
+            {
+              "name": "英文虎報",
+              "url": "https://www.thestandard.com.hk/news/article/346772/Samsung-reportedly-to-exit-Hong-Kong-home-appliance-market-after-mainland-China-withdrawal"
+            },
+            {
+              "name": "now.com／信報",
+              "url": "https://finance.now.com/news/post.php?id=991524"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "英國預算案向約2000萬家庭發放能源補貼　銀行附加稅升至6%",
+          "summary": "英國財政大臣賀理安發表預算案，將向英格蘭約2000萬個A至D差餉稅段家庭發放100英鎊能源補貼，並延長電費增值稅豁免；同時把銀行附加稅由3%暫時上調至6%、為期15個月，以資助紓困，預算責任辦公室並上調明年通脹預測至3.5%。",
+          "time_hkt": "2026-10-28T23:01:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875689-20261028.htm"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo"
+            },
+            {
+              "name": "英國政府",
+              "url": "https://www.gov.uk/government/news/budget-2026-breathing-space-for-today-hope-for-the-future"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/britain-budget-healey-burnham-inflation-debt-c0d09bf5258f705403b85e019575f033"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "xAI據報向密西西比鄰近數據中心住戶提收購要約　條件是不起訴噪音",
+          "summary": "伊隆·馬斯克旗下xAI據報向密西西比州Southaven約數百戶鄰近其數據中心及發電設施的住戶提出收購房屋要約，條件包括放棄加入噪音與震動集體訴訟或另行起訴；多間英美媒體報道部分居民已接獲要約，公司稱屬自願性質。",
+          "time_hkt": "2026-10-28T22:44:00+08:00",
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit"
+            },
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/us-news/2026/oct/28/datacenter-noise-lawsuit-elon-musk-mississippi"
+            },
+            {
+              "name": "Forbes",
+              "url": "https://www.forbes.com/sites/maryroeloffs/2026/10/28/xai-offers-home-buyouts-in-mississippi-to-quash-data-center-lawsuit/"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
