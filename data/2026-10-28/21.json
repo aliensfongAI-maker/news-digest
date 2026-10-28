@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-28",
+  "hour": "21",
+  "updatedAt": "2026-10-28T21:10:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "李家超就劉延東逝世深切哀悼　稱其一直支持香港長期繁榮穩定",
+          "summary": "行政長官李家超就國務院原副總理劉延東逝世表示深切哀悼，指她曾任港區籌委及中央港澳工作協調小組副組長，多次訪港並主持第五屆東亞運開幕，衷心感謝她對香港教育、經濟及體育等範疇的貢獻。",
+          "time_hkt": "2026-10-28T20:16:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875676-20261028.htm"
+            },
+            {
+              "name": "政府新聞處",
+              "url": "https://www.info.gov.hk/gia/general/202610/28/P2026102800673.htm"
+            },
+            {
+              "name": "點新聞",
+              "url": "https://www.dotdotnews.com/a/202610/28/AP6ae1eb67e4b02fd1c5f5d28b.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "西班牙高鐵相撞事故增至至少50死179傷　4名中國公民在列、暫無死亡報告",
+          "summary": "西班牙托萊多省兩列高鐵相撞事故傷亡更新，當地傳媒報道至少50人死亡、179人受傷；中國駐西班牙大使館表示涉事列車有4名中國公民、有人輕傷，暫無中國公民死亡報告，救援及調查仍在進行。",
+          "time_hkt": "2026-10-28T20:04:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875674-20261028.htm"
+            },
+            {
+              "name": "新華社",
+              "url": "https://www.news.cn/world/20261028/a6a06add37e246c1adf367760796c62e/c.html"
+            },
+            {
+              "name": "CGTN",
+              "url": "https://news.cgtn.com/news/2026-10-28/news-1RBTDCxLgEU/p.html"
+            },
+            {
+              "name": "人民網",
+              "url": "https://world.people.com.cn/n1/2026/1028/c1002-40823445.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "內地兩個月內完成投放8000億元人民幣新型政策性金融工具",
+          "summary": "新華社報道指今年新型政策性金融工具已完成投放共8000億元人民幣，多於去年的5000億元，由國開行、進出口銀行及農發行分別投放3650億、1200億及3150億元，全部用於補充項目資本金等。",
+          "time_hkt": "2026-10-28T20:24:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875677-20261028.htm"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "中石油上季及首3季盈利按年都升近22%",
+          "summary": "中石油按國際準則公布第3季盈利518.4億元人民幣、按年升近22%，首3季盈利1557.8億元同樣升近22%；期內原油平均實現價格升18.5%，海外油氣產量則因中東等地緣局勢按年跌約一成。",
+          "time_hkt": "2026-10-28T20:24:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875675-20261028.htm"
+            },
+            {
+              "name": "第一財經",
+              "url": "https://www.yicai.com/news/103413692.html"
+            },
+            {
+              "name": "東方財富",
+              "url": "https://finance.eastmoney.com/news/1345,202610283912275756.html"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    }
+  ]
+}
