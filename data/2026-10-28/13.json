@@ -1,0 +1,87 @@
+{
+  "date": "2026-10-28",
+  "hour": "13",
+  "updatedAt": "2026-10-28T13:10:00+08:00",
+  "sections": [
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "內地股市半日造好　創業板指數升3%、人形機器人概念爆發",
+          "summary": "滬深股市臨近午市升幅擴大，創業板指數半日收報2624點升3%，深成指升近2%、上證升0.72%；人形機器人、存儲晶片及光模塊等板塊領漲，白酒及銀行股偏軟，多間內地媒體與港台均報道半日走勢。",
+          "time_hkt": "2026-10-28T12:02:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875604-20261028.htm"
+            },
+            {
+              "name": "華爾街見聞",
+              "url": "https://wallstreetcn.com/articles/3784632"
+            },
+            {
+              "name": "財聯社",
+              "url": "https://m.cls.cn/detail/2517493"
+            },
+            {
+              "name": "新浪財經",
+              "url": "https://finance.sina.com.cn/jjxw/2026-10-28/doc-iniwtxyc9665844.shtml"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "渣打第三季除稅前溢利升約27%勝預期　上調全年收入及回報指引",
+          "summary": "渣打公布截至9月底止第三季除稅前溢利約22.5億至23億美元、按年升約27%至29%，經營收入升約14%，財富方案及環球市場業務帶動；銀行上調2026年經營收入增長指引至逾7%，並上調有形股本回報目標至逾14%。",
+          "time_hkt": "2026-10-28T12:24:00+08:00",
+          "sources": [
+            {
+              "name": "AASTOCKS",
+              "url": "https://www.aastocks.com/tc/stocks/news/aafn-con/NOW.1551531/latest-news/AAFN"
+            },
+            {
+              "name": "南華早報",
+              "url": "https://www.scmp.com/business/banking-finance/article/3372386/standard-chartered-beats-forecast-wealth-business-powers-third-quarter-profit"
+            },
+            {
+              "name": "CNA",
+              "url": "https://www.channelnewsasia.com/business/stanchart-third-quarter-profit-surges-27-lifts-income-target-6498871"
+            },
+            {
+              "name": "新浪財經",
+              "url": "https://finance.sina.com.cn/jjxw/2026-10-28/doc-iniwtxya3457051.shtml"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "恒指半日升99點　科技指數升1.8%、AI概念股造好",
+          "summary": "港股半日收市恒指報23140點，升99點或0.43%，成交約980億元；恒生科技指數升1.8%至3868點，AI大模型、硬件及晶片股普遍上升，滙控回穩、渣打績後升逾2%，泡泡瑪特半日跌近1%。",
+          "time_hkt": "2026-10-28T12:15:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875607-20261028.htm"
+            },
+            {
+              "name": "AASTOCKS",
+              "url": "https://www.aastocks.com/tc/stocks/news/aafn-con/NOW.1551542/latest-news/AAFN"
+            },
+            {
+              "name": "新浪香港",
+              "url": "https://portal.sina.com.hk/news-hongkong/news-realtime/rthk/2026/10/28/1969296/%e6%81%92%e6%8c%87%e5%8d%8a%e6%97%a5%e5%8d%8799%e9%bb%9e%e3%80%80ai%e6%a6%82%e5%bf%b5%e8%82%a1%e4%b8%8a%e5%8d%87/"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    }
+  ]
+}
