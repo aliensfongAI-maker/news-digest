@@ -1,0 +1,119 @@
+{
+  "date": "2026-10-28",
+  "hour": "14",
+  "updatedAt": "2026-10-28T14:10:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "關日華：當局採購XFG新冠疫苗有助幼童防重症　明日起可免費接種",
+          "summary": "衞生防護中心明日起為合資格6個月至11歲兒童免費接種XFG信使核糖核酸新冠疫苗；亞洲兒童傳染病學會前會長關日華指該疫苗對應目前流行毒株，有助預防重症及併發症，並稱本港正面對流感、新冠及呼吸道合胞病毒「三疫夾擊」，呼籲家長盡快安排接種。",
+          "time_hkt": "2026-10-28T13:33:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875623-20261028.htm"
+            },
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202610/26/P2026102600340.htm"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "聯合國秘書長遴選膠著　據報美國刻意打破地區輪換慣例",
+          "summary": "現任秘書長古特雷斯年底卸任，現階段約八人角逐但據報仍未有人達安理會推薦門檻；手握否決權的五常意見分歧，美國一再主張全球擇優、打破拉丁美洲及加勒比海輪換不成文慣例，令遴選陷罕見僵局，預計接替人選或於12月正式宣布。",
+          "time_hkt": "2026-10-28T13:13:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875619-20261028.htm"
+            },
+            {
+              "name": "The National",
+              "url": "https://www.thenationalnews.com/news/us/2026/10/13/next-un-secretary-general-paolo-zampollio/"
+            },
+            {
+              "name": "聯合國",
+              "url": "https://www.un.org/en/sg-selection-and-appointment"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "加拿大與阿聯酋簽署全面經濟伙伴關係協定　逾99%加出口關稅將降或取消",
+          "summary": "加拿大總理卡尼與到訪的阿聯酋阿布扎比王儲哈立德簽署全面經濟伙伴關係協定，全面實施後將降低或取消目前逾99%加拿大輸往阿聯酋商品關稅，並擴大工業、農業及能源等市場准入，料2027年生效；雙方亦推進阿聯酋早前承諾的700億加元對加投資，卡尼藉此分散對美貿易依賴。",
+          "time_hkt": "2026-10-28T13:51:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875625-20261028.htm"
+            },
+            {
+              "name": "加拿大總理府",
+              "url": "https://www.pm.gc.ca/en/news/news-releases/2026/10/27/prime-minister-carney-launches-new-strategic-partnership-uae"
+            },
+            {
+              "name": "The Globe and Mail",
+              "url": "https://www.theglobeandmail.com/business/article-canada-uae-sign-trade-deal-carney-oct-27/"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "恒指下午初段升逾80點　渣打績後升逾半成",
+          "summary": "港股下午初段恒指報23125點，升84點或0.37%，科技指數報3865點升1.72%；渣打公布季績後股價較早時升逾半成，多間財經媒體同步報道午後走勢。",
+          "time_hkt": "2026-10-28T13:14:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875618-20261028.htm"
+            },
+            {
+              "name": "新浪香港",
+              "url": "https://portal.sina.com.hk/news-hongkong/news-realtime/rthk/2026/10/28/1969347/%E6%81%92%E6%8C%87%E4%B8%8B%E5%8D%88%E5%88%9D%E6%AE%B5%E5%8D%87%E9%80%BE80%E9%BB%9E%E3%80%80%E6%B8%A3%E6%89%93%E7%B8%BE%E5%BE%8C%E5%8D%87%E9%80%BE%E5%8D%8A%E6%88%90/"
+            },
+            {
+              "name": "富途牛牛",
+              "url": "https://news.futunn.com/post/1002528341/standard-chartered-02888-hk-extended-its-afternoon-gains-to-over"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "渣打香港上季稅前盈利升91%　繼續為集團最大盈利來源",
+          "summary": "渣打香港第3季稅前盈利9.44億美元，按年升91%、按季升逾23%，經營收入升25%至15.26億美元並錄得信貸減值撥回；渣打中國上季稅前盈利7000萬美元按年跌逾5%，香港繼續是集團最大盈利貢獻來源。",
+          "time_hkt": "2026-10-28T13:30:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875622-20261028.htm"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    }
+  ]
+}
