@@ -1,0 +1,155 @@
+{
+  "date": "2026-10-28",
+  "hour": "17",
+  "updatedAt": "2026-10-28T17:08:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "保安局發布維護國安教育繪本　鄧炳強稱冀以故事向幼稚園推廣",
+          "summary": "保安局推出《安仔與熊仔：維護國安小公民》教育繪本一套三冊，局長鄧炳強表示希望以講故事及歌曲形式，向幼稚園學生培養國家觀念及守法意識，並提供教師用手冊方便施教。",
+          "time_hkt": "2026-10-28T16:11:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875639-20261028.htm"
+            },
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202610/28/P2026102800440.htm"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "女子攜逾900支私煙入境罪成　判囚6星期罰款1500元",
+          "summary": "一名72歲本地女旅客因管有961支未完稅香煙及未向海關申報，今日在粉嶺裁判法院被判監禁6星期及罰款1500元；關員本月10日在落馬洲支線管制站截獲涉案香煙。",
+          "time_hkt": "2026-10-28T16:55:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875647-20261028.htm"
+            },
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202610/28/P2026102800508.htm"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "以色列駐塞爾維亞大使館外遇襲　未成年人持刀襲憲兵後被擊斃",
+          "summary": "塞爾維亞內政部表示，當地星期三凌晨一名未成年人在以色列駐貝爾格萊德大使館外持刀襲擊憲兵並呼叫宗教口號，憲兵面部受傷後開槍擊斃疑兇，當局已將反恐威脅級別提升至最高紅色。",
+          "time_hkt": "2026-10-28T16:13:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875641-20261028.htm"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/serbia-knife-attack-belgrade-5b6d28dc67b691d73b4ee6e4eae760e1"
+            },
+            {
+              "name": "Times of Israel",
+              "url": "https://www.timesofisrael.com/liveblog_entry/foreign-ministry-no-embassy-staff-injured-in-attempted-terror-attack-on-belgrade-embassy-incident-under-investigation/"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "在岸人民幣兌美元收報6.6669　創近4年半新高",
+          "summary": "在岸人民幣收報6.6669兌1美元，較昨日收市升11點子，再創近4年半新高；有交易員指結匯需求旺盛，對沖美元指數偏強影響，匯價延續升勢。",
+          "time_hkt": "2026-10-28T16:54:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875645-20261028.htm"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "泰國央行維持指標利率1厘不變　連續4次會議按兵不動",
+          "summary": "泰國央行維持指標利率1厘不變並符合預期，委員會一致認為現水平仍合適支持復蘇，同時提醒油價及厄爾尼諾相關通脹風險需密切關注。",
+          "time_hkt": "2026-10-28T16:31:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875640-20261028.htm"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "香港9月出口按年升64.9%　創逾40年最快單月增速",
+          "summary": "統計處公布本港9月出口貨值按年升64.9%、進口升57.8%，連續20個月雙位數增長並創逾40年最快單月增速，政府指受AI相關電子產品出口強勁帶動。",
+          "time_hkt": "2026-10-28T16:48:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875644-20261028.htm"
+            },
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202610/28/P2026102800327.htm"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "港股高收53點　渣打績後急升近8%",
+          "summary": "恒生指數收報23094點，升53點，主板成交逾1814億元；渣打公布季績並上調指引後全日升近8%，科技指數升1.4%，中芯、華虹及聯想等造好。",
+          "time_hkt": "2026-10-28T16:42:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875643-20261028.htm"
+            },
+            {
+              "name": "商業電台",
+              "url": "https://www.881903.com/news/finance/2656864"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/sc/1203250-%E6%B8%AF%E8%82%A1%E6%94%B6%E5%B8%82%E5%A0%B123094%E9%BB%9E%E5%8D%8753%E9%BB%9E"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "致同：長期停牌上市公司增至102間　除牌數3年來首超復牌",
+          "summary": "致同報告指截至8月底主板及GEM長期停牌公司增至102間，過去一年35間被除牌、21間復牌，除牌數3年來首次超過復牌，涉嫌欺詐佔停牌個案約七成。",
+          "time_hkt": "2026-10-28T16:33:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875638-20261028.htm"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    }
+  ]
+}
