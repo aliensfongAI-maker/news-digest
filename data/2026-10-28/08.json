@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-28",
+  "hour": "08",
+  "updatedAt": "2026-10-28T08:01:00+08:00",
+  "sections": [
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "SK海力士季績創紀錄　營收首破100兆韓元、營業利益飆逾6倍",
+          "summary": "南韓記憶體廠SK海力士公布第三季營收約104.62兆韓元、營業利益約83.33兆韓元，雙雙刷新紀錄並大幅勝預期，受惠人工智能帶動高頻寬記憶體（HBM）及伺服器產品需求；公司並公布加碼股東回報計劃。",
+          "time_hkt": "2026-10-28T07:34:00+08:00",
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html"
+            },
+            {
+              "name": "PR Newswire",
+              "url": "https://www.prnewswire.com/news-releases/sk-hynix-announces-3q26-financial-results-302921407.html"
+            },
+            {
+              "name": "韓聯社",
+              "url": "https://www.yna.co.kr/view/AKR20261028028000527"
+            },
+            {
+              "name": "韓國經濟日報",
+              "url": "https://www.hankyung.com/article/202610289272g"
+            },
+            {
+              "name": "MoneyToday",
+              "url": "https://www.mt.co.kr/en/industry/2026/10/28/2026102807475364785"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "ASMPT上季轉盈賺逾5億元　新增訂單創新高",
+          "summary": "港股上市公司ASMPT公布截至9月底止第三季盈利5.33億元（去年同期虧損2.7億元），收入52.5億元按年升近49%；新增訂單逾88億元創新高，受人工智能基建帶動先進封裝及SMT需求，並預測第四季收入介乎6.7億至7.3億美元。",
+          "time_hkt": "2026-10-28T07:56:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875577-20261028.htm"
+            },
+            {
+              "name": "ASMPT",
+              "url": "https://www.asmpt.com/en/investor-relations/news-events/asmpt-announces-2026-third-quarter-results-record-group-bookings-and-strong-earnings-across-semi-smt/"
+            },
+            {
+              "name": "智通財經",
+              "url": "https://www.zhitongcaijing.com/content/detail/1513872.html"
+            },
+            {
+              "name": "新浪財經",
+              "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-28/doc-iniwtpki9817493.shtml"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
