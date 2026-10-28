@@ -1,0 +1,97 @@
+{
+  "date": "2026-10-28",
+  "hour": "22",
+  "updatedAt": "2026-10-28T22:10:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "荃灣天保大樓餐廳火警濃煙捲半空　樓上院舍90歲男子不適送院",
+          "summary": "荃灣天保大樓地下一間餐廳下午約5時許起火，濃煙一度捲半空，消防迅速救熄，初步相信爐頭搶火、事件無可疑；多名職員及住戶自行疏散，樓上院舍一名90歲男子懷疑不適送仁濟醫院治理。",
+          "time_hkt": "2026-10-28T21:26:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875680-20261028.htm"
+            },
+            {
+              "name": "巴士的報",
+              "url": "https://www.bastillepost.com/hongkong/article/17067181-%e8%8d%83%e7%81%a3%e5%a4%a9%e4%bf%9d%e5%a4%a7%e6%a8%93%e9%a4%90%e5%bb%b3%e8%b5%b7%e7%81%ab%e5%86%92%e6%bf%83%e7%85%99-%e6%a8%93%e4%b8%8a%e9%99%a2%e8%88%8d90%e6%ad%b2%e7%94%b7%e5%ad%90%e4%b8%8d"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "弗拉維奧據報抵達美國邁阿密　特朗普表示會批准對方入境",
+          "summary": "巴西總統選舉落選的弗拉維奧據報經阿根廷及厄瓜多爾抵美、預計抵達邁阿密，特朗普表示會批准其入境，美國國務院將向其及家人發簽證；巴西總統盧拉批評其離境行為可恥，應就當局指控作出解釋。",
+          "time_hkt": "2026-10-28T21:53:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875684-20261028.htm"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/brazil-election-flavio-bolsonaro-ecuador-argentina-9fc1f409ed993403736dbae07bd74bd8"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/28/trump-bolsonaro-us-brazil-election.html"
+            },
+            {
+              "name": "衛報",
+              "url": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "美國9月商品貿易逆差創1年半新高　AI投資熱潮帶動進口增加",
+          "summary": "美國9月商品貿易逆差增至1349億美元，按月擴大2.1%、超出預期並創約1年半新高，商品進口升2.4%、出口升2.6%，市場指人工智能投資熱潮帶動資本貨進口；同期批發庫存按月升0.6%。",
+          "time_hkt": "2026-10-28T21:37:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875681-20261028.htm"
+            },
+            {
+              "name": "路透社",
+              "url": "https://www.investing.com/news/economic-indicators/us-goods-trade-deficit-unexpectedly-widens-in-september-4979180"
+            },
+            {
+              "name": "Bloomberg Law",
+              "url": "https://news.bloomberglaw.com/capital-markets/us-trade-gap-widens-to-biggest-since-march-2025-on-capital-goods"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "美股初段靠穩　觀望聯儲局議息結果",
+          "summary": "美股開市初段三大指數靠穩，道指報約52425點升約47點、標普500報約7738點升約16點、納指報約26564點升約86點，投資者觀望聯儲局議息結果。",
+          "time_hkt": "2026-10-28T21:38:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875682-20261028.htm"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    }
+  ]
+}
