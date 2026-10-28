@@ -1,0 +1,91 @@
+{
+  "date": "2026-10-28",
+  "hour": "10",
+  "updatedAt": "2026-10-28T10:10:00+08:00",
+  "sections": [
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "新西蘭央行意外維持利率於2.75厘　4比3票通過、紐元急跌",
+          "summary": "新西蘭儲備銀行貨幣政策委員會以4比3票決定維持官方現金利率於2.75厘，出乎市場普遍加息預期；委員會指中期通脹目標仍需收緊政策但視乎前景，紐元兌美元急挫近1美仙。",
+          "time_hkt": "2026-10-28T09:00:00+08:00",
+          "sources": [
+            {
+              "name": "Reserve Bank of New Zealand",
+              "url": "https://www.rbnz.govt.nz/news-and-events/news/2026/10/ocr-held-at-2-75-percent"
+            },
+            {
+              "name": "RNZ",
+              "url": "https://www.rnz.co.nz/news/business/2203827/reserve-bank-holds-ocr-in-split-decision"
+            },
+            {
+              "name": "interest.co.nz",
+              "url": "https://www.interest.co.nz/economy/140853/surprise-move-reserve-bank-holds-official-cash-rate-275-following-4-3-vote"
+            },
+            {
+              "name": "RNZ中文",
+              "url": "https://www.rnz.co.nz/news/chinese/2204340/ocr-2-point-75-percent"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "人行連續兩日進行1萬億元隔夜逆回購　連同7天期淨投放1510億元",
+          "summary": "人民銀行今日開展1萬億元人民幣隔夜逆回購，並進行1510億元7天期逆回購（利率1.4厘）；因同日有1萬億元隔夜逆回購到期，公開市場淨投放1510億元。",
+          "time_hkt": "2026-10-28T09:22:00+08:00",
+          "sources": [
+            {
+              "name": "財聯社",
+              "url": "https://www.cls.cn/detail/2517346"
+            },
+            {
+              "name": "第一財經",
+              "url": "https://www.yicai.com/news/103412321.html"
+            },
+            {
+              "name": "經濟通",
+              "url": "https://www.etnet.com.hk/www/tc/news/news-article.php?category=latest&newsid=20261028833&section=categorized"
+            },
+            {
+              "name": "格隆匯",
+              "url": "https://www.gelonghui.com/live/2732799"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "恒指高開約43點　科技股撐市、泡泡瑪特績後低開",
+          "summary": "港股三大指數高開，恒生指數報23,083.99點，升42.67點或0.19%，恒生科技指數升約0.78%；大型科技股普遍做好，惟泡泡瑪特第三季收益按年跌45%至50%後低開逾半成，東山精密首日掛牌亦低開破發。",
+          "time_hkt": "2026-10-28T09:20:00+08:00",
+          "sources": [
+            {
+              "name": "東網",
+              "url": "https://hk.on.cc/hk/bkn/cnt/finance/20261028/bkn-20261028092030131-1028_00842_001.html"
+            },
+            {
+              "name": "商業電台",
+              "url": "https://www.881903.com/news/finance/2656794"
+            },
+            {
+              "name": "第一財經",
+              "url": "https://www.yicai.com/brief/103412322.html"
+            },
+            {
+              "name": "新浪香港",
+              "url": "https://portal.sina.com.hk/finance/sina/2026/10/28/1969124/%e5%bf%ab%e8%a8%8a%ef%bc%9a%e6%81%92%e6%8c%87%e9%ab%98%e9%96%8b0-19-%e6%81%92%e7%a7%91%e6%8c%87%e6%bc%b20-78-%e7%a7%91%e7%b6%b2%e8%82%a1%e6%b4%bb%e8%ba%8d-%e5%ad%98%e5%84%b2%e6%a6%82%e5%bf%b5%e8%82%a1/"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
