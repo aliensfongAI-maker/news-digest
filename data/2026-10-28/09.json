@@ -1,0 +1,111 @@
+{
+  "date": "2026-10-28",
+  "hour": "09",
+  "updatedAt": "2026-10-28T09:05:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "敗選巴西總統後　弗拉維奧據報抵達美國",
+          "summary": "巴西總統選舉落敗的弗拉維奧·博索納羅據報已於星期二晚間抵達美國邁阿密，由其弟迎接；美方稍早稱會向其家人發簽證，盧拉批評其離境可恥，巴西最高法院早前曾禁其出境。",
+          "time_hkt": "2026-10-28T08:08:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875579-20261028.htm"
+            },
+            {
+              "name": "Anadolu",
+              "url": "https://www.aa.com.tr/en/politics/defeated-brazilian-presidential-candidate-flavio-bolsonaro-arrives-in-us-despite-travel-ban-report/4103152"
+            },
+            {
+              "name": "CNN Español",
+              "url": "https://cnnespanol.cnn.com/2026/10/27/latinoamerica/brasil-policia-busca-senador-flavio-bolsonaro-orix"
+            },
+            {
+              "name": "Exame",
+              "url": "https://exame.com/brasil/flavio-bolsonaro-desembarca-em-miami-e-e-recebido-pelo-irmao-eduardo-diz-jornal/"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "澳洲9月通脹升至4.3%　高於預期、加息押注升溫",
+          "summary": "澳洲統計局公布，截至9月的12個月消費者物價指數升4.3%，高於8月的4.0%，住屋及交通（燃油）為主要推動；修剪均值升至3.6%，市場預期儲備銀行下周加息機會上升。",
+          "time_hkt": "2026-10-28T08:30:00+08:00",
+          "sources": [
+            {
+              "name": "Australian Bureau of Statistics",
+              "url": "https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/consumer-price-index-australia/latest-release"
+            },
+            {
+              "name": "ABC News",
+              "url": "https://www.abc.net.au/news/2026-10-28/inflation-september-cpi-ahead-of-november-interest-rate-call/107317382"
+            },
+            {
+              "name": "Nine",
+              "url": "https://www.nine.com.au/australia-news/live-updates-inflation-figures-cpi-september-abs-interest-rates-20261028-p6198c.html"
+            },
+            {
+              "name": "The National Tribune",
+              "url": "https://www.nationaltribune.com.au/cpi-rose-43-in-year-to-september-2026-australia/"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "韓股初段升逾3%　KOSPI重上5800點",
+          "summary": "受美股科技股及半導體上漲、油價回落，以及SK海力士季績創紀錄帶動，首爾綜合指數初段升約3.2%重上5800點，三星電子及SK海力士等權重股造好。",
+          "time_hkt": "2026-10-28T08:25:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875581-20261028.htm"
+            },
+            {
+              "name": "韓聯社",
+              "url": "https://en.yna.co.kr/view/AEN20261028001851320"
+            },
+            {
+              "name": "MoneyToday",
+              "url": "https://www.mt.co.kr/stock/2026/10/28/2026102809190855191"
+            },
+            {
+              "name": "Seoul Economic Daily",
+              "url": "https://en.sedaily.com/news/2026/10/28/samsung-sk-hynix-rally-3-percent-on-oil-drop-anthropic"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "日股初段升逾800點　日經重上64000點",
+          "summary": "受隔晚美股尤其納指及費城半導體指數上漲帶動，東京股市初段造好，日經指數較早時報約64100點，升逾800點、升幅約1.3%，人工智能及半導體相關股份受追捧。",
+          "time_hkt": "2026-10-28T08:23:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875580-20261028.htm"
+            },
+            {
+              "name": "財經新聞",
+              "url": "https://www.zaikei.co.jp/article/20261028/875186.html"
+            },
+            {
+              "name": "Business Recorder",
+              "url": "https://www.brecorder.com/news/40446187"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    }
+  ]
+}
