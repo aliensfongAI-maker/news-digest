@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-28",
+  "hour": "23",
+  "updatedAt": "2026-10-28T23:05:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "唐英年：劉延東關心支持香港發展　永遠懷念深厚情誼",
+          "summary": "全國政協常委唐英年對國務院原副總理劉延東逝世深表哀悼，稱其一直關心和支持香港發展，並憶述沙士後訪港及接見港生等事例，指與劉為江蘇同鄉、永遠懷念深厚情誼。",
+          "time_hkt": "2026-10-28T22:39:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875687-20261028.htm"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "國際園境師聯盟世界大會在港舉行　甯漢豪分享優化海濱經驗",
+          "summary": "國際園境師聯盟世界暨亞太區大會首度在港舉行，主題為「邊際景觀：變遷中的流域與海岸線」，匯聚逾80個國家地區逾千人；發展局局長甯漢豪於開幕分享維港海濱及翠屏河等可持續發展實例。",
+          "time_hkt": "2026-10-28T22:39:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875686-20261028.htm"
+            },
+            {
+              "name": "IFLA 2026",
+              "url": "https://www.ifla2026.com/"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "加拿大央行加息0.25厘至2.5厘　稱可能需要再次加息",
+          "summary": "加拿大央行一如預期加息0.25厘、指標利率升至2.5厘，為逾三年來首次加息，指能源價格高企令通脹更具持續性，或需再加息但會審慎；並上調今明兩年通脹預測，明年經濟增長預測維持約2%。",
+          "time_hkt": "2026-10-28T22:50:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875688-20261028.htm"
+            },
+            {
+              "name": "路透社",
+              "url": "https://www.streetinsider.com/Reuters/Bank+of+Canada+raises+key+interest+rate%2C+says+another+hike+possible/27246392.html"
+            },
+            {
+              "name": "Financial Post",
+              "url": "https://financialpost.com/news/economy/bank-of-canada-hikes-interest-rate-october-28"
+            },
+            {
+              "name": "BNN Bloomberg",
+              "url": "https://www.bnnbloomberg.ca/business/economics/2026/10/28/bank-of-canada-raises-key-interest-rate-says-another-hike-possible/"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
