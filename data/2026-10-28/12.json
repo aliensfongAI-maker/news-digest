@@ -1,0 +1,139 @@
+{
+  "date": "2026-10-28",
+  "hour": "12",
+  "updatedAt": "2026-10-28T12:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "據悉宏福苑報告最快明日公開　政府將推圍標刑事化等改革",
+          "summary": "消息指政府最快周四公開大埔宏福苑大火獨立委員會報告，行政長官李家超將率領司局長舉行記者會，交代包括立法禁止樓宇維修圍標並訂立刑事罪行、加強承建商監管及由政務司司長領導督導委員會等改革措施。",
+          "time_hkt": "2026-10-28T11:15:00+08:00",
+          "sources": [
+            {
+              "name": "南華早報",
+              "url": "https://www.scmp.com/news/hong-kong/society/article/3372377/hong-kong-propose-criminal-penalties-bid-rigging-after-deadly-tai-po-fire"
+            },
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875593-20261028.htm"
+            },
+            {
+              "name": "Dimsum Daily",
+              "url": "https://www.dimsumdaily.hk/government-poised-to-release-wang-fuk-court-report-tomorrow-as-reforms-to-criminalise-bid-rigging-planned/"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "科大稱第三所醫學院進入新發展階段　教研大樓已平頂、料28／29學年取錄50人",
+          "summary": "科大校長葉玉如表示自去年11月獲批籌建本港第三所醫學院以來，醫學教研綜合大樓已平頂、課程框架大致成形並延攬國際師資；創院院長李競存有信心按計劃於2028／29學年錄取首批50名學生。",
+          "time_hkt": "2026-10-28T11:43:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875605-20261028.htm"
+            },
+            {
+              "name": "新浪香港",
+              "url": "https://portal.sina.com.hk/news-hongkong/news-realtime/rthk/2026/10/28/1969279/%E7%A7%91%E5%A4%A7%E7%A8%B1%E7%B1%8C%E5%BB%BA%E9%A6%99%E6%B8%AF%E7%AC%AC%E4%B8%89%E6%89%80%E9%86%AB%E5%AD%B8%E9%99%A2%E5%B7%B2%E9%80%B2%E5%85%A5%E6%96%B0%E7%99%BC%E5%B1%95%E9%9A%8E%E6%AE%B5%E3%80%80/"
+            },
+            {
+              "name": "點新聞",
+              "url": "https://www.dotdotnews.com/a/202610/28/AP6ae16527e4b02fd1c5f5c6ce.html"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "法國上議院通過「破壞者自付」法案　示威破壞最高可賠1萬歐元",
+          "summary": "法國上議院以229票對105票通過擴大版法案，擬要求示威者為街頭破壞承擔最高1萬歐元民事賠償，並可扣押部分社會福利追討；法案將交國民議會審議，左翼及人權組織批評形同集體懲罰。",
+          "time_hkt": "2026-10-28T11:01:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875599-20261028.htm"
+            },
+            {
+              "name": "The Straits Times",
+              "url": "https://www.straitstimes.com/world/europe/french-senate-weighs-bill-to-make-protesters-pay-for-unrest-damage"
+            },
+            {
+              "name": "Le Monde",
+              "url": "https://www.lemonde.fr/politique/article/2026/10/28/mobilisations-sociales-le-projet-de-loi-casseurs-payeurs-approuve-et-elargi-par-le-senat-apres-les-violences-du-17-octobre_6801416_823448.html"
+            },
+            {
+              "name": "Public Sénat",
+              "url": "https://www.publicsenat.fr/actualites/parlementaire/le-senat-adopte-le-projet-de-loi-casseurs-payeurs-apres-lavoir-largement-durci"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "國台辦強調兩岸同屬一個中國不容改變　批評民進黨「以武謀獨」",
+          "summary": "國台辦發言人陳斌華回應陸委會說法，重申世界上只有一個中國、台灣是中國領土一部分，統一大勢不可阻擋；並批評民進黨當局邀請美方觀摩漢光演習屬「倚外謀獨」，同時就藝人參選造勢爭議稱主權問題沒有模糊空間。",
+          "time_hkt": "2026-10-28T11:28:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875601-20261028.htm"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "新西蘭央行總裁布雷曼：未來會議或進一步加息　關注紐元貶值加劇通脹",
+          "summary": "新西蘭央行意外維持利率2.75厘後，總裁布雷曼在記者會表示很可能在未來會議進一步加息，甚至進入緊縮區間，並指委員會討論過紐元貶值或加劇輸入型通脹；議息公布後紐元兌美元曾急挫逾1%。",
+          "time_hkt": "2026-10-28T11:23:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875600-20261028.htm"
+            },
+            {
+              "name": "InvestingLive",
+              "url": "https://investinglive.com/central-banks/rbnz-s-breman-more-hikes-likely-at-coming-meetings-possibly-into-restrictive-territory/"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "恒指開高後漲勢收斂　臨近午市僅微升約3點、科技股仍普遍造好",
+          "summary": "港股開高後動能減弱，臨近午市恒生指數報約23,044點，僅升約3點；騰訊、阿里、美團等大型科技股普遍升約1%至1.4%，惟友邦跌約2.4%，泡泡瑪特績後曾挫逾4%，東山精密首日掛牌仍低於招股價。",
+          "time_hkt": "2026-10-28T11:19:00+08:00",
+          "sources": [
+            {
+              "name": "中時新聞網",
+              "url": "https://www.chinatimes.com/realtimenews/20261028002045-260410"
+            },
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/en/component/k2/1875596-20261028.htm"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
