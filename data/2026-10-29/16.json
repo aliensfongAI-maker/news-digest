@@ -1,0 +1,241 @@
+{
+  "date": "2026-10-29",
+  "hour": "16",
+  "updatedAt": "2026-10-29T16:10:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "何永賢就宏福苑火災承擔政治責任請辭　特首已接受並率官員鞠躬致歉",
+          "summary": "政府公布大埔宏福苑火災獨立委員會報告後，行政長官李家超表示房屋局局長應承擔政治責任，已接受何永賢請辭，由今日起停止其職務，財政司副司長黃偉綸兼任署理房屋局局長；李家超並率相關司局長就火災鞠躬致歉。",
+          "time_hkt": "2026-10-29T14:52:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875772-20261029.htm"
+            },
+            {
+              "name": "東網",
+              "url": "https://hk.on.cc/hk/bkn/cnt/news/20261029/bkn-20261029145311202-1029_00822_001.html"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/hong-kong-fire-housing-b9007997e78bf581663863d50c5002a1"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "宏福苑火災問責改革：圍標納入有組織及嚴重罪行　成立樓宇維修支援及服務局",
+          "summary": "李家超宣布以獨立委員會報告為基礎全面改革，訂立打擊樓宇維修圍標刑事罪行並納入《有組織及嚴重罪行條例》，成立樓宇維修支援及服務局，並啟動行政責任兩級調查機制，三個月內完成對相關部門人員責任的調查。",
+          "time_hkt": "2026-10-29T15:13:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875776-20261029.htm"
+            },
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875775-20261029.htm"
+            },
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202610/29.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "獨立委員會：宏福苑火災極可能由香煙引致　重大傷亡涉人為過失或疏忽",
+          "summary": "獨立委員會報告指火災極可能因熱源點燃宏昌閣單位外平台紙質物料引起悶燒，該熱源很可能是一根香煙；並確定工人吸煙、使用非阻燃棚網等不安全物料及工序，以及不合資格人士操作消防裝置等，為導致火災及重大傷亡的人為因素。",
+          "time_hkt": "2026-10-29T16:06:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875796-20261029.htm"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "韓國特檢組二審再求處尹錫悅死刑　指內亂破壞憲政秩序",
+          "summary": "負責調查緊急戒嚴事件的韓國特別檢察組，以涉嫌帶頭發動內亂為由，在首爾高等法院二審再次請求判處前總統尹錫悅死刑，指一審無期徒刑過輕；法院將於11月5日聽取最終辯護及本人最後陳述後公布宣判日期。",
+          "time_hkt": "2026-10-29T13:10:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875762-20261029.htm"
+            },
+            {
+              "name": "韓聯社",
+              "url": "https://en.yna.co.kr/view/AEN20261029005752315"
+            },
+            {
+              "name": "中央社",
+              "url": "https://www.cna.com.tw/news/aopl/202610290185.aspx"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "朝鮮向東海發射約十枚短程彈道導彈　飛行距離約250公里",
+          "summary": "韓國聯合參謀本部表示，朝鮮下午自元山一帶向朝鮮半島東部海域發射約十枚短程彈道導彈，飛行距離約250公里，為時隔約17日再射；日本亦偵測到疑似彈道導彈，韓美日正共享情報並呼籲停止挑釁。",
+          "time_hkt": "2026-10-29T13:21:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875763-20261029.htm"
+            },
+            {
+              "name": "韓聯社",
+              "url": "https://en.yna.co.kr/view/AEN20261029008300315"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/north-korea-projectile-launch-b1a2feff5944a71c716ed37fd94e8aa5"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "所羅門群島總理威爾因病送往澳洲緊急就醫",
+          "summary": "所羅門群島總理辦公室表示，總理馬修·威爾上周末入住首都霍尼亞拉國家轉診醫院，經評估後於星期三轉往澳洲接受進一步專科治療；有醫生稱診斷為登革熱，惟官方尚未證實具體病情。",
+          "time_hkt": "2026-10-29T15:19:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875774-20261029.htm"
+            },
+            {
+              "name": "RNZ",
+              "url": "https://www.rnz.co.nz/news/pacific/2207962/solomon-islands-pm-matthew-wale-flown-to-australia-for-urgent-medical-treatment"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "韓股低收逾1.2%跌穿6000點　三星創紀錄財報後仍遭賣壓",
+          "summary": "首爾綜合指數收報5937點，跌74點或1.24%，跌穿6000點；三星電子雖公布創紀錄業績，但因股東回報安排未達市場預期等，股價受壓拖累大市。",
+          "time_hkt": "2026-10-29T14:51:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875769-20261029.htm"
+            },
+            {
+              "name": "韓聯社",
+              "url": "https://www.yna.co.kr/view/AKR20261029152851008"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "日股高收逾1%連升3日　日經收報64659點",
+          "summary": "東京股市連續第三個交易日造好，日經指數收報64659點，升705點或1.1%，半導體及AI相關股受愛德萬測試上修展望等帶動。",
+          "time_hkt": "2026-10-29T14:46:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875768-20261029.htm"
+            },
+            {
+              "name": "中央社",
+              "url": "https://www.cna.com.tw/news/afe/202610290189.aspx"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "大眾汽車第3季虧損約58億歐元　指中國競爭及轉型壓力加劇",
+          "summary": "歐洲最大車廠大眾汽車公布第3季經營虧損約58.6億歐元，收入按年跌6.3%至753億歐元，主要受特別項目、中國市場疲弱及電動車利潤較低拖累；集團強調須加快落實約310億歐元成本計劃。",
+          "time_hkt": "2026-10-29T15:12:00+08:00",
+          "sources": [
+            {
+              "name": "Volkswagen Group",
+              "url": "https://www.volkswagen-group.com/en/press-releases/volkswagen-group-nine-month-results-underline-urgent-need-for-action-20799"
+            },
+            {
+              "name": "Euronews",
+              "url": "https://www.euronews.com/2026/10/29/volkswagen-posts-58-billion-loss-as-chinese-competition-bites"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "滙豐、中銀、渣打及恒生維持港元最優惠利率不變",
+          "summary": "聯儲局維持利率不變後，滙豐及中銀香港宣布港元最優惠利率維持5厘，渣打香港維持5.25厘、恒生銀行維持5厘，各行儲蓄存款利率亦維持不變。",
+          "time_hkt": "2026-10-29T14:54:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875759-20261029.htm"
+            },
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875770-20261029.htm"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "吉利汽車上季盈利增約28%　收入升10%創同期高",
+          "summary": "港股上市的吉利汽車公布上季盈利48.37億元人民幣，按年增長約28%；收入989.64億元升10%，銷量81.25萬輛升7%，指高價值產品佔比提升帶動平均售價改善。",
+          "time_hkt": "2026-10-29T13:22:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875764-20261029.htm"
+            },
+            {
+              "name": "Yahoo財經",
+              "url": "https://hk.finance.yahoo.com/news/%E5%90%89%E5%88%A9%E6%B1%BD%E8%BB%8A-00175-%E7%AC%AC3%E5%AD%A3%E7%B4%94%E5%88%A9%E5%A2%9E27-52-041100388.html"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "「香港網絡安全攻防演練—以攻築防2026」展開　首次納入私企防守",
+          "summary": "數字政策辦公室牽頭的60小時攻防演練今日起一連三日展開，藍隊51隊（含28個政府部門及首次加入的私企）、紅隊23隊以實兵實網實戰測試防禦；紅隊可有限度使用AI攻擊，演練至10月31日晚結束。",
+          "time_hkt": "2026-10-29T12:35:00+08:00",
+          "sources": [
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202610/29/P2026102900334.htm"
+            },
+            {
+              "name": "文匯報",
+              "url": "https://www.wenweipo.com/a/202610/29/AP6ae2e075e4b0fa89498ae4fc.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
