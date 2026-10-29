@@ -1,0 +1,163 @@
+{
+  "date": "2026-10-30",
+  "hour": "04",
+  "updatedAt": "2026-10-30T04:10:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "上環畢街鹹水管爆裂　大量鹹水湧出馬路　料凌晨約4時復水",
+          "summary": "昨晚約8時半上環畢街鹹水管爆裂，鹹水湧至急庇利街及文咸東街一帶；水務署晚上約10時緊急暫停附近鹹水供應進行搶修，受影響範圍包括永樂街及文咸東街部分單號門牌，預計今晨約4時10分恢復供水。",
+          "time_hkt": "2026-10-30T00:05:00+08:00",
+          "sources": [
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60405097/%E4%B8%8A%E7%92%B0%E9%B9%B9%E6%B0%B4%E7%AE%A1%E7%88%86%E8%A3%82-%E5%A4%A7%E9%87%8F%E9%B9%B9%E6%B0%B4%E6%B9%A7%E5%87%BA%E9%A6%AC%E8%B7%AF-%E6%B0%B4%E5%8B%99%E7%BD%B2%E7%B7%8A%E6%80%A5%E5%81%9C%E6%B0%B4%E9%80%9A%E5%AE%B5%E6%90%B6%E4%BF%AE"
+            },
+            {
+              "name": "東網",
+              "url": "https://hk.on.cc/hk/bkn/cnt/news/20261030/bkn-20261030003023665-1030_00822_001.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "以色列選舉機構要求調查涉嫌外國勢力干涉選舉",
+          "summary": "以色列中央選舉委員會主席致函國家安全總局，要求調查議會選舉中涉嫌以外國資金不正當影響投票的情況，傳媒指情報涉及卡塔爾等資助阿拉伯裔社區投票動員；選舉委員會官員指廣泛舞弊指控並無根據，卡塔爾否認干預。",
+          "time_hkt": "2026-10-30T03:24:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875870-20261030.htm"
+            },
+            {
+              "name": "ABC",
+              "url": "https://www.abc.net.au/news/2026-10-29/israel-election-foreign-interference-allegations-investigation/107325606"
+            },
+            {
+              "name": "Jerusalem Post",
+              "url": "https://www.jpost.com/israel-election-2026/article-913187"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "土耳其卡帕多奇亞石柱坍塌釀多人死傷",
+          "summary": "土耳其旅遊勝地卡帕多奇亞格雷梅一帶煙囪狀天然石柱坍塌，司法部長初報2死5傷，其後省長稱死亡增至3人（包括1名外國人）；當局指事發前有暴雨誘發山泥傾瀉，熱氣球項目已因天氣暫停。",
+          "time_hkt": "2026-10-30T00:18:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875865-20261030.htm"
+            },
+            {
+              "name": "法新社／France 24",
+              "url": "https://www.france24.com/en/live-news/20261029-two-dead-in-rock-spire-collapse-at-turkey-s-touristic-cappadocia"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/turkey-cappadocia-rock-formation-collapse-climbers-tourism-701991bfabd99898df47e8eba0fbd9fd"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "蒙古南部奧尤陶勒蓋銅礦岩崩　15名工人受傷",
+          "summary": "蒙古南部南戈壁省奧尤陶勒蓋銅礦井下岩石破碎帶突發震動性事件引發局部岩崩，造成15名工人受傷、無死亡報告；運營方稱傷者情況整體平穩，正評估成因及現場安全。",
+          "time_hkt": "2026-10-30T01:18:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875866-20261030.htm"
+            },
+            {
+              "name": "新華社",
+              "url": "https://english.news.cn/20261029/65c1662f0d2b4f24aaf35e0ea7284771/c.html"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "王毅與冰島外長會談　稱願挖掘經貿海洋等合作潛力",
+          "summary": "外長王毅在北京與冰島外長貢納爾斯多蒂爾會談，表示願共享發展機遇並加強經貿、海洋、旅遊及科研合作，共同維護多邊主義；冰方祝賀五中全會並重申恪守一個中國政策。",
+          "time_hkt": "2026-10-30T02:20:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875867-20261030.htm"
+            },
+            {
+              "name": "新華社",
+              "url": "https://english.news.cn/20261029/058f41b1a19b439f93796751572fad8f/c.html"
+            },
+            {
+              "name": "CGTN",
+              "url": "https://news.cgtn.com/news/2026-10-29/Foreign-Minister-Wang-Yi-calls-for-deeper-China-Iceland-cooperation-1RDXvbFfWSc/p.html"
+            }
+          ],
+          "rank": 4
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "美股收市齊跌：納指挫1.66%　Alphabet急跌約13%",
+          "summary": "美股周四收市道指跌0.59%報52,163點、標普500跌0.63%、納指挫1.66%報26,108點；Alphabet因營收不及預期及AI資本開支擴大收市急跌約13.2%，半導體及部分軟件股亦受壓，羅素2000則逆市升約0.8%。",
+          "time_hkt": "2026-10-30T02:33:00+08:00",
+          "sources": [
+            {
+              "name": "民視／路透",
+              "url": "https://www.ftvnews.com.tw/news/detail/2026A30W0024"
+            },
+            {
+              "name": "路透／Investing.com",
+              "url": "https://www.investing.com/news/economy-news/wall-street-slides-as-alphabet-revenue-miss-revives-ai-capex-jitters-4984885"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/stocks-markets-ai-oil-fed-1b5c71d31b4ce1e46b0db47b33141f6b"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "Alphabet收市急挫約13%　AI資本開支與現金流再受審視",
+          "summary": "Google母公司Alphabet第三季財報後正規交易時段收市急跌約13.2%，拖累納指挫逾1.6%；市場聚焦其搜尋廣告變現不及預期及加速AI基建開支令自由現金流惡化，半導體及Fortinet、ServiceNow等軟件股亦大幅回落。",
+          "time_hkt": "2026-10-30T02:33:00+08:00",
+          "sources": [
+            {
+              "name": "民視／路透",
+              "url": "https://www.ftvnews.com.tw/news/detail/2026A30W0024"
+            },
+            {
+              "name": "路透／Investing.com",
+              "url": "https://www.investing.com/news/economy-news/wall-street-slides-as-alphabet-revenue-miss-revives-ai-capex-jitters-4984885"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/stocks-markets-ai-oil-fed-1b5c71d31b4ce1e46b0db47b33141f6b"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
