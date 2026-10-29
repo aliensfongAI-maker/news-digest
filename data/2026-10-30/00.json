@@ -1,0 +1,241 @@
+{
+  "date": "2026-10-30",
+  "hour": "00",
+  "updatedAt": "2026-10-30T00:12:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "楊何蓓茵：宏福苑行政責任調查若判定缺失　最嚴重可革職",
+          "summary": "公務員事務局局長楊何蓓茵表示，敍用委員會將判斷相關人員行政責任輕重並建議處分，若判定有缺失最嚴重可革職，亦包括著令退休、降級及譴責等；當局正修訂公務人員管理命令以加快紀律聆訊，預計年底生效。",
+          "time_hkt": "2026-10-29T20:07:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875841-20261029.htm"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "政府將修例把樓宇維修圍標行為刑事化",
+          "summary": "因應宏福苑火災獨立委員會杜絕樓宇維修招標不當行為的建議，當局將修改《競爭條例》等三條現行法律，把圍標行為刑事化，以加強打擊樓宇維修圍標。",
+          "time_hkt": "2026-10-29T20:01:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875838-20261029.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "葉劉淑儀：政府展現全面追究層層問責決心　行會非官守議員全力支持改革",
+          "summary": "行政會議非官守議員召集人葉劉淑儀表示，行政長官及主要官員就宏福苑火災清楚交代後續並道歉，展現政治承擔，認同七大系統改革方向，並稱政府在追究責任上展現全面追究、層層問責的決心。",
+          "time_hkt": "2026-10-29T22:10:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875861-20261029.htm"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "李家超熱烈祝賀五中全會閉幕　稱對特區治理實踐具重要指導意義",
+          "summary": "行政長官李家超就中共二十屆五中全會閉幕及通過全面從嚴治黨《決定》表示熱烈祝賀，指對香港特區治理實踐具重要指導意義，特區政府須把全會精神與香港實際結合，持續提升治理效能並統籌發展與安全。",
+          "time_hkt": "2026-10-29T21:42:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875857-20261029.htm"
+            }
+          ],
+          "rank": 4
+        },
+        {
+          "headline": "黃大仙上邨停水範圍縮至五座　水務署動員百人派水車送水",
+          "summary": "黃大仙上邨下午起緊急停水後，水務署晚上稱已作供水調度，受影響範圍由全邨八座縮至普善、倡善、啟善、耀善及達善樓五座，並調動約20架水車、40個水箱及百名人員協助市民取水，料周五凌晨3時恢復供水。",
+          "time_hkt": "2026-10-29T23:22:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875864-20261029.htm"
+            }
+          ],
+          "rank": 5
+        },
+        {
+          "headline": "食安中心：有進口商涉嫌違令進口埼玉縣加工杏仁魚乾　產品未流出市面",
+          "summary": "食物安全中心檢查日本進口食品時，發現有進口商涉嫌違反《食物安全命令》，進口受管制縣份埼玉縣加工的杏仁魚乾，產品已封存並未流出市面，中心正跟進並視乎證據考慮檢控。",
+          "time_hkt": "2026-10-29T21:57:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875860-20261029.htm"
+            }
+          ],
+          "rank": 6
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "伊朗稱電子戰控制美軍MQM-170無人機迫降　美軍中央司令部否認",
+          "summary": "伊朗伊斯蘭革命衛隊稱在霍爾木茲海峽以西以電子戰奪取美軍MQM-170偵察無人機並迫降；美國中央司令部發言人指報道不實，指伊朗革命衛隊近期多次作出虛假說法。",
+          "time_hkt": "2026-10-29T22:45:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875859-20261029.htm"
+            },
+            {
+              "name": "CGTN",
+              "url": "https://news.cgtn.com/news/2026-10-29/Iran-says-it-captured-a-US-drone-near-Strait-of-Hormuz-1RDWtl2fyBW/p.html"
+            },
+            {
+              "name": "News18/AP",
+              "url": "https://www.news18.com/agency-feeds/us-military-denies-claim-that-iran-captured-american-drone-10403841.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "國防部：日本迎合聯演推進再軍事化　正成地區安全威脅",
+          "summary": "國防部發言人張曉剛就美日大規模聯演及與那國島部署回應指，台灣問題屬中國內政，並批評日本迎合部分國家聯演、強化西南諸島軍事部署及發展中遠程導彈，加速再軍事化，正成為地區安全現實威脅。",
+          "time_hkt": "2026-10-29T20:08:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875831-20261029.htm"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "美國第3季GDP增長3.4%勝預期　9月PCE通脹升至3.6%",
+          "summary": "美國商務部公布第三季實質GDP按年率初值增長3.4%，高於預期並創一年最快，受消費及投資帶動；同日公布9月PCE物價指數按年升3.6%、核心升3.1%，顯示通脹仍高於聯儲局2%目標。",
+          "time_hkt": "2026-10-29T20:30:00+08:00",
+          "sources": [
+            {
+              "name": "BEA",
+              "url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026"
+            },
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875852-20261029.htm"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/economy-gdp-ca48d86b723cc52fe14d142ee033316a"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "歐洲央行維持三大關鍵利率不變　警示能源衝擊或推高通脹",
+          "summary": "歐洲央行如期維持存款利率2.5%、主要再融資利率2.65%及邊際貸款利率2.9%不變，並指能源價格持續上升對通脹構成上行風險、對增長構成下行風險，將按數據逐次會議決定利率路徑。",
+          "time_hkt": "2026-10-29T21:15:00+08:00",
+          "sources": [
+            {
+              "name": "歐洲央行",
+              "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html"
+            },
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875854-20261029.htm"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/29/european-central-bank-interest-rates.html"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "美股初段受壓：道指跌逾200點　納指跌近2%　Alphabet挫約13%",
+          "summary": "美股開市後科技股拖累大市，道指初段跌逾200點、納指跌近2%，Alphabet績後急挫約13%，微軟微跌，晶片股亦受壓，反映市場對大型科技AI開支回報的憂慮延續至正規交易時段。",
+          "time_hkt": "2026-10-29T21:40:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875856-20261029.htm"
+            },
+            {
+              "name": "Yahoo Finance",
+              "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-29-dow-sp-500-nasdaq-alphabet-microsoft-earnings-130305714.html"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/stocks-markets-ai-oil-fed-1b5c71d31b4ce1e46b0db47b33141f6b"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "國航第3季盈利按年跌近93%　首3季轉蝕逾20億元人民幣",
+          "summary": "中國國航第三季盈利2.71億元人民幣，按年跌近93%，收入約517億元升逾5%；首3季轉蝕20.2億元，公司指業績受航油成本急增拖累。",
+          "time_hkt": "2026-10-29T21:07:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875849-20261029.htm"
+            },
+            {
+              "name": "界面新聞",
+              "url": "https://www.jiemian.com/article/15265462.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "Alphabet開市急挫約13%拖累納指　AI資本開支憂慮延續",
+          "summary": "Alphabet第三季業績後由預市約跌10%擴大至開市急挫約13%，納指初段跌近2%，市場聚焦其搜尋廣告變現及巨額AI基建開支令自由現金流轉負，令大型科技AI投資回報再受審視。",
+          "time_hkt": "2026-10-29T21:40:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875856-20261029.htm"
+            },
+            {
+              "name": "Yahoo Finance",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-slide-mixed-big-083556706.html"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/stocks-markets-ai-oil-fed-1b5c71d31b4ce1e46b0db47b33141f6b"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
