@@ -1,0 +1,145 @@
+{
+  "date": "2026-10-29",
+  "hour": "12",
+  "updatedAt": "2026-10-29T12:10:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "陳茂波：香港首份五年規劃明確發展方向　予企業信心部署投資",
+          "summary": "財政司司長陳茂波在澳洲會計師公會活動上表示，香港首份五年規劃為政策及投資提供清晰框架，並闡述推進「金融+」、北部都會區及科研轉化等增長引擎；他指今年首9個月首次IPO集資額倍增至3800億元，國際及內地投資者積極參與。",
+          "time_hkt": "2026-10-29T10:42:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875740-20261029.htm"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "天水圍官立小學校巴急剎　8名學童輕傷送院",
+          "summary": "今早約9時50分，天水圍官立小學一輛校巴接載學童返學途中因應路面情況剎車，車上8名學童分別感到肩膀、腹部、鼻或頭痛，校方報警後送院檢查；校方確認事件並指為安全起見安排檢查。",
+          "time_hkt": "2026-10-29T11:14:00+08:00",
+          "sources": [
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60404736/%E5%A4%A9%E6%B0%B4%E5%9C%8D%E4%B8%80%E5%B0%8F%E5%AD%B8%E6%A0%A1%E5%B7%B4%E7%AA%81%E5%89%8E%E8%BB%8A-8%E5%90%8D%E5%AD%B8%E7%AB%A5%E8%BC%95%E5%82%B7%E9%80%81%E9%99%A2"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "西班牙高鐵相撞增至至少68死　全國展開三天哀悼",
+          "summary": "西班牙托萊多省兩列高鐵相撞事故死亡人數增至至少68人，首相桑切斯宣布全國哀悼三天；交通大臣指控制中心在安全系統故障後錯誤允許列車恢復行駛，導致Renfe列車追撞停駛的Iryo列車，香港入境處表示至今未接獲港人求助。",
+          "time_hkt": "2026-10-29T08:57:00+08:00",
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/cmqxnl312v34o"
+            },
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875694-20261029.htm"
+            },
+            {
+              "name": "文匯報",
+              "url": "https://www.wenweipo.com/a/202610/29/AP6ae29a04e4b0fa89498ad63b.html"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/train-accident-spain-4f65471a0e36f448d7ee9efe0768cd77"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "三星電子第3季經營溢利107.4萬億韓元　按年增近8倍創新高",
+          "summary": "三星電子公布第3季經營溢利107.4萬億韓元，按年增長近8倍，成為全球首家單季經營溢利突破100萬億韓元的科技公司，主因人工智能帶動記憶體需求；收入195.3萬億韓元，公司指明年晶片供應短缺料加劇。",
+          "time_hkt": "2026-10-29T11:08:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875744-20261029.htm"
+            },
+            {
+              "name": "信報",
+              "url": "https://www.hkej.com/instantnews/international/article/4550044/%E4%B8%89%E6%98%9F%E9%9B%BB%E5%AD%90%E7%AC%AC%E4%B8%89%E5%AD%A3%E7%87%9F%E6%A5%AD%E5%88%A9%E6%BD%A4%E5%A2%9E%E9%95%B7%E8%BF%918%E5%80%8D"
+            },
+            {
+              "name": "三星全球新聞室",
+              "url": "https://news.samsung.com/global/samsung-electronics-announces-third-quarter-2026-results"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "金管局：港匯及拆息走向變數較多　市民需管理利率風險",
+          "summary": "聯儲局維持利率不變後，金管局回應指決定符合預期，本港貨幣及金融市場有序運作；發言人指港美息差或誘發套息令港元逐步轉弱，但港匯及拆息仍受市場胃納、資金供求及季節因素影響，變數較多，市民置業投資或借貸須充分管理利率風險。",
+          "time_hkt": "2026-10-29T11:23:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875748-20261029.htm"
+            },
+            {
+              "name": "港台英文",
+              "url": "https://news.rthk.hk/rthk/en/component/k2/1875743-20261029.htm"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "蘋果發表首款觸控MacBook Pro　PROLED XDR螢幕配M5晶片",
+          "summary": "蘋果發表全新14吋及16吋MacBook Pro，首次為Mac加入觸控螢幕，採用PROLED XDR雙層OLED顯示器、Dynamic Island，並配備M5 Pro或M5 Max晶片；香港售價約22,999港元起，現已開放預訂，11月6日發售。",
+          "time_hkt": "2026-10-29T08:46:00+08:00",
+          "sources": [
+            {
+              "name": "unwire.hk",
+              "url": "https://unwire.hk/2026/10/29/apple-macbook-pro-proled-xdr-touch-oled/notebook/"
+            },
+            {
+              "name": "信報",
+              "url": "https://www.hkej.com/instantnews/international/article/4549961/%E8%98%8B%E6%9E%9C%E6%8E%A8%E6%96%B0%E6%AC%BEMacBook+Pro+%E5%BC%95%E5%85%A5%E8%A7%B8%E6%8E%A7%E5%8A%9F%E8%83%BD"
+            },
+            {
+              "name": "中央社",
+              "url": "https://www.cna.com.tw/news/ait/202610290028.aspx"
+            },
+            {
+              "name": "Apple Newsroom",
+              "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
