@@ -1,0 +1,229 @@
+{
+  "date": "2026-10-30",
+  "hour": "16",
+  "updatedAt": "2026-10-30T16:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "公營房屋樓宇管制組下月取代獨立審查組　黃偉綸：改以項目為基礎監管",
+          "summary": "署理房屋局局長黃偉綸表示，房屋局將於約一個月內成立公營房屋樓宇管制組，約300名獨立審查組人員遷入，改以項目為基礎配備專責團隊及一站式聯絡主任，並加強與屋宇署溝通；發展局局長甯漢豪亦交代樓宇維修支援及服務局將訂績效指標。",
+          "time_hkt": "2026-10-30T14:50:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875948-20261030.htm"
+            },
+            {
+              "name": "RTHK English",
+              "url": "https://news.rthk.hk/rthk/en/component/k2/1875939-20261030.htm"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "鄧炳強及丘應樺作為問責團隊　向宏福苑災民及市民道歉",
+          "summary": "保安局局長鄧炳強與商務及經濟發展局局長丘應樺出席政府改革措施記者會，作為問責團隊向宏福苑災民及市民道歉；鄧炳強指將從修例、統籌執法及前線預防嚴打樓宇維修圍標，丘應樺則強調透過刑事化及民事制度改革加強打擊嚴重反競爭行為。",
+          "time_hkt": "2026-10-30T15:20:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875952-20261030.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "甯漢豪：曾思考請辭但個人意願非最重要　會依從行政長官指示留守",
+          "summary": "發展局局長甯漢豪出席記者會時表示，曾就宏福苑大火思考請辭，但比喻行政長官為船長、自己為船員，個人意願並非最重要，須有紀律依從指示；署理房屋局局長黃偉綸亦指署任屬開放式、未設終止期限。",
+          "time_hkt": "2026-10-30T13:09:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875935-20261030.htm"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "孫玉菡強調按行政長官要求留守崗位　全力落實施政方針",
+          "summary": "勞工及福利局局長孫玉菡被問及政治責任及請辭時再次致歉，強調作為問責官員會按行政長官要求留守崗位；他指地盤全面禁煙新例實施三個月來已發83張定額罰款通知書，約三分之一建基於市民提供的資料。",
+          "time_hkt": "2026-10-30T13:19:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875936-20261030.htm"
+            }
+          ],
+          "rank": 4
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "以色列議會選舉完成點票　內塔尼亞胡陣營獲53席未過半",
+          "summary": "以色列議會選舉完成點票，內塔尼亞胡右翼陣營在120席中獲53席，領先埃森科特反對派陣營的48席，阿拉伯裔政黨獲19席；沒有陣營取得過半數，正式結果下月4日公布，組閣談判料持續數周。",
+          "time_hkt": "2026-10-30T12:37:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875931-20261030.htm"
+            },
+            {
+              "name": "Times of Israel",
+              "url": "https://www.timesofisrael.com/with-all-votes-counted-netanyahus-bloc-at-53-seats-eisenkots-48-arab-parties-19/"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/30/israel-election-netanyahu-eisenkot-coalition-talks-.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "金正恩出席無人航空技術展覽會　要求增強無人機及國防人工智能",
+          "summary": "朝中社報道，朝鮮領袖金正恩出席無人航空技術展覽會並觀摩試射，要求增強無人機技術及在國防人工智能領域取得成果；現場展示自殺式攻擊無人機、巡航導彈及超大型多管火箭炮等裝備。",
+          "time_hkt": "2026-10-30T13:25:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875940-20261030.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "解放軍於黃岩島領海領空及周邊展開戰備警巡",
+          "summary": "解放軍南部戰區組織海空兵力於黃岩島領海領空及周邊展開戰備警巡，中國海警同步執法巡查；央視指行動是對菲律賓侵權挑釁的必要反制，並持續加強相關海空域管控。",
+          "time_hkt": "2026-10-30T16:09:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875958-20261030.htm"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "外交部強烈不滿美方據報禁止中國實驗室檢測美國電子設備",
+          "summary": "外交部發言人郭嘉昆回應美國監管機構據報禁止中國實驗室展開智能手機等美國電子設備檢測業務，指美方泛化國家安全、無理打壓中國企業，中方堅決反對並將採取必要措施維護正當合法權益。",
+          "time_hkt": "2026-10-30T16:07:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875955-20261030.htm"
+            }
+          ],
+          "rank": 4
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "亞太股市收市：滬股全月跌逾6%　韓股累計跌逾16%　日股跌逾5%",
+          "summary": "內地上證指數收報3599點跌1.44%，創業板指數跌4.13%、全月急挫約23%；韓股收市跌3.48%、10月累計跌約16.2%；日經指數收市跌2.12%、全月累計跌約5.2%，亞太風險資產續受科技股回調拖累。",
+          "time_hkt": "2026-10-30T15:31:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875953-20261030.htm"
+            },
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875950-20261030.htm"
+            },
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875947-20261030.htm"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "恒指半日升377點報23335　成交近1071億元",
+          "summary": "10月最後一個交易日恒指半日收市報23335點，升377點，半日成交近1071億元；午後初段一度報23354點、升近400點，友邦及內需股造好，部分AI硬件及晶片股偏軟。",
+          "time_hkt": "2026-10-30T12:17:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875927-20261030.htm"
+            },
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875938-20261030.htm"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "本港未來3至4年一手私人住宅潛在供應回升至10萬個",
+          "summary": "房屋局數據顯示，截至9月底未來3至4年私人住宅一手潛在供應回升至10萬個，按季增4000個；其中貨尾1.9萬個、建築中未預售6.2萬個、已批出可動工1.9萬個，上季落成量則按年跌逾48%。",
+          "time_hkt": "2026-10-30T14:17:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875945-20261030.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "許正宇出席滬港金融合作第十次工作會議　強化兩地市場聯動",
+          "summary": "財經事務及庫務局局長許正宇在上海出席滬港金融合作第十次工作會議，指兩地將持續優勢互補、強化金融市場聯動；他並見證香港金融糾紛調解中心與上海市金融消費糾紛調解中心簽署合作備忘錄。",
+          "time_hkt": "2026-10-30T14:32:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875944-20261030.htm"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "幣安遭黑客盜竊約63億美元　已凍結約30億並承諾全數賠付",
+          "summary": "全球最大加密貨幣交易所幣安確認熱錢包遭竊約63億美元，初步調查指或與工程師電腦被入侵有關；平台已與夥伴凍結約30億美元資產，並指將以用戶資產安全基金及自有資金承擔全部損失，提款料48小時內恢復。區塊鏈分析公司TRM Labs等高信心指北韓黑客組織涉案。",
+          "time_hkt": "2026-10-30T13:20:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875937-20261030.htm"
+            },
+            {
+              "name": "RTHK English",
+              "url": "https://news.rthk.hk/rthk/en/component/k2/1875951-20261030.htm"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/30/billions-in-crypto-frozen-in-binance-hack-heres-what-happens-next-.html"
+            },
+            {
+              "name": "中央社",
+              "url": "https://www.cna.com.tw/news/aopl/202610300172.aspx"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
