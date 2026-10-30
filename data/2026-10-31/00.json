@@ -1,0 +1,273 @@
+{
+  "date": "2026-10-31",
+  "hour": "00",
+  "updatedAt": "2026-10-31T00:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "考評局國際考試系統遭攻擊　約1.69萬名內地考生資料外洩",
+          "summary": "考評局公布周四發現部分國際考試資訊系統遭網絡攻擊，約16,900名申請兩項國際考試的內地居住人士姓名、出生日期及電郵外洩，已報警並通報私隱公署，稱文憑試等獨立系統暫未見受影響。",
+          "time_hkt": "2026-10-30T23:27:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876013-20261030.htm"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60405504/%E9%BB%91%E8%89%B2%E5%8D%81%E6%9C%88-%E8%80%83%E8%A9%95%E5%B1%80%E5%9C%8B%E9%9A%9B%E8%80%83%E8%A9%A6%E7%B3%BB%E7%B5%B1%E9%81%AD%E6%94%BB%E6%93%8A-%E8%BF%911-7%E8%90%AC%E8%80%83%E7%94%9F%E5%80%8B%E4%BA%BA%E8%B3%87%E6%96%99%E5%A4%96%E6%B3%84"
+            },
+            {
+              "name": "文匯報",
+              "url": "https://www.wenweipo.com/a/202610/30/AP6ae4b964e4b0fa89498b27a0.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "藍田站兩日事故港鐵須撥480萬回贈　承諾一個月內交調查報告",
+          "summary": "立法會鐵路事宜小組討論藍田站月中兩日設備故障，因均影響繁忙時間，港鐵按機制合共撥480萬元至服務表現回贈帳戶，並承諾一個月內向政府提交詳細調查報告及改善措施。",
+          "time_hkt": "2026-10-30T21:03:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875999-20261030.htm"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60405178/%E8%97%8D%E7%94%B0%E7%AB%99%E5%85%A9%E4%BA%8B%E6%95%85-%E6%B8%AF%E9%90%B5%E9%A0%88%E6%92%A5480%E8%90%AC%E5%9B%9E%E8%B4%88-%E8%AD%B0%E5%93%A1%E8%B3%AA%E7%96%91%E5%91%A8%E6%9C%AB%E8%A3%9C%E5%84%9F%E9%9B%A3%E6%83%A0%E4%B8%8A%E7%8F%AD%E6%97%8F"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "運輸署署長視察短途跨境巴士　指營辦商已就緒應付萬聖節人流",
+          "summary": "運輸署預料萬聖節起一連三晚跨境出行增加，署長謝詠誼視察多個站點後表示短途跨境巴士已預留後備車，B13加密並加開B13S通宵線，深圳灣口岸亦延長清關。",
+          "time_hkt": "2026-10-30T21:41:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876006-20261030.htm"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "香港大會堂雕塑品疑被盜　市值約16萬元　警列盜竊跟進",
+          "summary": "警方下午接報中環香港大會堂一批約值16萬元雕塑品不知所終，案件列盜竊由中區警區跟進，暫未有人被捕；場地正舉辦微波國際新媒體藝術節。",
+          "time_hkt": "2026-10-30T20:45:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875995-20261030.htm"
+            },
+            {
+              "name": "英文港台",
+              "url": "https://news.rthk.hk/rthk/en/component/k2/1875997-20261030.htm"
+            }
+          ],
+          "rank": 4
+        },
+        {
+          "headline": "蘭桂坊萬聖節人頭湧湧　有內地旅客下班後即赴港感受氣氛",
+          "summary": "中環蘭桂坊一帶道路封閉劃為行人專用區並實施人流管制，酒吧及協會料生意創新高；有東莞旅客下班後趕赴香港過夜，計劃經皇崗口岸返程。",
+          "time_hkt": "2026-10-30T21:29:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876004-20261030.htm"
+            }
+          ],
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "習近平分別會見瑞士聯邦主席及德國總統　中瑞簽署自貿協定升級議定書",
+          "summary": "習近平在北京會見瑞士聯邦主席帕姆蘭及德國總統施泰因邁爾，強調中瑞互利共贏並見證自貿協定升級議定書簽署，同時冀德方以積極心態看待中國發展、堅持理性務實對華政策。",
+          "time_hkt": "2026-10-30T21:22:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876002-20261030.htm"
+            },
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876001-20261030.htm"
+            },
+            {
+              "name": "外交部",
+              "url": "https://www.mfa.gov.cn/web/wjdt_674879/gjldrhd_674881/202610/t20261030_12050472.shtml"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "菲律賓馬榮火山中度爆炸性噴發　當局升至三級警報",
+          "summary": "菲火山地震研究所表示阿爾拜省馬榮火山周五出現持續近六分鐘的中度爆炸性噴發，灰柱升至約三千米，警報升至三級，並呼籲永久危險區內居民疏散。",
+          "time_hkt": "2026-10-30T20:30:00+08:00",
+          "sources": [
+            {
+              "name": "Inquirer",
+              "url": "https://newsinfo.inquirer.net/2332852/breaking-mayon-volcano-erupts-phivolcs"
+            },
+            {
+              "name": "GMA News",
+              "url": "https://www.gmanetwork.com/news/topstories/regions/1007703/mayon-volcano-erupts-alert-level-3-raised-phivolcs/story/"
+            },
+            {
+              "name": "Rappler",
+              "url": "https://www.rappler.com/philippines/luzon/mayon-volcano-eruption-alert-level-update-phivolcs-october-30-2026/"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "納指初段跌逾2%創近三個月新低　英特爾急挫近29%拖累晶片股",
+          "summary": "美股初段科技股受壓，納指較早時跌逾2.5%創近三個月新低；英特爾因PC需求疲弱及四季展望遜預期急挫近29%，亞馬遜、AMD等亦下跌，市場繼續憂慮AI資本開支回報。",
+          "time_hkt": "2026-10-30T21:39:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876005-20261030.htm"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html"
+            },
+            {
+              "name": "Reuters/Yahoo",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-sink-amazon-intel-114737736.html"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/cvwy72e0n72yo"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "內地明年起信託產品不得保證最低收益或設置預期收益率",
+          "summary": "國家金融監督管理總局公布《資產管理信託管理辦法》，規定信託公司不得向投資者承諾本金不受損失或保證最低收益，亦不得設置預期收益率，辦法自2027年1月1日起施行。",
+          "time_hkt": "2026-10-30T22:45:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876008-20261030.htm"
+            },
+            {
+              "name": "中國金融信息網",
+              "url": "https://www.cnfin.com/hb-lb/detail/20261030/4489120_1.html"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "美國第3季勞動力成本升0.8%　符合市場預期",
+          "summary": "美國勞工統計局公布第三季就業成本指數升0.8%，工資升0.7%、福利升0.9%，按年升3.4%，顯示勞動成本增速較高峰放緩，影響市場對聯儲局政策路徑的評估。",
+          "time_hkt": "2026-10-30T21:22:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876003-20261030.htm"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "領展以23億元出售旺角「T.O.P」物業　2016年曾以約59億購入",
+          "summary": "領展宣布以23億元向本地投資者Han Bliss Global Limited出售旺角彌敦道700號全部權益，料2027年首季完成並續任資產管理；物業被界定為非核心，所得擬用於回購、營運及核心投資。",
+          "time_hkt": "2026-10-30T22:11:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876010-20261030.htm"
+            },
+            {
+              "name": "東網",
+              "url": "https://hk.on.cc/hk/bkn/cnt/finance/20261030/bkn-20261030221102744-1030_00842_001.html"
+            },
+            {
+              "name": "文匯報",
+              "url": "https://www.wenweipo.com/a/202610/30/AP6ae4ac12e4b0fa89498b26db.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "中人壽首3季盈利跌約47%　新業務價值升逾13%",
+          "summary": "中國人壽首三季盈利894.3億元人民幣，按年跌約47%，主因去年高基數及資本市場波動；剔除短期波動後盈利升約16%，新業務價值升逾13%，總保費升1%。",
+          "time_hkt": "2026-10-30T21:07:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876000-20261030.htm"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "考評局國際考試系統遭網絡攻擊　約1.69萬人個人資料外洩",
+          "summary": "考評局就部分國際考試資訊系統網絡安全事故報警，約16,900名內地考生姓名、出生日期及電郵外洩；涉事系統僅用於個別小規模國際考試，文憑試等獨立系統暫未見受影響。",
+          "time_hkt": "2026-10-30T23:27:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876013-20261030.htm"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60405504/%E9%BB%91%E8%89%B2%E5%8D%81%E6%9C%88-%E8%80%83%E8%A9%95%E5%B1%80%E5%9C%8B%E9%9A%9B%E8%80%83%E8%A9%A6%E7%B3%BB%E7%B5%B1%E9%81%AD%E6%94%BB%E6%93%8A-%E8%BF%911-7%E8%90%AC%E8%80%83%E7%94%9F%E5%80%8B%E4%BA%BA%E8%B3%87%E6%96%99%E5%A4%96%E6%B3%84"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "英特爾績後急挫近29%拖累納指　AI資本開支與PC需求再受審視",
+          "summary": "英特爾因PC市場持續疲弱、以色列廠房事故及四季指引遜預期急挫近29%，亞馬遜亦因AI資本開支令現金流受壓而下跌，納指初段跌逾2%創近三個月新低。",
+          "time_hkt": "2026-10-30T21:39:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876005-20261030.htm"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/cvwy72e0n72yo"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    }
+  ]
+}
