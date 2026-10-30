@@ -1,0 +1,106 @@
+{
+  "date": "2026-10-31",
+  "hour": "04",
+  "updatedAt": "2026-10-31T04:08:05+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": []
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "特朗普再稱美以伊戰事很快結束　料戰後汽油柴油等價格回落",
+          "summary": "美國總統特朗普接受電台訪問時表示美以伊戰事很快會結束，重申伊朗不能擁有核武，並稱戰事結束後汽油、柴油等商品價格將下降；美媒指中期選舉後或再有大規模打擊選項。",
+          "time_hkt": "2026-10-31T02:13:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876016-20261031.htm"
+            },
+            {
+              "name": "東網",
+              "url": "https://hk.on.cc/hk/bkn/cnt/intnews/20261031/bkn-20261031001112512-1031_00992_001.html"
+            },
+            {
+              "name": "Reuters",
+              "url": "https://www.investing.com/news/commodities-news/trump-on-iran-war-its-going-to-get-wrapped-up-soon-4987341"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "烏沙科夫：歐洲國家列席阿布扎比會談不視為參與俄美烏談判",
+          "summary": "俄羅斯總統助理烏沙科夫表示，計劃在美國斡旋下於阿聯酋阿布扎比舉行俄美烏三方會談，對結束衝突具決定性意義；即使歐洲國家派代表到場與烏方或美方溝通，亦不視為參加三方會談。",
+          "time_hkt": "2026-10-31T03:32:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876017-20261031.htm"
+            },
+            {
+              "name": "俄新社",
+              "url": "https://ria.ru/20261030/ushakov-2128071127.html"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "逾五百名奧列什基居民獲安排經白俄羅斯前往烏克蘭",
+          "summary": "俄烏在俄控城鎮奧列什基人道停火後，烏克蘭總理科列茨基表示527名居民將經白俄羅斯入境烏克蘭並分赴多州安置；俄方稱正集合居民乘車離開，可自行選擇前往俄羅斯或烏克蘭。",
+          "time_hkt": "2026-10-31T01:16:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876015-20261031.htm"
+            },
+            {
+              "name": "LB.ua",
+              "url": "https://en.lb.ua/news/2026/10/30/47242_527_oleshky_residents_seek.html"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": []
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": []
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "中方強烈反對美國FCC限制中國檢測實驗室　警告將進一步反制",
+          "summary": "商務部回應美國聯邦通信委員會通過自2028年底起禁止授權中國等「非互惠經濟體」檢測實驗室及認證機構的措施，指嚴重擾亂全球產供鏈，已採取反制並強調若美方一意孤行將進一步採取必要措施。",
+          "time_hkt": "2026-10-31T00:27:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876014-20261031.htm"
+            },
+            {
+              "name": "新華社",
+              "url": "https://www.news.cn/20261030/f7e8cb08881e44dc81570cc7f90d4bf9/c.html"
+            },
+            {
+              "name": "商務部",
+              "url": "https://www.mofcom.gov.cn/syxwfb/art/2026/art_2ecf68e79fba4758881d28d3afcb8a77.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
