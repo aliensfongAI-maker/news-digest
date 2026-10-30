@@ -1,0 +1,301 @@
+{
+  "date": "2026-10-30",
+  "hour": "12",
+  "updatedAt": "2026-10-30T12:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "陳國基：督導委員會快將開會　研究落實宏福苑獨立委員會120項建議",
+          "summary": "政務司司長陳國基表示，行政長官委派他主持督導委員會，將仔細研究如何落實獨立委員會報告的120項建議，原則是嚴謹、迅速、有效，並希望年內向立法會提交包括消防及競爭條例修訂等六條條例。",
+          "time_hkt": "2026-10-30T08:48:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875900-20261030.htm"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "楊何蓓茵：宏福苑行政責任調查須公平公正　最嚴重可革職",
+          "summary": "公務員事務局局長楊何蓓茵表示，宏福苑行政責任兩級調查由敍用委員會三人小組負責、須於三個月內完成，局方不會干預；若採取紀律行動會有聆訊，懲處最嚴重可革職並取消退休福利。",
+          "time_hkt": "2026-10-30T10:39:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875917-20261030.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "陳國基：爭取跨部門中央數據系統第一期明年5至6月啟用",
+          "summary": "政務司司長陳國基表示，正爭取跨部門中央數據系統第一期於明年5至6月開始使用，以便更快掌握樓宇維修及消防安全等資料，配合獨立委員會報告建議。",
+          "time_hkt": "2026-10-30T10:26:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875916-20261030.htm"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "俄羅斯無人機襲擊烏克蘭第聶伯羅火車站　至少14人死亡",
+          "summary": "俄軍無人機擊中烏克蘭中部第聶伯羅火車站月台，造成至少14死14傷；北部切爾尼戈夫亦遭導彈襲擊致兩名少女死亡，澤連斯基譴責襲擊並籲西方加強制裁。",
+          "time_hkt": "2026-10-30T05:48:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875878-20261030.htm"
+            },
+            {
+              "name": "RTHK English",
+              "url": "https://news.rthk.hk/rthk/en/component/k2/1875893-20261030.htm"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "中共五中全會確認33名高官開除黨籍　李雲澤被撤黨內職務",
+          "summary": "中共二十屆五中全會確認中央政治局此前決定，給予張又俠、馬興瑞、劉建超等33人開除黨籍處分，並給予李雲澤撤銷黨內職務處分，為毛澤東時代後規模最大的一批黨籍開除確認。",
+          "time_hkt": "2026-10-30T11:00:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875920-20261030.htm"
+            },
+            {
+              "name": "聯合早報",
+              "url": "https://www.zaobao.com.sg/news/china/story20261029-9916157"
+            },
+            {
+              "name": "NHK WORLD",
+              "url": "https://www3.nhk.or.jp/nhkworld/news/20261030de68182/"
+            },
+            {
+              "name": "NBC News",
+              "url": "https://www.nbcnews.com/world/china/chinas-communist-party-expels-33-officials-post-mao-era-record-purge-rcna606319"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "著名荷里活影星柏德烈史釗活逝世　享年86歲",
+          "summary": "《星空奇遇記》及《變種特攻》系列影星柏德烈史釗活在洛杉磯家中逝世，享年86歲；官方聲明指他經歷與阿茲海默症及路易體認知障礙症相伴的短暫歷程後離世。",
+          "time_hkt": "2026-10-30T09:58:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875910-20261030.htm"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "伊朗據報已收到萬斯致信　尚未作回應",
+          "summary": "伊朗方面據報已收到美國副總統萬斯致信，惟暫未作出回應；信件內容與近期美伊及中東外交接觸相關。",
+          "time_hkt": "2026-10-30T05:25:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875874-20261030.htm"
+            }
+          ],
+          "rank": 4
+        },
+        {
+          "headline": "美國一名陸軍中將涉嫌向傳媒洩密被解職",
+          "summary": "美國一名陸軍中將因涉嫌向傳媒洩密遭解職，成為近期美軍高層紀律案件之一。",
+          "time_hkt": "2026-10-30T09:46:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875909-20261030.htm"
+            }
+          ],
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "日本央行維持利率1.25厘不變　上調明年核心通脹預測",
+          "summary": "日本央行以8票對1票維持短期利率於1.25厘不變，並上調明年核心通脹率預測0.2個百分點至2.6%，強調金融環境寬鬆、未來或再按經濟物價條件加息。",
+          "time_hkt": "2026-10-30T11:38:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875923-20261030.htm"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/30/boj-inflation-target-rates.html"
+            },
+            {
+              "name": "Nikkei Asia",
+              "url": "https://asia.nikkei.com/economy/bank-of-japan/boj-holds-interest-rates-raises-2027-inflation-outlook"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "亞馬遜第4季收入預測遜預期　盤後挫近7%",
+          "summary": "亞馬遜上季收入升約12%至逾2019億美元，但第4季收入指引2400億至2470億美元遜預期，加上過去12個月自由現金流為負424億美元，盤後股價跌近7%。",
+          "time_hkt": "2026-10-30T07:55:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875892-20261030.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "亞太股市受壓：韓股跌近5%　日股半日跌逾2.5%",
+          "summary": "受美股科技股回調及AI融資憂慮影響，韓股早段跌近5%，日股半日跌逾2.5%，台股初段亦跌逾3%，亞洲風險資產普遍受壓。",
+          "time_hkt": "2026-10-30T10:46:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875918-20261030.htm"
+            },
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875898-20261030.htm"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "恒指升逾400點　騰訊阿里友邦撐市",
+          "summary": "港股早段高開重上23000點後繼續上揚，恒生指數一度升逾400點或約1.8%，騰訊、阿里巴巴及友邦為主要升市功臣，成交逾千億元。",
+          "time_hkt": "2026-10-30T11:52:00+08:00",
+          "sources": [
+            {
+              "name": "巴士的報",
+              "url": "https://www.bastillepost.com/hongkong/article/17079425-%e6%b8%af%e8%82%a1%e5%8d%87%e9%80%be400%e9%bb%9e-%e9%a8%b0%e8%a8%8a%e9%98%bf%e9%87%8c%e5%8f%8b%e9%82%a6%e6%92%90%e5%b8%82"
+            },
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875906-20261030.htm"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "友邦第3季新業務價值跌5%　受累香港及內地",
+          "summary": "友邦保險第3季新業務價值14.15億美元，按固定匯率計跌5%，主要反映香港及內地業務下滑，惟集團指9月已強勁回升並對第4季前景保持信心。",
+          "time_hkt": "2026-10-30T08:16:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875895-20261030.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "PAG擬逾40億元收購恒大物業約51%股權",
+          "summary": "中國恒大計劃向另類投資公司PAG出售所持恒大物業約51%股權，總代價約40.26億元，交易完成後PAG成為新控股股東，公司將維持上市地位。",
+          "time_hkt": "2026-10-30T09:10:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875899-20261030.htm"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "6隻新股今日起招股　共集資逾60億元",
+          "summary": "包括登臨科技、宏芯宇電子及遠信儲能等六隻新股今日起招股，合共集資最多逾60億元，多屬半導體、儲能及生物製藥板塊。",
+          "time_hkt": "2026-10-30T11:16:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875914-20261030.htm"
+            }
+          ],
+          "rank": 4
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "微軟定價發行250億美元債券　9年多來首次在美大規模發債",
+          "summary": "微軟公布定價發行合共250億美元無擔保高級債，為逾九年來首次在美國大規模發債，所得擬用於一般企業用途，包括資本開支與償債，市場視為科技巨頭以債市融資撐AI基建的新一波。",
+          "time_hkt": "2026-10-30T08:00:00+08:00",
+          "sources": [
+            {
+              "name": "Microsoft Source",
+              "url": "https://news.microsoft.com/source/2026/10/29/microsoft-announces-debt-offerings-7/"
+            },
+            {
+              "name": "中央社",
+              "url": "https://www.cna.com.tw/news/afe/202610300064.aspx"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/29/microsoft-25-billion-debt-offering.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "亞馬遜指引遜預期拖累科技股情緒　亞洲晶片股受壓",
+          "summary": "亞馬遜第4季收入預測不及預期並維持全年資本開支約2200億美元，疊加AI融資成本憂慮，亞洲科技及晶片股早段普遍下跌，韓股與台股跌幅尤為明顯。",
+          "time_hkt": "2026-10-30T09:13:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875892-20261030.htm"
+            },
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875898-20261030.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "紐約州立法限制未成年人AI陪伴聊天功能",
+          "summary": "紐約州長簽署法案，禁止面向18歲以下用戶的不安全AI陪伴功能，包括假裝真人、發展浪漫或權威關係及鼓勵自我傷害等，並要求多重年齡核實，2027年1月1日起生效。",
+          "time_hkt": "2026-10-30T06:00:00+08:00",
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1020112/ny-governor-kathy-hochul-signs-law-banning-harmful-ai-chatbot-features-for-kids"
+            },
+            {
+              "name": "紐約州府",
+              "url": "https://www.governor.ny.gov/news/governor-hochul-signs-nation-leading-legislation-protect-kids-ai-chatbots-and-ensure-baby"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    }
+  ]
+}
