@@ -1,0 +1,309 @@
+{
+  "date": "2026-10-30",
+  "hour": "20",
+  "updatedAt": "2026-10-30T20:05:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "鄧炳強牽頭成立打擊圍標聯合特遣隊　擬將樓宇維修圍標刑事化",
+          "summary": "保安局局長鄧炳強宣布由他統籌、成員包括警務處、廉署及競委會的聯合特遣隊，加強情報共享與聯合執法，並計劃修訂《競爭條例》將樓宇維修相關嚴重反競爭行為刑事化，競委會期望爭取明年4月通過。",
+          "time_hkt": "2026-10-30T16:52:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875965-20261030.htm"
+            },
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202610/30/P2026103000392.htm"
+            },
+            {
+              "name": "點新聞",
+              "url": "https://www.dotdotnews.com/a/202610/30/AP6ae46ccee4b02fd1c5f603fd.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "私隱公署指醫管局缺失為聯合醫院資料外洩主因　已發執行通知",
+          "summary": "私隱專員公署公布聯合醫院4月資料外洩調查結果，指醫管局對外判商存取監察及角色權限管控不足，影響逾5.6萬人；醫管局接納結果，警方早前以不誠實使用電腦罪名拘捕一名承辦商職員。",
+          "time_hkt": "2026-10-30T18:33:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875986-20261030.htm"
+            },
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202610/30/P2026103000353.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "運輸署收到八份網約車服務牌照申請　期望年內公布合資格平台",
+          "summary": "網約車牌照申請期於今日中午截止，運輸署共收到8份申請，形容業界反應積極；運輸及物流局局長陳美寶表示會盡快審核，並爭取下月公布車輛許可證分配安排。",
+          "time_hkt": "2026-10-30T17:12:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875973-20261030.htm"
+            },
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202610/30/P2026103000246.htm"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "資審委裁定1115名選委會界別分組選舉候選人提名有效",
+          "summary": "候選人資格審查委員會裁定1115名選委會界別分組一般選舉候選人提名有效，11月22日投票選出982個席位；另裁定156名指定團體提名委員及341名當然委員登記有效。",
+          "time_hkt": "2026-10-30T18:00:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875983-20261030.htm"
+            },
+            {
+              "name": "香港政府新聞網",
+              "url": "https://www.news.gov.hk/chi/2026/10/20261030/20261030_165347_939.html"
+            }
+          ],
+          "rank": 4
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "攻擊-21艦載隱身無人機首次於四川艦成功起降",
+          "summary": "新華社引述海軍表示，首型艦載察打一體隱身無人機「攻擊-21」近日首次在076型兩棲攻擊艦四川艦成功起降，標誌解放軍具備固定翼隱身無人機於大型海上平台起降能力。",
+          "time_hkt": "2026-10-30T16:53:00+08:00",
+          "sources": [
+            {
+              "name": "新華網",
+              "url": "https://www.xinhuanet.com/20261030/20e79c405f3a47929a0d437eb1f90a18/c.html"
+            },
+            {
+              "name": "中新網",
+              "url": "https://www.chinanews.com.cn/gn/2026/10-30/10723456.shtml"
+            },
+            {
+              "name": "China Daily",
+              "url": "https://www.chinadaily.com.cn/a/202610/30/WS6ae46147e4b06d4aa0566232.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "阿裔政黨斥內塔尼亞胡舞弊指控屬煽動　卡塔爾否認干預以國選舉",
+          "summary": "以色列總理內塔尼亞胡質疑阿裔政黨破紀錄議席涉舞弊，並有報道指情報顯示卡塔爾涉嫌資助投票動員；阿裔政黨反駁屬煽動叛亂，卡塔爾否認干預，以色列中央選舉委員會稱廣泛舞弊指控毫無根據。",
+          "time_hkt": "2026-10-30T17:45:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875980-20261030.htm"
+            },
+            {
+              "name": "The National",
+              "url": "https://www.thenationalnews.com/news/mena/2026/10/29/netanyahu-casts-doubt-on-validity-of-record-arab-vote/"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "人行下周一起每日開展隔夜逆回購　7日期改於稅期及月底進行",
+          "summary": "人民銀行公告自11月2日起每個工作日以固定利率、數量招標開展隔夜逆回購（利率1.25厘），7日期改為固定數量、利率招標並主要在稅期及月底開展，以優化短端利率調控。",
+          "time_hkt": "2026-10-30T18:30:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875981-20261030.htm"
+            },
+            {
+              "name": "21世紀經濟報道",
+              "url": "https://www.21jingji.com/article/20261030/herald/043b4b34a2f0ceb061e882ed3b8aac37.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "在岸人民幣兌美元突破6.66　再創近四年半新高",
+          "summary": "在岸人民幣收報6.6557兌1美元，升64點子並連續13個交易日高收；中間價亦升至6.7138，交易員指美元走弱及結匯需求帶動升勢。",
+          "time_hkt": "2026-10-30T18:10:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875979-20261030.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "植田和男：須警惕通脹超出目標",
+          "summary": "日本央行總裁植田和男在維持利率不變後表示須警惕通脹超出目標，市場繼續關注日央行未來加息路徑。",
+          "time_hkt": "2026-10-30T16:17:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875957-20261030.htm"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "恒指高收335點報23294　10月累跌逾5%科指挫近12%",
+          "summary": "恒生指數收復23000點，收報23294點升335點或約1.5%，成交逾2143億元；全月恒指累跌約5.4%、科指跌逾11.7%，兩者連跌三個月。",
+          "time_hkt": "2026-10-30T16:46:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875961-20261030.htm"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/en/1203738-%E6%B8%AF%E8%82%A1%E6%94%B6%E5%B8%82%E5%A0%B123294%E9%BB%9E%E5%8D%87335%E9%BB%9E"
+            },
+            {
+              "name": "China Daily HK",
+              "url": "https://www.chinadailyhk.com/hk/article/641964"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "金管局：第三季末負資產住宅按揭3819宗　按季減逾12%",
+          "summary": "截至9月底負資產住宅按揭宗數3819宗、涉及金額173億元，按季分別減少逾12%；拖欠三個月以上比率升至1.34%，個案主要涉銀行職員住屋按揭或按揭保險計劃。",
+          "time_hkt": "2026-10-30T16:52:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875964-20261030.htm"
+            },
+            {
+              "name": "金管局",
+              "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/10/20261030-6/"
+            },
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202610/30/P2026103000497.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "本財政年度首6個月錄得盈餘162億元　主因銀色債券收入",
+          "summary": "截至9月底政府上半年度開支3731億元、收入2718億元，計及發行債券所得1310億元後錄得盈餘162億元，財政儲備6817億元。",
+          "time_hkt": "2026-10-30T17:00:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875963-20261030.htm"
+            },
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202610/30/P2026102900608.htm"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "中銀香港首3季稅後溢利升9%　派第三次中期息每股0.29元",
+          "summary": "中銀香港首三季除稅後溢利351.3億元按年升9%，淨利息收入升12.9%；第3季溢利107.74億元按季跌9.2%，派發第三次中期股息每股0.29元。",
+          "time_hkt": "2026-10-30T17:57:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875982-20261030.htm"
+            },
+            {
+              "name": "東網",
+              "url": "https://hk.on.cc/hk/bkn/cnt/finance/20261030/bkn-20261030164505142-1030_00842_001.html"
+            }
+          ],
+          "rank": 4
+        },
+        {
+          "headline": "二手樓價連跌3周　CCL創逾兩年最長跌勢",
+          "summary": "中原城市領先指數報159.38點，按周跌0.33%，連跌三周累跌1.13%，為逾兩年最長跌勢；中原地產指一手新盤低開搶客令二手觀望、成交轉淡。",
+          "time_hkt": "2026-10-30T17:11:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875972-20261030.htm"
+            }
+          ],
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "國泰：第三方Amadeus系統遭入侵　約5.3萬宗訂位資料受影響",
+          "summary": "國泰公布旅遊科技供應商Amadeus系統於2023年8月至2026年9月遭未授權登入，約5.3萬宗相關預訂受影響，多數涉姓名及航班資料，少數或涉電郵證件等；暫無證據顯示財務資料外洩，國泰將個別通知受影響顧客。",
+          "time_hkt": "2026-10-30T16:18:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1875960-20261030.htm"
+            },
+            {
+              "name": "國泰航空",
+              "url": "https://www.cathaypacific.com/cx/zh_HK/latest-news/security-and-operational-changes/personal-data-security.html"
+            },
+            {
+              "name": "南華早報",
+              "url": "https://www.scmp.com/news/hong-kong/transport/article/3372722/cathay-pacific-says-data-53000-bookings-compromised-amadeus-cyberattack"
+            },
+            {
+              "name": "文匯報",
+              "url": "https://www.wenweipo.com/a/202610/30/AP6ae4565ae4b0fa89498b1d14.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "日本無印良品App遭入侵　最多約2726萬會員資料或外洩",
+          "summary": "良品計劃宣布MUJI官方應用程式遭非法存取，最多約2726萬名顧客的電郵、出生日期及性別等資料面臨外洩風險，暫未確認信用卡或姓名地址外洩；公司已阻斷存取並將通知用戶。",
+          "time_hkt": "2026-10-30T18:35:00+08:00",
+          "sources": [
+            {
+              "name": "良品計劃",
+              "url": "https://www.ryohin-keikaku.jp/news/articles/2026_1030_01"
+            },
+            {
+              "name": "日本經濟新聞",
+              "url": "https://www.nikkei.com/article/DGXZQOUC305WR0Q6A031C2000000/"
+            },
+            {
+              "name": "ITmedia",
+              "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002756.html"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    }
+  ]
+}
