@@ -1,0 +1,188 @@
+{
+  "date": "2026-10-31",
+  "hour": "08",
+  "updatedAt": "2026-10-31T08:08:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": []
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "G20外長會在美舉行　歐洲多國杯葛大合照不滿俄羅斯獲邀",
+          "summary": "二十國集團外長會議於美國亞特蘭大舉行，英國、德國、波蘭等歐洲代表因不滿俄外長拉夫羅夫獲邀而杯葛會前大合照，美方其後取消合照環節；國務卿魯比奧呼籲成員國攜手應對連串危機。",
+          "time_hkt": "2026-10-31T06:14:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876020-20261031.htm"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/cmd6dp2y576do"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/g20-rubio-russia-ukraine-iran-war-ed4ab8ad9fedd628c39ac05bc5092cac"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "美國批准向烏克蘭出售500枚愛國者導彈　費用由夥伴及盟友承擔",
+          "summary": "美國國務院批准向烏克蘭出售500枚愛國者PAC-3 MSE導彈及相關設備，總值約21億美元，費用由加拿大、德國、挪威捐款及歐盟貸款支付、不涉美政府資金；澤連斯基歡迎並籲加快交付。",
+          "time_hkt": "2026-10-31T07:48:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876029-20261031.htm"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/c3vgxznlx7jzo"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "美國田納西州死刑執行失敗　女事主派克發聲明形容身心持續痛苦",
+          "summary": "現年50歲的派克在注射兩劑致命劑量戊巴比妥後仍生還，首次發聲明指四肢、身體及喉嚨持續痛楚、說話困難，並對未來感到迷茫；州長早前表示除非法院另有裁決，判刑應維持不變。",
+          "time_hkt": "2026-10-31T05:07:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876019-20261031.htm"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/ck62ydn7dj9eo"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/christa-pike-failed-execution-first-statement-292a1eb75ff5cee19da58f17c9eb224c"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "西班牙列車相撞事故增至69人遇難　交通大臣指暫不討論留任與否",
+          "summary": "托萊多高速鐵路相撞事故再多一人證實遇難，死亡人數增至69人；交通大臣普恩特指事故涉安全系統電腦故障及人為指令錯誤，並回應辭職訴求稱目前職責是查明真相而非討論去留。",
+          "time_hkt": "2026-10-31T04:12:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876018-20261031.htm"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/c6zxj2e5qlxxo"
+            }
+          ],
+          "rank": 4
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "金價急跌逾3%失守每盎司3900美元　創近一年新低",
+          "summary": "現貨金較早時報每盎司約3875美元、跌逾3.6%，12月紐約期金收報3898.9美元跌約3.3%；分析指科技股大挫或引發避險資產被迫平倉及追繳保證金，白銀等貴金屬亦跌至技術性超賣。",
+          "time_hkt": "2026-10-31T06:21:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876025-20261031.htm"
+            },
+            {
+              "name": "Investing.com",
+              "url": "https://hk.investing.com/news/commodities-news/article-1730716"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "國際油價升逾2%　10月布蘭特累升約13.6%、紐約期油累升約15%",
+          "summary": "市場憂慮美國中期選舉後伊朗局勢升級，加上霍爾木茲海峽有油輪遇襲加劇供應風險；12月布蘭特期油收報每桶117.64美元升2.4%，紐約期油收報104.12美元升近2.1%，10月分別累升約13.6%及15.2%。",
+          "time_hkt": "2026-10-31T06:11:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876024-20261031.htm"
+            },
+            {
+              "name": "CNA",
+              "url": "https://www.channelnewsasia.com/world/oil-prices-set-fourth-straight-monthly-gains-tanker-attack-highlights-supply-risks-6508426"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "港股ADR個別發展　滙控跌逾1%、建行及阿里巴巴ADR跌近1%",
+          "summary": "港股美國預託證券個別發展，滙控ADR較本港前收跌逾1%，建行及阿里巴巴ADR跌近1%；美團及友邦ADR則升約0.3%至0.5%。",
+          "time_hkt": "2026-10-31T07:36:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876027-20261031.htm"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "幣安遭黑客盜竊約63億美元加密資產　正設法追回並擬重啟提款",
+          "summary": "全球最大加密貨幣交易平台幣安遭黑客攻擊，涉資約63億美元、或為歷來最大規模網絡盜竊之一；平台正凍結及追蹤資金、承諾以SAFU及公司資金補償，比特幣一度跌約2.6%至77000美元以下。",
+          "time_hkt": "2026-10-31T05:13:00+08:00",
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/cwe8lp7zy07zo"
+            },
+            {
+              "name": "BBC中文",
+              "url": "https://www.bbc.com/zhongwen/articles/cw0k023x733lo/trad"
+            },
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876026-20261031.htm"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "Apple Intelligence將隨iOS 27.3登陸中國大陸　正式版料12月推出",
+          "summary": "蘋果於中國官網宣布Apple Intelligence功能將登陸中國，先於11月4日推出iOS 27.3測試版、正式版料12月；首批包括通知摘要、即時翻譯、寫作工具及視覺智能等，未包含新版Siri AI，並與阿里巴巴通義千問整合。",
+          "time_hkt": "2026-10-31T06:32:00+08:00",
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3"
+            },
+            {
+              "name": "Apple中國",
+              "url": "https://www.apple.com.cn/newsroom/2026/10/apple-intelligence-features-are-coming-to-users-in-china/"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    }
+  ]
+}
