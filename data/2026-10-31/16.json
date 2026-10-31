@@ -1,0 +1,163 @@
+{
+  "date": "2026-10-31",
+  "hour": "16",
+  "updatedAt": "2026-10-31T16:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "黃偉綸：宏福苑收購近九成半完成　料明年立法收回餘下業權",
+          "summary": "財政司副司長兼署理房屋局局長黃偉綸表示，宏福苑收購工作已接近九成半完成，餘下業權很大機會明年以立法收回；他又指特設銷售計劃約有800名業主已揀選單位，約佔參與計劃業主近一半。",
+          "time_hkt": "2026-10-31T12:21:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876047-20261031.htm"
+            },
+            {
+              "name": "有線",
+              "url": "https://www.i-cable.com/%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A/518472/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E9%BB%83%E5%81%89%E7%B6%B8-%E9%A0%90%E8%A8%88%E6%98%8E%E5%B9%B4%E7%AB%8B%E6%B3%95%E6%94%B6%E5%9B%9E%E9%A4%98%E4%B8%8B%E6%A5%AD%E6%AC%8A"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "醫管局第二季呈報8宗醫療風險警示　有實習醫護注射過量鎮靜劑",
+          "summary": "醫管局公布新一期《風險通報》，今年第二季呈報8宗醫療風險警示事件，包括5宗手術或介入後遺留工具或物料、1宗藥物錯誤及2宗其他個案，另有21宗重要風險藥物事件；其中有個案涉及實習醫護為病人注射過量鎮靜劑。",
+          "time_hkt": "2026-10-31T15:07:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876057-20261031.htm"
+            },
+            {
+              "name": "東網",
+              "url": "https://hk.on.cc/hk/bkn/cnt/news/20261030/bkn-20261030160021582-1030_00822_001.html"
+            },
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202610/30/P2026103000424.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "警方拘捕一名男子涉嫌兜售演唱會「黃牛票」",
+          "summary": "警方派出便衣探員昨日在啟德體育園拘捕一名男子，指他涉嫌以高於面值價格兜售當晚演唱會兩張門票，主辦方已將涉案門票作廢，警方呼籲市民經正規渠道購票。",
+          "time_hkt": "2026-10-31T14:34:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876054-20261031.htm"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "女童周天瑜醫療事故　醫委會押後紀律研訊至死因研訊完結",
+          "summary": "早年手術期間懷疑醫療事故、前年離世的女童周天瑜個案，醫委會表示原定本月紀律研訊，其後得悉死因裁判法庭將展開死因研訊，研訊小組主席決定押後紀律研訊至死因研訊完結。",
+          "time_hkt": "2026-10-31T14:50:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876056-20261031.htm"
+            }
+          ],
+          "rank": 4
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "美國加州購物中心槍擊最少1死6傷　事發於萬聖節商店",
+          "summary": "美國加州費爾菲爾德市警方通報，市內購物中心當地星期五晚發生槍擊，最少1人死亡、6人受傷，當中至少3人傷勢危重；當地傳媒指事發於商場內萬聖節用品店附近。",
+          "time_hkt": "2026-10-31T15:45:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876060-20261031.htm"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/california-fairfield-shooting-solano-town-center-c531ed034832fa0558a246b18334f5bd"
+            },
+            {
+              "name": "LA Times",
+              "url": "https://www.latimes.com/story/2026-10-31/one-person-killed-six-injured-in-shooting-at-spirit-halloween-store"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "日俄外長五年來首次正式會談　茂木要求立即釋放被拘日本記者",
+          "summary": "在美國亞特蘭大出席G20外長會議的日本外相茂木敏充與俄羅斯外長拉夫羅夫會談約30分鐘，是兩國外相約五年來首次正式會談；日方強烈要求俄方立即釋放在遠東以間諜嫌疑被拘的日本記者。",
+          "time_hkt": "2026-10-31T14:18:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876052-20261031.htm"
+            },
+            {
+              "name": "Japan Times",
+              "url": "https://www.japantimes.co.jp/news/2026/10/31/japan/japan-russia-g20-meeting/"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "波蘭憲法法院外示威演變警民衝突　總統籲議會緊急磋商",
+          "summary": "波蘭憲法法院附近當地星期五晚爆發抗議並演變成警民衝突，總統納夫羅茨基發表聲明指憲法秩序遭破壞、憲法機構遭強行佔領，要求有關人員撤離並呼籲與議會各派緊急磋商。",
+          "time_hkt": "2026-10-31T15:38:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876059-20261031.htm"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": []
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": []
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "香港電訊同意終止在美業務　明年9月前停服務換取FCC不再撤牌",
+          "summary": "路透等報道指電訊盈科旗下香港電訊已同意終止在美國的國際及本地電訊服務，須於30天內向FCC提交停服申請，並於2027年9月1日前停止在美服務，美方則不再推進撤銷營運許可；港電確認與美當局取得同意令。",
+          "time_hkt": "2026-10-31T15:18:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876058-20261031.htm"
+            },
+            {
+              "name": "CNA",
+              "url": "https://www.channelnewsasia.com/business/hong-kong-telecom-company-agrees-halt-us-operations-under-pressure-6507926"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60405535/%E7%BE%8E%E5%9C%8Bfcc%E6%93%AC%E6%92%A4%E7%87%9F%E9%81%8B%E8%A8%B1%E5%8F%AF-%E8%B7%AF%E9%80%8F-%E9%A6%99%E6%B8%AF%E9%9B%BB%E8%A8%8A%E9%A0%88%E5%9C%A827%E5%B9%B49%E6%9C%88%E5%89%8D%E7%B5%90%E6%9D%9F%E5%9C%A8%E7%BE%8E%E7%87%9F%E9%81%8B"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
