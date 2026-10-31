@@ -1,0 +1,140 @@
+{
+  "date": "2026-10-31",
+  "hour": "12",
+  "updatedAt": "2026-10-31T12:05:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "私隱署就國泰約5.3萬宗預訂資料外洩展開調查　暫未確定香港客戶數目",
+          "summary": "私隱專員公署接獲國泰航空通報，指第三方旅遊科技供應商Amadeus系統遭未獲授權登入，約5.3萬宗國泰相關預訂紀錄外洩，可能涉及姓名、航班及部分旅遊證件等資料；署方已按機制展開調查，暫未能確定涉及多少香港客戶。",
+          "time_hkt": "2026-10-31T08:31:00+08:00",
+          "sources": [
+            {
+              "name": "東網",
+              "url": "https://hk.on.cc/hk/bkn/cnt/news/20261031/bkn-20261031083104356-1031_00822_001.html"
+            },
+            {
+              "name": "文匯報",
+              "url": "https://www.wenweipo.com/a/202610/31/AP6ae53eb8e4b0fa89498b2f8d.html"
+            },
+            {
+              "name": "Dimsum Daily",
+              "url": "https://www.dimsumdaily.hk/hong-kong-privacy-watchdog-probes-cathay-pacific-data-exposure-linked-to-amadeus-breach/"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "甯漢豪：樓宇維修預審名單申請較舊制升兩至三倍　日後可按情況用雙信封評標",
+          "summary": "發展局局長甯漢豪於電台節目表示，驗樓及監工顧問申請各約150宗、承建商約350宗，較已下架舊名單升兩至三倍；日後樓宇維修支援及服務局評標將更制度化，複雜項目技術比重較高，簡單維修或可只按價錢決定標書。",
+          "time_hkt": "2026-10-31T09:47:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876035-20261031.htm"
+            },
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876042-20261031.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "警方反三合會行動拘58人包括10名學生　指社團誘騙青少年販毒傷人",
+          "summary": "有組織罪案及三合會調查科表示，今年初留意青少年犯罪上升後喬裝調查，前日突擊搜查九龍及新界多處，拘捕49男9女、年齡介乎14至73歲，打擊活躍於九龍區並利用青少年從事刑事毀壞、販毒或傷人等活動的社團。",
+          "time_hkt": "2026-10-31T11:41:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876045-20261031.htm"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "美國期中選舉提前投票約4790萬人創新高　關鍵搖擺州參與率急升",
+          "summary": "佛羅里達大學選舉實驗室數據顯示，全美提前投票已達約4792萬人，超越2022年期中選舉紀錄；德州、北卡及南卡等關鍵州參與率明顯高於四年前同期，有記錄政黨歸屬的州中登記民主黨選民約佔44%，惟專家提醒不宜直接解讀為選舉結果預測。",
+          "time_hkt": "2026-10-31T10:02:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/en/component/k2/1876036-20261031.htm"
+            },
+            {
+              "name": "中央社",
+              "url": "https://www.cna.com.tw/news/aopl/202610310003.aspx"
+            },
+            {
+              "name": "聯合早報",
+              "url": "https://www.zaobao.com.sg/news/world/story20261031-9924466"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": []
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "陳茂波：今年經濟增長有機會為過去五年最強　全年預測或再上調",
+          "summary": "財政司司長陳茂波於電台節目指上半年經濟增長5.1%，出口及投資勢頭延續至第三、四季，全年有機會是過去五年最強；早前預測已上調至3.5%至4.5%，稍後經濟顧問或再向上修訂，惟亦提醒地緣政治、油價及高息對經濟與樓市構成外圍風險。",
+          "time_hkt": "2026-10-31T10:01:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876037-20261031.htm"
+            },
+            {
+              "name": "商業電台",
+              "url": "https://www.881903.com/news/finance/2657378"
+            },
+            {
+              "name": "香港商報",
+              "url": "https://www.hkcd.com/hkcdweb/content/2026/10/31/content_8782796.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "全日空約3.78萬客戶資料因Amadeus遭入侵外洩　日本外務省網絡亦被入侵",
+          "summary": "日本全日空表示旅客服務系統委託商Amadeus遭入侵，約37800名客戶預訂資料外洩，其中約1700人可能涉護照號碼及國籍等，信用卡及密碼未受影響；同期日本外務省公布對外溝通網絡被入侵，約3600人姓名及電郵等或外洩，暫未發現高度機密資料外洩。",
+          "time_hkt": "2026-10-31T08:58:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876031-20261031.htm"
+            },
+            {
+              "name": "商業電台",
+              "url": "https://www.881903.com/news/local/2657369"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
