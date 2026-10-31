@@ -1,0 +1,187 @@
+{
+  "date": "2026-10-31",
+  "hour": "20",
+  "updatedAt": "2026-10-31T20:10:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "警方：蘭桂坊一帶非常擠迫　呼籲市民考慮轉往其他地區慶祝萬聖節",
+          "summary": "萬聖節周末中環蘭桂坊入夜後人頭湧湧，警方劃定行人專用區並實施單向人流管制，於社交專頁指一帶已非常擠迫、呼籲市民轉往其他地區；港鐵為配合措施暫時關閉中環站D1及J1出入口，蘭桂坊協會形容是近年最熱鬧萬聖節並冀營業額增約五成。",
+          "time_hkt": "2026-10-31T19:43:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876084-20261031.htm"
+            },
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876085-20261031.htm"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1203915-%E8%90%AC%E8%81%96%E7%AF%80%E7%8F%BE%E5%A0%B4%E8%98%AD%E6%A1%82%E5%9D%8A%E5%82%8D%E6%99%9A%E4%BA%BA%E5%B1%B1%E4%BA%BA%E6%B5%B7%E4%B8%8D%E5%B0%91%E4%BA%BA%E6%82%89%E5%BF%83%E6%89%93%E6%89%AE%E8%AD%A6%E6%96%B9%E6%9C%AA%E5%AF%A6%E6%96%BD%E4%BA%BA%E6%BD%AE%E7%AE%A1%E5%88%B6"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "麥美娟：作為問責團隊一員　衷心向宏福苑災民及社會道歉",
+          "summary": "民政及青年事務局局長麥美娟出席活動後見傳媒，表示作為問責團隊一員就大埔宏福苑火災向災民及社會衷心道歉，並指民青局將盡快向立法會匯報《建築物管理條例》修訂工作，聽取獨立委員會及社會意見推進修例。",
+          "time_hkt": "2026-10-31T18:09:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876071-20261031.htm"
+            },
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202610/31/P2026103100597.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "7歲長期病患女童感染甲流併發敗血性休克　情況危殆",
+          "summary": "衞生防護中心公布一宗兒童流感嚴重個案，一名有長期病患的7歲女童感染甲型（H1）流感併發敗血性休克，現於屯門醫院兒童深切治療部留醫、情況危殆；同班另有3名同學出現輕微病徵，本季兒童嚴重個案累計28宗。",
+          "time_hkt": "2026-10-31T17:05:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876065-20261031.htm"
+            },
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202610/31/P2026103100371.htm"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "海關機場檢獲約5公斤懷疑大麻花　拘一名內地男旅客",
+          "summary": "海關在香港國際機場偵破一宗入境旅客販毒案，一名37歲由曼谷抵港的內地男旅客手提行李藏約5公斤懷疑大麻花、估計市值約110萬元，男子已被拘捕，案件仍在調查。",
+          "time_hkt": "2026-10-31T18:19:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876073-20261031.htm"
+            },
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202610/31/P2026103100518.htm"
+            }
+          ],
+          "rank": 4
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "意大利多個城市示威抗議生活成本上漲　部分城市爆發警民衝突",
+          "summary": "意大利多個城市當地周五有大規模示威，抗議生活成本上漲並要求改善公共服務，亦有工會發起24小時罷工；都靈等地示威觸發警民衝突並有多人被捕，熱那亞則有逾萬名碼頭工人及學生遊行反對港口用於運兵及運送軍火。",
+          "time_hkt": "2026-10-31T19:50:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876083-20261031.htm"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/thousands-protest-across-italy-over-living-costs-and-military-spending"
+            },
+            {
+              "name": "Sky TG24",
+              "url": "https://tg24.sky.it/cronaca/2026/10/31/sciopero-generale-scontri-roma-torino"
+            },
+            {
+              "name": "Euronews",
+              "url": "https://www.euronews.com/2026/10/30/italy-on-high-alert-as-thousands-take-the-streets-in-nationwide-strike"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "美日韓外長簽署北冰洋合作備忘錄　推動海上安全保障",
+          "summary": "美國國務卿魯比奧與日本外相茂木敏充、韓國外長趙顯在亞特蘭大G20外長會期間舉行三方會談，簽署於太平洋一側北冰洋展開合作的備忘錄，將設工作組推進海上安全保障及經濟合作，並重申致力實現朝鮮半島完全無核化。",
+          "time_hkt": "2026-10-31T17:49:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876070-20261031.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "墨西哥外交部：墨美邊界不能由美國州政府單方面改變",
+          "summary": "就美國得州官員宣稱美墨邊境河上9座島嶼屬得州，墨西哥外交部聲明指州政府無權作出有關認定，強調國際邊界和水資源委員會才是執行1970年邊界條約、判定島嶼歸屬的授權機構，並重申透過既定機制繼續雙邊對話。",
+          "time_hkt": "2026-10-31T16:42:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876061-20261031.htm"
+            },
+            {
+              "name": "El País",
+              "url": "https://english.elpais.com/usa/2026-10-30/mexico-urges-respect-for-treaties-after-texas-seizes-nine-islands-in-rio-grande.html"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "中石化原董事長傅成玉涉嫌嚴重違紀違法　正接受審查調查",
+          "summary": "中央紀委國家監委通報，原中國石油化工集團公司黨組書記、董事長傅成玉涉嫌嚴重違紀違法，目前正接受紀律審查和監察調查；傅成玉已卸任逾十年，消息引發能源及國企反腐關注。",
+          "time_hkt": "2026-10-31T17:32:00+08:00",
+          "sources": [
+            {
+              "name": "新華社",
+              "url": "https://www.news.cn/legal/20261031/58bdd1bcb2a84bf58eb0420629308875/c.html"
+            },
+            {
+              "name": "央視網",
+              "url": "https://news.cctv.cn/2026/10/31/ARTIZNkCutwbH236odVKAvhW261031.shtml"
+            },
+            {
+              "name": "財新",
+              "url": "https://www.caixin.com/2026-10-31/102499550.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "OpenAI執行長奧特曼晤三星約50名高管　討論企業AI轉型",
+          "summary": "三星表示，OpenAI執行長奧特曼周六在龍仁人力發展中心與旗下電子、金融及生物等約50名高管會面，圍繞未來十年AI如何改變企業決策與營運交換意見；業界指他同日亦與SK集團高層會面，討論高頻寬記憶體及AI數據中心合作。",
+          "time_hkt": "2026-10-31T17:34:00+08:00",
+          "sources": [
+            {
+              "name": "Yonhap",
+              "url": "https://en.yna.co.kr/view/AEN20261031002651315"
+            },
+            {
+              "name": "Korea Herald",
+              "url": "https://www.koreaherald.com/article/10921312"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
