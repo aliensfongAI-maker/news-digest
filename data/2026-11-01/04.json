@@ -1,0 +1,179 @@
+{
+  "date": "2026-11-01",
+  "hour": "04",
+  "updatedAt": "2026-11-01T04:10:11+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "皇崗口岸深宵出境繁忙　入境處籲改經深圳灣　警方實施管制",
+          "summary": "萬聖節及啟德演唱會後北上人流湧現，保安局「口岸通」午夜後顯示皇崗口岸出境繁忙；入境處呼籲凌晨2時前盡量改經延長通關的深圳灣口岸，警方指往皇崗方向交通繁忙並實施人群及交通管制，落客區車輛或需等候約15至30分鐘，點新聞記者實測香港居民通道約15分鐘通關。",
+          "time_hkt": "2026-11-01T01:36:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876103-20261101.htm"
+            },
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876102-20261101.htm"
+            },
+            {
+              "name": "點新聞",
+              "url": "https://www.dotdotnews.com/a/202611/01/AP6ae62d99e4b02fd1c5f62377.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "運輸署：九巴開辦B10S特別路線疏導皇崗口岸需求",
+          "summary": "因應午夜後往皇崗口岸出行需求可能增加，運輸署與九巴商討後開辦B10S特別服務，凌晨12時40分至2時由葵翠邨經葵芳站、青衣站及大欖隧道轉車站往皇崗；深圳灣延長通關至凌晨2時期間亦可乘搭NB2、NB3通宵特別巴士。",
+          "time_hkt": "2026-11-01T00:12:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876097-20261101.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "皇崗口岸午夜後出境顯示繁忙　卓孝業到場視察",
+          "summary": "萬聖節周末不少內地旅客深夜經皇崗口岸返回深圳，保安局副局長卓孝業到場視察指通關情況不錯，相信大部分旅客來自中環蘭桂坊；午夜起口岸人流明顯增加，旅客須在出境大堂排隊輪候。",
+          "time_hkt": "2026-11-01T00:50:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876100-20261101.htm"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "法國周末再現大規模示威　內政部指約32萬人參加",
+          "summary": "法國多個主要城市星期六再有大型遊行集會，內政部估計全國約32萬人參與、巴黎約7萬人，較前兩周減少；馬賽、圖盧茲等地氣氛緊張，警方加強戒備，同日德國亦有「Z世代」集會響應。",
+          "time_hkt": "2026-11-01T03:10:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876105-20261101.htm"
+            },
+            {
+              "name": "韓聯社",
+              "url": "https://www.yna.co.kr/view/AKR20261101001051082"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "伊朗外長：暫無計劃與美方會談　須視條件是否獲滿足",
+          "summary": "伊朗外長阿拉格齊表示目前沒有計劃與美國官員會談，指相關說法屬猜測；日後會否直接或間接會談取決於伊方條件能否獲滿足，並稱正研究美國副總統萬斯來信及調解方核問題方案，已派員赴卡塔爾磋商。",
+          "time_hkt": "2026-11-01T02:06:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876104-20261101.htm"
+            },
+            {
+              "name": "Anadolu",
+              "url": "https://www.aa.com.tr/en/middle-east/iran-has-no-plans-for-talks-with-us-officials-foreign-minister/4107455"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/31/iran-fm-says-us-outreach-a-positive-step-as-delegation-in-qatar-for-talks"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "四方外長關切經濟脅迫與產能過剩　暗批非市場做法",
+          "summary": "美、印、日、澳四方安全對話外長在亞特蘭大發表聯合聲明，對任意出口限制等「經濟脅迫」及導致產能過剩、擾亂關鍵產業供應鏈的非市場做法表達嚴重關切，並強調維護荷莫茲等航道航行自由；聲明未點名但外界普遍視為針對中國。",
+          "time_hkt": "2026-11-01T01:00:00+08:00",
+          "sources": [
+            {
+              "name": "中央社",
+              "url": "https://www.cna.com.tw/news/aopl/202611010002.aspx"
+            },
+            {
+              "name": "The Hindu",
+              "url": "https://www.thehindu.com/news/international/quad-ministers-express-grave-concerns-over-economic-coercion/article71650501.ece"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "俄羅斯指獲美國情報　莫斯科可能發生恐怖襲擊",
+          "summary": "俄羅斯聯邦安全局表示從美國合作渠道收到情報，指首都莫斯科可能發生恐怖襲擊並已採取應對措施；美國駐俄大使館亦警告察里津諾莊園一帶星期六可能出現重大傷亡威脅，呼籲遠離該處及人群密集場合。",
+          "time_hkt": "2026-11-01T01:11:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876101-20261101.htm"
+            },
+            {
+              "name": "The Moscow Times",
+              "url": "https://www.themoscowtimes.com/2026/10/31/us-embassy-warns-of-potential-mass-casualty-event-in-moscow-2-a94144"
+            }
+          ],
+          "rank": 4
+        },
+        {
+          "headline": "埃及開羅附近高速公路嚴重車禍　最少10死24傷",
+          "summary": "埃及衛生部門表示，吉薩省一條高速公路星期六發生貨車與小型巴士相撞，造成最少10人死亡、24人受傷，其中10人傷勢較重；當地傳媒指初步調查顯示事故可能涉及大霧天氣下超速駕駛。",
+          "time_hkt": "2026-11-01T00:48:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876099-20261101.htm"
+            }
+          ],
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "科技股抛售蔓延　現貨金瀉逾3%失守3900美元關創一年低",
+          "summary": "風險資產抛售由美股科技股蔓延至貴金屬，現貨金一度失守每盎斯3900美元並創約一年新低，白銀跌破50美元；分析指股市急跌觸發強制平倉及追繳保證金，部分投資者出售黃金套現流動性，避險屬性暫時失靈。",
+          "time_hkt": "2026-11-01T02:54:00+08:00",
+          "sources": [
+            {
+              "name": "聯合新聞網",
+              "url": "https://udn.com/news/story/6811/9849426"
+            },
+            {
+              "name": "信報",
+              "url": "https://www.hkej.com/instantnews/international/article/4552582/%E9%87%91%E5%83%B9%E8%B5%B0%E5%8B%A2%E4%B8%A8%E7%A7%91%E6%8A%80%E8%82%A1%E6%8A%9B%E5%94%AE%E6%BD%AE%E8%94%93%E5%BB%B6+%E7%8F%BE%E8%B2%A8%E9%87%91%E7%80%89%E9%80%BE3%25%E5%A4%B13900%E7%BE%8E%E5%85%83%E9%97%9C"
+            },
+            {
+              "name": "經濟日報",
+              "url": "https://money.udn.com/money/story/5599/9849252"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": []
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": []
+    }
+  ]
+}
