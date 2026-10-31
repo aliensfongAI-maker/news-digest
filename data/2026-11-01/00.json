@@ -1,0 +1,153 @@
+{
+  "date": "2026-11-01",
+  "hour": "00",
+  "updatedAt": "2026-11-01T00:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "不少內地旅客深夜經新皇崗口岸返回深圳　口岸平均輪候時間正常",
+          "summary": "萬聖節周末深夜，不少內地旅客經新皇崗口岸返回深圳，有人穿着萬聖節裝扮過關；「口岸通」顯示截至晚上11時半各陸路口岸出入境平均輪候時間均屬正常，離境大堂人流在11時後增加、旅客指過關流程暢順。",
+          "time_hkt": "2026-10-31T23:43:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876096-20261031.htm"
+            },
+            {
+              "name": "新浪香港",
+              "url": "https://portal.sina.com.hk/news-hongkong/news-realtime/rthk/2026/10/31/1973256/%E4%B8%8D%E5%B0%91%E5%85%A7%E5%9C%B0%E6%97%85%E5%AE%A2%E6%B7%B1%E5%A4%9C%E7%B6%93%E6%96%B0%E7%9A%87%E5%B4%97%E5%8F%A3%E5%B2%B8%E8%BF%94%E5%9B%9E%E6%B7%B1%E5%9C%B3%E3%80%80%E5%8F%A3%E5%B2%B8%E5%B9%B3/"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "女童於沙頭角公路被撞傷　的士司機涉危駕致他人身體嚴重受傷被捕",
+          "summary": "一名6歲女童下午在沙頭角公路馬尾下段被的士撞傷，44歲的士司機涉嫌危險駕駛引致他人身體受嚴重傷害被捕扣查；警方指女童腳部和手部受傷，已送院治理。",
+          "time_hkt": "2026-10-31T20:30:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876089-20261031.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "海關於機場進口包裹發現10隻懷疑受管制活龜　約值共10萬元",
+          "summary": "海關檢查兩個由美國進口、報稱載有塑膠家居產品的包裹，發現10隻懷疑受管制瀕危物種活龜、估計市值共約10萬元，案件已轉交漁護署跟進。",
+          "time_hkt": "2026-10-31T20:23:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876088-20261031.htm"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "九巴於皇崗口岸疑撞指示牌　運輸署要求專營巴士營辦商加強培訓",
+          "summary": "一輛九巴下午約3時駛至皇崗口岸時懷疑撞到交通指示牌；運輸署表示關注，已要求專營巴士營辦商加強車長駕駛及路線培訓，確保往返皇崗口岸公共運輸交匯處道路安全及暢順。",
+          "time_hkt": "2026-10-31T21:41:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876094-20261031.htm"
+            }
+          ],
+          "rank": 4
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "伊朗最高領袖下令須即時及有力回應任何美國或以色列威脅",
+          "summary": "伊朗最高領袖穆傑塔巴會見武裝力量高級指揮官後發聲明，下令對任何可能出現的美國或以色列威脅須予以即時、有力及不受地理限制的回應，並要求更新目標清單及加強彈藥與武器生產。",
+          "time_hkt": "2026-10-31T20:32:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876090-20261031.htm"
+            },
+            {
+              "name": "新華網",
+              "url": "http://www.news.cn/20261031/e40e6295ecd749c99970942c0b02f614/c.html"
+            },
+            {
+              "name": "聯合早報",
+              "url": "https://www.zaobao.com.sg/news/world/story20261031-9927000"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/31/iran-warns-of-unfettered-retaliation-if-attacked-as-mediators-try-for-peace"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "中國海警編隊在台灣島以東海域依法展開常態化執法巡查",
+          "summary": "中國海警虎獅艦編隊在台灣島以東海域展開常態化執法巡查；海警局發言人指本月以來持續加強相關海域管控，保障航行及作業秩序，並稱將繼續維護國家領土主權和海洋權益。",
+          "time_hkt": "2026-10-31T20:25:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876087-20261031.htm"
+            },
+            {
+              "name": "新華網",
+              "url": "https://www.xinhuanet.com/politics/20261031/df52791082504138bfe3478da662bb83/c.html"
+            },
+            {
+              "name": "中國海警局",
+              "url": "https://www.ccg.gov.cn/wqzf/202610/t20261031_3272.html"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "一名駐沖繩美軍在宵禁期間外出　涉嫌酒後駕駛被捕",
+          "summary": "共同社報道，一名隸屬美國海軍陸戰隊漢森軍營的21歲下士卡多納在宵禁期間於沖繩市駕駛乘用車外出，被警方截停後體內酒精含量超過法定標準兩倍，涉嫌酒後駕駛被捕。",
+          "time_hkt": "2026-10-31T21:05:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876092-20261031.htm"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "幣安稱已補回約九成被盜資產　目標周日重開提款",
+          "summary": "加密貨幣交易所幣安表示，已就早前約63億美元遭黑客盜竊事件補回約九成被盜資產，比特幣、以太幣等主要代幣已全數備付，餘下約一成流動性較低代幣仍在市場及場外購回，並目標於11月1日重開提款。",
+          "time_hkt": "2026-10-31T22:59:00+08:00",
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.investing.com/news/stock-market-news/binance-says-90-of-stolen-assets-replenished-4989287"
+            },
+            {
+              "name": "CoinDesk",
+              "url": "https://www.coindesk.com/business/2026/10/31/binance-says-it-has-replaced-90-of-stolen-crypto-after-massive-usd6-3-billion-breach"
+            },
+            {
+              "name": "Crypto Briefing",
+              "url": "https://cryptobriefing.com/binance-hack-recovery-withdrawals/"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
