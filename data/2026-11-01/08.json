@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-01",
+  "hour": "08",
+  "updatedAt": "2026-11-01T08:05:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "北都馬拉松今早首辦　約1.5萬人參賽經龍山隧道至粉嶺繞道",
+          "summary": "由新界鄉議局主辦的北部都會區馬拉松今早舉行，設全馬、半馬、10公里及1600米賽事約1.5萬人參與；全馬早上6時半於沙田石門起步，民政及青年事務局局長麥美娟等鳴槍，跑經龍山隧道並以首次開放予賽事的粉嶺繞道作終點，有跑手指濕度偏高不強求個人最佳成績。",
+          "time_hkt": "2026-11-01T07:03:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876110-20261101.htm"
+            },
+            {
+              "name": "文匯報",
+              "url": "https://www.wenweipo.com/a/202611/01/AP6ae67a39e4b0fa89498b4bfa.html"
+            },
+            {
+              "name": "Metro",
+              "url": "https://metrohk.com.hk/%E6%B8%AF%E8%81%9E/%E5%8C%97%E9%83%BD%E9%A6%AC%E6%8B%89%E6%9D%BE%E4%BB%8A%E6%97%A9%E8%88%89%E8%A1%8C%E7%B4%841-5%E8%90%AC%E4%BA%BA%E5%8F%83%E8%88%87-dafdb9"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "G20外長會亞特蘭大閉幕未發聯合公報　魯比奧發主席聲明",
+          "summary": "二十國集團外長會議於亞特蘭大閉幕，因烏克蘭戰事及俄外長拉夫羅夫獲邀等分歧未發表聯合公報，東道主美國國務卿魯比奧改發主席聲明列出能源、糧食及航行自由等優先議題；魯比奧會後稱不知烏克蘭能否達成談判和平，並指外交仍開放但軍事選項未排除。",
+          "time_hkt": "2026-11-01T06:48:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876109-20261101.htm"
+            },
+            {
+              "name": "自由歐洲電台",
+              "url": "https://www.rferl.org/a/rubio-atlanta-ukraine-russia-putin-lavrov-20/33888075.html"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/rubio-g20-ukraine-russia-poland-21c65a8bb02a3a0f0c89f0ce6d56d5fd"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "奧列什基撤離完成　居民經白俄羅斯返烏　俄烏同意定期人道行動",
+          "summary": "俄烏完成從赫爾松州奧列什基撤走居民，烏總統澤連斯基指需撤離的烏克蘭公民已經白俄羅斯入境並將獲援助；白俄傳媒稱載有居民的航班降落後轉赴邊境，俄人權專員稱雙方同意定期展開人道主義救援，當地停火安排維持至11月1日。",
+          "time_hkt": "2026-11-01T05:08:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876107-20261101.htm"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/cqx2818elrnzo"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/31/residents-of-russian-controlled-ukrainian-town-arrive-in-belarus.html"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/russia-ukraine-war-oleshky-evacuation-5cbc7d2a5b8ac34b15c914338fd5a9f3"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": []
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": []
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": []
+    }
+  ]
+}
