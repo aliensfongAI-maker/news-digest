@@ -1,0 +1,213 @@
+{
+  "date": "2026-11-01",
+  "hour": "20",
+  "updatedAt": "2026-11-01T20:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "大律師公會支持修改《競爭條例》將圍標刑事化　倡定義須清晰",
+          "summary": "大律師公會原則上支持將樓宇維修圍標刑事化並與民事執法雙軌並行，主席毛樂禮指建議最高囚10年、罰1000萬元與其他普通法地區相近，並須釐清罪行定義、舉證及寬待機制。",
+          "time_hkt": "2026-11-01T16:05:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876140-20261101.htm"
+            },
+            {
+              "name": "商業電台",
+              "url": "https://www.881903.com/news/local/2657507"
+            },
+            {
+              "name": "Now新聞（轉載）",
+              "url": "https://www.headline4hk.com/article/20261101/now/667936/"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "美酒佳餚巡禮閉幕日人流暢旺　展商料銷情較上屆增長",
+          "summary": "旅發局美酒佳餚巡禮最後一日於中環海濱舉行，市民與內地旅客入場踴躍，部分展商指萬聖節帶動人流，預計生意額較上屆增長約一成至兩成，活動午夜結束。",
+          "time_hkt": "2026-11-01T17:32:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876145-20261101.htm"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1204013-%E7%BE%8E%E9%85%92%E4%BD%B3%E9%A4%9A%E5%B7%A1%E7%A6%AE%E5%8D%88%E5%A4%9C12%E6%99%82%E7%B5%90%E6%9D%9F%E6%9C%89%E5%85%A5%E5%A0%B4%E4%BA%BA%E5%A3%AB%E6%8C%87%E5%A4%A9%E6%B0%A3%E7%86%B1%E7%84%A1%E6%B8%9B%E8%88%88%E8%B6%A3"
+            },
+            {
+              "name": "香港電台（閉幕日）",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876143-20261101.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "關日華稱今季流感患者較快轉差　正研究是否病毒基因改變",
+          "summary": "亞洲兒童傳染病學會前會長關日華指近期甲型流感發病率高，部分兒童感染後出現低血壓、瀰漫性出血甚至腦炎，成因未明正研究病毒基因；並倡及早用第二代流感藥減低傳播。",
+          "time_hkt": "2026-11-01T19:07:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876153-20261101.htm"
+            },
+            {
+              "name": "新浪香港",
+              "url": "https://portal.sina.com.hk/news-hongkong/news-realtime/rthk/2026/11/01/1973809/%E9%97%9C%E6%97%A5%E8%8F%AF%E7%A8%B1%E4%BB%8A%E5%AD%A3%E4%B8%8D%E5%B0%91%E6%B5%81%E6%84%9F%E6%82%A3%E8%80%85%E7%97%85%E6%83%85%E8%BC%83%E5%BF%AB%E8%BD%89%E5%B7%AE%E3%80%80%E6%AD%A3%E7%A0%94%E7%A9%B6/"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "美國中期選舉提前投票逾5200萬　據報白宮已為民主黨重掌國會做準備",
+          "summary": "佛羅里達大學選舉實驗室顯示逾5200萬人已提前投票；民調指民主黨有望奪眾議院，路透社引述知情人士指白宮已制定計劃應付民主黨調查並繼續以行政權力推進議程。",
+          "time_hkt": "2026-11-01T19:39:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876154-20261101.htm"
+            },
+            {
+              "name": "Seoul Economic Daily",
+              "url": "https://en.sedaily.com/international/2026/11/01/record-528-million-cast-early-ballots-before-us-midterms"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "習近平：推動中國式現代化行穩致遠　須持之以恆推進全面從嚴治黨",
+          "summary": "新華社受權播發二十屆五中全會《決定》全文及習近平說明，指面對複雜形勢須持之以恆從嚴治黨，為以中國式現代化推進民族復興提供堅強保障。",
+          "time_hkt": "2026-11-01T16:47:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876141-20261101.htm"
+            },
+            {
+              "name": "新華網",
+              "url": "https://www.news.cn/20261101/87a38bc1338047408c7aae86ad1740c9/c.html"
+            },
+            {
+              "name": "新華網",
+              "url": "https://www.news.cn/20261101/bd5876c937fa4cc7ab5104bf33d7bc73/c.html"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "俄總統助理：解決烏克蘭問題首輪談判必須是俄美烏三方形式",
+          "summary": "克里姆林宮助理烏沙科夫稱首輪談判應採俄美烏三方形式，歐洲代表或可列席但不應一開始即納入；又指澤連斯基釋出對話信號，普京從未拒絕與其對話。",
+          "time_hkt": "2026-11-01T19:07:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876152-20261101.htm"
+            },
+            {
+              "name": "Arab News（路透）",
+              "url": "https://www.arabnews.com/world/kremlin-aide-says-initial-ukraine-talks-should-include-only-us-russia-ukraine-3009250"
+            },
+            {
+              "name": "俄羅斯衛星通訊社",
+              "url": "https://ria.ru/20261101/ushakov-2128430218.html"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "特朗普：沒計劃與弗拉維奧會面　對方想逗留美國多久都可以",
+          "summary": "美國總統特朗普表示無意與巴西落選總統候選人弗拉維奧會面，但認為對方受不公正對待，可留美多久均可；弗拉維奧據報以人道主義理由獲准入境。",
+          "time_hkt": "2026-11-01T17:41:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876146-20261101.htm"
+            },
+            {
+              "name": "Investing.com（路透）",
+              "url": "https://www.investing.com/news/world-news/trump-says-flavio-bolsonaro-can-stay-in-us-as-long-as-he-wants-4989356"
+            }
+          ],
+          "rank": 4
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "人行與證監會周一召開座談會　研究推動資本市場支持工具落地",
+          "summary": "多家媒體報道部分券商及基金公司接獲通知，中國人民銀行與證監會將於11月2日上午開會研究推動支持資本市場政策工具落地，同日三部門亦將與銀行研優化回購增持再貸款。",
+          "time_hkt": "2026-11-01T17:11:00+08:00",
+          "sources": [
+            {
+              "name": "新浪財經",
+              "url": "https://finance.sina.cn/2026-11-01/detail-inixfrfw7810840.d.html"
+            },
+            {
+              "name": "中國基金報",
+              "url": "https://www.chnfund.com/article/39da398e-c9f7-75fb-98bc-3a24a8257daa"
+            },
+            {
+              "name": "中國金融信息網",
+              "url": "https://www.cnfin.com/kx/detail/20261101/4489406_1.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "11月開局迎美國中期選舉　港股料波動本周亦有業績與內地監管會議",
+          "summary": "恒指10月累瀉逾5%、科技指數跌逾一成後，市場關注本周美國中期選舉結果及港股波幅；本周百勝中國、百濟神州、港交所等將公布業績，內地據報亦有資本市場政策座談會。",
+          "time_hkt": "2026-11-01T17:00:00+08:00",
+          "sources": [
+            {
+              "name": "東網",
+              "url": "https://hk.on.cc/hk/bkn/cnt/finance/20261101/bkn-20261101170020319-1101_00842_001.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "幣安分階段重開提款再擴至Arbitrum及波場網絡",
+          "summary": "幣安在X表示已恢復Arbitrum網絡ARB、ETH、USDT、USDC及波場網絡TRX、USDT提款，至今已有九個網絡恢復部分資產提領，並稱將繼續分階段恢復更多資產與網絡。",
+          "time_hkt": "2026-11-01T19:30:00+08:00",
+          "sources": [
+            {
+              "name": "TokenPost",
+              "url": "https://tw.tokenpost.com/news/blockchain/64600"
+            },
+            {
+              "name": "PANews",
+              "url": "https://www.panews.io/articles/01a196c3-d1f3-77fd-84ce-8b9c014f3880"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
