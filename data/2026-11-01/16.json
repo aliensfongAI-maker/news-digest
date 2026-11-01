@@ -1,0 +1,204 @@
+{
+  "date": "2026-11-01",
+  "hour": "16",
+  "updatedAt": "2026-11-01T16:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "天文台：香港經歷1884年以來最暖10月",
+          "summary": "天文台指上月平均氣溫27.6度、平均最高30.5度及平均最低25.8度均破10月紀錄，歸因氣候暖化、極強厄爾尼諾、東北季候風偏弱及高空反氣旋偏強。",
+          "time_hkt": "2026-11-01T15:47:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876135-20261101.htm"
+            },
+            {
+              "name": "東網",
+              "url": "https://hk.on.cc/hk/bkn/cnt/weather/20261101/bkn-20261101132331164-1101_00942_001.html"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1204007-%E9%A6%99%E6%B8%AF%E7%B6%93%E6%AD%B7%E6%9C%89%E7%B4%80%E9%8C%84%E4%BB%A5%E4%BE%86%E6%9C%80%E6%9A%9610%E6%9C%88%E5%A4%A9%E6%96%87%E5%8F%B0%E6%AD%A3%E9%9D%A2%E5%B0%8D%E6%A5%B5%E5%BC%B7%E5%8E%84%E7%88%BE%E5%B0%BC%E8%AB%BE%E4%BA%8B%E4%BB%B6"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "海關機場檢約6公斤懷疑可卡因 拘22歲菲籍女旅客",
+          "summary": "海關公布昨日一名由金邊抵港的菲律賓籍女旅客寄艙行李藏約6公斤懷疑可卡因、市值約360萬元，女子已被控販運危險藥物罪，明日西九龍裁判法院提堂。",
+          "time_hkt": "2026-11-01T14:25:00+08:00",
+          "sources": [
+            {
+              "name": "香港政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202611/01/P2026110100435.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876137-20261101.htm"
+            },
+            {
+              "name": "香港文匯報",
+              "url": "https://www.wenweipo.com/a/202611/01/AP6ae6e17ce4b0fa89498b5b60.html"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "北都馬拉松至少23人受傷須入院治理",
+          "summary": "首屆北部都會區馬拉松今早舉行後，醫管局表示截至下午3時10分有23人受傷入院；較早亦有報道指多名跑手身體不適被送北區醫院。",
+          "time_hkt": "2026-11-01T15:55:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876138-20261101.htm"
+            },
+            {
+              "name": "Now新聞（轉載）",
+              "url": "https://www.headline4hk.com/article/20261101/now/667904/"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "鄧炳強稱掌握圍標集團情況 料特遣隊及修例可起阻嚇",
+          "summary": "保安局局長鄧炳強表示當局一直掌握部分圍標集團情況，跨部門特遣隊可列席高風險法團會議及早蒐證，期望配合圍標刑事化修例縮窄犯法空間。",
+          "time_hkt": "2026-11-01T14:58:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876131-20261101.htm"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1203996-%E8%AC%9B%E6%B8%85%E8%AC%9B%E6%A5%9A%E9%84%A7%E7%82%B3%E5%BC%B7%E6%8B%9B%E6%A8%99%E9%A0%90%E5%AF%A9%E5%90%8D%E5%96%AE%E5%AE%8C%E5%85%A8%E4%B9%BE%E6%B7%A8%E6%9C%89%E9%9B%A3%E5%BA%A6%E4%BA%BA%E5%93%A1%E7%9B%A1%E5%AF%A9%E5%B7%B2%E5%B1%AC%E8%B2%A0%E8%B2%AC"
+            }
+          ],
+          "rank": 4
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "特朗普稱美國仍需處理伊朗一兩個目標 包括鎬山",
+          "summary": "美國總統特朗普表示美方已重創伊朗核設施，但仍須處理一兩個地點（包括鎬山疑似地下核設施），聲稱10分鐘內可完成，同時稱不急於再發動進攻。",
+          "time_hkt": "2026-11-01T13:51:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876130-20261101.htm"
+            },
+            {
+              "name": "中央社",
+              "url": "https://www.cna.com.tw/news/aopl/202611010072.aspx"
+            },
+            {
+              "name": "The Straits Times",
+              "url": "https://www.straitstimes.com/world/united-states/trump-says-us-still-has-one-or-two-targets-in-iran"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "德國生活成本示威晚間轉暴力 法蘭克福等多地有商店遭搶掠",
+          "summary": "德國「Gen Z regelt」周六示威日間大致和平，但入夜後法蘭克福、柏林、科隆及漢堡等地爆發衝突，警方指有商店被砸搶並動用水炮驅散。",
+          "time_hkt": "2026-11-01T15:40:00+08:00",
+          "sources": [
+            {
+              "name": "BBC News",
+              "url": "https://www.bbc.com/news/articles/cqj34gnd3n30o"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1203977-%E6%B3%95%E5%9C%8B%E9%99%90%E5%88%B6%E7%A4%BA%E5%A8%81%E8%80%85%E9%81%8A%E8%A1%8C%E7%AF%84%E5%9C%8D%E8%87%B3%E5%B0%91%E6%8B%98560%E4%BA%BA%E5%BE%B7%E5%9C%8B%E6%BB%8B%E4%BA%8B%E5%88%86%E5%AD%90%E6%90%B6%E6%8E%A0%E5%BA%97%E8%88%96"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "日本即日起改用「先付後退」旅客退稅新制",
+          "summary": "日本自11月1日起取消當場免稅，旅客須先付含稅價，離境前於機場或港口完成海關確認後才獲退稅，熱門機場亦可經Visit Japan Web辦理。",
+          "time_hkt": "2026-11-01T15:39:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876133-20261101.htm"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1203105-%E6%97%A5%E6%9C%AC%E5%85%88%E4%BB%98%E5%BE%8C%E9%80%80%E5%85%8D%E7%A8%85%E6%96%B0%E5%88%B611%E6%9C%88%E8%B5%B7%E5%AF%A6%E6%96%BD%E9%80%80%E7%A8%85%E6%B5%81%E7%A8%8B%E9%87%8D%E9%BB%9E%E4%B8%80%E6%96%87%E7%9B%A1%E8%A6%BD%E7%B6%B2%E7%B5%A1%E7%86%B1%E8%A9%B1%E9%99%84%E5%BD%B1%E7%89%87%E4%BB%8B%E7%B4%B9"
+            },
+            {
+              "name": "成田國際機場",
+              "url": "https://www.narita-airport.jp/zh-tc/news/refund/"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "澳門10月博彩毛收入216.8億 按年跌約一成連跌五個月",
+          "summary": "澳門博監局數字顯示10月博彩毛收入216.8億澳門元，按月回升約兩成但按年跌約一成，連續第五個月同比下跌；首10個月累計仍按年升1.6%。",
+          "time_hkt": "2026-11-01T14:25:00+08:00",
+          "sources": [
+            {
+              "name": "星島頭條",
+              "url": "https://www.stheadline.com/realtime-finance/3632243/%E6%BE%B3%E9%96%8010%E6%9C%88%E8%B3%AD%E6%94%B6%E6%8C%89%E5%B9%B4%E8%B7%8C10-%E9%80%A3%E8%B7%8C5%E5%80%8B%E6%9C%88"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876134-20261101.htm"
+            },
+            {
+              "name": "亞博匯",
+              "url": "https://zh.asgam.com/2026/11/01/macau-ggr-falls-10-year-on-year-to-mop21-68-billion-in-october-zh/"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "陳茂波：金融科技周與領袖峰會明日展開 全年增長預測可望上調",
+          "summary": "財政司司長陳茂波在網誌表示香港金融科技周及國際金融領袖投資峰會明天同步展開並將公布系列措施，又指第三季經濟增長料勝預期、全年預測可望再上調。",
+          "time_hkt": "2026-11-01T12:52:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876126-20261101.htm"
+            },
+            {
+              "name": "香港政府新聞網",
+              "url": "https://www.news.gov.hk/chi/2026/11/20261101/20261101_120954_599.html"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1204006-%E9%99%B3%E8%8C%82%E6%B3%A2%E9%A0%90%E5%91%8A%E7%AC%AC%E4%B8%89%E5%AD%A3%E7%B6%93%E6%BF%9F%E6%8C%89%E5%B9%B4%E5%A2%9E%E9%95%B7%E5%8B%9D%E9%A0%90%E6%9C%9F%E5%85%A8%E5%B9%B4%E5%A2%9E%E9%95%B7%E9%A0%90%E6%B8%AC%E5%8F%AF%E6%9C%9B%E5%86%8D%E4%B8%8A%E8%AA%BF"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": []
+    }
+  ]
+}
