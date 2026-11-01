@@ -1,0 +1,134 @@
+{
+  "date": "2026-11-02",
+  "hour": "00",
+  "updatedAt": "2026-11-02T00:05:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "阿富汗首奪香港國際六人賽冠軍　決賽擊退澳洲",
+          "summary": "在旺角天光道舉行的香港國際六人板球賽決賽，阿富汗以119比115、剩餘5球擊敗澳洲，Imran Mir以14球53分不敗帶領球隊首度奪冠，成為賽事史上第八支冠軍隊伍。",
+          "time_hkt": "2026-11-01T22:00:00+08:00",
+          "sources": [
+            {
+              "name": "南華早報",
+              "url": "https://www.scmp.com/sport/cricket/article/3372900/bodybuilding-arnold-schwarzenegger-fan-inspires-afghanistans-hong-kong-sixes-triumph"
+            },
+            {
+              "name": "Sportstar",
+              "url": "https://sportstar.thehindu.com/cricket/afghanistan-wins-hong-kong-sixes-final-2026-result-highlights-score-afg-vs-australia/article71652717.ece"
+            },
+            {
+              "name": "ESPNcricinfo",
+              "url": "https://www.cricinfo.com/series/hong-kong-international-sixes-2026-27-1559188/afghanistan-vs-australia-final-1559216/live-cricket-score"
+            },
+            {
+              "name": "香港六人賽官網",
+              "url": "https://hongkongsixes.live/afghanistan-crowned-champions-as-hong-kong-sixes-2026-concludes-with-a-day-of-thrillers-fireworks-and-record-breaking-knocks/"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "蓮塘口岸通關六年累計出入境人次突破1億",
+          "summary": "深圳出入境邊防檢查總站統計，蓮塘邊檢站累計查驗出入境人員逾1億人次、車輛逾600萬架次，日均約9.4萬人次、年均增幅逾三成七，今年首十個月港澳居民出入境逾2130萬人次。",
+          "time_hkt": "2026-11-01T21:49:00+08:00",
+          "sources": [
+            {
+              "name": "中國新聞網",
+              "url": "https://www.chinanews.com.cn/dwq/2026/11-01/10724505.shtml"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876160-20261101.htm"
+            },
+            {
+              "name": "點新聞",
+              "url": "https://www.dotdotnews.com/a/202611/01/AP6ae755bbe4b02fd1c5f634c6.html"
+            },
+            {
+              "name": "新華網",
+              "url": "http://www.news.cn/20261101/d065904c91064c89b53c066f2d621a04/c.html"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "德國法蘭克福反政府示威觸發騷亂　逾50人被捕逾百警員受傷",
+          "summary": "歐洲多國「Gen Z」生活成本抗議中，法蘭克福晚間演變騷亂，黑森州指17間商店遭破壞、5間被搶劫，逾百名警員受傷，警方拘捕54名13至29歲人士，德國內政部長揚言嚴懲。",
+          "time_hkt": "2026-11-01T21:45:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876158-20261101.htm"
+            },
+            {
+              "name": "CBC（路透）",
+              "url": "https://www.cbc.ca/news/world/german-ministers-action-rioters-9.7404719"
+            },
+            {
+              "name": "tagesschau",
+              "url": "https://www.tagesschau.de/inland/regional/hessen/krawalle-frankfurt-polizei-bilanz-100.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "阿曼蘇丹海賽姆抵京　展開建交以來首次國事訪問",
+          "summary": "阿曼蘇丹海賽姆應習近平邀請抵達北京，展開11月1至2日國事訪問，為其繼任後及中阿建交48年來阿曼國家元首首次訪華，期間將與習近平會談、與李強會見。",
+          "time_hkt": "2026-11-01T21:31:00+08:00",
+          "sources": [
+            {
+              "name": "央廣網（央視）",
+              "url": "https://news.cnr.cn/native/gd/20261101/t20261101_527859543.shtml"
+            },
+            {
+              "name": "新華網英文",
+              "url": "https://english.news.cn/20261101/6bf9e94cbb684e84af5cd640aa9bdc4d/c.html"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "塞爾維亞議會選舉部分票站重新投票　料不改學生名單過半優勢",
+          "summary": "塞爾維亞於53個先前無法確定結果或被宣布無效的票站重投，約2.5萬名選民有資格，佔全國選民約0.38%，預計不會改變「學生名單」取得議會過半議席的格局。",
+          "time_hkt": "2026-11-01T20:04:00+08:00",
+          "sources": [
+            {
+              "name": "新華網",
+              "url": "http://www.news.cn/20261101/6025cc56c8ed4567b6073dee7043dac3/c.html"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876155-20261101.htm"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": []
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": []
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": []
+    }
+  ]
+}
