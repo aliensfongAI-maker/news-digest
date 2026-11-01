@@ -1,0 +1,193 @@
+{
+  "date": "2026-11-01",
+  "hour": "12",
+  "updatedAt": "2026-11-01T12:05:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "鄧炳強承認宏福苑火災消防處有不足　相信敍用委員會將調查高層",
+          "summary": "保安局局長鄧炳強在電視節目承認大埔宏福苑火災事件中消防處存在不足，例如未檢查後樓梯「生口」及發泡膠等隱患，並相信公務員敍用委員會將調查消防處高層，同時強調部隊有承擔且已推出改善措施。",
+          "time_hkt": "2026-11-01T11:10:00+08:00",
+          "sources": [
+            {
+              "name": "東方日報",
+              "url": "https://hk.on.cc/hk/bkn/cnt/news/20261101/bkn-20261101111022195-1101_00822_001.html"
+            },
+            {
+              "name": "Now新聞",
+              "url": "https://news.now.com/home/local/player?newsId=667884"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "李家超出席童軍大會操　勉青年敢築夢並強調一國兩制機遇無限",
+          "summary": "行政長官李家超以香港童軍總領袖身份出席在香港大球場舉行的2026年童軍大會操，提出胸懷家國、放眼世界、錘鍊意志及助人為樂四點期望，並指五年規劃將繼續以青年發展藍圖支持青年逐夢。",
+          "time_hkt": "2026-11-01T11:16:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876122-20261101.htm"
+            },
+            {
+              "name": "點新聞",
+              "url": "https://www.dotdotnews.com/a/202611/01/AP6ae6a067e4b02fd1c5f62746.html"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "明報今起加價至每份15元　經濟日報及信報明日起加價",
+          "summary": "本港部分報章本月起加價，其中《明報》今日起由12元加至15元、加幅25%；《經濟日報》明日同樣加至15元，《信報》則加價3元至18元。",
+          "time_hkt": "2026-11-01T09:19:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876113-20261101.htm"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "烏克蘭無人機據報襲擊俄克斯托沃煉油廠　引發多處大火",
+          "summary": "烏克蘭監察渠道及俄媒報道，盧克石油旗下位於下諾夫哥羅德州克斯托沃、俄第四大煉油廠NORSI於11月1日凌晨遇無人機襲擊並燃起多處火頭，該廠年加工原油約1,500萬至1,700萬噸，俄當局未即時證實損毀程度。",
+          "time_hkt": "2026-11-01T11:10:00+08:00",
+          "sources": [
+            {
+              "name": "Kyiv Independent",
+              "url": "https://kyivindependent.com/russian-oil-refinery-in-kstovo-ablaze-after-reported-overnight-drone-strike/"
+            },
+            {
+              "name": "RBC-Ukraine",
+              "url": "https://www.rbc.ua/ukr/news/rosiyi-atakovano-kstovskiy-npz-ob-ekti-masshtabnu-1793501867.html"
+            },
+            {
+              "name": "Ynet",
+              "url": "https://www.ynetnews.com/article/9y881d9f1"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "伊朗與卡塔爾磋商兩日內重開霍爾木茲方案　稱須美方先滿足條件",
+          "summary": "伊朗外長阿拉格齊表示已與卡塔爾斡旋方就加快重開霍爾木茲海峽至兩日內達成新方案，惟須美國先滿足解除相關制裁、恢復石油出口豁免、釋放凍結資產及減少區域駐軍等條件，同時暫無與美方直接會談計劃。",
+          "time_hkt": "2026-11-01T10:19:00+08:00",
+          "sources": [
+            {
+              "name": "CGTN",
+              "url": "https://news.cgtn.com/news/2026-11-01/Iran-Qatar-hold-talks-as-Tehran-weighs-US-diplomatic-overture-1RI0McRVMHe/p.html"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "英國警方於美使館外示威拘捕139名巴勒斯坦行動支持者",
+          "summary": "倫敦警方在美國駐英大使館外一場支持被禁組織「巴勒斯坦行動」的示威中至少拘捕139人，多數涉嫌公開支持被列為恐怖組織的團體；最高法院將於周三就禁令上訴展開聆訊。",
+          "time_hkt": "2026-11-01T09:34:00+08:00",
+          "sources": [
+            {
+              "name": "港台",
+              "url": "https://news.rthk.hk/rthk/en/component/k2/1876116-20261101.htm"
+            },
+            {
+              "name": "The Independent",
+              "url": "https://www.independent.co.uk/news/uk/home-news/metropolitan-police-teachers-nine-elms-zack-polanski-palestine-b3076960.html"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "紐約期油10月累漲逾15%　霍爾木茲風險推高國際油價",
+          "summary": "市場憂慮美國中期選舉後地緣風險升溫及霍爾木茲海峽油輪遇襲加劇供應疑慮，紐約期油上周五升近2.1%報每桶104.12美元、布蘭特升2.4%報117.64美元，10月分別累漲約15.2%及13.6%。",
+          "time_hkt": "2026-11-01T10:01:00+08:00",
+          "sources": [
+            {
+              "name": "東方日報",
+              "url": "https://hk.on.cc/hk/bkn/cnt/finance/20261101/bkn-20261101100139650-1101_00842_001.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "美股科技股續挫納指跌近2.9%　港股ADR指數略回",
+          "summary": "個別科技巨頭業績令市場失望，美股上周五道指跌572點或1.09%、標指跌1.82%、納指挫近2.86%；港股ADR指數按比例收報23,257點跌0.16%，滙豐ADR低於港收、騰訊ADR略高於港收。",
+          "time_hkt": "2026-11-01T08:47:00+08:00",
+          "sources": [
+            {
+              "name": "東方日報",
+              "url": "https://hk.on.cc/hk/bkn/cnt/finance/20261101/bkn-20261101084734328-1101_00842_001.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "中國公布載人登月「兩次發射、環月對接」方案　乘組三人兩人登月",
+          "summary": "載人航天工程官員披露，中國首次載人登月將採兩枚長征十號分別送出攬月着陸器與夢舟飛船、於環月軌道對接的模式，乘組三人中兩人登月、一人留守軌道，目標2030年前實現中國人登月。",
+          "time_hkt": "2026-11-01T10:51:00+08:00",
+          "sources": [
+            {
+              "name": "新華社",
+              "url": "https://english.news.cn/20261101/04c436b70e094974aaf38487a11ebc3a/c.html"
+            },
+            {
+              "name": "新華網",
+              "url": "https://www.news.cn/20261101/9949813bf1e845c8811c5121e9c58436/c.html"
+            },
+            {
+              "name": "大公報",
+              "url": "https://www.tkww.hk/epaper/view/newsDetail/2116598622656270336.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "DeepSeek發布Super-agent架構探索　稱突破多任務與團隊協作限制",
+          "summary": "大陸AI企業DeepSeek發布「Super-agent設計探索」文章，介紹以雙層Router-Worker等思路構建的更自主Agent系統，稱可接管繁瑣會話與上下文同步，內部實例已參與問題復現、修復及程式碼審查等協作。",
+          "time_hkt": "2026-11-01T11:28:00+08:00",
+          "sources": [
+            {
+              "name": "工商時報",
+              "url": "https://www.ctee.com.tw/news/20261101700361-430804"
+            },
+            {
+              "name": "GitHub",
+              "url": "https://github.com/deepseek-ai/dsh-superagent-prototype"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    }
+  ]
+}
