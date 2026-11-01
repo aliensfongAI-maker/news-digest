@@ -1,0 +1,127 @@
+{
+  "date": "2026-11-02",
+  "hour": "04",
+  "updatedAt": "2026-11-02T04:04:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": []
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "俄聯邦安全局拘捕未成年人　涉美方莫斯科恐襲情報",
+          "summary": "俄聯邦安全局與國民近衛軍等聯合核查美方有關莫斯科察里津諾莊園恐襲預警後，拘捕一名未成年俄籍公民，並指其社交平台發布戰術裝與疑似自動武器照片、上載莊園相片及訂閱極端頻道。",
+          "time_hkt": "2026-11-02T01:18:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876163-20261102.htm"
+            },
+            {
+              "name": "新華網",
+              "url": "https://www.xinhuanet.com/20261101/bbcd908ab3e74ebabaa776ead5c4b5d6/c.html"
+            },
+            {
+              "name": "俄新社",
+              "url": "https://ria.ru/20261101/fsb-2128462993.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "俄聯邦委員會主席馬特維延科率團訪華　料晤趙樂際王滬寧",
+          "summary": "應全國人大常委會委員長趙樂際邀請，俄羅斯聯邦委員會主席馬特維延科於11月1至3日率團訪華，料於北京與趙樂際及全國政協主席王滬寧會談，並轉赴西安配合俄中教育年活動。",
+          "time_hkt": "2026-11-02T00:09:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876162-20261102.htm"
+            },
+            {
+              "name": "新華網",
+              "url": "https://www.news.cn/world/20261101/8dfb21af07a64c479a49a58345b5cb2f/c.html"
+            },
+            {
+              "name": "中國新聞網",
+              "url": "https://www.chinanews.com.cn/gn/2026/11-01/10724306.shtml"
+            },
+            {
+              "name": "俄聯邦委員會",
+              "url": "http://council.gov.ru/events/news/178036/"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "七個OPEC+主要產油國決定12月維持產量不變",
+          "summary": "沙特、俄羅斯、伊拉克、科威特、哈薩克、阿爾及利亞及阿曼舉行線上會議後，決定12月繼續維持9月所需產量水平，市場預期今年內暫不作更多政策調整，11月29日再議2027年配額。",
+          "time_hkt": "2026-11-02T02:16:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876164-20261102.htm"
+            },
+            {
+              "name": "OPEC",
+              "url": "https://www.opec.org/pr-detail/2033620-1-november-2026.html"
+            },
+            {
+              "name": "新華網",
+              "url": "http://www.news.cn/20261101/d8545cf317ed4327914a6d5be56769fc/c.html"
+            },
+            {
+              "name": "路透（Investing）",
+              "url": "https://ca.investing.com/news/commodities-news/opec-keeps-december-oil-output-targets-steady-ahead-of-tougher-call-for-2027-4920344"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": []
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "幣安遭黑客竊逾60億美元加密貨幣　FBI指涉朝鮮組織",
+          "summary": "全球最大加密貨幣交易所幣安約10月29日遭黑客竊取逾60億美元虛擬資產，FBI指朝鮮相關組織TraderTraitor所為並呼籲凍結相關地址，幣安稱已以自有資金回補約九成損失、分階段恢復提款。",
+          "time_hkt": "2026-11-02T03:10:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876165-20261102.htm"
+            },
+            {
+              "name": "衛報",
+              "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency"
+            },
+            {
+              "name": "半島電視台（路透）",
+              "url": "https://www.aljazeera.com/news/2026/11/1/fbi-blames-north-korea-for-record-6-3bn-crypto-heist"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/binance-crypto-hack-north-korea-fbi-883f18140c1e21ce0c38781e72cbe315"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
