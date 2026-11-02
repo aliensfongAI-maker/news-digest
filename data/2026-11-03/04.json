@@ -1,0 +1,162 @@
+{
+  "date": "2026-11-03",
+  "hour": "04",
+  "updatedAt": "2026-11-03T04:10:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": []
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "美國中期選舉投票日　民調料民主黨重掌眾議院惟參議院存變數",
+          "summary": "美國今日舉行中期選舉，改選眾議院全部435席及參議院35席；主流民調預測民主黨有望重奪眾議院，但參議院勝負難料，已有逾5500萬人提前投票。",
+          "time_hkt": "2026-11-03T02:54:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876303-20261103.htm"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/c6wyz223j19po"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/live/c6j9k4k3wrm1t"
+            },
+            {
+              "name": "CNN",
+              "url": "https://edition.cnn.com/2026/11/02/politics/cnn-senate-seats-most-likely-to-flip"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "歐洲多國超市製冷設備遭網絡攻擊　冷藏溫度異常升高致食品變質",
+          "summary": "愛爾蘭、瑞典、比利時、盧森堡等至少七國數十間超市製冷及冷凍系統遭攻擊，溫度一度被調至攝氏50度，部分食品變質下架，歐盟官員指屬蓄意打擊食品供應鏈。",
+          "time_hkt": "2026-11-03T00:43:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876297-20261103.htm"
+            },
+            {
+              "name": "衛報",
+              "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/02/cyberattack-on-fridges-hits-supermarkets-across-europe.html"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/europe-supermarkets-freezers-cyberattacks-a8ea5b30d67da47957769f29101fe686"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "英國收緊移民政策　大部分申請永居標準居住年限延長至十年",
+          "summary": "英國內政大臣公布「賺取式」永居改革，大多數合法移民標準居住年限由五年延至十年，高收入者最快三年、部分醫護及護理人員維持五年，以回應減低移民呼聲。",
+          "time_hkt": "2026-11-03T01:52:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876299-20261103.htm"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c6ly052pdx4no"
+            },
+            {
+              "name": "英國政府",
+              "url": "https://www.gov.uk/government/news/home-secretary-unveils-new-rules-for-migrants-settling-in-the-uk"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "韓媒稱總統李在明等168人護照資料外洩至收費網站",
+          "summary": "韓國KBS報道，總統李在明及幕僚等共168人護照資料早前以「乘客名單」形式上載至收費網站；青瓦台表示已知悉並正調查應對。",
+          "time_hkt": "2026-11-03T01:54:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876300-20261103.htm"
+            },
+            {
+              "name": "韓聯社",
+              "url": "https://en.yna.co.kr/view/AEN20261102013200320"
+            },
+            {
+              "name": "海峽時報",
+              "url": "https://www.straitstimes.com/asia/east-asia/south-korean-presidents-passport-details-leaked-online-broadcaster-reports"
+            }
+          ],
+          "rank": 4
+        },
+        {
+          "headline": "王毅晤沙特國安顧問　冀對話談判化解中東紛爭維護能源航道安全",
+          "summary": "中共中央外辦主任王毅在北京與沙特國安顧問艾班會談，指地區局勢再臨戰和關鍵路口，希望各方透過對話談判平息戰事，並維護能源與航道安全。",
+          "time_hkt": "2026-11-03T00:11:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876294-20261103.htm"
+            },
+            {
+              "name": "新華社",
+              "url": "https://english.news.cn/20261102/f5025f5fd12a4ff48ae43b1270f2a104/c.html"
+            },
+            {
+              "name": "新華網",
+              "url": "https://www.news.cn/politics/leaders/20261102/999b5832234041069daa45d018ca2d21/c.html"
+            }
+          ],
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": []
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": []
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "《紐約時報》等媒體控告瀏覽器Brave涉嫌爬取內容供AI使用",
+          "summary": "《紐約時報》及《每日新聞》等報章在紐約聯邦法院起訴Brave，指其爬取並向Anthropic、Perplexity、Mistral、xAI、Cohere等AI公司分發受版權保護內容，以及協助用戶繞過付費牆。",
+          "time_hkt": "2026-11-03T01:51:00+08:00",
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/"
+            },
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times"
+            },
+            {
+              "name": "The Next Web",
+              "url": "https://thenextweb.com/news/nyt-newspapers-sue-brave-ai-scraping"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
