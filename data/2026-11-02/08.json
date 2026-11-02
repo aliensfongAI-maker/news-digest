@@ -1,0 +1,155 @@
+{
+  "date": "2026-11-02",
+  "hour": "08",
+  "updatedAt": "2026-11-02T08:12:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": []
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "美國佛羅里達州公務機墮毀　機上9人全部遇難",
+          "summary": "一架里爾60型公務機由得州奧斯汀飛往巴哈馬途中，於當地星期日下午在佛羅里達州棕櫚灘縣住宅區附近墜毀並起火，美國交通部長達菲確認機上9人全數死亡，地面暫未有傷亡報道。",
+          "time_hkt": "2026-11-02T07:54:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876180-20261102.htm"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/palm-beach-plane-crash-ffdee609e7916ff7fcd178d2b8e69b39"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/cm369yy7lw73o"
+            },
+            {
+              "name": "NBC News",
+              "url": "https://www.nbcnews.com/news/us-news/jet-crashes-florida-nine-people-board-rcna606874"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "特朗普：若民主黨中期選舉後控制國會兩院　將運用總統否決權",
+          "summary": "美國中期選舉星期二舉行，特朗普接受訪問時表示，若共和黨失落兩院，他不會讓民主黨法案通過，將連續行使否決權約一至兩個月，迫使對方談判達成協議。",
+          "time_hkt": "2026-11-02T05:12:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876167-20261102.htm"
+            },
+            {
+              "name": "紐約郵報",
+              "url": "https://nypost.com/2026/11/01/us-news/trump-reveals-how-hell-still-be-able-to-get-things-done-if-dems-take-over-after-midterms/"
+            },
+            {
+              "name": "獨立報",
+              "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-midterms-mr-veto-democrats-win-b3077177.html"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "加美領導人討論貿易協議前景　卡尼形容對話有成效",
+          "summary": "加拿大總理卡尼發文指與美國總統特朗普就兩國貿易前景進行富有成效的交談，期望達成互利框架並尊重加拿大語言、文化與主權；特朗普亦稱雙方非常接近達成協議，團隊未來數周將緊密合作。",
+          "time_hkt": "2026-11-02T06:09:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876168-20261102.htm"
+            },
+            {
+              "name": "CBC",
+              "url": "https://www.cbc.ca/news/politics/carney-trump-conversation-midterms-9.7404845"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/canada-us-trump-canada-trade-d0bfffc67ecdf22d9a5abffb2d26d848"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "也門官員指胡塞武裝襲擊亞丁市政府軍設施",
+          "summary": "也門官員表示胡塞武裝以導彈襲擊南部港口城市亞丁一處政府軍設施附近，目擊者指市內多處傳出爆炸聲；沙特主導多國聯軍另稱已發動精準打擊，目標摧毀胡塞關鍵軍事資源。",
+          "time_hkt": "2026-11-02T04:26:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876166-20261102.htm"
+            },
+            {
+              "name": "新華社英文",
+              "url": "https://english.news.cn/20261102/ab1111aac9cb474cab3b1bb9ba23e11b/c.html"
+            }
+          ],
+          "rank": 4
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "據報內地金融監管機構今日開會　研究優化股票回購增持再貸款政策",
+          "summary": "據報人民銀行、國家金融監管總局及中國證監會今日召集銀行開會，研究優化股票回購增持再貸款政策；另有券商及基金接獲通知，人行與證監會將研究推動支持資本市場工具使用，該再貸款工具2024年設立、首期額度3000億元人民幣。",
+          "time_hkt": "2026-11-02T06:18:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876171-20261102.htm"
+            },
+            {
+              "name": "東方財富網",
+              "url": "https://wap.eastmoney.com/a/202611023917838966.html"
+            },
+            {
+              "name": "中國金融信息網",
+              "url": "https://www.cnfin.com/kx/detail/20261101/4489406_1.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "兩大地產代理周末10大屋苑各錄得8宗成交",
+          "summary": "剛過去周末，中原及美聯10大屋苑各錄8宗成交，按周分別增加2宗及1宗，並連續9個周末維持單位數；代理指11月多個新盤部署推售帶動購買力，個別新盤收票及開放示範單位亦吸納二手客源。",
+          "time_hkt": "2026-11-02T07:00:00+08:00",
+          "sources": [
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60405958/%E5%8D%81%E5%A4%A7%E5%B1%8B%E8%8B%91%E5%91%A8%E6%9C%AB%E9%8C%848%E5%AE%97%E6%88%90%E4%BA%A4-%E6%8C%89%E5%91%A8%E5%9B%9E%E5%8D%8733-3"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876179-20261102.htm"
+            },
+            {
+              "name": "香港財經時報",
+              "url": "https://www.businesstimes.com.hk/articles/352793/%E5%8D%81%E5%A4%A7%E5%B1%8B%E8%8B%91-%E4%B8%AD%E5%8E%9F%E5%9C%B0%E7%94%A2-%E7%BE%8E%E8%81%AF%E7%89%A9%E6%A5%AD-%E5%91%A8%E6%9C%AB%E5%9D%878%E5%AE%97%E6%88%90%E4%BA%A4/"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": []
+    }
+  ]
+}
