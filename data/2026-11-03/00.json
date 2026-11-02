@@ -1,0 +1,201 @@
+{
+  "date": "2026-11-03",
+  "hour": "00",
+  "updatedAt": "2026-11-03T00:20:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "發展局已就瑪麗醫院升降機調查向特首交報告　7部升降機開放使用",
+          "summary": "發展局表示已就瑪麗醫院新臨床大樓升降機工程向行政長官提交調查報告，正按要求補充執修及後續資料並將向立法會匯報；至今17部升降機完成執修，其中7部已開放使用，餘下預計第四季完成。",
+          "time_hkt": "2026-11-02T23:04:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876290-20261102.htm"
+            },
+            {
+              "name": "點新聞",
+              "url": "https://www.dotdotnews.com/a/202611/02/AP6ae8aa0de4b02fd1c5f64ca7.html"
+            },
+            {
+              "name": "都市日報",
+              "url": "https://metrohk.com.hk/%E6%B8%AF%E8%81%9E/%E7%91%AA%E9%BA%97%E9%86%AB%E9%99%A2%E5%8D%87%E9%99%8D%E6%A9%9F%E8%AA%BF%E6%9F%A5%E5%A0%B1%E5%91%8A%E5%B7%B2%E4%BA%A4%E7%89%B9%E9%A6%96-b67f41"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "一名33歲男子確診猴痘　情況穩定　衞生防護中心通報世衞",
+          "summary": "衞生防護中心公布一名33歲男子確診猴痘並留醫北區醫院情況穩定，潛伏期內曾有高風險性接觸；本港自2022年起累計118宗個案，中心籲高風險人士接種疫苗。",
+          "time_hkt": "2026-11-02T20:43:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876277-20261102.htm"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "烏克蘭與俄羅斯緊急警報應用遭駭　發出虛假核威脅警告",
+          "summary": "烏克蘭防空警報應用及俄羅斯緊急情況部應用先後遭網絡攻擊，向用戶推送虛假輻射、化學威脅或核打擊警告；當局澄清並無相關威脅，並呼籲改以官方渠道接收資訊。",
+          "time_hkt": "2026-11-02T22:35:00+08:00",
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/c51kdy1ew7zvo"
+            },
+            {
+              "name": "CNN",
+              "url": "https://www.cnn.com/2026/11/02/europe/hacked-russian-ukrainian-emergency-apps-intl"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876282-20261102.htm"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "人行等部門：股票回購增持再貸款轉長期制度　利率由1.25厘降至1厘",
+          "summary": "人民銀行會同金融監管總局、證監會召開座談會，宣布股票回購增持再貸款由階段性安排改為長期制度性安排，再貸款利率由1.25厘降至1厘，並將適時開展互換便利操作以穩定資本市場。",
+          "time_hkt": "2026-11-02T21:18:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876279-20261102.htm"
+            },
+            {
+              "name": "中國金融信息網",
+              "url": "https://www.cnfin.com/gs-lb/detail/20261102/4489911_1.html"
+            },
+            {
+              "name": "第一財經",
+              "url": "https://www.yicai.com/news/103422061.html"
+            },
+            {
+              "name": "財聯社",
+              "url": "https://www.cls.cn/detail/2522877"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "ISM：美國10月製造業PMI升至55.5勝預期",
+          "summary": "美國供應管理協會公布10月製造業採購經理指數升至55.5，高於9月的54.5並優於市場預期，顯示製造業連續第10個月擴張；新訂單報55.5，就業指數報52.4。",
+          "time_hkt": "2026-11-02T23:38:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876293-20261102.htm"
+            },
+            {
+              "name": "PR Newswire",
+              "url": "https://www.prnewswire.com/news-releases/manufacturing-pmi-at-55-5-october-2026-ism-manufacturing-pmi-report-302925617.html"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "陳茂波：預期香港有望錄得5年來最強勁全年經濟增長",
+          "summary": "財政司司長陳茂波在國際金融領袖投資峰會歡迎晚宴表示，政府將上調全年經濟增長預測，預期香港有望錄得5年來最強勁全年增長；上半年增長5.1%，出口連12個月雙位數升，首9個月新股集資逾3880億元。",
+          "time_hkt": "2026-11-02T21:16:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876278-20261102.htm"
+            },
+            {
+              "name": "政府新聞處",
+              "url": "https://www.info.gov.hk/gia/general/202611/02/P2026110200619.htm"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "港交所：首日7間機構提交合資格債券抵押品　總值逾4億人民幣",
+          "summary": "港交所旗下期貨及期權結算所開始接受合資格人民幣定息資產作非現金保證金抵押品，首日共有7間機構提交合資格債券，總值超過4億元人民幣，有助鞏固香港離岸人民幣中心地位。",
+          "time_hkt": "2026-11-02T20:57:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876268-20261102.htm"
+            },
+            {
+              "name": "港交所",
+              "url": "https://www.hkex.com.hk/News/News-Release/2026/2611022news?sc_lang=zh-HK"
+            },
+            {
+              "name": "英文虎報",
+              "url": "https://www.thestandard.com.hk/finance/article/347252/Yuan-bonds-eligible-as-margin-collateral-at-HKEX-clearing-houses-with-400m-yuan-pledged-on-first-day"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "甲骨文擬集資200億美元用於人工智能基建擴張",
+          "summary": "甲骨文向美國證交會提交文件，計劃發行100億美元普通股及100億美元高級債券，為人工智能與雲基建融資；集資消息公布後公司股價一度跌逾5%。",
+          "time_hkt": "2026-11-02T23:37:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876292-20261102.htm"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "Anthropic修訂招股文件：上季收入增逾11倍　算力承諾近9000億美元",
+          "summary": "Anthropic向美國證交會提交修訂版招股文件，披露今年首9個月收入約332億美元、上季收入約170億美元按年增逾11倍，同時列出與算力及基礎設施相關的採購及租賃承諾合計約8954億美元。",
+          "time_hkt": "2026-11-02T23:21:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876291-20261102.htm"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html"
+            },
+            {
+              "name": "Yahoo Finance",
+              "url": "https://finance.yahoo.com/markets/article/anthropics-new-ipo-filing-puts-its-computing-bill-near-900-billion-151830444.html"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    }
+  ]
+}
