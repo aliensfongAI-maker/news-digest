@@ -1,0 +1,209 @@
+{
+  "date": "2026-11-02",
+  "hour": "16",
+  "updatedAt": "2026-11-02T16:20:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "李家超明赴北京出席京港洽談會　之後到上海出席第9屆進博會",
+          "summary": "行政長官李家超明日前往北京出席第29屆京港洽談會，其後轉往上海出席第9屆進博會暨虹橋國際經濟論壇，推廣香港內聯外通優勢，預計11月6日返港，離港期間由陳國基署理行政長官。",
+          "time_hkt": "2026-11-02T12:38:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876215-20261102.htm"
+            },
+            {
+              "name": "政府新聞處",
+              "url": "https://www.info.gov.hk/gia/general/202611/02/P2026110200220.htm"
+            },
+            {
+              "name": "香港政府新聞網",
+              "url": "https://www.news.gov.hk/chi/2026/11/20261102/20261102_121618_093.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "私隱公署就航空及零售商資料外洩展開調查　籲防精準詐騙",
+          "summary": "個人資料私隱專員公署就香港航空、國泰、馬航、友和及百老匯等機構資料外洩事故展開調查，截至上周五接獲51宗投訴及48宗查詢，並提醒市民提防利用外洩資料的精準詐騙。",
+          "time_hkt": "2026-11-02T13:55:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876226-20261102.htm"
+            },
+            {
+              "name": "Dimsum Daily",
+              "url": "https://www.dimsumdaily.hk/hong-kong-privacy-watchdog-investigates-data-leaks-linked-to-major-airlines-and-retailers/"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "周一鳴：電話騙案急升　已要求電訊商緊急停用涉案網絡電話號碼",
+          "summary": "警務處處長周一鳴表示今年首9個月詐騙案逾3.4萬宗佔整體罪案過半，電話騙案已成最嚴重類別，並指警方已要求電訊商緊急停用涉案網絡電話號碼，同時計劃修例應對租借電話卡予騙徒問題。",
+          "time_hkt": "2026-11-02T15:59:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876237-20261102.htm"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "特朗普：到某個時刻不得不對伊朗揮下重錘",
+          "summary": "美國總統特朗普在艾奧瓦州競選集會重申對伊朗威脅，聲稱尚未徹底解決伊朗問題是為展現友善及挽救生命，但到某個時刻將不得不對伊朗「揮下重錘」，並未排除中期選舉後恢復軍事行動。",
+          "time_hkt": "2026-11-02T12:43:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876216-20261102.htm"
+            },
+            {
+              "name": "TAG24",
+              "url": "https://www.tag24.com/en/news/politics/politicians/donald-trump/trump-declares-us-will-have-to-give-iran-the-hammer-3545092"
+            },
+            {
+              "name": "EWN",
+              "url": "https://www.ewn.co.za/2026/11/02/trump-says-at-some-point-us-will-have-to-give-iran-the-hammer"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "習近平晤阿曼蘇丹：願做穩定可靠能源合作伙伴並止戰促和",
+          "summary": "國家主席習近平在北京與來訪的阿曼蘇丹海賽姆會談，表明願深化發展戰略對接並做穩定可靠能源合作伙伴，又稱海灣不應成大國博弈角力場，中方積極致力止戰促和。",
+          "time_hkt": "2026-11-02T16:02:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876239-20261102.htm"
+            },
+            {
+              "name": "新華社",
+              "url": "https://www.news.cn/politics/leaders/20261102/35150666f7a243d297032961ab44d904/c.html"
+            },
+            {
+              "name": "外交部",
+              "url": "https://www.fmprc.gov.cn/wjdt_674879/gjldrhd_674881/202611/t20261102_12051267.shtml"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "比利時首相德韋弗因預算談判破裂向國王提辭職",
+          "summary": "比利時首相德韋弗在聯邦預算節約方案通宵談判失敗後，前往國王菲利普處提出政府辭職；若獲接納或觸發新選舉，國王亦可拒絕或暫緩處理。",
+          "time_hkt": "2026-11-02T15:40:00+08:00",
+          "sources": [
+            {
+              "name": "Euronews",
+              "url": "https://www.euronews.com/2026/11/02/belgiums-pm-bart-de-wever-to-offer-resignation-to-king-after-overnight-budget-talks-fail"
+            },
+            {
+              "name": "NRC",
+              "url": "https://www.nrc.nl/nieuws/2026/11/02/geen-doorbraak-in-de-onderhandelingen-belgische-premier-bart-de-wever-dient-ontslag-in-bij-de-koning-a4940263"
+            },
+            {
+              "name": "RTBF",
+              "url": "https://www.rtbf.be/article/crise-dans-le-gouvernement-arizona-le-kern-se-quitte-sans-accord-bart-de-wever-se-rend-chez-le-roi-11809122"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "內地股市收市升逾1%　上證報3638點",
+          "summary": "滬深股市收市升逾1%，影視院線、遊戲及人工智能視頻等股份造好；上證綜合指數收報3638點升1.08%，深證成指升1.63%，創業板指數升1.87%。",
+          "time_hkt": "2026-11-02T15:16:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876233-20261102.htm"
+            },
+            {
+              "name": "FX168",
+              "url": "https://www.fx168news.com/express/fastnews/1460254"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "陳茂波：轉數快將與銀聯國際合作支援逾40個海外市場",
+          "summary": "財政司司長陳茂波在香港金融科技周表示，轉數快已連接內地及泰國，並將與銀聯國際合作支援香港、內地及逾40個海外市場超過1億家商戶的二維碼付款，便利跨境交易。",
+          "time_hkt": "2026-11-02T13:37:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876224-20261102.htm"
+            },
+            {
+              "name": "都市日報",
+              "url": "https://metrohk.com.hk/%E8%B2%A1%E7%B6%93/%E8%BD%89%E6%95%B8%E5%BF%AB%E5%B0%87%E8%81%AF%E9%8A%80%E8%81%AF%E5%9C%8B%E9%9A%9B%E6%94%AF%E6%8F%B4%E9%80%BE40%E6%B5%B7%E5%A4%96%E5%B8%82%E5%A0%B4-95f918"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "證監會擬為持牌機構制訂網絡保安架構　高風險機構要求更高",
+          "summary": "證監會行政總裁梁鳳儀在金融科技周表示，證監會計劃為持牌機構制訂網絡保安架構，並對風險較高機構提出更高要求，以加強抵禦人工智能驅動的網絡威脅，稍後亦會就高自主度AI應用制訂實務指引。",
+          "time_hkt": "2026-11-02T16:00:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876238-20261102.htm"
+            },
+            {
+              "name": "TokenPost",
+              "url": "https://tw.tokenpost.com/news/blockchain/64814"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "孫東赴浙江出席世界互聯網大會烏鎮峰會",
+          "summary": "創新科技及工業局局長孫東下午啓程前往浙江烏鎮，出席2026年世界互聯網大會烏鎮峰會開幕式及部長級會議，並於智能體互聯及兩岸港澳互聯網發展論壇致開幕辭，預計星期三晚上返港。",
+          "time_hkt": "2026-11-02T12:30:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876214-20261102.htm"
+            },
+            {
+              "name": "政府新聞處",
+              "url": "https://www.info.gov.hk/gia/general/202611/02/P2026110200173.htm"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
