@@ -5,7 +5,16 @@
   var SECTIONS = ["local", "international", "finance-global", "finance-hk", "tech"];
   var MAX_ITEMS = 10;
   var WINDOW_MS = 24 * 60 * 60 * 1000;
+  // Only used when a column is still short after the 24h merge.
+  var BACKFILL_MS = 48 * 60 * 60 * 1000;
   var HOUR_MS = 60 * 60 * 1000;
+  // Coverage may lift an item by just under an hour, so it only passes
+  // another story when the two time_hkt values are close.
+  var CLOSE_MS = 60 * 60 * 1000;
+  var COVERAGE_STEP_MS = 15 * 60 * 1000;
+  var BACKFILL_CHUNK = 12;
+  // 24h is ~25 slots; 48h backfill is ~49. Leave slack for partial hours.
+  var HOUR_SLOT_LIMIT = 96;
   var requestSerial = 0;
   // Wall-clock gap between silent refreshes of today. Stub this to verify.
   var AUTO_REFRESH_MS = 30 * 60 * 1000;
@@ -96,7 +105,7 @@
     var cursor = hktHourStart(start);
     var last = hktHourStart(end);
     var guard = 0;
-    while (cursor.getTime() <= last.getTime() && guard < 30) {
+    while (cursor.getTime() <= last.getTime() && guard < HOUR_SLOT_LIMIT) {
       var hourStart = cursor.getTime();
       var hourEnd = hourStart + HOUR_MS - 1;
       if (hourStart <= end.getTime() && hourEnd >= start.getTime()) {
@@ -239,7 +248,58 @@
     });
   }
 
-  function mergeDigests(digests, start, end) {
+  function mediaPresent(value) {
+    if (value === true) return true;
+    if (typeof value === "string") return value.trim().length > 0;
+    if (Array.isArray(value)) return value.length > 0;
+    if (value && typeof value === "object") return Object.keys(value).length > 0;
+    return false;
+  }
+
+  function hasMultimedia(item) {
+    if (!item || typeof item !== "object") return false;
+    var keys = ["multimedia", "media", "videos", "images", "video", "image", "audio"];
+    for (var i = 0; i < keys.length; i++) {
+      if (mediaPresent(item[keys[i]])) return true;
+    }
+    var sources = Array.isArray(item.sources) ? item.sources : [];
+    for (var j = 0; j < sources.length; j++) {
+      var source = sources[j];
+      if (!source || typeof source !== "object") continue;
+      var kind = typeof source.medium === "string" ? source.medium : source.type;
+      if (typeof kind !== "string") continue;
+      var label = kind.trim().toLowerCase();
+      if (
+        label === "video" ||
+        label === "audio" ||
+        label === "image" ||
+        label === "photo" ||
+        label === "multimedia"
+      ) {
+        return true;
+      }
+    }
+    return false;
+  }
+
+  function coverageScore(item) {
+    return validSources(item && item.sources).length + (hasMultimedia(item) ? 1 : 0);
+  }
+
+  function coverageBoostMs(item) {
+    var boost = coverageScore(item) * COVERAGE_STEP_MS;
+    var cap = CLOSE_MS - 1;
+    return boost > cap ? cap : boost;
+  }
+
+  function compareNewestCoverage(a, b) {
+    var scoreA = itemTime(a).getTime() + coverageBoostMs(a);
+    var scoreB = itemTime(b).getTime() + coverageBoostMs(b);
+    if (scoreB !== scoreA) return scoreB - scoreA;
+    return itemTime(b).getTime() - itemTime(a).getTime();
+  }
+
+  function mergeDigests(digests, start, end, options) {
     var grouped = {};
     SECTIONS.forEach(function (id) {
       grouped[id] = [];
@@ -274,9 +334,39 @@
       sections: SECTIONS.map(function (id) {
         var kept = dedupeNewest(grouped[id]);
         kept.sort(function (a, b) {
+          if (options && options.coverage) return compareNewestCoverage(a, b);
           return itemTime(b).getTime() - itemTime(a).getTime();
         });
         return { id: id, items: kept.slice(0, MAX_ITEMS) };
+      }),
+    };
+  }
+
+  function needsBackfill(merged) {
+    var sections = merged && Array.isArray(merged.sections) ? merged.sections : [];
+    for (var i = 0; i < sections.length; i++) {
+      var items = sections[i] && Array.isArray(sections[i].items) ? sections[i].items : [];
+      if (items.length < MAX_ITEMS) return true;
+    }
+    return sections.length === 0;
+  }
+
+  // Columns that already have 10 items keep the 24h newest-first list.
+  // Short columns take the widened list, still capped at 10.
+  function keepFullColumns(primary, widened) {
+    var wide = {};
+    var widenedSections = widened && Array.isArray(widened.sections) ? widened.sections : [];
+    widenedSections.forEach(function (section) {
+      if (section && typeof section.id === "string") wide[section.id] = section;
+    });
+    var primarySections = primary && Array.isArray(primary.sections) ? primary.sections : [];
+    return {
+      updatedAt: (widened && widened.updatedAt) || (primary && primary.updatedAt) || "",
+      sections: primarySections.map(function (section) {
+        var items = section && Array.isArray(section.items) ? section.items : [];
+        if (items.length >= MAX_ITEMS) return section;
+        var next = section && wide[section.id];
+        return next || section;
       }),
     };
   }
@@ -482,7 +572,50 @@
   }
 
   function emptyWindowMessage(date, today) {
-    return date === today ? "過去 24 小時尚未有摘要。" : "這段時間尚未有摘要。";
+    return date === today ? "近期尚未有摘要。" : "這段時間尚未有摘要。";
+  }
+
+  async function readHourSlots(slots) {
+    var results = await Promise.all((slots || []).map(fetchHour));
+    var digests = [];
+    var hardError = false;
+    results.forEach(function (result) {
+      if (result && result.data) digests.push(result.data);
+      else if (result && result.error) hardError = true;
+    });
+    return { digests: digests, hardError: hardError };
+  }
+
+  function slotKey(slot) {
+    return slot.date + "/" + slot.hour;
+  }
+
+  // Newest older hours first. Stop once every column has 10 items, or the
+  // extra 48h is used up. 404s are skipped by fetchHour.
+  async function backfillOlder(digests, primary, start, end, floor, primarySlots, serial) {
+    var seen = {};
+    (primarySlots || []).forEach(function (slot) {
+      seen[slotKey(slot)] = true;
+    });
+    var olderEnd = new Date(start.getTime() - 1);
+    var extra = hourSlots(floor, olderEnd).filter(function (slot) {
+      return !seen[slotKey(slot)];
+    });
+    var merged = keepFullColumns(primary, mergeDigests(digests, floor, end, { coverage: true }));
+    var hardError = false;
+    var index = extra.length;
+    while (index > 0 && needsBackfill(merged)) {
+      var take = Math.min(BACKFILL_CHUNK, index);
+      index -= take;
+      var more = await readHourSlots(extra.slice(index, index + take));
+      if (serial !== requestSerial) return null;
+      if (more.hardError) hardError = true;
+      more.digests.forEach(function (data) {
+        digests.push(data);
+      });
+      merged = keepFullColumns(primary, mergeDigests(digests, floor, end, { coverage: true }));
+    }
+    return { merged: merged, hardError: hardError };
   }
 
   async function fetchHour(slot) {
@@ -577,18 +710,25 @@
     }
 
     var slots = hourSlots(start, end);
-    var results = await Promise.all(slots.map(fetchHour));
+    var loaded = await readHourSlots(slots);
     if (serial !== requestSerial) return;
 
-    var digests = [];
-    var hardError = false;
-    results.forEach(function (result) {
-      if (result && result.data) digests.push(result.data);
-      else if (result && result.error) hardError = true;
-    });
+    var primary = mergeDigests(loaded.digests, start, end);
+    var merged = primary;
+    var sawError = loaded.hardError;
+    if (needsBackfill(primary)) {
+      var floor = new Date(end.getTime() - WINDOW_MS - BACKFILL_MS);
+      var filled = await backfillOlder(loaded.digests, primary, start, end, floor, slots, serial);
+      if (serial !== requestSerial || !filled) return;
+      merged = filled.merged;
+      if (filled.hardError) sawError = true;
+    }
 
-    if (!digests.length) {
-      if (hardError) {
+    var anyItems = merged.sections.some(function (section) {
+      return section.items.length > 0;
+    });
+    if (!anyItems && !loaded.digests.length) {
+      if (sawError) {
         if (silent) return;
         fillAll("暫時未能載入");
         setStatus("暫時讀取不到摘要，請稍後再試。");
@@ -600,12 +740,8 @@
       return;
     }
 
-    var merged = mergeDigests(digests, start, end);
     renderDigest(merged);
-    var any = merged.sections.some(function (section) {
-      return section.items.length > 0;
-    });
-    if (!any) setStatus(emptyWindowMessage(date, today));
+    if (!anyItems) setStatus(emptyWindowMessage(date, today));
     else if (silent) setStatus("");
   }
 
@@ -712,6 +848,9 @@
       windowEndFor: windowEndFor,
       hourSlots: hourSlots,
       mergeDigests: mergeDigests,
+      coverageScore: coverageScore,
+      needsBackfill: needsBackfill,
+      keepFullColumns: keepFullColumns,
     };
   }
 })();
