@@ -1,0 +1,170 @@
+{
+  "date": "2026-11-04",
+  "hour": "04",
+  "updatedAt": "2026-11-04T04:06:44+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": []
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "特朗普稱美國將於年底結束對以色列每年約40億美元援助",
+          "summary": "特朗普接受訪問時表示，美國將於年底停止每年約40億美元對以色列援助（含軍援、現金或以物易物），指以色列繁榮且不需該援助，仍可向美採購武器；現行約38億美元協議原至2028年，內塔尼亞胡曾稱希望逐步減少對美依賴。",
+          "time_hkt": "2026-11-04T00:53:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876447-20261104.htm"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/trump-israel-military-aid-hardware-5cad93330300b2d45a9665d5eccb2ab2"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/cmx2dlx86n9yo"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "歐洲至少七班航班遇炸彈威脅　全部安全著陸未發現爆炸品",
+          "summary": "歐洲一日內至少七班客機接獲炸彈威脅，涉及瑞安航空、波蘭航空、北歐航空及威茲航空等，部分由空軍護航或改降；檢查後均無爆炸品，英國政府指屬惡意虛報，專家認為連串事件不尋常、或屬精心策劃。",
+          "time_hkt": "2026-11-04T00:17:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876444-20261104.htm"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/c6x2wd4v04eeo"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/europe-flights-bomb-threats-hoaxes-54591e18981c93e6c5aabe140404dab4"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "特朗普證實美軍對伊朗發動小規模攻擊　稱不屬於戰事",
+          "summary": "特朗普證實美軍對伊朗南部格什姆島發動小規模打擊，指伊方耗時約兩個月建造的防空設施一完工即被摧毀，並強調美方完全控制霍爾木茲海峽，亦不排除中期選舉後再對伊朗採取軍事行動。",
+          "time_hkt": "2026-11-04T01:12:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876448-20261104.htm"
+            },
+            {
+              "name": "美國之音",
+              "url": "https://www.voachinese.com/a/president-trump-says-us-hormuz-strikes-were-minor-attack-as-qatar-reports-us-iran-reviewing-proposals-to-end-conflict-20261103/8218313.html"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "西乙球員米格爾被門將撞至昏迷後不治　警方調查或涉誤殺",
+          "summary": "西乙特內里費前鋒米格爾在對安道爾一戰補時被客隊門將奧沃諾膝撞胸口後昏迷，延至星期二因神經系統惡化去世；加那利群島司法部門按非自然死亡例行調查，西甲皇馬、英超阿仙奴默哀，西班牙足總推遲國王盃賽事。",
+          "time_hkt": "2026-11-04T01:28:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876450-20261104.htm"
+            },
+            {
+              "name": "衛報",
+              "url": "https://www.theguardian.com/football/2026/nov/03/tenerife-footballer-jesus-de-miguel-hospital-collision"
+            }
+          ],
+          "rank": 4
+        },
+        {
+          "headline": "特朗普料共和黨中期選舉結果較外界想像好　多州暴雨影響投票",
+          "summary": "美國中期選舉進入點票階段，特朗普暗示若失去國會控制權將否決一切，但認為共和黨結果會比外界預期更好；佛羅里達州等地暴雨水浸令近20個票站臨時搬遷，猶他州容許受洪水影響選民以電子方式投票，多州亦傳投票設備故障。",
+          "time_hkt": "2026-11-04T03:38:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876456-20261104.htm"
+            },
+            {
+              "name": "NBC News",
+              "url": "https://www.nbcnews.com/weather/floods/floods-severe-weather-beset-parts-us-election-day-rcna607186"
+            }
+          ],
+          "rank": 5
+        },
+        {
+          "headline": "伊朗要求美國明確回應七項條件否則不開放霍爾木茲海峽",
+          "summary": "伊朗最高國家安全委員會秘書雷扎伊指美方回應未令人信服，須完整明確回應並落實伊朗七項條件才會重開霍爾木茲海峽；卡塔爾指美伊正研究調解方案，雙方分歧仍待彌合，外交努力仍在繼續。",
+          "time_hkt": "2026-11-04T02:18:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876454-20261104.htm"
+            }
+          ],
+          "rank": 6
+        },
+        {
+          "headline": "王毅主持APEC雙部長會：願推動亞太共同體建設走深走實",
+          "summary": "APEC第37屆外交和貿易雙部長會議以視像舉行，王毅與商務部長王文濤共同主持；王毅指願與各成員堅持相互尊重、維護以世貿為核心的多邊貿易體制、推進數智轉型及綠色低碳，並做好「中國年」收官、為領導人會議爭取豐碩成果。",
+          "time_hkt": "2026-11-04T01:37:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876452-20261104.htm"
+            },
+            {
+              "name": "外交部",
+              "url": "https://www.fmprc.gov.cn/wjdt_674879/gjldrhd_674881/202611/t20261104_12052725.shtml"
+            },
+            {
+              "name": "新華網",
+              "url": "https://www.news.cn/20261104/37769b1204004f6f989735f7ac3a68b2/c.html"
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "美國9月職位空缺增至752.3萬個　高於預期",
+          "summary": "美國勞工部JOLTS報告顯示，截至9月底職位空缺增加33.3萬個至752.3萬個，高於市場預期約710萬至715萬；8月數據上修至719萬，職缺率升至4.5%，招聘回升而裁員下降。",
+          "time_hkt": "2026-11-04T00:23:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876445-20261104.htm"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/03/job-openings-posted-big-september-gain-in-positive-sign-for-labor-market-ahead-of-payrolls-report.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": []
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": []
+    }
+  ]
+}
