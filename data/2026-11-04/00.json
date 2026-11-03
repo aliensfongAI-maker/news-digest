@@ -1,0 +1,179 @@
+{
+  "date": "2026-11-04",
+  "hour": "00",
+  "updatedAt": "2026-11-04T00:04:41+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "運輸署：咪錶故障因凌晨軟件更新　營運商安排全數退款　警方審視期間告票",
+          "summary": "運輸署公布初步調查指全港約1.1萬個咪錶故障源於凌晨系統軟件更新致後台無法連線，無證據顯示遭攻擊；營運商將就上午8時至下午12時15分交易原路全數退款並爭取本周完成，警方亦正按個案審視故障期間定額罰款通知書。",
+          "time_hkt": "2026-11-03T21:29:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876430-20261103.htm"
+            },
+            {
+              "name": "星島頭條",
+              "url": "https://www.stheadline.com/society/3633175/%E5%92%AA%E9%8C%B6%E6%95%85%E9%9A%9C-%E9%81%8B%E8%BC%B8%E7%BD%B2%E6%97%A9%E4%B8%8A8%E6%99%82%E8%87%B312%E6%99%8215%E5%88%86%E4%BA%A4%E6%98%93%E5%B0%87%E5%85%A8%E6%95%B8%E9%80%80%E6%AC%BE-%E7%88%AD%E5%8F%96%E6%9C%AC%E5%91%A8%E5%85%A7%E5%AE%8C%E6%88%90-%E5%88%9D%E6%AD%A5%E8%AA%BF%E6%9F%A5%E6%8C%87%E7%B3%BB%E7%B5%B1%E6%9B%B4%E6%96%B0%E5%BE%8C%E5%87%BA%E4%BA%8B"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60406820/%E5%92%AA%E9%8C%B6%E6%95%85%E9%9A%9C-%E4%BB%8A%E6%97%A98%E6%99%82%E8%87%B312%E6%99%8215%E5%88%86%E6%89%80%E6%9C%89%E4%BA%A4%E6%98%93%E5%85%A8%E6%95%B8%E9%80%80%E6%AC%BE-%E6%8E%A5%E7%B4%841100%E5%AE%97%E6%9F%A5%E8%A9%A2"
+            },
+            {
+              "name": "政府新聞處",
+              "url": "https://www.info.gov.hk/gia/general/202611/03/P2026110300724.htm"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "旅監局今年就威迫購物個案撤銷3間旅行社及4名導遊牌照",
+          "summary": "旅遊業監管局今年因涉及威迫購物個案撤銷3間旅行代理商及4名導遊牌照，相關註冊商店暫停註冊30天；文體旅局長羅淑佩指會加強情報協作打擊非法導遊，旅監局亦擬明年首季起接受以「非遺」為核心的專項導遊牌照申請。",
+          "time_hkt": "2026-11-03T20:37:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876428-20261103.htm"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "美國中期選舉投票展開　美媒料計票或需數天至數星期",
+          "summary": "美國中期選舉投票日展開，東部多州投票站率先開放，全國已有逾5000萬人提前投票；美媒預計計票或持續數天甚至數星期，眾議院控制權或較早明朗、參議院結果則可能更遲，改選眾議院全部435席及參議院35席。",
+          "time_hkt": "2026-11-03T20:14:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876426-20261103.htm"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/when-ap-calls-congress-control-9dae62cdd7d776a20a26eab6fbd9b12c"
+            },
+            {
+              "name": "Axios",
+              "url": "https://www.axios.com/2026/11/03/2026-midterm-election-results-red-mirage-senate-races"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "克宮確認俄美烏三方會談下周二至三在阿布扎比舉行",
+          "summary": "克里姆林宮發言人佩斯科夫確認俄美烏圍繞烏克蘭問題的三方會談將於11月10至11日在阿聯酋阿布扎比舉行，俄方仍由總統助理梅金斯基率團；美特使威特科夫較早指會談將討論結束戰爭、戰後安全及降溫議題。",
+          "time_hkt": "2026-11-03T21:15:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876416-20261103.htm"
+            },
+            {
+              "name": "新華網",
+              "url": "https://www.news.cn/20261103/1baac5e2a2264e5bb9c8efa8efe88720/c.html"
+            },
+            {
+              "name": "Al-Monitor",
+              "url": "https://www.al-monitor.com/originals/2026/11/kremlin-confirms-trilateral-ukraine-peace-talks-abu-dhabi-next-week"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "王毅晤菲外長：菲方應加強約束有關人員　涉海問題謹言慎行",
+          "summary": "外交部長王毅應約與菲律賓外長拉扎羅通話，指菲少數政客攻擊抹黑中國不可容忍，要求菲方加強約束並在涉海問題謹言慎行；雙方就管控分歧、排除干擾及反對惡意挑釁達成基本共識，拉扎羅稱願透過對話協商處理涉海問題。",
+          "time_hkt": "2026-11-03T22:42:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876438-20261103.htm"
+            },
+            {
+              "name": "新華網",
+              "url": "https://www.news.cn/20261103/26235fec11854b2f94d8675f958fc955/c.html"
+            },
+            {
+              "name": "外交部",
+              "url": "https://www.mfa.gov.cn/web/wjdt_674879/wjbxw_674885/202611/t20261103_12052654.shtml"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "王毅晤泰副總理　稱雙方要加大聯合打擊網賭電詐力度",
+          "summary": "王毅在北京會見泰國副總理兼外長西哈薩，讚賞泰新政府對華友好並指雙方要加大聯合打擊網賭電詐、徹底剷除犯罪土壤；西哈薩表示泰方願做中國戰略伙伴，共同推進全面戰略合作伙伴關係並打擊相關犯罪。",
+          "time_hkt": "2026-11-03T21:57:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876429-20261103.htm"
+            },
+            {
+              "name": "外交部",
+              "url": "https://www.mfa.gov.cn/web/wjdt_674879/wjbxw_674885/202611/t20261103_12052456.shtml"
+            }
+          ],
+          "rank": 4
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "美國9月工廠訂單按月增加1.8%勝預期",
+          "summary": "美國商務部數據顯示9月工廠訂單按月升1.8%，高於市場預期約1.2%至1.3%；扣除運輸後升1.3%，經修訂9月耐用品訂單升1.9%，扣除飛機的非國防資本財訂單升0.6%。",
+          "time_hkt": "2026-11-03T23:21:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876442-20261103.htm"
+            },
+            {
+              "name": "MarketScreener",
+              "url": "https://uk.marketscreener.com/news/u-s-factory-orders-jumped-in-september-ce785fdedb8dfe2d"
+            },
+            {
+              "name": "FXStreet",
+              "url": "https://www.fxstreet.com/news/united-states-factory-orders-mom-came-in-at-18-above-forecasts-12-in-september-202611031500"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "美股初段個別發展　晶片股反彈　市場關注中期選舉",
+          "summary": "美股開市初段個別發展，道指跌約0.5%，納指及標普500偏高，費城半導體指數升逾3%，Nvidia、英特爾升逾3%、美光升約4%，油價回落，市場關注美國中期選舉。",
+          "time_hkt": "2026-11-03T22:44:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876439-20261103.htm"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": []
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": []
+    }
+  ]
+}
