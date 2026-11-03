@@ -1,0 +1,181 @@
+{
+  "date": "2026-11-03",
+  "hour": "12",
+  "updatedAt": "2026-11-03T11:20:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "咪錶泊車系統故障　運輸署責成營運商緊急搶修並交報告",
+          "summary": "運輸署表示今早約8時20分接獲營運商報告咪錶泊車系統故障、未能提供服務，已責成營運商盡快搶修、徹查原因並提交報告，駕駛人士可致電2332 3700查詢。",
+          "time_hkt": "2026-11-03T10:31:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/en/component/k2/1876346-20261103.htm"
+            },
+            {
+              "name": "政府新聞處",
+              "url": "https://www.info.gov.hk/gia/general/202611/03/P2026110300212.htm"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60406441/%E5%92%AA%E9%8C%B6%E6%B3%8A%E8%BB%8A%E7%B3%BB%E7%B5%B1%E6%95%85%E9%9A%9C-%E9%81%8B%E8%BC%B8%E7%BD%B2-%E6%AD%A3%E6%90%B6%E4%BF%AE-%E8%B2%AC%E6%88%90%E7%87%9F%E9%81%8B%E5%95%86%E5%BE%B9%E6%9F%A5%E5%8E%9F%E5%9B%A0%E5%8F%8A%E4%BA%A4%E5%A0%B1%E5%91%8A"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "業界稱萬聖節周末市區部分酒店近爆滿　訪港旅客較去年增34%",
+          "summary": "政府指上周五至周日訪港旅客約60萬人次、較去年同期增34%；餐旅業協會指旅發局萬聖月與演唱會、美酒佳餚巡禮產生協同效應，市區部分酒店入住率近百分百、房價較平日周末翻倍。",
+          "time_hkt": "2026-11-03T09:22:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876332-20261103.htm"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "美媒：美軍有限度打擊伊朗格什姆島　稱屬防禦性行動",
+          "summary": "美媒引述官員指美軍於中期選舉前夕對霍爾木茲海峽入口的伊朗格什姆島發動有限度打擊，稱旨在回應伊朗襲擊美機及阻止襲擊商船，並刻意保持低調以免釋出全面重啟戰事訊號；伊朗媒體亦報道島上凌晨多處爆炸。",
+          "time_hkt": "2026-11-03T08:54:00+08:00",
+          "sources": [
+            {
+              "name": "東網",
+              "url": "https://hk.on.cc/hk/bkn/cnt/intnews/20261103/bkn-20261103085456149-1103_00992_001.html"
+            },
+            {
+              "name": "中央社",
+              "url": "https://www.cna.com.tw/news/aopl/202611030043.aspx"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/03/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "美特使：下周阿布扎比斡旋美俄烏工作層級和談",
+          "summary": "美國總統特使威特科夫宣布，美方將於11月10至11日在阿聯酋首都阿布扎比斡旋烏克蘭與俄羅斯工作層級談判，聚焦戰後安全安排、降級、人道行動及和平後續；美方代表亦將本周在布魯塞爾與歐盟及北約商討對烏安全保障。",
+          "time_hkt": "2026-11-03T08:05:00+08:00",
+          "sources": [
+            {
+              "name": "新華網",
+              "url": "https://www.news.cn/20261103/36f3ebc0974c46d794f2c779a6bb1a14/c.html"
+            },
+            {
+              "name": "Axios",
+              "url": "https://www.axios.com/2026/11/03/us-russia-ukraine-peace-talks-uae-trump-witkoff-kushner"
+            },
+            {
+              "name": "中央社",
+              "url": "https://www.cna.com.tw/news/aopl/202611030018.aspx"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "人行上調金融機構外匯存款準備金率2個百分點至6%",
+          "summary": "人民銀行公布為加強外匯流動性管理，自11月15日起將金融機構外匯存款準備金率由4%上調2個百分點至6%；市場解讀此舉有助收緊美元流動性、減緩人民幣升值壓力。",
+          "time_hkt": "2026-11-03T08:51:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876327-20261103.htm"
+            },
+            {
+              "name": "新華網",
+              "url": "https://www.news.cn/20261103/151977e732564511826116c971eb5171/c.html"
+            },
+            {
+              "name": "路透／Investing",
+              "url": "https://www.investing.com/news/economy-news/china-to-raise-forex-deposit-reserve-ratio-to-6-starting-november-15-4993312"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "穩市措施未挽信心　A股早盤走弱滬指跌逾1%",
+          "summary": "在監管層日前推出互換便利及回購增持再貸款等穩市安排後，滬指早盤跌逾1%、科創50跌近2.5%，算力硬件、半導體及油气等板塊跌幅居前，市場指措施低於預期、資金趁反彈離場。",
+          "time_hkt": "2026-11-03T09:36:00+08:00",
+          "sources": [
+            {
+              "name": "財聯社",
+              "url": "https://m.cls.cn/detail/2523296"
+            },
+            {
+              "name": "中央社",
+              "url": "https://www.cna.com.tw/news/acn/202611030044.aspx"
+            },
+            {
+              "name": "Free Malaysia Today",
+              "url": "https://www.freemalaysiatoday.com/category/business/2026/11/03/chinese-stocks-drop-as-beijing-s-support-measures-disappoint"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "恒指高開0.33%報23469點　科網股活躍石油股受壓",
+          "summary": "受內地穩市措施預期帶動，恒生指數高開約76點或0.33%報23469點，恒生科技指數升約0.36%；京東、網易、小米等科網股造好，惟聯想低開逾3%，中石油等油股隨油價回落走弱。",
+          "time_hkt": "2026-11-03T09:20:00+08:00",
+          "sources": [
+            {
+              "name": "新浪香港",
+              "url": "https://portal.sina.com.hk/finance/sina/2026/11/03/1975275/%E5%BF%AB%E8%A8%8A%EF%BC%9A%E6%81%92%E6%8C%87%E9%AB%98%E9%96%8B0-33-%E6%81%92%E7%A7%91%E6%8C%87%E6%BC%B20-36-%E7%A7%91%E7%B6%B2%E8%82%A1%E6%B4%BB%E8%BA%8D-%E9%BB%83%E9%87%91%E8%82%A1%E5%9B%9E%E6%9A%96/"
+            },
+            {
+              "name": "英文虎報",
+              "url": "https://www.thestandard.com.hk/finance/article/347301/Hong-Kong-shares-open-higher"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "蘋果Intelligence擬12月登陸中國　開發者測試周三起、接入阿里Qwen",
+          "summary": "多家媒體報道蘋果確認將在中國內地推出Apple Intelligence，開發者測試約11月4日開始，並隨iOS 27.3於12月正式登場，初期約18項功能並接入阿里巴巴通義千問，惟最新一代Siri AI能力暫不納入首批。",
+          "time_hkt": "2026-11-03T08:51:00+08:00",
+          "sources": [
+            {
+              "name": "中國日報",
+              "url": "https://www.chinadaily.com.cn/a/202611/03/WS6ae93025e4b06d4aa0566990.html"
+            },
+            {
+              "name": "TechNode",
+              "url": "https://technode.com/2026/11/02/apple-confirms-qwen-integration-for-china-ai-rollout-with-beta-testing-starting-november-4/"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
