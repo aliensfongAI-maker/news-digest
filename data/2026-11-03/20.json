@@ -1,0 +1,209 @@
+{
+  "date": "2026-11-03",
+  "hour": "20",
+  "updatedAt": "2026-11-03T20:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "李家超展開北京訪問　與北京市官員會面　指副中心經驗對北都具啟發",
+          "summary": "行政長官李家超下午到訪北京城市副中心參觀圖書館及規劃展覽廳，其後與北京市委書記尹力、市長殷勇會面，指副中心規劃經驗對北都具啟發性，並歡迎更多北京企業利用香港「超級聯繫人」角色出海，明日出席京港洽談會開幕式後轉往上海。",
+          "time_hkt": "2026-11-03T19:45:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876420-20261103.htm"
+            },
+            {
+              "name": "政府新聞處",
+              "url": "https://www.info.gov.hk/gia/general/202611/03/P2026110300430.htm"
+            },
+            {
+              "name": "點新聞",
+              "url": "https://www.dotdotnews.com/a/202611/03/AP6ae9c47ce4b02fd1c5f65f7b.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "民青局：業主大會授權票上限未達廣泛共識　先加強抽查並研電子票",
+          "summary": "民青局向立法會提交《建築物管理條例》諮詢結果，550份意見中逾半反對每人持授權票設上限且門檻與超額處理未達共識，當局暫不設限、先加強抽查核實並研究電子授權票；大型維修則擬引入親自投票門檻分級制。",
+          "time_hkt": "2026-11-03T17:08:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876402-20261103.htm"
+            },
+            {
+              "name": "南華早報",
+              "url": "https://www.scmp.com/news/hong-kong/society/article/3373145/hong-kong-homeowners-prompt-government-rethink-proxy-vote-proposals"
+            },
+            {
+              "name": "東網",
+              "url": "https://hk.on.cc/hk/bkn/cnt/news/20261103/bkn-20261103175733193-1103_00822_001.html"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "QS亞洲大學排名　港大續排首位　城大躍升第四超越中大",
+          "summary": "QS最新亞洲大學排名顯示港大連續第二年位列亞洲第一，本港五間大學入十強；城大躍升至第四超越中大（第五），理大與科大同列第九。",
+          "time_hkt": "2026-11-03T20:00:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876425-20261103.htm"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "伊朗議長：處於最高級別防禦戰備　稱球在美方一邊須阻止戰爭",
+          "summary": "伊朗議會議長卡利巴夫表示伊朗在戰場及軍事領域已處於最高級別防禦戰備、「球在美方一邊」，警告對誤判將作難以預料回應；報道指卡塔爾調解人再度赴德黑蘭磋商潛在美伊協議。",
+          "time_hkt": "2026-11-03T17:21:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876404-20261103.htm"
+            },
+            {
+              "name": "新華網",
+              "url": "https://www.news.cn/world/20261103/5ced6e77fa6247c9ac3ae2c0d04a5bcd/c.html"
+            },
+            {
+              "name": "中新網",
+              "url": "https://www.chinanews.com.cn/gj/2026/11-03/10725422.shtml"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "張升民晤俄防長　稱願同俄方持續加強戰略溝通、維護和平",
+          "summary": "中央軍委副主席張升民在北京釣魚台會見俄羅斯國防部長別洛烏索夫，雙方表示願持續加強戰略溝通與軍事領域互信，拓展軍事教育及科技等務實合作。",
+          "time_hkt": "2026-11-03T19:15:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876414-20261103.htm"
+            },
+            {
+              "name": "新華網",
+              "url": "https://www.news.cn/20261103/d2ee25035fa94be8b0bd940b31406a1a/c.html"
+            },
+            {
+              "name": "國防部",
+              "url": "http://www.mod.gov.cn/gfbw/qwfb/16497821.html"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "國務院金融工作報告：續行適度寬鬆貨幣政策　常態化房地產白名單",
+          "summary": "國務院金融工作情況報告提請全國人大常委會審議，提出下一步五方面安排，包括繼續實施適度寬鬆貨幣政策、加強監管、提升服務實體適配性、深化開放，以及實施支持資本市場工具並常態化運行房地產「白名單」機制。",
+          "time_hkt": "2026-11-03T18:11:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876408-20261103.htm"
+            },
+            {
+              "name": "新華網",
+              "url": "https://www.news.cn/20261103/e231586f76494d4a998f0829cb1c9f33/c.html"
+            },
+            {
+              "name": "澎湃新聞",
+              "url": "https://www.thepaper.cn/newsDetail_forward_34396333"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "本港第三季經濟預估按年增長5.2%　首三季增長五年來最快",
+          "summary": "政府統計處預先估計第三季實質本地生產總值按年升5.2%（第二季4.2%），經季節調整按季升1.9%；首三季合計升5.1%，為五年來同期最快，出口與內部需求帶動，政府指前景正面惟須留意中東局勢及主要央行緊縮。",
+          "time_hkt": "2026-11-03T16:30:00+08:00",
+          "sources": [
+            {
+              "name": "政府新聞處",
+              "url": "https://www.info.gov.hk/gia/general/202611/03/P2026110300410.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876394-20261103.htm"
+            },
+            {
+              "name": "南華早報",
+              "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3373121/hong-kong-records-15th-straight-quarter-growth-gdp-rises-52"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "本港9月零售銷售升幅加快至6.4%　連升17個月",
+          "summary": "統計處公布9月零售業總銷貨價值臨時估計334億元、按年升6.4%，連升17個月；網上銷售升12%，政府指增長面廣泛，中秋較早帶動訪港旅客及節日貨品銷售。",
+          "time_hkt": "2026-11-03T16:30:00+08:00",
+          "sources": [
+            {
+              "name": "政府新聞處",
+              "url": "https://www.info.gov.hk/gia/general/202611/03/P2026110300398.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876398-20261103.htm"
+            },
+            {
+              "name": "news.gov.hk",
+              "url": "https://www.news.gov.hk/eng/2026/11/20261103/20261103_165222_094.html?type=ticker"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "陳茂波：純粹擁有AI不再是競爭優勢　關鍵在於圍繞AI革新",
+          "summary": "財政司司長陳茂波在國際金融領袖投資峰會表示，AI已成基本商業技能，工具普及後單純擁有AI不再是競爭優勢，關鍵是企業如何圍繞AI重新設計產品、組織與商業模式，並指北都可連結大學、研究機構與科技企業。",
+          "time_hkt": "2026-11-03T16:23:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876391-20261103.htm"
+            },
+            {
+              "name": "點新聞",
+              "url": "https://www.dotdotnews.com/a/202611/03/AP6ae98cb5e4b02fd1c5f659f1.html"
+            },
+            {
+              "name": "METROHK",
+              "url": "https://metrohk.com.hk/%E6%B8%AF%E8%81%9E/%E9%99%B3%E8%8C%82%E6%B3%A2-AI%E6%99%AE%E5%8F%8A%E4%B8%8B%E4%BC%81%E6%A5%AD%E9%9D%A9%E6%96%B0%E6%89%8D%E6%98%AF%E9%97%9C%E9%8D%B5-351b25"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
