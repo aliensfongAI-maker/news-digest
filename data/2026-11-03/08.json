@@ -1,0 +1,152 @@
+{
+  "date": "2026-11-03",
+  "hour": "08",
+  "updatedAt": "2026-11-03T08:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "尖沙咀女子疑遭下藥案　警方中區拘捕61歲男子",
+          "summary": "警方指前日本女星、DJ濱崎真緒早前在尖沙咀飲用疑被加入不明藥物飲品後不適送院，油尖警區刑事偵緝支援隊昨日在中區拘捕一名61歲本地男子，涉嫌意圖損害等而施用毒藥，現正扣留調查。",
+          "time_hkt": "2026-11-03T06:30:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876319-20261103.htm"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60406405/%E6%BF%B1%E5%B4%8E%E7%9C%9F%E7%B7%92%E7%96%91%E9%81%AD%E8%90%BD%E8%97%A5-61%E6%AD%B2%E6%9C%AC%E5%9C%B0%E7%94%B7%E5%AD%90%E4%B8%AD%E5%8D%80%E8%90%BD%E7%B6%B2-%E6%B6%89%E6%96%BD%E7%94%A8%E6%AF%92%E8%97%A5%E8%A2%AB%E6%8B%98%E6%9F%A5"
+            },
+            {
+              "name": "英文虎報",
+              "url": "https://www.thestandard.com.hk/news/article/347288/Man-arrested-over-suspected-drugging-of-Mao-Hamasaki-in-Tsim-Sha-Tsui"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "俄軍轟炸扎波羅熱人道援助點　烏方稱至少26人死亡",
+          "summary": "烏克蘭指俄軍星期一以多枚航空炸彈襲擊扎波羅熱州科米舒瓦哈一所用作發放人道援助及避難的學校，澤連斯基初報至少18死，其後烏方及BBC等報道死亡人數升至至少26人，另有多人受傷或被困瓦礫。",
+          "time_hkt": "2026-11-03T04:19:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876308-20261103.htm"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/cjy56dndlyz0o"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/russia-ukraine-cyberattacks-emergency-apps-717372f7bbf4e8a805bc918f06f9730f"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "朝鮮導彈總局進行戰略巡航導彈散佈戰鬥部威力試驗",
+          "summary": "朝中社報道導彈總局昨日進行戰略巡航導彈散佈戰鬥部威力評估及垂直打擊飛行特性試驗，稱中型散佈戰鬥部可將約5至6公頃目標區夷為平地；韓聯社等亦報道此為繼近日戰術彈道導彈集束戰鬥部試驗後的跟進測試。",
+          "time_hkt": "2026-11-03T07:44:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876324-20261103.htm"
+            },
+            {
+              "name": "韓聯社",
+              "url": "https://en.yna.co.kr/view/AEN20261103001100315"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "油價急挫逾7%　紐約期油跌穿每桶100美元",
+          "summary": "市場憧憬美伊外交解決中東戰事，布蘭特期油收報每桶104.77美元跌約7.6%，紐約期油收報96.46美元跌約7.4%並跌穿100美元關口，為近期最大單日跌幅之一。",
+          "time_hkt": "2026-11-03T06:19:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876315-20261103.htm"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html"
+            },
+            {
+              "name": "路透／CNA",
+              "url": "https://www.channelnewsasia.com/business/oil-drops-7-iran-signals-openness-peace-talks-6511686"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "美股個別發展　道指高收213點　納指跌逾1%",
+          "summary": "投資者輪出科技股，道瓊斯指數收報51983點升0.4%，標普500跌0.5%、納斯達克跌約1.1%連跌三日；英特爾再挫近9%，邁威爾擬全股票收購Lumentum亦拖累晶片股。",
+          "time_hkt": "2026-11-03T05:53:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876311-20261103.htm"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-475bb37b4d95dd99e26c94e708c99f8f"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": []
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "蘋果上季業績勝預期並創新高　iPhone銷售按年升逾17%",
+          "summary": "蘋果公布截至9月財政季收入約1145億美元、每股盈利2.10美元均勝預期，iPhone銷售升逾17%至575.8億美元；惟公司預警假期季毛利率受記憶體成本等壓力，盤後股價受壓。",
+          "time_hkt": "2026-11-03T07:46:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876323-20261103.htm"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/02/apple-aapl-q4-2026-earnings-live-updates.html"
+            },
+            {
+              "name": "蘋果公司",
+              "url": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
