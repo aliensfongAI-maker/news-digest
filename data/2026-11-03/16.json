@@ -1,0 +1,149 @@
+{
+  "date": "2026-11-03",
+  "hour": "16",
+  "updatedAt": "2026-11-03T16:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "中央免去何永賢房屋局局長職務　李家超指其願為宏福苑火災承擔政治責任",
+          "summary": "中央人民政府按基本法及行政長官李家超建議，免去何永賢的房屋局局長職務；李家超表示她於10月28日請辭、願為宏福苑火災承擔政治責任，並肯定其推動簡約公屋、縮短公屋輪候及制定《簡樸房條例》等工作，祝願離任後事事順遂。",
+          "time_hkt": "2026-11-03T12:19:00+08:00",
+          "sources": [
+            {
+              "name": "政府新聞處",
+              "url": "https://www.info.gov.hk/gia/general/202611/03/P2026110300223.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876363-20261103.htm"
+            },
+            {
+              "name": "南華早報",
+              "url": "https://www.scmp.com/news/hong-kong/politics/article/3373076/beijing-removes-hong-kong-housing-chief-winnie-ho-after-tai-po-fire-resignation"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "伊朗稱於格什姆島以南俘獲兩架美軍MQM-170偵察無人機",
+          "summary": "伊朗媒體報道伊斯蘭革命衛隊航天部隊以電子戰系統在格什姆島以南迫降兩架美軍MQM-170偵察無人機，並稱該型無人機累計俘獲達四架；報道與清晨美軍有限度打擊格什姆島的說法同期傳出，美方尚未獨立證實俘獲指控。",
+          "time_hkt": "2026-11-03T12:31:00+08:00",
+          "sources": [
+            {
+              "name": "新華網",
+              "url": "https://www.news.cn/world/20261103/fdca239addb44668a9281d0b4a6dce7e/c.html"
+            },
+            {
+              "name": "Mehr News",
+              "url": "https://en.mehrnews.com/news/249118/Iran-captures-two-US-MQM-170-drones-over-Qeshm-Island"
+            },
+            {
+              "name": "Anadolu",
+              "url": "https://www.aa.com.tr/en/middle-east/iran-s-revolutionary-guard-says-it-downed-2-us-drones-in-strait-of-hormuz/4109241"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "A股三大指數集體收跌　滬指跌0.82%　半導體及算力硬件續調整",
+          "summary": "在前日穩市措施公布後，滬指收報3608.10點跌0.82%，深成指跌1.21%，創業板指跌2.73%，科創綜指跌逾4%；半導體、通信設備等板塊領跌，市場指措施低於預期、資金趁反彈離場。",
+          "time_hkt": "2026-11-03T15:00:00+08:00",
+          "sources": [
+            {
+              "name": "東方財富",
+              "url": "https://finance.eastmoney.com/news/1345,202611033920191875.html"
+            },
+            {
+              "name": "中國金融信息網",
+              "url": "https://m.cnfin.com/yw-lb/zixun/20261103/4490285_1.html"
+            },
+            {
+              "name": "亞洲經濟",
+              "url": "https://www.ajunews.com/view/20261103160217556"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "人行開展1000億元證券基金保險公司互換便利　中標費率10個基點",
+          "summary": "人民銀行公布按機構需求於11月3日開展證券、基金、保險公司互換便利操作，金額1000億元，31家證券及基金公司參與投標，中標費率為10個基點。",
+          "time_hkt": "2026-11-03T12:31:00+08:00",
+          "sources": [
+            {
+              "name": "財聯社",
+              "url": "https://www.cls.cn/detail/2523517"
+            },
+            {
+              "name": "第一財經",
+              "url": "https://www.yicai.com/news/103423134.html"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "恒指收市升約133點報23526點　內需科網造好、晶片股受壓",
+          "summary": "恒生指數全日收報約23526點，升約133點或0.6%，成交約2364億元；半日已收報23515點升121點，午後靠穩，京東、海底撈等內需科網造好，聯想及華虹等晶片相關股份偏軟。",
+          "time_hkt": "2026-11-03T16:08:00+08:00",
+          "sources": [
+            {
+              "name": "信報港股360",
+              "url": "https://stock360.hkej.com/"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876368-20261103.htm"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/sc/1204284-%E6%B8%AF%E8%82%A1%E4%B8%AD%E5%8D%88%E6%94%B6%E5%B8%82%E5%A0%B123515%E9%BB%9E%E5%8D%87121%E9%BB%9E"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "律政司推法律科技訂購資助計劃　中小所及新晉大律師最高獲兩萬元",
+          "summary": "律政司推出「訂購法律科技服務資助計劃」，合資格中小型律師事務所及執業不多於七年的大律師可實報實銷申請一年服務資助，最高兩萬元，申請截止2027年1月29日，名單涵蓋十四間本地、內地及海外供應商。",
+          "time_hkt": "2026-11-03T11:30:00+08:00",
+          "sources": [
+            {
+              "name": "政府新聞處",
+              "url": "https://www.info.gov.hk/gia/general/202611/03/P2026110300250.htm"
+            },
+            {
+              "name": "news.gov.hk",
+              "url": "https://www.news.gov.hk/eng/2026/11/20261103/20261103_113941_609.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
