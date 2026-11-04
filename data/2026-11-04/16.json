@@ -1,0 +1,237 @@
+{
+  "date": "2026-11-04",
+  "hour": "16",
+  "updatedAt": "2026-11-04T16:07:30+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "廉署起訴港交所前副總裁涉不誠實取用內部系統　母同被控涉股票獲利逾50萬",
+          "summary": "廉政公署落案起訴港交所前副總裁湯寶衡及其母親梁耀珍，指兩人於2018年2月至2023年4月涉嫌不誠實取用港交所內部資訊系統查閱上市公司機密資料，梁的投資帳戶其後交易相關股份獲利逾50萬元，案件於東區裁判法院提訊。",
+          "time_hkt": "2026-11-04T15:43:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876534-20261104.htm"
+            },
+            {
+              "name": "廉政公署",
+              "url": "https://www.icac.org.hk/tc/p/press/index_id_5049.html"
+            },
+            {
+              "name": "英文虎報",
+              "url": "https://www.thestandard.com.hk/finance/article/347485/Former-vice-president-of-HKEX-charged-by-ICAC-with-dishonest-access-to-internal-information-system"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "羅淑佩：關注演唱會門票炒賣　規管須審慎以免投資者卻步",
+          "summary": "文化體育及旅遊局局長羅淑佩書面回覆立法會質詢指，政府關注門票炒賣及假票並參考內地及其他地區經驗，惟規管方案須審慎評估市場反應、營銷與執行成本，以免令投資者卻步；啟德體育園一般要求最少五成門票公開發售。",
+          "time_hkt": "2026-11-04T14:53:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876530-20261104.htm"
+            },
+            {
+              "name": "香港政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202611/04/P2026110400255.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "機電署五年就升降機違規檢控22宗　甯漢豪：年底完成全面檢討",
+          "summary": "發展局局長甯漢豪表示，過去五年機電署就升降機承辦商或工程人員違規成功檢控22宗並採取10宗紀律行動，署方已因應近期事故展開涵蓋安裝與維修監工制度的全面檢討，預計今年底完成，並即時擴大實地覆測範圍。",
+          "time_hkt": "2026-11-04T13:09:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876520-20261104.htm"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "美媒預料民主黨奪回參議院　將重新掌控美國國會兩院",
+          "summary": "美國傳媒預測民主黨在中期選舉將取得參議院至少51席並奪回控制權，連同較早預測奪回眾議院，意味民主黨將重新掌控國會；關鍵翻盤包括堪薩斯、愛荷華、得州、俄亥俄、北卡及南卡等原屬共和黨的席位。",
+          "time_hkt": "2026-11-04T13:08:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876519-20261104.htm"
+            },
+            {
+              "name": "CBS News",
+              "url": "https://www.cbsnews.com/news/senate-control-democrats-republicans-2026-midterm-elections/"
+            },
+            {
+              "name": "衛報",
+              "url": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "特朗普承認伊朗戰事影響共和黨選情　揚言將行使否決權",
+          "summary": "面對共和黨料失去國會兩院控制權，特朗普接受訪問承認美伊戰事對共和黨選情有一定影響，並揚言若民主黨提交「荒唐」法案將行使總統否決權，預期數月後對方會主動尋求談判。",
+          "time_hkt": "2026-11-04T15:08:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876532-20261104.htm"
+            },
+            {
+              "name": "香港文匯報",
+              "url": "https://www.wenweipo.com/a/202611/04/AP6aeacd14e4b0fa89498bd1f6.html"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "伊朗議長回應美中期選舉：顯示美國人民對戰爭說不",
+          "summary": "伊朗議會議長兼對美談判首席代表卡利巴夫在社交媒體指，美國中期選舉結果顯示美國人民無論出於良知或生計都已明確反對戰爭，並警告若美方罔顧民意，伊朗將令美國面對「惡夢」。",
+          "time_hkt": "2026-11-04T15:45:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876535-20261104.htm"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "滬指高收逾2%創近七個月最大升幅　創業板指數升逾6%",
+          "summary": "滬深股市大幅反彈，上證綜合指數收報3686點升2.16%，創近七個月最大單日升幅；創業板指數升6.4%、科創50指數升近一成，貴金屬、半導體及創新藥股造好。",
+          "time_hkt": "2026-11-04T15:43:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876533-20261104.htm"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "日股低收逾1%　日經平均一度跌逾三千點觸及六萬點邊緣",
+          "summary": "日本股市早段急挫後收窄跌幅，日經平均指數一度低見60030點、創逾五個月低位並下跌逾三千點，收市報62188點跌893點或1.42%。",
+          "time_hkt": "2026-11-04T14:56:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876527-20261104.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "韓股高收0.6%　首爾綜合指數報5683點",
+          "summary": "韓國股市收市上升，首爾綜合指數報5683點，升35點或0.62%，較早段跟隨美中期選舉消息的波動後回穩。",
+          "time_hkt": "2026-11-04T14:58:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876528-20261104.htm"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "港股午後回暖收市升約1.5%　生物醫藥股帶動恒指報近23880點",
+          "summary": "恒生指數早段低開後午後回升，收市報約23877點，升約351點或約1.5%；藥明生物、藥明康德及百濟神州等創新藥及CXO股大幅造好，恒生生物科技指數升約7%。",
+          "time_hkt": "2026-11-04T16:05:00+08:00",
+          "sources": [
+            {
+              "name": "Yahoo財經",
+              "url": "https://hk.finance.yahoo.com/quote/%5EHSI/history/"
+            },
+            {
+              "name": "新浪財經",
+              "url": "https://finance.sina.com.cn/stock/hkstock/2026-11-04/doc-inixqaay1599999.shtml"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876518-20261104.htm"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "許正宇：京港可推動綠色債券發行及綠色項目認證對接",
+          "summary": "財經事務及庫務局局長許正宇在北京出席京港洽談會「投資香港」推介活動，指雙方可進一步推動綠色債券發行、綠色項目認證對接及探索轉型金融，並建議優化企業財資中心稅務寬減安排。",
+          "time_hkt": "2026-11-04T14:55:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876531-20261104.htm"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "孫東：政府短期內內部試用智能體　明年發安全管理指引",
+          "summary": "創新科技及工業局局長孫東在烏鎮世界互聯網大會表示，特區政府近期會於內部試用智能體處理標準化政務，並將於明年與香港人工智能研發院共同發布適用全社會的智能體安全管理指引。",
+          "time_hkt": "2026-11-04T12:36:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876513-20261104.htm"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "啟明創投：中國AI模型能力已非常接近美國　開源有助積累用戶",
+          "summary": "啟明創投創始主管合夥人鄺子平表示，中國AI模型能力已非常接近美國，開源模式有助積累用戶與信任；銀湖資本郝也康則指前沿模型可令研發團隊頂尖兩成員工生產力提升百倍。",
+          "time_hkt": "2026-11-04T13:38:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876524-20261104.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "高瓴張磊：人工智能並非零和遊戲　焦點轉向投資回報與應用",
+          "summary": "高瓴投資創始人張磊在國際金融領袖投資峰會指人工智能並非零和遊戲，未來重心在於將AI應用到製造、醫療及消費等行業；華平投資潘建亦指中國槓桿成本低有利收購，並視香港為重要退出與融資平台。",
+          "time_hkt": "2026-11-04T14:48:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876529-20261104.htm"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    }
+  ]
+}
