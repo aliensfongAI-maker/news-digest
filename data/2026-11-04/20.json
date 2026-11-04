@@ -1,0 +1,195 @@
+{
+  "date": "2026-11-04",
+  "hour": "20",
+  "updatedAt": "2026-11-04T20:10:14+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "立法會通過打擊圍標議員議案　鄧炳強：聯合特遣隊將主動出擊",
+          "summary": "立法會通過打擊圍標的無約束力議員議案及修正案；保安局局長鄧炳強表示由他統籌、涵蓋警方、廉署及競委會的聯合特遣隊將加強情報與聯合執法，丘應樺則指短期內展開圍標刑事化持份者諮詢並爭取盡早提交修例草案。",
+          "time_hkt": "2026-11-04T19:26:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876569-20261104.htm"
+            },
+            {
+              "name": "商業電台",
+              "url": "https://www.881903.com/news/local/2657963"
+            },
+            {
+              "name": "香港政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202611/04/P2026110400519.htm"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "警方打擊洗黑錢集團拘11人　涉85宗騙案損失逾2400萬",
+          "summary": "警方過去兩日以串謀詐騙、洗黑錢及刑事恐嚇罪拘捕8男3女，涉85宗騙案損失逾2400萬港元；調查指集團以「免審查貸款」誘騙借貸人交出身份及銀行文件開立傀儡戶口，相信已處理約7000萬元懷疑犯罪得益。",
+          "time_hkt": "2026-11-04T16:35:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876544-20261104.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "丘應樺：引進企業大多聘用本地僱員　現階段無強制比例",
+          "summary": "商務及經濟發展局局長丘應樺在立法會表示，引進本港的企業大多聘用本地僱員，惟現階段無規定聘用比例；若企業在商討時作出相關承諾，可作為提供政策優惠的談判籌碼。",
+          "time_hkt": "2026-11-04T18:51:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876556-20261104.htm"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "印尼總統解除辦公室主任職務　涉非法竊聽總統及各界電話",
+          "summary": "印尼總統普拉博沃解除總統辦公室主任利斯蒂奧職務；警方指包括其在內的三名高級官員涉嫌於2025至2026年間非法竊聽總統、官員及政商傳媒人士電話，總統府發言人指涉案行為可能危及國家安全、構成叛國罪。",
+          "time_hkt": "2026-11-04T18:42:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876564-20261104.htm"
+            },
+            {
+              "name": "雅加達郵報",
+              "url": "https://www.thejakartapost.com/indonesia/2026/11/04/president-prabowo-sacks-chief-of-staff-listyo-for-alleged-wiretapping-"
+            },
+            {
+              "name": "海峽時報",
+              "url": "https://www.straitstimes.com/asia/se-asia/prabowo-sacks-chief-of-staff-listyo-over-alleged-wiretapping-palace-says-case-may-border-on-treason"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "外交部批評英方缺乏證據抹黑中國　指將網絡安全問題政治化",
+          "summary": "針對英國國家網絡安全中心報告指中國或於2028年更頻密利用人工智能展開黑客活動，外交部發言人毛寧表示嚴重關切英方在缺乏證據下以推測性語言抹黑中國，並批評英方長期將網絡安全問題政治化、藉此打壓中國人工智能發展。",
+          "time_hkt": "2026-11-04T19:38:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876570-20261104.htm"
+            },
+            {
+              "name": "中國新聞網",
+              "url": "https://www.chinanews.com.cn/gn/2026/11-04/10726003.shtml"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "傑弗里斯料成首位非裔眾議長　承諾監督特朗普政府",
+          "summary": "眾議院民主黨領袖傑弗里斯料連任並有望出任下屆眾議長，成為美國史上首位非裔眾議長；他承諾若當選將監督特朗普政府、追究腐敗並推動降低生活成本，路透社指民主黨內暫無人對其構成實質挑戰。",
+          "time_hkt": "2026-11-04T17:13:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876552-20261104.htm"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/hakeem-jeffries-election-house-democrats-017ab70f264d4abe90da0325c1f03350"
+            },
+            {
+              "name": "NBC News",
+              "url": "https://www.nbcnews.com/politics/2026-election/democrats-house-control-midterm-election-wins-trump-check-rcna603397"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "歐元區10月通脹率升至4%　創三年高位　能源價格急升",
+          "summary": "歐盟統計局公布歐元區10月通脹率升至4%，高於9月的3.8%並創約三年高位，主要受能源價格按年升20.8%推動；核心通脹維持2.5%，市場關注歐洲央行12月會否再加息。",
+          "time_hkt": "2026-11-04T19:10:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876568-20261104.htm"
+            },
+            {
+              "name": "歐盟統計局",
+              "url": "https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/2-04112026-ap"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/04/euro-zone-cpi-inflation-october-ecb-rate-hike.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "人行明日開展3000億元人民幣買斷式逆回購　期限三個月",
+          "summary": "人民銀行公布將於11月5日以固定數量、利率招標、多重價位中標方式開展3000億元人民幣、期限三個月的買斷式逆回購操作，以保持銀行體系流動性充裕。",
+          "time_hkt": "2026-11-04T17:20:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876554-20261104.htm"
+            },
+            {
+              "name": "每日經濟新聞",
+              "url": "https://www.nbd.com.cn/articles/2026-11-04/4638125.html"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "陳茂波：持續提升市場效率　不會犧牲市場誠信",
+          "summary": "財政司司長陳茂波在國際金融領袖投資峰會致辭時表示，香港在「一國兩制」下憑藉普通法、資本自由流動及國際網絡連接企業與投資者，並會繼續加快審批、精簡程序以提升市場效率，但不會犧牲市場誠信。",
+          "time_hkt": "2026-11-04T18:48:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876563-20261104.htm"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "大家樂盈喜中期盈利料升逾一倍　指內地業務逐步回穩",
+          "summary": "大家樂預期截至9月底止中期盈利介乎9580萬至約1.05億元，按年急升約1.05倍至1.25倍，受惠快餐業務優化、效率提升及休閒餐飲與機構飲食貢獻；集團指內地業務逐步回穩，並持續推進輕資產模式深化大灣區佈局。",
+          "time_hkt": "2026-11-04T17:35:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876555-20261104.htm"
+            },
+            {
+              "name": "Yahoo財經",
+              "url": "https://hk.finance.yahoo.com/news/%E5%85%AC%E5%8F%B8%E7%9B%88%E5%96%9C-%E5%A4%A7%E5%AE%B6%E6%A8%82-00341-%E6%96%99%E4%B8%AD%E6%9C%9F%E5%A4%9A%E8%B3%BA105-%E8%87%B3125-084829060.html"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    }
+  ]
+}
