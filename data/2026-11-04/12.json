@@ -1,0 +1,205 @@
+{
+  "date": "2026-11-04",
+  "hour": "12",
+  "updatedAt": "2026-11-04T12:16:02+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "李家超京港洽談會提三大方向　推進金融開放及創科聯動",
+          "summary": "行政長官李家超在北京出席第29屆京港經濟合作研討洽談會開幕式，提出推進金融雙向開放、深化京港創科聯動，以及用好香港超級聯繫人角色助力企業出海三大方向，並指內地企業出海專班已協助逾340家內地企業。",
+          "time_hkt": "2026-11-04T10:12:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876495-20261104.htm"
+            },
+            {
+              "name": "香港政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202611/04/P2026110400234p.htm"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "進博會明日開幕　貿發局兩館71家港商參展較上屆增逾三成",
+          "summary": "第九屆中國國際進口博覽會明日起在上海舉行，香港貿發局設食品館及服務業展館共71家港商參展、較上屆增逾三成，港深創科園亦首度參展展示人工智能及生命科技企業。",
+          "time_hkt": "2026-11-04T09:09:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876480-20261104.htm"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "美媒預測民主黨將奪回眾議院　北卡參院席翻盤奧索夫連任",
+          "summary": "美國中期選舉點票進行中，CBS及NBC等傳媒預測民主黨將從共和黨手中奪回眾議院多數；初步結果顯示民主黨前州長庫珀在北卡羅來納州奪得原屬共和黨的參議院席位，佐治亞州現任參議員奧索夫亦成功連任。",
+          "time_hkt": "2026-11-04T10:59:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876504-20261104.htm"
+            },
+            {
+              "name": "CBS News",
+              "url": "https://www.cbsnews.com/news/democrats-win-house-majority/"
+            },
+            {
+              "name": "NBC News",
+              "url": "https://www.nbcnews.com/politics/2026-election/democrats-house-control-midterm-election-wins-trump-check-rcna603397"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "南卡羅來納州民主黨近三十年首次贏得聯邦參院席",
+          "summary": "據BBC與CBS等報道，南卡羅來納州民主黨候選人、前兒科醫生Annie Andrews獲預測擊敗共和黨人Darline Graham，為該州近三十年來首次選出民主黨聯邦參議員；Graham早前獲任命填補其兄長林賽·格雷厄姆去世後的空缺。",
+          "time_hkt": "2026-11-04T11:15:00+08:00",
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/cjy56z440nl9o"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/darline-graham-annie-andrews-south-carolina-midterms-74fc0bf08f5822378fcfa2fe09377d69"
+            },
+            {
+              "name": "衛報",
+              "url": "https://www.theguardian.com/us-news/2026/nov/03/south-carolina-midterms-annie-andrews"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "日韓股市急跌逾3%　市場消化美國中期選舉民主黨領先",
+          "summary": "受美國中期選舉初步結果顯示民主黨有望掌控國會影響，日經指數半日跌約3.6%報60835點、觸及逾三個月新低，南韓股市亦跌逾3%，AI及半導體相關股份受壓。",
+          "time_hkt": "2026-11-04T10:36:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876498-20261104.htm"
+            },
+            {
+              "name": "Nikkei Asia",
+              "url": "https://asia.nikkei.com/business/markets/japan-south-korea-stocks-fall-over-3-as-democrats-lead-in-us-midterms"
+            },
+            {
+              "name": "新華社",
+              "url": "https://english.news.cn/asiapacific/20261104/9c3698054ecf41248490799c58ededaa/c.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "內地10月服務業PMI跌至50.8　擴張放緩至三個月最慢",
+          "summary": "標普全球編製的內地10月服務業採購經理指數跌至50.8，低於9月的51.6，擴張速度放緩至三個月以來最慢；綜合PMI亦跌至52，製造業加快擴張不足以抵銷服務業放緩。",
+          "time_hkt": "2026-11-04T10:07:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876493-20261104.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "人行下調股票回購增持再貸款利率25基點至1厘",
+          "summary": "人民銀行宣布即日起下調股票回購增持再貸款利率25個基點至1%，並指銀行已報送相關再貸款額度申請逾2000億元人民幣，以加力支持上市公司及主要股東市值管理。",
+          "time_hkt": "2026-11-04T09:19:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876481-20261104.htm"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "港股早段低開約0.3%　恒指報23451點科網股偏軟",
+          "summary": "港股早段小幅低開，恒生指數開報23451.79點、跌約0.32%，恒生科技指數開跌約0.5%；競價時段恒指已跌74點，科網股跌多升少，市場觀望美國中期選舉結果。",
+          "time_hkt": "2026-11-04T10:06:00+08:00",
+          "sources": [
+            {
+              "name": "每日經濟新聞",
+              "url": "https://www.nbd.com.cn/articles/2026-11-04/4637524.html"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876487-20261104.htm"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "陳茂波：香港為參與中國機遇的投資者提供可信賴環境",
+          "summary": "財政司司長陳茂波在國際金融領袖投資峰會表示，香港憑藉普通法、資本自由流動及國際化網絡，為全球投資者參與中國增長機遇提供可信賴營商環境，並指本港創投及私募管理資產約2500億美元、亞洲第二。",
+          "time_hkt": "2026-11-04T09:57:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876492-20261104.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "香港10月PMI升至50.2　三個月來首次重返擴張",
+          "summary": "標普全球香港10月採購經理指數升至50.2，高於9月的49.2，為三個月來首次重返擴張；新訂單及內地訂單改善，但採購成本急升，企業未來一年經營信心跌至逾六年最低。",
+          "time_hkt": "2026-11-04T08:47:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876477-20261104.htm"
+            },
+            {
+              "name": "香港商報",
+              "url": "http://www.hkcd.com.hk/hkcdweb/content/2026/11/04/content_8783481.html"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "Nexus Mods強制新模組披露是否使用AI　寬限期至明年1月",
+          "summary": "全球大型PC遊戲模組平台Nexus Mods宣布，新上傳模組作者須聲明是否使用AI，AI輔助模組亦須公開說明用途；平台暫不全面禁用AI模組，並設60日寬限期至2027年1月2日後強制執行。",
+          "time_hkt": "2026-11-04T08:42:00+08:00",
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
