@@ -1,0 +1,176 @@
+{
+  "date": "2026-11-04",
+  "hour": "08",
+  "updatedAt": "2026-11-04T08:06:37+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": []
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "西班牙交通大臣普恩特因高鐵相撞事故宣布辭職",
+          "summary": "西班牙交通大臣普恩特在國會陳述後宣布辭職，並退出11月29日大選名單，指不足一年內兩次重大高鐵事故後不能留任；上月28日托萊多省烏爾達附近高鐵相撞造成至少69人死亡，政府亦公布3,000萬歐元援助及加強鐵路安全措施。",
+          "time_hkt": "2026-11-04T05:14:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876459-20261104.htm"
+            },
+            {
+              "name": "衛報",
+              "url": "https://www.theguardian.com/world/2026/nov/03/spain-transport-minister-oscar-puente-resigns-deadly-train-crash"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/c6wydqd4yxdyo"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "格陵蘭議會通過與美國及丹麥三方安全協議",
+          "summary": "格陵蘭議會以16票贊成、零票反對通過與美國及丹麥的三方安全協議，為美軍擴建基地鋪路，同時維持丹麥主權及格陵蘭自治；協議仍待丹麥國會審議，旨在緩和特朗普一再主張控制該島的緊張。",
+          "time_hkt": "2026-11-04T06:07:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/en/component/k2/1876449-20261104.htm"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/greenland-trump-denmark-us-33824857ac4312c5ebd53821187ecc13"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/3/greenland-parliament-approves-security-deal-with-us-denmark"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "巴基斯坦成功試射首枚國產空對空導彈Fa'az",
+          "summary": "巴基斯坦三軍新聞局稱成功試射首枚國產空對空導彈Fa'az，配備先進末端制導系統，可於更遠距離攔截空中目標；總統、總理及陸軍參謀長表示祝賀，指標誌國防與航空航天能力邁出重要一步。",
+          "time_hkt": "2026-11-04T04:15:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876457-20261104.htm"
+            },
+            {
+              "name": "Dawn",
+              "url": "https://www.dawn.com/news/2041885"
+            },
+            {
+              "name": "新華網",
+              "url": "https://www.news.cn/20261104/7c7a2ecabf01478684d4cbd29d360190/c.html"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "美股收市個別發展　納指反彈逾0.8%　道指跌　蘋果跌約2%",
+          "summary": "美股三大指數個別發展，納指收升逾0.8%、標普500升約0.4%，道指跌約0.4%；晶片股反彈帶動納指結束三日跌勢，蘋果雖業績創新高但警告記憶體成本上升拖累股價跌約2%，市場同時觀望中期選舉結果。",
+          "time_hkt": "2026-11-04T05:44:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876460-20261104.htm"
+            },
+            {
+              "name": "RTHK English",
+              "url": "https://news.rthk.hk/rthk/en/component/k2/1876463-20261104.htm"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "布蘭特期油下試100美元　收報103.6美元創近一個月新低",
+          "summary": "油價延續跌勢，布蘭特1月合約盤中低見每桶100.8美元，收報103.6美元、跌約1.1%，創近一個月新低；紐約期油收報96.09美元，市場觀望烏克蘭及伊朗相關和談進展。",
+          "time_hkt": "2026-11-04T06:23:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876464-20261104.htm"
+            },
+            {
+              "name": "Morningstar",
+              "url": "https://www.morningstar.com/news/dow-jones/202611039841/front-month-ice-brent-crude-fell-112-to-settle-at-10360-data-talk"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "港股美國預託證券受壓　多隻藍籌ADR跌近1%或以上",
+          "summary": "港股美國預託證券普遍偏軟，滙控、阿里巴巴、小米及京東集團ADR較本港前收跌逾1%，建行及平保ADR跌近1%，騰訊、美團、港交所等亦偏軟，反映開市前外圍氣氛審慎。",
+          "time_hkt": "2026-11-04T06:23:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876462-20261104.htm"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "Canva宣布重組影響約22%全球員工　悉尼成產品團隊主要基地",
+          "summary": "設計平台Canva行政總裁Melanie Perkins向員工公布重組，影響約1,270人、佔全球員工約22%，包括裁員、調職或遷往以悉尼為主的集中樞紐；公司指增長放緩並需精簡架構，離職員工獲至少六個月薪酬等支援。",
+          "time_hkt": "2026-11-04T06:59:00+08:00",
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/1025971/canva-changes-layoffs"
+            },
+            {
+              "name": "ABC News",
+              "url": "https://www.abc.net.au/news/2026-11-04/canva-restructure-job-losses/107344304"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "AMD上季業績勝預期　數據中心收入創新高　盤後股價升逾9%",
+          "summary": "AMD公布第三季收入133.8億美元、按年升45%，數據中心收入升97%至85億美元創新高；經調整每股盈利2.09美元勝預期，並上調今季及明年展望，收市後交易股價曾升逾9%。",
+          "time_hkt": "2026-11-04T07:40:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876470-20261104.htm"
+            },
+            {
+              "name": "AMD",
+              "url": "https://ir.amd.com/news-events/press-releases/detail/1303/amd-reports-third-quarter-2026-financial-results"
+            },
+            {
+              "name": "Investing.com",
+              "url": "https://www.investing.com/news/stock-market-news/amd-forecasts-quarterly-revenue-above-estimates-as-datacenter-growth-accelerates-4996502"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    }
+  ]
+}
