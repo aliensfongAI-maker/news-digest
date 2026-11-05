@@ -1,0 +1,213 @@
+{
+  "date": "2026-11-05",
+  "hour": "12",
+  "updatedAt": "2026-11-05T12:20:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "黃之鋒串謀勾結外國勢力罪成　高等法院判囚10年",
+          "summary": "前香港眾志秘書長黃之鋒承認串謀勾結外國或境外勢力危害國家安全罪，高等法院法官譚耀豪今早判囚10年，指罪行重大並具阻嚇性；刑期中約兩個月與正服刑的串謀顛覆案同期執行，他原訂2027年1月獲釋。",
+          "time_hkt": "2026-11-05T11:10:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876637-20261105.htm"
+            },
+            {
+              "name": "BBC中文",
+              "url": "https://www.bbc.com/zhongwen/articles/cm5ynepe9578o/trad"
+            },
+            {
+              "name": "南華早報",
+              "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3373335/joshua-wong-jailed-10-years-over-bid-instigate-sanctions-beijing-hong-kong"
+            },
+            {
+              "name": "衛報",
+              "url": "https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "李家超抵上海出席第九屆進博會　冀深化滬港經貿合作",
+          "summary": "行政長官李家超結束北京行程後轉抵上海，今日出席第九屆中國國際進口博覽會暨虹橋國際經濟論壇開幕式及香港分論壇，並參觀香港展區；他指期望深化滬港合作，進一步發揮香港作為超級聯繫人角色。",
+          "time_hkt": "2026-11-05T08:30:00+08:00",
+          "sources": [
+            {
+              "name": "國務院港澳辦",
+              "url": "https://www.hmo.gov.cn/2026/11/05/ARTI3KS1Nu33Ov80umHwW6XT261105.shtml"
+            },
+            {
+              "name": "Now新聞",
+              "url": "https://news.now.com/home/local/player?newsId=668401"
+            },
+            {
+              "name": "香港電台英文",
+              "url": "https://news.rthk.hk/rthk/en/news-programmes/this-episode.htm?cmsid=77&episode_id=1137735&livetime=20261105000000"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "特朗普承認伊朗戰爭拖累中期選舉　萬斯公開歸咎戰事",
+          "summary": "美國副總統萬斯在共和黨中期選舉大敗後公開指「輸選原因就是戰爭」，特朗普亦稱有關分析大致正確，但辯稱仍必須阻止伊朗擁核；分析指他正面臨談和、再出擊或維持封鎖制裁等兩難抉擇。",
+          "time_hkt": "2026-11-05T06:00:00+08:00",
+          "sources": [
+            {
+              "name": "Axios",
+              "url": "https://www.axios.com/2026/11/05/trump-iran-war-midterm-defeat-bad-options"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/vance-iran-war-trump-midterm-elections-a1a0f2a2373f80442dde2b04b9d4d2b3"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/crz98zqkz7z0o"
+            },
+            {
+              "name": "香港英文台",
+              "url": "https://www.thestandard.com.hk/news/article/347566/Morning-Recap-November-5-2026"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "世衛批准兩款新埃博拉候選疫苗加入剛果臨床試驗",
+          "summary": "世界衛生組織技術顧問組建議將牛津／印度血清研究所的ChAdOx1 BDBV及Moderna的mRNA-1469兩款針對Bundibugyo病毒的候選疫苗納入剛果民主共和國Tumaini臨床試驗，仍待當地當局批准後方可正式入組。",
+          "time_hkt": "2026-11-05T07:00:00+08:00",
+          "sources": [
+            {
+              "name": "世界衛生組織",
+              "url": "https://www.who.int/news/item/04-11-2026-two-new-candidate-vaccines-to-join-ebola-trial-as-treatment-research-advances"
+            },
+            {
+              "name": "半島電視台",
+              "url": "https://www.aljazeera.com/news/2026/11/4/who-approves-trials-for-two-new-ebola-vaccines"
+            },
+            {
+              "name": "法新社",
+              "url": "https://www.afp.com/en/who-approves-clinical-trials-two-new-ebola-vaccines"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "布蘭特期油急挫跌穿100美元　市場押注伊朗戰事緩和",
+          "summary": "受美國中期選舉民主黨大勝帶動，市場預期美伊衝突升溫機會下降，布蘭特原油期貨一夜急挫近9%並跌穿每桶100美元，亞洲早盤徘徊約93至94美元，有望錄得2020年4月以來最大單周跌幅。",
+          "time_hkt": "2026-11-05T09:00:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/en/component/k2/1876631-20261105.htm"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/stocks-markets-ai-midterm-oil-trump-7ee9c212805aa5e70cf34d25aab7a36e"
+            },
+            {
+              "name": "路透／Euronext",
+              "url": "https://live.euronext.com/en/financial-news/oil-and-data-centre-stocks-sink-after-us-midterms"
+            },
+            {
+              "name": "經濟時報",
+              "url": "https://m.economictimes.com/markets/commodities/news/oil-price-today-november-5-crude-oil-falls-below-94-after-9-plunge-on-wednesday-after-midterm-results-more-downside-ahead/amp_articleshow/135556180.cms"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "亞洲晶片與數據中心股急挫　韓股早段跌逾3%",
+          "summary": "投資者憂慮民主黨國會多數將收緊人工智能數據中心監管，南韓KOSPI早段挫逾3%至4%，三星電子及SK海力士跌逾5%，台灣加權及日經亦受壓，太陽能供應鏈則受惠綠能政策預期而上揚。",
+          "time_hkt": "2026-11-05T10:30:00+08:00",
+          "sources": [
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/stocks-markets-ai-midterm-oil-trump-7ee9c212805aa5e70cf34d25aab7a36e"
+            },
+            {
+              "name": "法新社",
+              "url": "https://www.afp.com/en/tech-hit-new-ai-worries-positive-day-most-markets"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/en/component/k2/1876631-20261105.htm"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "港股半個月來首重上24000點　早段升幅擴大至逾600點",
+          "summary": "受美股大升及油價急挫鼓舞，恒生指數競價時段報24316點、升397點，其後升幅擴大至逾600點，較早時報24582點、升662點；恒生科技指數升穿4000點，滙控及港交所等金融股造好。",
+          "time_hkt": "2026-11-05T09:52:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876626-20261105.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876629-20261105.htm"
+            },
+            {
+              "name": "香港電台英文",
+              "url": "https://news.rthk.hk/rthk/en/component/k2/1876631-20261105.htm"
+            },
+            {
+              "name": "法新社",
+              "url": "https://www.afp.com/en/tech-hit-new-ai-worries-positive-day-most-markets"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "百度推出Apollo World世界模型　以AI訓練自動駕駛",
+          "summary": "百度發布Apollo World具身世界模型，以可互動的AI交通代理人模擬完整行程，並即時生成攝像頭與激光雷達數據；公司稱單日虛擬路測里程約等於真實測試車連續行駛三年，已用於Apollo Go全球驗證。",
+          "time_hkt": "2026-11-05T09:47:00+08:00",
+          "sources": [
+            {
+              "name": "CnEVPost",
+              "url": "https://cnevpost.com/2026/11/05/baidu-apollo-world-model-ai-teach-ai-to-drive/"
+            },
+            {
+              "name": "新華網",
+              "url": "https://www.news.cn/tech/20261104/38e7bae3b4094da796b3f51e2252cefe/c.html"
+            },
+            {
+              "name": "南華早報",
+              "url": "https://www.scmp.com/tech/big-tech/article/3373173/baidus-new-ai-simulator-gives-robotaxis-crash-course-rare-road-hazards"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
