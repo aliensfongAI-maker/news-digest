@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-06",
+  "hour": "04",
+  "updatedAt": "2026-11-06T04:10:20+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "「銳眼計劃」本月加AI人臉識別　年內擴展至多個商場閉路電視",
+          "summary": "警方宣布「銳眼計劃」本月內加入人工智能人臉識別，並於年內擴展至私人機構，奧海城、屯門市廣場、葵涌商場及粉嶺「嶺．樂活」等商場同意接入閉路電視；截至上月底系統已助破2192宗案。",
+          "time_hkt": "2026-11-06T00:11:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876727-20261106.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876728-20261106.htm"
+            },
+            {
+              "name": "香港商報",
+              "url": "https://www.hkcd.com.hk/hkcdweb/content/2026/11/06/content_8783865.html"
+            },
+            {
+              "name": "東方日報",
+              "url": "https://orientaldaily.on.cc/content/%E8%A6%81%E8%81%9E%E6%B8%AF%E8%81%9E/odn-20261106-1106_00176_204/%E9%8A%B3%E7%9C%BC%E7%B3%BB%E7%B5%B1--%E6%9C%AC%E5%B9%B4%E5%85%A7%E9%A7%814%E5%95%86%E5%A0%B4"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "紐約布魯克林住宅樓火警釀6死多人傷　現場發現鋰離子電池",
+          "summary": "美國紐約布魯克林日落公園一幢兩層住宅樓凌晨起火，造成至少6人死亡、多人受傷，逾200名消防人員到場；現場發現鋰離子電池，起火原因仍在調查，市長曼達尼形容為毀滅性火災。",
+          "time_hkt": "2026-11-06T00:33:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876729-20261106.htm"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/c39wz44411w0o"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/fatal-fire-brooklyn-new-york-bb3c0c9753d0e64ec994cc892f32170e"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "中國成功發射遙感五十一號07-09星",
+          "summary": "中國於11月5日晚11時58分在西昌衛星發射中心以長征二號丙運載火箭，成功將遙感五十一號07-09星送入預定軌道，衛星主要用於科學試驗及電磁環境探測，屬長征系列第675次飛行。",
+          "time_hkt": "2026-11-06T01:12:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876733-20261106.htm"
+            },
+            {
+              "name": "新華網",
+              "url": "https://www.xinhuanet.com/20261106/749f961fa3df4ee99b839be556044b41/c.html"
+            },
+            {
+              "name": "Xinhua",
+              "url": "https://english.news.cn/20261106/cc3d9a79130e44498d87c42f88ac0e39/c.html"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "聯合國安理會通過主席聲明　強調武裝衝突中加強外交作用",
+          "summary": "聯合國安理會當地星期四一致通過由巴基斯坦起草的主席聲明，強調即使武裝衝突已爆發，各方仍應保持外交接觸，以助控制升級、推動停火，並創造以和平政治方式解決爭端的條件。",
+          "time_hkt": "2026-11-06T03:17:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876732-20261106.htm"
+            },
+            {
+              "name": "Security Council Report",
+              "url": "https://www.securitycouncilreport.org/whatsinblue/2026/11/adoption-of-presidential-statement-on-the-role-of-diplomacy-during-active-hostilities.php"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    }
+  ]
+}
