@@ -1,0 +1,221 @@
+{
+  "date": "2026-11-05",
+  "hour": "16",
+  "updatedAt": "2026-11-05T16:25:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "李家超：黃之鋒、羅冠聰及其團夥是破壞香港繁榮穩定其中禍首",
+          "summary": "行政長官李家超在上海回應黃之鋒判囚十年時指，黃之鋒、羅冠聰及其团伙是破壞香港繁榮穩定的其中禍首，強調法庭裁決彰顯法治；駐港國安公署及外交部其後亦分別發聲支持裁決並重申支持香港依法維護國家安全。",
+          "time_hkt": "2026-11-05T14:05:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876656-20261105.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876666-20261105.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876672-20261105.htm"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "中九龍繞道九龍灣段工程大致完成　巴士道路測試順利　12月6日全線通車",
+          "summary": "土木工程拓展署表示中九龍繞道九龍灣段建造工程已大致完成，兩間專營巴士公司派出雙層巴士試行整條六號幹線並順利完成道路測試；九巴稱通車後將調整290E、X42C並開辦新線49E，預計12月6日全線通車。",
+          "time_hkt": "2026-11-05T14:25:00+08:00",
+          "sources": [
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60407472/%E4%B8%AD%E4%B9%9D%E9%BE%8D%E7%B9%9E%E9%81%9312-6%E5%85%A8%E7%B7%9A%E9%80%9A%E8%BB%8A-%E5%9C%9F%E6%8B%93%E7%BD%B2-%E4%B9%9D%E9%BE%8D%E7%81%A3%E6%AE%B5%E5%B7%B4%E5%A3%AB%E9%81%93%E8%B7%AF%E6%B8%AC%E8%A9%A6%E9%A0%86%E5%88%A9%E5%AE%8C%E6%88%90"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1204717-%E4%B8%AD%E4%B9%9D%E9%BE%8D%E7%B9%9E%E9%81%93%E4%B8%8B%E6%9C%886%E6%97%A5%E5%85%A8%E7%B7%9A%E9%80%9A%E8%BB%8A%E4%B9%9D%E9%BE%8D%E7%81%A3%E6%AE%B5%E5%90%84%E9%A0%85%E6%BA%96%E5%82%99%E5%B7%A5%E4%BD%9C%E9%80%B2%E5%85%A5%E6%9C%80%E5%BE%8C%E9%9A%8E%E6%AE%B5"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "沙田路致命交通意外　修路女工疑被貨車撞到傷重不治",
+          "summary": "沙田路往大埔方向近博康邨今早近11時發生致命交通意外，一名約60歲維修道路女工懷疑被中型貨車撞倒，頭部受傷昏迷，救護人員到場後證實不治。",
+          "time_hkt": "2026-11-05T12:26:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876646-20261105.htm"
+            },
+            {
+              "name": "香港電台英文",
+              "url": "https://news.rthk.hk/rthk/en/component/k2/1876647-20261105.htm"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "王毅會見朝鮮勞動黨代表團　稱願推動中朝關係續向深向實向好發展",
+          "summary": "中共中央政治局委員、中央外辦主任王毅在北京會見由金成男率領的朝鮮勞動黨代表團，表示願同朝方落實兩黨兩國最高領導人共識，推動中朝關係持續向深向實向好發展，並介紹中共二十屆五中全會情況。",
+          "time_hkt": "2026-11-05T13:00:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876649-20261105.htm"
+            },
+            {
+              "name": "新華社",
+              "url": "https://english.news.cn/20261105/22d2e23b3ab24bcc97f173177099f98c/c.html"
+            },
+            {
+              "name": "中新網",
+              "url": "https://www.chinanews.com.cn/gn/2026/11-05/10726620.shtml"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "外交部：中期選舉是美國內政　願繼續與美方維護落實元首共識",
+          "summary": "中國外交部回應美國中期選舉結果時強調選舉屬美國內政，中方願繼續與美方維護並落實兩國元首共識，構建建設性戰略穩定關係，不對美方黨派政治作評論。",
+          "time_hkt": "2026-11-05T15:47:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876669-20261105.htm"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "韓股低收逾5%　日股近2%台股逾3%　亞洲晶片股續受壓",
+          "summary": "受美國中期選舉後AI監管疑慮及晶片股賣壓拖累，韓國KOSPI低收逾5%、日經225低收近2%連跌四日，台股低收逾3%連跌六日並創逾三個月低位，亞洲科技股午後跌勢擴大。",
+          "time_hkt": "2026-11-05T14:42:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876660-20261105.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876658-20261105.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876657-20261105.htm"
+            },
+            {
+              "name": "中央社",
+              "url": "https://www.cna.com.tw/news/afe/202611050179.aspx"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "滬指收市變動不大　深證成份指數升逾1%",
+          "summary": "內地股市午後表現分化，上證綜指收市變動不大，深證成份指數則升逾1%，反映資金對科技與成長股的興趣相對集中。",
+          "time_hkt": "2026-11-05T15:14:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876663-20261105.htm"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "恒指收市升879點報24799　科指午後仍升近5%",
+          "summary": "港股受美中期選舉後風險情緒改善帶動全日顯著反彈，恒生指數收市報24798.69點，升879.19點或約3.7%，半日曾升逾700點，科技指數午後初段升幅仍近5%。",
+          "time_hkt": "2026-11-05T16:01:00+08:00",
+          "sources": [
+            {
+              "name": "Yahoo財經",
+              "url": "https://hk.finance.yahoo.com/quote/%5EHSI/history/"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876651-20261105.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876645-20261105.htm"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "王文濤：支持香港在國際經貿合作發揮更大作用　盡早加入RCEP",
+          "summary": "商務部部長王文濤在第九屆虹橋國際經濟論壇香港分論壇表示，支持香港在國際經貿合作發揮更大作用，並支持香港對外商簽經貿協定、盡早加入《區域全面經濟夥伴關係協定》（RCEP）。",
+          "time_hkt": "2026-11-05T15:02:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876662-20261105.htm"
+            },
+            {
+              "name": "香港中通社",
+              "url": "https://www.hkcna.hk/docDetail.jsp?channel=4371&id=100161934"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "港元拆息連續兩日全跌　一個月拆息創兩個半月新低",
+          "summary": "港元拆息連續兩日全面下跌，其中一個月香港銀行同業拆息創約兩個半月新低，反映銀行體系流動性充裕及短息下行壓力持續。",
+          "time_hkt": "2026-11-05T13:11:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876650-20261105.htm"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "張國鈞：法律科技資助計劃助業界應用科技　律政司發布應用指引",
+          "summary": "律政司副司長張國鈞表示「訂購法律科技服務資助計劃」協助中小型律師行及新晉大律師應用法律科技，申請期至2027年1月；律政司同日發布法律科技應用指引，就風險防範及實務操作提供建議。",
+          "time_hkt": "2026-11-05T15:55:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876671-20261105.htm"
+            },
+            {
+              "name": "點新聞",
+              "url": "https://www.dotdotnews.com/a/202611/05/AP6aec2a99e4b091a65a2ed255.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
