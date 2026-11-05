@@ -1,0 +1,215 @@
+{
+  "date": "2026-11-06",
+  "hour": "00",
+  "updatedAt": "2026-11-06T00:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "特區政府強烈譴責美駐港總領館就黃之鋒案作政治操弄　立法會堅定支持判刑",
+          "summary": "特區政府強烈反對並譴責美國駐港總領事館發言人就黃之鋒案判刑的言論，指屬政治操弄；立法會發言人亦表示堅定支持法庭判刑，促請外部勢力停止干預香港司法。",
+          "time_hkt": "2026-11-05T21:18:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876714-20261105.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876716-20261105.htm"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "警方國安處旺角拘34歲男子　涉上月輸入煽動書籍到本地書店出售",
+          "summary": "警務處國家安全處在旺角拘捕一名34歲本地男子，涉嫌違反《維護國家安全條例》「輸入具煽動意圖的刊物」罪，指其為本地公司董事並涉嫌上月輸入煽動書籍供書店出售。",
+          "time_hkt": "2026-11-05T22:29:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876720-20261105.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "警方拘9人涉與6宗電騙案有關　成功起回逾32萬元騙款",
+          "summary": "警方在全港多區打擊懷疑詐騙集團，拘捕9人，指集團涉6宗「猜猜我是誰」電話騙案、受害人均為長者，涉款約32.5萬元並已全部起回。",
+          "time_hkt": "2026-11-05T20:27:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876708-20261105.htm"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "元朗5個月大女嬰昏迷送院　一名外傭涉虐兒被捕",
+          "summary": "警方晚上接報元朗下新圍村村屋內一名5個月大女嬰昏迷，送院搶救後轉屯門醫院留醫，並以涉嫌虐兒拘捕屋內一名外傭，調查仍在進行。",
+          "time_hkt": "2026-11-05T22:06:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876719-20261105.htm"
+            }
+          ],
+          "rank": 4
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "以色列聯合名單支持埃森科特組閣　預料可獲67席推薦",
+          "summary": "阿拉伯裔政黨聯盟「聯合名單」宣布將向總統赫爾佐格建議授權埃森科特組閣，連同較早表態的拉阿姆，預料其可獲67名議員推薦，超過組閣門檻；內塔尼亞胡陣營則受超正統派拒推任何人選削弱。",
+          "time_hkt": "2026-11-05T22:33:00+08:00",
+          "sources": [
+            {
+              "name": "新華網",
+              "url": "https://www.news.cn/20261105/6c4b84dd66c14bb2bca9ceb8db1f78f8/c.html"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/5/joint-list-says-it-will-back-eisenkot-to-form-israels-next-government"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "歐洲最少10班機同日接炸彈威脅　歐盟航空安全局表示關注",
+          "summary": "歐洲多國最少10班客機同日接獲炸彈威脅，部分緊急降落或由軍機護送；其中愛爾蘭航空都柏林至羅馬航班緊急降落法國空軍基地，歐盟航空安全局表示關注。",
+          "time_hkt": "2026-11-05T22:34:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876721-20261105.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876707-20261105.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "澤連斯基冀美國中期選舉結果有助增加對烏克蘭援助",
+          "summary": "烏克蘭總統澤連斯基回應民主黨中期選舉獲勝，表示希望有助美國增加對烏援助及對俄施壓，並指兩黨均支持烏克蘭、若國會討論更多援助或可推動談判。",
+          "time_hkt": "2026-11-05T23:00:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876722-20261105.htm"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "英倫銀行加息0.25厘至4厘　逾3年來首次　警告或非最後一次",
+          "summary": "英倫銀行將指標利率上調0.25厘至4厘，是逾三年來首次加息並符合預期；貨幣政策委員會以8比1通過，總裁貝利表示除非中東衝突解決，否則可能再加息。",
+          "time_hkt": "2026-11-05T20:59:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876712-20261105.htm"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/ck5ynw45jrgqo"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/britain-economy-interest-rates-dce506792fe3b452ec4c3982147286f3"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "美股科技股因AI監管疑慮急挫　納指跌逾3%費半重挫逾7%",
+          "summary": "投資人擔憂民主黨勝選後資料中心及AI建設將受更嚴審查，美股科技股賣壓擴大，納指跌逾3%、費城半導體指數重挫逾7%，記憶體與晶片股領跌。",
+          "time_hkt": "2026-11-05T22:46:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876723-20261105.htm"
+            },
+            {
+              "name": "鉅亨網",
+              "url": "https://news.cnyes.com/news/id/6649135"
+            },
+            {
+              "name": "自由財經",
+              "url": "https://ec.ltn.com.tw/article/breakingnews/5631091"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "美國第3季非農生產率增3.6%高過預期　單位勞動力成本下跌",
+          "summary": "美國勞工部公布第3季非農生產率按年率增3.6%，高過預期的2.8%；期內單位勞動力成本按年率跌0.7%，是去年第2季以來首次下跌。",
+          "time_hkt": "2026-11-05T22:55:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876726-20261105.htm"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "OpenAI公布資料中心社區承諾　不再要求公職人員簽保密協議",
+          "summary": "在美國中期選舉顯示選民對資料中心反彈後，OpenAI發布社區契約與政策藍圖，承諾自營算力園區將自付電費、公開建設影響，並不再要求公職人員簽署保密協議。",
+          "time_hkt": "2026-11-05T22:06:00+08:00",
+          "sources": [
+            {
+              "name": "工商時報",
+              "url": "https://www.ctee.com.tw/news/20261105702263-430704"
+            },
+            {
+              "name": "OpenAI",
+              "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure/"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/05/openai-to-pay-for-data-center-power-after-election-shows-ai-concern.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "Box與NVIDIA擴大合作　以Nemotron打造企業AI內容檢索引擎",
+          "summary": "Box於開發者大會公布由NVIDIA Nemotron驅動的Context Retrieval引擎，稱可令代理人查詢更快、更準並大減token用量，同時把Nemotron開源權重模型引入Box AI。",
+          "time_hkt": "2026-11-05T22:00:00+08:00",
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/"
+            },
+            {
+              "name": "Box",
+              "url": "https://blog.box.com/box-partners-nvidia-deliver-trusted-content-layer-enterprise-ai"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    }
+  ]
+}
