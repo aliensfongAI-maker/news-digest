@@ -1,0 +1,241 @@
+{
+  "date": "2026-11-05",
+  "hour": "20",
+  "updatedAt": "2026-11-05T20:10:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "首三季近3萬5千宗詐騙按年升8%　騙徒新手法遙距讀信用卡資料",
+          "summary": "保安局局長鄧炳強表示，本港今年首三季錄得34679宗詐騙案、按年升約7.9%，騙款約60.2億元，並指騙徒出現冒充物流誘騙開啟NFC、以手機遙距讀取信用卡資料的新手法。",
+          "time_hkt": "2026-11-05T18:15:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876696-20261105.htm"
+            },
+            {
+              "name": "點新聞",
+              "url": "https://www.dotdotnews.com/a/202611/05/AP6aec54c7e4b091a65a2ed637.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "鄧炳強：理解宏福苑家屬冀悼念　依法當局定協助並推進打擊圍標",
+          "summary": "保安局局長鄧炳強表示充分理解大埔宏福苑火災受影響居民家屬希望悼念，只要依法當局會協助，並指將從修例、執法及前線預防三方面打擊樓宇維修圍標。",
+          "time_hkt": "2026-11-05T18:09:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876694-20261105.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "李家超陪同丁薛祥巡視進博會香港展區　稱將五年規劃願景圖轉化為實景圖",
+          "summary": "行政長官李家超在上海陪同國務院副總理丁薛祥巡視進博會香港展區，介紹香港最新發展及《香港第一個五年規劃》，並於虹橋論壇強調會把五年規劃願景圖轉化為發展實景圖。",
+          "time_hkt": "2026-11-05T17:57:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876690-20261105.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876705-20261105.htm"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "城巴計劃安排795及A28X行駛全段六號幹線",
+          "summary": "中九龍繞道九龍灣段將於12月6日通車，城巴表示計劃於六號幹線全線開通日起安排795號線及機場快線A28X行駛全段六號幹線，詳情稍後公布。",
+          "time_hkt": "2026-11-05T19:51:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876706-20261105.htm"
+            }
+          ],
+          "rank": 4
+        },
+        {
+          "headline": "澳門首宗國安案將於明早宣判",
+          "summary": "澳門首宗涉嫌違反《維護國家安全法》案件定於11月6日上午10時宣判，被告為前立法會直選議員區錦新，旁聽證按先到先得方式發放。",
+          "time_hkt": "2026-11-05T16:45:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876677-20261105.htm"
+            }
+          ],
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "內塔尼亞胡拒絕與阿拉伯裔政黨組閣　埃森科特稱將深化與美關係",
+          "summary": "以色列總理內塔尼亞胡批評阿拉伯裔政黨並拒絕依賴其組閣，呼籲由利庫德領導民族陣營政府；反對派正直黨領袖埃森科特則表示將加快組建新政府並深化美以夥伴關係。",
+          "time_hkt": "2026-11-05T18:45:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876699-20261105.htm"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/netanyahu-letting-arab-parties-into-govt-will-dismantle-israel"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "美國中期選舉兩州參議院選舉膠着　密西西比及阿拉斯加暫未能推算",
+          "summary": "美國中期選舉點票仍在進行，密西西比州及阿拉斯加州參議院選舉兩黨得票差距少於一個百分點，多家傳媒暫未能推算結果；路透社指即使不計兩州，民主黨已料掌握參議院過半議席。",
+          "time_hkt": "2026-11-05T17:17:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876684-20261105.htm"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "安聯：AI投資浪潮將於中期選舉後持續　不應過度解讀市場反應",
+          "summary": "安聯投資首席經濟師Christian Schulz認為，民主黨取得國會控制權後部分AI基建項目或延期或改址，但不會對美國AI基建造成長遠影響，行業樽頸仍在晶片等供應限制。",
+          "time_hkt": "2026-11-05T19:24:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876700-20261105.htm"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "財政部下周在加拿大發行最多40億元人民幣綠色主權債券",
+          "summary": "中國財政部公告，下星期將在加拿大發行規模不超過40億元人民幣的綠色主權債券，具體發行安排將於發行前另行公布。",
+          "time_hkt": "2026-11-05T18:16:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876695-20261105.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "挪威央行維持利率4.5厘不變",
+          "summary": "挪威央行將政策利率維持於4.5厘不變，符合市場預期，並表示未來一段時間或仍須維持較高利率水平，必要時準備進一步上調以達通脹目標。",
+          "time_hkt": "2026-11-05T19:42:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876693-20261105.htm"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "陳茂波：本港受惠投資者跨市場及跨貨幣配置資產",
+          "summary": "財政司司長陳茂波出席私人財富管理公會高峰會時表示，在更高息及更大不確定性下，投資者正跨市場及跨貨幣配置資產，香港可從中受益。",
+          "time_hkt": "2026-11-05T19:52:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876704-20261105.htm"
+            },
+            {
+              "name": "信報",
+              "url": "https://www.hkej.com/instantnews/hongkong/article/4558316/%E9%99%B3%E8%8C%82%E6%B3%A2%3A%E6%8A%95%E8%B3%87%E8%80%85%E8%B7%A8%E5%B8%82%E5%A0%B4%E8%B7%A8%E8%B2%A8%E5%B9%A3%E9%85%8D%E7%BD%AE+%E9%A6%99%E6%B8%AF%E5%8F%AF%E6%9C%9B%E7%8D%B2%E7%9B%8A"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "華虹宏力上季盈利按年升約1.5倍　收入創新高",
+          "summary": "港股上市晶圓代工廠華虹宏力第三季盈利1.23億美元、按年升約1.47倍，銷售收入9.87億美元再創歷史新高，並預計本季收入約10.8億至10.9億美元。",
+          "time_hkt": "2026-11-05T19:36:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876680-20261105.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "人民幣兌美元收市升60點子　結束兩日跌勢",
+          "summary": "人民幣兌美元收市報6.671，較上日升60點子並結束連續兩日跌勢；市場指中期選舉後不確定性降低、油價急跌推低美元，加上結匯需求偏多支撐反彈。",
+          "time_hkt": "2026-11-05T17:55:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876685-20261105.htm"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "中國禁止軟銀收購ABB在華機械人業務　54億美元交易受阻",
+          "summary": "ABB證實接獲軟銀通知，中國外商投資安全審查工作機制辦公室禁止其收購ABB在華機械人業務，令軟銀約54億美元收購ABB全球機械人部門的交易受挫，雙方仍磋商解決方案。",
+          "time_hkt": "2026-11-05T18:23:00+08:00",
+          "sources": [
+            {
+              "name": "ABB",
+              "url": "https://new.abb.com/news/detail/140154/update-on-divestment-of-abb-robotics"
+            },
+            {
+              "name": "南華早報",
+              "url": "https://www.scmp.com/business/china-business/article/3373415/china-blocks-softbanks-us54-billion-takeover-abbs-robotics-division"
+            },
+            {
+              "name": "聯合早報",
+              "url": "https://www.zaobao.com.sg/news/china/story20261105-9951988"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "會計師公會發布AI管治實務框架　冀企業建立健全數據管治",
+          "summary": "香港會計師公會檢視恒生綜合大型股年報後指出企業多披露AI應用卻少談管治，並推出AI／GenAI數據使用決策框架及實務指引，協助建立健全AI及數據管治。",
+          "time_hkt": "2026-11-05T17:15:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876682-20261105.htm"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    }
+  ]
+}
