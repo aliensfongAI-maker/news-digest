@@ -1,0 +1,289 @@
+{
+  "date": "2026-11-06",
+  "hour": "16",
+  "updatedAt": "2026-11-06T16:25:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "入境處搗破跨境偽證及黑工集團　拘15人兩主腦分別判囚29及42個月",
+          "summary": "入境處公布代號「顯影」行動瓦解跨境偽證及非法勞工集團，拘捕15人並檢獲多張偽造香港身份證及圖片，涉犯罪得益逾100萬元；兩名主腦早前罪成分別判監29及42個月，其餘涉案者判監12至15個月不等。",
+          "time_hkt": "2026-11-06T15:50:00+08:00",
+          "sources": [
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202611/06/P2026110600429.htm"
+            },
+            {
+              "name": "商業電台",
+              "url": "https://www.881903.com/news/local/2658260"
+            },
+            {
+              "name": "東網",
+              "url": "https://hk.on.cc/hk/bkn/cnt/news/20261106/bkn-20261106103014890-1106_00822_001.html"
+            },
+            {
+              "name": "香港文匯報",
+              "url": "https://www.wenweipo.com/a/202611/06/AP6aed7680e4b028ec0192d698.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "李家超與上海市市長朱忠明會面　稱滬港多領域合作無間並深化離岸人民幣及黃金市場協作",
+          "summary": "行政長官李家超在上海與上海市市長朱忠明會面，指兩地在創科、數字經濟、商貿及金融等領域合作緊密，並提到香港將加強離岸人民幣業務及明年首季啟用黃金中央清算結算系統，與上海交易所深化合作。",
+          "time_hkt": "2026-11-06T15:06:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876824-20261106.htm"
+            },
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202611/06/P2026110600321.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "蔡若蓮：北都大學城洪水橋三幅用地年底截止申請　評審不設硬指標明年初公布進駐院校",
+          "summary": "教育局局長蔡若蓮在立法會表示，洪水橋大學城三幅校園用地今年12月底截止申請，專責小組會綜合考慮學術優次、研究優勢及財務方案等而不設硬指標，並期望明年初公布進駐院校，同時指政府預留百億元貸款不會平均分配。",
+          "time_hkt": "2026-11-06T15:31:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876828-20261106.htm"
+            },
+            {
+              "name": "商業電台",
+              "url": "https://www.881903.com/news/local/2658259"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1204905-%E8%94%A1%E8%8B%A5%E8%93%AE%E6%98%8E%E5%B9%B4%E5%88%9D%E5%85%AC%E5%B8%83%E6%B4%AA%E6%B0%B4%E6%A9%8B%E5%A4%A7%E5%AD%B8%E5%9F%8E%E4%B8%89%E5%B9%85%E7%94%A8%E5%9C%B0%E9%80%B2%E9%A7%90%E9%99%A2%E6%A0%A1%E6%98%8E%E5%B9%B4%E5%BA%95%E5%AE%8C%E6%88%90%E5%A4%A7%E9%83%A8%E5%88%86%E5%9C%9F%E5%9C%B0%E5%B9%B3%E6%95%B4"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "小蠔灣車廠附近信號設備故障　機場快綫及東涌綫服務短暫受影響後回復正常",
+          "summary": "運輸署接獲港鐵通知，小蠔灣車廠附近信號設備故障令機場快綫及東涌綫列車服務受影響，其後事故已妥善處理，列車班次逐步回復正常。",
+          "time_hkt": "2026-11-06T13:40:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876811-20261106.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876817-20261106.htm"
+            },
+            {
+              "name": "Dimsum Daily",
+              "url": "https://www.dimsumdaily.hk/mtr-siu-ho-wan-depot-signal-fault-briefly-disrupts-airport-express-and-tung-chung-line-services/"
+            }
+          ],
+          "rank": 4
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "特朗普稱將決定是否對伊朗採取進一步打擊　美方據報研打壓、再襲或協議三方案",
+          "summary": "美國總統特朗普表示將決定是否對伊朗進一步軍事打擊以徹底終結其核計劃；美媒報道他正考慮發動新一輪打擊、繼續經濟施壓或達成包含重大讓步的協議，而美軍中央司令部正為可能恢復大規模行動作準備。",
+          "time_hkt": "2026-11-06T14:24:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876818-20261106.htm"
+            },
+            {
+              "name": "Iran International",
+              "url": "https://www.iranintl.com/en/202611063916"
+            },
+            {
+              "name": "新華網",
+              "url": "https://www.news.cn/world/20261106/0161a8d0280e48a3a2afd2ace54dab76/c.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "美兩黨多名議員據報促國防部長赫格塞思辭職　赫格塞思稱彈劾屬政治鬧劇將硬到底",
+          "summary": "美國傳媒報道國會兩黨多名議員要求國防部長赫格塞思辭職，並有共和黨議員揚言提出彈劾；赫格塞思發布片段反駁指一切屬政治鬧劇，為伊朗戰事辯護並揚言堅持到底，敦促國會批出至少3500億美元國防經費。",
+          "time_hkt": "2026-11-06T15:59:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876832-20261106.htm"
+            },
+            {
+              "name": "The Hill",
+              "url": "https://thehill.com/video/top-house-democrat-calls-for-hegseth-to-resign-%E2%80%98endangered-lives-of-american-troops%E2%80%99/10569341/"
+            },
+            {
+              "name": "RNZ",
+              "url": "https://www.rnz.co.nz/news/world/2373577/pressure-mounts-on-us-defence-chief-pete-hegseth-after-republican-election-rout"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "日本抗議俄羅斯臨時接管日本煙草公司在俄資產　要求立即撤銷",
+          "summary": "俄羅斯總統普京簽署總統令臨時接管日本煙草公司在俄相關股權及生產業務後，日本外務省向俄駐日大使提出抗議並要求撤銷決定，日方官員亦赴俄交涉；日本煙草表示正評估形勢及應對措施。",
+          "time_hkt": "2026-11-06T12:58:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876806-20261106.htm"
+            },
+            {
+              "name": "中央社",
+              "url": "https://www.cna.com.tw/news/aopl/202611060101.aspx"
+            },
+            {
+              "name": "Nippon.com",
+              "url": "https://www.nippon.com/en/articles/-/57007"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "亞股收市續挫　日經跌近6%韓股跌6%台股跌4.5% AI鏈受壓",
+          "summary": "受美股AI相關拋售及監管憂慮延續影響，日經平均指數收市跌5.96%報57434點連跌五日，首爾綜合指數跌6.02%報5059點本周累跌近12%，台股收市跌4.51%，晶片及AI概念股普遍受壓。",
+          "time_hkt": "2026-11-06T15:07:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876821-20261106.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876822-20261106.htm"
+            },
+            {
+              "name": "Yonhap",
+              "url": "https://en.yna.co.kr/view/AEN20261106007852320"
+            },
+            {
+              "name": "Focus Taiwan",
+              "url": "https://focustaiwan.tw/business/202611060011"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "滬深股市低收1%至近4%　全星期仍錄得升幅結束連跌",
+          "summary": "內地股市星期五收市偏軟，上證指數跌1.1%、深成指跌2.57%、創業板指跌約4%，算力硬件及半導體等股份受壓；但全星期計三大指數仍升逾1%至3%，結束之前連續多周跌勢。",
+          "time_hkt": "2026-11-06T15:39:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876827-20261106.htm"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "港交所上季盈利跌約1%至48.59億元　首3季盈利升15%收入創新高",
+          "summary": "港交所公布第三季盈利48.59億元按年跌約1%，收入及其他收益78.67億元按年升1%；今年首3季盈利升15%至154.27億元、收入升12%至245.69億元創同期新高，行政總裁陳翊庭指交投從次季高位回落但仍見多元資產生態圈進展。",
+          "time_hkt": "2026-11-06T12:43:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876803-20261106.htm"
+            },
+            {
+              "name": "Yahoo財經／阿思達克",
+              "url": "https://hk.finance.yahoo.com/news/%E8%97%8D%E7%B1%8C-%E6%B8%AF%E4%BA%A4%E6%89%80-00388-hk-%E7%AC%AC%E4%B8%89%E5%AD%A3%E7%B4%94%E5%88%A9%E6%8C%89%E5%B9%B4%E8%B7%8C0-042050726.html"
+            },
+            {
+              "name": "港交所",
+              "url": "https://www.hkex.com.hk/-/media/HKEX-Market/News/News-Release/2026/261106news/261106news_c.pdf"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "港股下午初段跌約1.3%　科指跌近2% AI概念股續受壓",
+          "summary": "港股下午繼續向下，恒生指數較早時報24483點跌313點或約1.26%，科技指數報4073點跌近2%，延續早市受美股AI科技股急挫拖累的弱勢。",
+          "time_hkt": "2026-11-06T13:22:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876807-20261106.htm"
+            },
+            {
+              "name": "新浪香港",
+              "url": "https://portal.sina.com.hk/news-hongkong/news-realtime/rthk/2026/11/06/1979251/%e6%b8%af%e8%82%a1%e4%b8%8b%e5%8d%88%e5%88%9d%e6%ae%b5%e8%b7%8c%e7%b4%841-3%e3%80%80%e7%a7%91%e6%8c%87%e8%b7%8c%e8%bf%912/"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "陳茂波：自生物科技上市改革以來香港已成全球第二大生物科技集資中心",
+          "summary": "財政司司長陳茂波在國際生物計算創新峰會表示，自2018年容許未有收入生物科技企業上市以來，香港已成為全球第二大生物科技集資中心，並指會推進監管評估能力、河套數據流通及生命健康科研基建以對接國家新興產業方向。",
+          "time_hkt": "2026-11-06T13:47:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876812-20261106.htm"
+            },
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202611/06/P2026110600251.htm"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "中國以國安審查禁止軟銀收購ABB在華機器人業務　54億美元交易受阻",
+          "summary": "軟銀及ABB確認，中國外商投資安全審查工作機制辦公室禁止軟銀收購ABB在中國的機器人業務，令約54億美元交易受阻；報道指當局憂慮機器人數據外流用於訓練AI，雙方表示仍就交易保持溝通。",
+          "time_hkt": "2026-11-06T12:00:00+08:00",
+          "sources": [
+            {
+              "name": "SoftBank",
+              "url": "https://group.softbank/media/Project/sbg/sbg/news/press/2026/20261106/pdf/20261106_en.pdf"
+            },
+            {
+              "name": "ABB",
+              "url": "https://new.abb.com/news/detail/140154/update-on-divestment-of-abb-robotics"
+            },
+            {
+              "name": "紐約時報中文網",
+              "url": "https://cn.nytimes.com/business/20261106/softbank-robotics-china-block/zh-hant/dual/"
+            },
+            {
+              "name": "聯合早報",
+              "url": "https://www.zaobao.com.sg/news/china/story20261105-9951988"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
