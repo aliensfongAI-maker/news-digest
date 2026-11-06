@@ -1,0 +1,161 @@
+{
+  "date": "2026-11-06",
+  "hour": "08",
+  "updatedAt": "2026-11-06T08:05:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "美國第一夫人梅拉妮婭在白宮會晤俄烏代表　籲以奧列什基停火為起點推動持久和平",
+          "summary": "美國第一夫人梅拉妮婭在白宮會見俄羅斯與烏克蘭代表，紀念她促成的赫爾松州奧列什基六日人道停火，指近800名居民得以撤離，並呼籲雙方以該停火為起點，推動更持久的和平，同時轉交致兩國總統的信件。",
+          "time_hkt": "2026-11-06T05:35:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876739-20261106.htm"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/c9p8g085mz07o"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/5/melania-trump-calls-for-peace-at-meeting-with-russia-ukraine-officials"
+            },
+            {
+              "name": "White House",
+              "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-unites-russia-and-ukraine-at-the-white-house-following-historic-ceasefire/"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "法國工會發起全國罷工抗議生活成本　當局稱逾57萬人參與　448人被捕",
+          "summary": "法國多個工會在當地星期四發起全國罷工示威，要求加薪及稅制改革，內政部指約57.5萬人參與、總工會則稱達160萬；抗議大致和平，但里昂等城市發生衝突，當局稱448人被捕、逾50名警員受傷，總理勒科爾尼下周一將與勞資雙方會面。",
+          "time_hkt": "2026-11-06T04:10:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876734-20261106.htm"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/ckx2qzv835pgo"
+            },
+            {
+              "name": "France 24",
+              "url": "https://www.france24.com/en/live-news/20261105-%F0%9F%94%B4-live-interior-ministry-says-600-000-protest-across-france-as-unions-claim-close-to-1-6-million"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "伊朗安全官員向普京轉達最高領袖訊息　外長與海灣多國外長通話促降溫",
+          "summary": "俄羅斯總統普京在莫斯科會見伊朗最高國家安全委員會秘書雷扎伊，對方轉達最高領袖穆傑塔巴的訊息並討論地區局勢；伊朗外長阿拉格齊同日亦與阿曼、沙特、卡塔爾、土耳其及科威特等國外長通話，強調保障霍爾木茲海峽航道安全及推動局勢緩和。",
+          "time_hkt": "2026-11-06T07:02:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876741-20261106.htm"
+            },
+            {
+              "name": "Anadolu Agency",
+              "url": "https://www.aa.com.tr/en/world/iran-s-security-chief-delivers-supreme-leader-s-message-to-putin-during-moscow-visit/4113203"
+            },
+            {
+              "name": "Iran International",
+              "url": "https://www.iranintl.com/en/202611054901"
+            },
+            {
+              "name": "Al-Monitor",
+              "url": "https://www.al-monitor.com/originals/2026/11/irans-security-chief-discusses-regional-bilateral-affairs-putin"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "澤連斯基與歐洲理事會主席科斯塔在馬德里會面　磋商入盟及阿布扎比會談",
+          "summary": "烏克蘭總統澤連斯基與歐洲理事會主席科斯塔在西班牙馬德里會面，重點討論加快烏克蘭入盟談判、歐洲參與安全保障與戰後重建，以及阿布扎比烏美俄三方會晤籌備；烏總理亦表示已收到歐盟43.6億歐元援助貸款。",
+          "time_hkt": "2026-11-06T04:57:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876735-20261106.htm"
+            },
+            {
+              "name": "Ukrinform",
+              "url": "https://www.ukrinform.net/rubric-polytics/4181853-zelensky-costa-discuss-preparations-for-abu-dhabi-meeting-ukraines-eu-integration.html"
+            }
+          ],
+          "rank": 4
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "油價反彈布蘭特期油升近4%　海灣油輪遇襲加劇供應憂慮",
+          "summary": "國際油價反彈，波斯灣及霍爾木茲海峽一帶油輪遇襲報道令市場重新擔憂供應，布蘭特期油1月合約收報每桶98.29美元、升約3.9%，紐約期油收報90.52美元、升逾2.7%，扭轉前一日逾8%的急跌。",
+          "time_hkt": "2026-11-06T06:16:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876745-20261106.htm"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/05/oil-falls-for-a-fourth-day-on-expectations-for-lower-risk-of-iran-war-escalation.html"
+            },
+            {
+              "name": "Reuters",
+              "url": "https://www.investing.com/news/commodities-news/tankers-hit-in-hormuz-as-iran-keeps-up-pressure-after-us-vote-5005038"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "現貨金曾升穿4100美元創逾半個月新高　美元及美債孳息率回落",
+          "summary": "金價受美元及美債孳息率下跌支持，現貨金一度升穿每盎司4100美元、高見4146.63美元，創逾半個月新高；紐約期金收報4113.5美元升約1%，同期美元指數低見101.18、10年期美債息低見4.814厘。",
+          "time_hkt": "2026-11-06T06:23:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876747-20261106.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876750-20261106.htm"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/05/gold-hits-two-week-high-as-dollar-yields-ease-after-us-midterms.html"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "港股美國預託證券下挫　阿里巴巴ADR跌近3%",
+          "summary": "受隔晚美股科技股急挫拖累，港股美國預託證券普遍下挫，阿里巴巴ADR較本港前收跌近3%、折合報105.9港元，滙控跌逾2%，港交所及小米跌近2%，騰訊、京東及平保ADR亦跌逾1%。",
+          "time_hkt": "2026-11-06T06:14:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876744-20261106.htm"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
