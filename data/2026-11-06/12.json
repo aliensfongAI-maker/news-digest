@@ -1,0 +1,243 @@
+{
+  "date": "2026-11-06",
+  "hour": "12",
+  "updatedAt": "2026-11-06T12:08:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "鍾麗玲：土地查冊新安排令制度清晰　保障業主私隱亦避免查冊人墮法網",
+          "summary": "個人資料私隱專員鍾麗玲在電台節目表示，政府收緊土地查冊、列明九項指定目的，有助清晰制度、保障業主私隱及避免查冊人誤墮法網；她指公署過去五年接獲20宗濫用土地登記冊資料投訴，今年已有6宗，情況有惡化跡象，並指傳媒查冊亦須符合公眾利益。",
+          "time_hkt": "2026-11-06T10:26:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876775-20261106.htm"
+            },
+            {
+              "name": "商業電台",
+              "url": "https://www.881903.com/news/local/2658252"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60407784/%E5%9C%9F%E5%9C%B0%E6%9F%A5%E5%86%8A%E6%96%B0%E5%88%B6%E6%8B%92%E8%A8%AD%E4%B8%8A%E8%A8%B4-%E7%99%BC%E5%B1%95%E5%B1%80%E7%B1%B2%E5%82%B3%E5%AA%92%E6%94%BE%E5%BF%83-%E8%A8%BB%E5%86%8A%E6%A9%9F%E6%A7%8B%E8%BC%83%E7%8D%B2%E4%BF%A1%E7%B4%8D"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "林定國稱不適合就黃之鋒案作太多評論　強調案件百分百依據法治原則進行",
+          "summary": "律政司司長林定國在香港法律周閉幕活動上表示，黃之鋒串謀勾結外國勢力案法律程序或有進一步發展，不宜在庭外多作評論，但強調整個過程包括公平審訊均百分百符合法治原則，並指被告在認罪前提下接受判刑，鼓勵公眾閱讀詳細判刑理由書。",
+          "time_hkt": "2026-11-06T11:54:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876801-20261106.htm"
+            },
+            {
+              "name": "商業電台",
+              "url": "https://www.881903.com/news/local/2658256"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "巴拉圭銀行危機觸發政治風暴　總統培尼亞辭職未果國會啟動彈劾",
+          "summary": "巴拉圭最大數字銀行韋諾銀行被央行接管導致約300萬客戶無法提款，總統培尼亞因曾是銀行股東被指利益衝突後宣布辭職，惟國會人數不足令辭呈暫未通過，他暫時留任，眾議院同日啟動彈劾程序，首都連日爆發抗議。",
+          "time_hkt": "2026-11-06T10:09:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876772-20261106.htm"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/c6p9g39vln3yo"
+            },
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "白宮否認防長與國務卿離職傳聞　特朗普稱仍打算讓赫格塞思留任",
+          "summary": "美國白宮否認國防部長赫格塞思與國務卿魯比奧將離職的傳聞；特朗普表示雖然收到對赫格塞思的投訴，但仍打算讓他留任，魯比奧則否認會離職競選總統，指計劃留任至本屆政府任期結束。",
+          "time_hkt": "2026-11-06T10:47:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876782-20261106.htm"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/cqg7xxg4jdv5o"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "澳門首宗國安案宣判　前立法會議員區錦新判囚12年6個月",
+          "summary": "澳門初級法院就首宗國安案件宣判，前立法會議員區錦新被裁定顛覆國家政權、與境外組織建立聯繫危害國安及違反保密等罪成，判處監禁12年6個月。",
+          "time_hkt": "2026-11-06T11:34:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876794-20261106.htm"
+            },
+            {
+              "name": "商業電台",
+              "url": "https://www.881903.com/news/local/2658257"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/macao-china-national-security-917e12a582c6ae127144dafe2b3451e0"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "加州州長紐森宣布將全州約548名死囚減刑為終身監禁",
+          "summary": "美國加州州長紐森宣布把全州所有死刑改為終身監禁，涉及約548名死囚，指死刑與加州價值觀不相容，並稱這是其任內最困難決定之一；加州已逾二十年未有執行死刑。",
+          "time_hkt": "2026-11-06T10:41:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/en/component/k2/1876776-20261106.htm"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/cqrkyyd2j8mvo"
+            }
+          ],
+          "rank": 4
+        },
+        {
+          "headline": "以色列在加沙開火及空襲釀5死包括一名兒童",
+          "summary": "加沙民防機構表示，以色列星期四在加沙中部、南部及加沙城西部等地開火及空襲，造成包括一名12歲男童及一名女子在內共5人死亡；以軍稱打擊「恐怖分子」，並表示正調查罕尤尼斯一帶女子死亡事件。",
+          "time_hkt": "2026-11-06T08:42:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/en/component/k2/1876738-20261106.htm"
+            },
+            {
+              "name": "DAWN",
+              "url": "https://www.dawn.com/news/2042440"
+            }
+          ],
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "亞股受美股AI科技股急挫拖累　韓股熔斷日股半日跌逾5%",
+          "summary": "受隔夜美股科技股大跌影響，亞洲股市星期五早市急挫，韓國綜指初段曾跌逾8%觸發熔斷，日經指數半日跌約5.3%並曾失守六萬點創近七個月新低，台股初段亦急挫約9%，市場憂慮美國中期選舉後AI與數據中心監管收緊。",
+          "time_hkt": "2026-11-06T10:41:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876778-20261106.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/en/component/k2/1876763-20261106.htm"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/markets-japan-nikkei-oil-ai-bba6f0bf9035a6e6b1c4fef3e8230b89"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "滬深股市半日跌逾1%至3.5%　算力硬件及科技股受壓",
+          "summary": "內地股市星期五半日偏軟，上證指數跌1.14%、深成指跌2.22%、創業板指跌3.5%，算力硬件等科技股下挫，反映隔夜美股AI相關拋售情緒蔓延至A股。",
+          "time_hkt": "2026-11-06T11:57:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876798-20261106.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/en/component/k2/1876774-20261106.htm"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "港股受美股科技股拖累　恒指競價跌392點其後跌幅收窄",
+          "summary": "港股星期五跟隨環球科技股調整，恒生指數競價時段報24404點，跌392點或1.58%，科技指數跌逾3%；其後跌幅收窄至約0.5%，AI相關概念股仍受壓。",
+          "time_hkt": "2026-11-06T09:24:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876765-20261106.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876780-20261106.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/en/component/k2/1876774-20261106.htm"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "余偉文：環球兩大風險為能源價格上升及AI相關投資　料今季外匯基金表現較困難",
+          "summary": "金管局總裁余偉文在立法會表示，環球貨幣狀況持續收緊，風險點包括能源價格上升及人工智能相關投資，並指美股AI股份已大幅回落；他稍後亦表示預料今季市場繼續波動，外匯基金表現較困難。",
+          "time_hkt": "2026-11-06T10:04:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876770-20261106.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876791-20261106.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "滙控擬發行15億美元永久後償或有可轉換證券",
+          "summary": "滙控公布將於下星期五發行本金總額15億美元永久後償或有可轉換證券，票面息率7.625厘，預期集資淨額約14.85億美元，用作一般公司事務及維持或加強資本基礎。",
+          "time_hkt": "2026-11-06T09:12:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876759-20261106.htm"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    }
+  ]
+}
