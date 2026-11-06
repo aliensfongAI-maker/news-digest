@@ -1,0 +1,199 @@
+{
+  "date": "2026-11-07",
+  "hour": "00",
+  "updatedAt": "2026-11-07T00:10:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "堅尼地城寶翠園外傭疑在女童食物中吐口水　涉虐兒被捕",
+          "summary": "西區警區接報指寶翠園一名37歲菲律賓籍外傭懷疑不恰當對待4歲女童，初步調查指其疑在女童食物中吐口水，外傭涉虐兒被捕扣查，女童無表面傷痕毋須送院。",
+          "time_hkt": "2026-11-06T21:44:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876877-20261106.htm"
+            },
+            {
+              "name": "東網",
+              "url": "https://hk.on.cc/hk/bkn/cnt/news/20261106/bkn-20261106181104479-1106_00822_001.html"
+            },
+            {
+              "name": "am730",
+              "url": "https://www.am730.com.hk/%E6%9C%AC%E5%9C%B0/1062507/%E8%A5%BF%E7%92%B0%E8%8F%B2%E5%82%AD%E6%B6%89%E8%99%90%E5%85%92%E8%A2%AB%E6%8D%95-%E6%9B%BE%E5%90%914%E6%AD%B2%E5%A5%B3%E5%B0%91%E4%B8%BB%E9%A3%9F%E7%89%A9%E5%90%90%E5%8F%A3%E6%B0%B4"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "習近平晤奧地利總理施托克爾　籲共同踐行真正多邊主義及支持自貿",
+          "summary": "國家主席習近平在北京會見來華訪問的奧地利總理施托克爾，強調中奧要共同踐行真正多邊主義、支持自由貿易，並指發展壯大的中國是可助歐洲解決問題的夥伴；施托克爾表示願全面加強貿易投資及科技創新合作。",
+          "time_hkt": "2026-11-06T20:32:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876873-20261106.htm"
+            },
+            {
+              "name": "外交部",
+              "url": "https://www.mfa.gov.cn/wjdt_674879/gjldrhd_674881/202611/t20261106_12055042.shtml"
+            },
+            {
+              "name": "新華社",
+              "url": "https://www.news.cn/20261106/c4c5a78898144156b89fc4359dff6511/c.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "中菲執法部門合作遣返過百名涉賭詐犯罪疑犯",
+          "summary": "中國駐菲律賓大使館表示，在中菲兩國執法部門合作下遣返超過100名涉及賭詐犯罪的疑犯，並指2023年以來兩國累計遣返逾2600名疑犯，中方願繼續密切合作打擊跨國犯罪。",
+          "time_hkt": "2026-11-06T21:52:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876879-20261106.htm"
+            },
+            {
+              "name": "新華網",
+              "url": "https://www.news.cn/world/20261106/0834de5d35d44848859422682375ebd2/c.html"
+            },
+            {
+              "name": "央視網",
+              "url": "https://news.cctv.cn/2026/11/06/ARTI7x5oomUlJcZwRfuV11Be261106.shtml"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "俄羅斯否認對歐洲多國超市冷藏設備發動黑客攻擊",
+          "summary": "歐洲多地超市冷藏設備近期遭網絡攻擊致溫度異常升高、食物變質，有報道指可能涉及為俄效力的黑客組織；克里姆林宮發言人佩斯科夫否認指控，稱屬荒誕且無證據，並指同類誣告在歐洲漸成常態。",
+          "time_hkt": "2026-11-06T21:51:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876878-20261106.htm"
+            },
+            {
+              "name": "Politico",
+              "url": "https://www.politico.eu/article/russia-denies-involvement-in-fridge-hacks-across-europe/"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "日本關東以東海域發生6.1級淺層地震　東京有震感",
+          "summary": "日本氣象廳表示關東地區以東海域晚間發生6.1級地震，震源深度約10公里，宮城、福島、茨城部分地區震感較強，首都東京亦感受到震動；本港天文台指震央位於東京東南偏東約250公里。",
+          "time_hkt": "2026-11-06T20:29:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876872-20261106.htm"
+            },
+            {
+              "name": "新華社",
+              "url": "https://www.news.cn/20261106/0e13ebd80b1e4bd89a814d148559ef33/c.html"
+            }
+          ],
+          "rank": 4
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "美國10月非農就業新增16.5萬個職位　失業率降至4.1%",
+          "summary": "美國勞工部公布10月非農就業新增16.5萬個職位，遠高於市場預期約6.5萬個，失業率由4.2%降至4.1%；平均時薪按月升0.4%，私人市場及製造業職位亦多於預期。",
+          "time_hkt": "2026-11-06T21:45:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876876-20261106.htm"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html"
+            },
+            {
+              "name": "香港電台英文",
+              "url": "https://news.rthk.hk/rthk/en/component/k2/1876880-20261106.htm"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "美股初段個別發展　晶片股反彈費城半導體指數升逾6%",
+          "summary": "美股開市初段個別發展，納指升約1.6%、標普500升約0.7%，道指則跌約0.5%；費城半導體指數升逾6%，美光、英特爾及Nvidia分別升近10%、逾8%及近7%。",
+          "time_hkt": "2026-11-06T22:56:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876881-20261106.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "美國密歇根大學11月消費者信心指數初值報51　高過預期",
+          "summary": "密歇根大學公布11月消費者信心指數初值為51，高過市場預期的48；現況指數及預期指數初值亦分別高過預期，一年及五年通脹預期初值為4.3%及3.4%。",
+          "time_hkt": "2026-11-06T23:08:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876882-20261106.htm"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "國常會：完善資本市場穩市機制　增強股市內在穩定性",
+          "summary": "國務院常務會議指出要完善資本市場穩市機制、增強股市內在穩定性，並持續化解地方政府債務及中小金融機構等風險，同時要求紮實推進政策落地以確保完成全年經濟社會發展主要目標。",
+          "time_hkt": "2026-11-06T21:06:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876874-20261106.htm"
+            }
+          ],
+          "rank": 4
+        },
+        {
+          "headline": "深交所擬修訂創業板指數編制方案　單隻股份權重上限逐步下調至15%",
+          "summary": "深圳證券交易所決定修訂創業板指數編制方案，將單隻樣本股權重上限逐步下調至15%，以減輕超級權重股波動放大效應及降低集中風險，修訂將於下月14日定期調整時生效。",
+          "time_hkt": "2026-11-06T21:07:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876875-20261106.htm"
+            },
+            {
+              "name": "中國金融信息網",
+              "url": "https://www.cnfin.com/gs-lb/detail/20261106/4492264_1.html"
+            }
+          ],
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": []
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": []
+    }
+  ]
+}
