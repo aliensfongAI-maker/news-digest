@@ -1,0 +1,153 @@
+{
+  "date": "2026-11-07",
+  "hour": "04",
+  "updatedAt": "2026-11-07T04:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "元朗白沙村衣紙倉庫三級火　約12人疏散無人傷",
+          "summary": "元朗白沙村一個衣紙倉庫昨晚近11時起火並升為三級，消防動用3條喉及3隊煙帽隊灌救，至今日凌晨約12時45分大致救熄、其後受控；附近包括車房約12人一度疏散，暫時未有人受傷，起火原因仍在調查。",
+          "time_hkt": "2026-11-07T01:23:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876887-20261107.htm"
+            },
+            {
+              "name": "東網",
+              "url": "https://hk.on.cc/hk/bkn/cnt/news/20261107/bkn-20261107002750412-1107_00822_001.html"
+            },
+            {
+              "name": "香港政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202611/07/P2026110700016.htm"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "西半山般咸道深宵現孔明燈　險飄近民居消防檢走",
+          "summary": "今晨網上流傳影片顯示西營盤／西半山般咸道一帶有人施放孔明燈，一度飄近高樓民居；消防凌晨約0時59分接報到場，與警員在行人路檢獲已熄滅的孔明燈，有居民批評風高物燥下放飛極不負責任。",
+          "time_hkt": "2026-11-07T03:10:00+08:00",
+          "sources": [
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408079/%E8%A5%BF%E5%8D%8A%E5%B1%B1%E5%AD%94%E6%98%8E%E7%87%88%E5%8D%87%E7%A9%BA-%E9%9A%AA%E9%A3%84%E5%85%A5%E6%B0%91%E5%B1%85%E9%87%80%E7%81%AB%E7%81%BD-%E7%9B%AE%E6%93%8A%E8%80%85%E5%A0%B1%E6%A1%88-%E9%9B%A2%E6%99%92%E8%AD%9C-%E6%9C%89%E7%89%87"
+            },
+            {
+              "name": "東網",
+              "url": "https://hk.on.cc/hk/bkn/cnt/news/20261107/bkn-20261107022127647-1107_00822_001.html"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "立法會強烈譴責外部勢力詆毀抹黑黃之鋒案判刑",
+          "summary": "立法會發言人強烈譴責部分美西方國家、反華媒體、境外組織及政客藉黃之鋒串謀勾結案判刑發表失實言論，詆毀香港司法制度及國安法律，並指要求無條件釋放及撤控才是嚴重破壞法治。",
+          "time_hkt": "2026-11-07T00:32:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876884-20261107.htm"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "特朗普任命斯蒂芬·米勒接任白宮幕僚長　韋爾斯轉職政治團隊",
+          "summary": "美國總統特朗普在共和黨中期選舉失利後宣布，由副幕僚長斯蒂芬·米勒接替蘇西·韋爾斯出任白宮幕僚長，下周一履新；特朗普稱米勒是最信任顧問之一，韋爾斯則轉往「特朗普政治營運」繼續效力。",
+          "time_hkt": "2026-11-07T03:05:00+08:00",
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/cm9qzz5x9g5yo"
+            },
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/6/trump-says-making-adviser-stephen-miller-white-house-chief-of-staff"
+            },
+            {
+              "name": "NBC News",
+              "url": "https://www.nbcnews.com/politics/donald-trump/trump-stephen-miller-susie-wiles-white-house-chief-of-staff-rcna607892"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "土耳其西部連環槍擊案疑犯落網　據報涉財務糾紛釀8死",
+          "summary": "土耳其西部阿菲永卡拉希薩爾省伊赫桑尼耶區日前發生連環槍擊致8死1傷，當局其後在鄰近埃斯基謝希爾省拘捕一名28歲收割機操作員；當地傳媒指其動機源於購買聯合收割機的債務及機器被燒毀等財務糾紛。",
+          "time_hkt": "2026-11-07T03:29:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876885-20261107.htm"
+            },
+            {
+              "name": "新華社",
+              "url": "https://english.news.cn/20261106/24336d9c9ce6474d86d508941acc3e32/c.html"
+            },
+            {
+              "name": "Hürriyet Daily News",
+              "url": "https://www.hurriyetdailynews.com/suspect-in-deadly-shooting-spree-in-afyonkarahisar-detained-229097"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "比利時國王拒絕接受首相辭呈　要求立即重開預算談判",
+          "summary": "比利時國王菲利普拒絕接受首相德韋弗因聯邦預算談判破裂而遞交的辭呈，要求立即恢復與執政聯盟五黨的預算磋商，並指各黨領袖已承諾願意讓步；德韋弗將於本月16日再向國王匯報進展。",
+          "time_hkt": "2026-11-07T02:25:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876883-20261107.htm"
+            },
+            {
+              "name": "Politico",
+              "url": "https://www.politico.eu/article/king-philippe-refuses-prime-minister-bart-de-wever-resignation/"
+            },
+            {
+              "name": "Euronews",
+              "url": "https://www.euronews.com/2026/11/06/belgian-king-refuses-pm-bart-de-wevers-resignation-and-asks-him-to-restart-budget-talks"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "傳台積電應輝達要求評估生產3D DRAM先進記憶體",
+          "summary": "科技媒體The Information引述知情人士指，台積電近期應最大客戶輝達要求，開始規劃生產垂直堆疊架構的3D DRAM先進記憶體，並評估新建廠或收購現有廠房改建；台積電回應不評論市場傳聞，強調專注晶圓代工本業。",
+          "time_hkt": "2026-11-07T01:22:00+08:00",
+          "sources": [
+            {
+              "name": "中央社",
+              "url": "https://www.cna.com.tw/news/ait/202611070002.aspx"
+            },
+            {
+              "name": "聯合新聞網",
+              "url": "https://udn.com/news/story/7240/9862986"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
