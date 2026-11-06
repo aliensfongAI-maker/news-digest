@@ -1,0 +1,313 @@
+{
+  "date": "2026-11-06",
+  "hour": "20",
+  "updatedAt": "2026-11-06T20:05:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "打擊圍標聯合特遣隊首次行動瓦解涉黑集團　拘28人涉約1億元維修合約",
+          "summary": "保安局局長鄧炳強公布，打擊樓宇維修工程圍標聯合特遣隊首個聯合行動瓦解涉嫌黑社會操控的圍標集團，拘捕承建商、顧問、物管及法團等28人，涉12份已批合約約1億元，另搗破非法場所再拘38人，並設24小時舉報熱線182000及賞金制度。",
+          "time_hkt": "2026-11-06T17:36:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876850-20261106.htm"
+            },
+            {
+              "name": "商業電台",
+              "url": "https://www.881903.com/news/local/2658320"
+            },
+            {
+              "name": "東網",
+              "url": "https://hk.on.cc/hk/bkn/cnt/news/20261106/bkn-20261106174129676-1106_00822_001.html"
+            },
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202611/06/P2026110600496.htm"
+            },
+            {
+              "name": "南華早報",
+              "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3373575/hong-kong-authorities-arrest-28-crackdown-bid-rigging-after-tai-po-fire"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "中九龍繞道下月6日全線通車　運輸署進行最後系統測試並安排巴士改道",
+          "summary": "運輸署表示中九龍繞道將於12月6日全線通車，正與相關部門進行最後系統測試，並將安排城巴795、九巴290E及城巴A28X改經九龍灣段取道六號幹線，預計繁忙時段將軍澳往油麻地行車時間可由約65分鐘大幅縮短至約12分鐘。",
+          "time_hkt": "2026-11-06T16:57:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876844-20261106.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "海關機場檢約140萬元懷疑大麻花　兩名由曼谷抵港內地女子被捕",
+          "summary": "海關在香港國際機場偵破兩宗航空入境旅客販毒案，於兩名由泰國曼谷抵港的內地女旅客手提行李分別檢獲合共約7公斤懷疑大麻花，估計市值約140萬元，兩人已被捕，案件仍在調查。",
+          "time_hkt": "2026-11-06T19:50:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876867-20261106.htm"
+            },
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202611/06/P2026110600678.htm"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "警方打擊非法白牌車拘35歲男司機　喬裝預約荃灣往廣州服務索價1950元",
+          "summary": "警方透過網上巡查發現有人在社交平台招攬跨境載客，喬裝乘客預約由荃灣往廣州的七人車服務並被索價1950元，當場拘捕一名35歲本地男司機，涉利用汽車作非法出租或載客取酬及沒有第三者保險使用車輛，人車已扣查並准保釋候查。",
+          "time_hkt": "2026-11-06T17:42:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876851-20261106.htm"
+            }
+          ],
+          "rank": 4
+        },
+        {
+          "headline": "進口冷藏雞腿樣本檢出獸藥強力霉素超標　食安中心籲停食並回收受影響批次",
+          "summary": "食安中心公布一個來自中國、品牌「城字」的進口冷藏雞腿樣本每公斤檢出強力霉素0.18毫克，超逾法例上限0.1毫克，已指令進口商停售下架並回收，強調按檢出含量在正常食用下不會對健康造成不良影響。",
+          "time_hkt": "2026-11-06T19:13:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876863-20261106.htm"
+            },
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202611/06/P2026110600659.htm"
+            }
+          ],
+          "rank": 5
+        },
+        {
+          "headline": "分判商涉向時任機電署高級工程師行賄4萬元罪成　判囚12個月",
+          "summary": "一名機電署分判商董事因就兩份總值約9140萬元小型工程合約，向時任高級屋宇裝備工程師提供4萬元現金賄款換取優待，被裁定向公職人員提供利益罪成，於東區裁判法院判囚12個月。",
+          "time_hkt": "2026-11-06T16:46:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876842-20261106.htm"
+            }
+          ],
+          "rank": 6
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "特朗普與卡塔爾埃米爾通話　討論緩和美伊緊張及區域斡旋",
+          "summary": "美國總統特朗普與卡塔爾埃米爾塔米姆通話，雙方檢視雙邊戰略關係，並討論卡塔爾推動緩和區域緊張、促成全面協議的外交斡旋，塔米姆強調須持續對話並以外交手段防止局勢升級及保障航道與能源供應安全。",
+          "time_hkt": "2026-11-06T18:47:00+08:00",
+          "sources": [
+            {
+              "name": "中央社",
+              "url": "https://www.cna.com.tw/news/aopl/202611060292.aspx"
+            },
+            {
+              "name": "The Peninsula Qatar",
+              "url": "https://thepeninsulaqatar.com/article/06/11/2026/amir-receives-phone-call-from-us-president-17"
+            },
+            {
+              "name": "Anadolu Agency",
+              "url": "https://www.aa.com.tr/en/middle-east/qatari-emir-trump-discuss-efforts-to-ease-us-iran-tensions-in-phone-call/4113811"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "十四屆全國人大常委會閉幕　通過反跨境腐敗法等並批准成立世界人工智能合作組織協定",
+          "summary": "十四屆全國人大常委會第二十五次會議在北京閉幕，表決通過檢察公益訴訟法、反跨境腐敗法、新修訂水法及修改突發事件應對法等法律，並通過批准《關於成立世界人工智能合作組織的協定》的決定，國家主席習近平簽署相關主席令。",
+          "time_hkt": "2026-11-06T19:46:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876865-20261106.htm"
+            },
+            {
+              "name": "新華網",
+              "url": "https://www.news.cn/politics/20261106/f895f9119ae240048fa7f5bb2dff9ecd/c.html"
+            },
+            {
+              "name": "央視網",
+              "url": "https://news.cctv.cn/2026/11/06/ARTIM2SRNmxeRvKeUBcFs3N1261106.shtml"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "意大利羅馬機場接匿名炸彈威脅　布拉格飛羅馬客機改道威尼斯降落排查",
+          "summary": "意大利羅馬菲烏米奇諾機場控制塔據報接獲匿名電話，指一架由捷克布拉格飛往羅馬的客機藏有爆炸裝置，涉事航班其後改道降落威尼斯，警方正進行安全排查。",
+          "time_hkt": "2026-11-06T19:54:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876868-20261106.htm"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "何立峰將赴加拿大主持第二次中加經濟財金戰略對話",
+          "summary": "中國外交部宣布，經雙方商定，第二次中加經濟財金戰略對話將於下星期一在加拿大舉行，由國務院副總理何立峰與加拿大財政部長商鵬飛及國際貿易部長西杜共同主持。",
+          "time_hkt": "2026-11-06T16:29:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876836-20261106.htm"
+            }
+          ],
+          "rank": 4
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "紐約聯儲總裁威廉姆斯：美國通脹過高必須降至2%目標　宜再蒐集更多數據",
+          "summary": "紐約聯儲銀行總裁威廉姆斯在法蘭克福表示，美國經濟增長具韌性、勞動力市場穩定，但通脹絕對過高且已太久，必須及時並持續地降至2%目標；他指通脹預期仍受控、工資增長與目標相符，現階段宜蒐集更多資訊以決定適當政策立場。",
+          "time_hkt": "2026-11-06T19:19:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876861-20261106.htm"
+            },
+            {
+              "name": "路透／Investing.com",
+              "url": "https://www.investing.com/news/economy-news/us-inflation-too-high-essential-to-get-back-to-2-feds-williams-5007154"
+            },
+            {
+              "name": "FXStreet",
+              "url": "https://www.fxstreet.com/news/feds-williams-appropriate-time-to-accumulate-more-information-202611060957"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "恒指收市跌315點報24481　結束五日升勢本周仍累升逾5%",
+          "summary": "港股受美股AI科技股急挫拖累結束五日升勢，恒生指數收市報24481點跌315點或近1.3%，科指跌1.8%，主板成交逾2474億元；全星期計恒指累升1187點或5.1%、科指升8.6%，均創逾一年半最大單周升幅。",
+          "time_hkt": "2026-11-06T16:32:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876834-20261106.htm"
+            },
+            {
+              "name": "商業電台",
+              "url": "https://www.881903.com/news/finance/2658298"
+            },
+            {
+              "name": "Yahoo財經",
+              "url": "https://hk.finance.yahoo.com/news/%E6%81%92%E6%8C%87%E5%85%A8%E6%97%A5%E6%94%B6%E5%A0%B124481-86%E9%BB%9E-%E8%B7%8C-1-27-081500771.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "金管局：第三季中小企信貸狀況略有改善　認為批核較困難比例降至17%",
+          "summary": "金管局公布第三季中小企貸款狀況調查，83%受訪中小企認為銀行批核取態與六個月前相比沒有分別或較容易，按季升5個百分點；認為較困難者降至17%，獲批貸款企業中僅2%表示銀行取態收緊，但新貸款申請成功率按季跌至78%。",
+          "time_hkt": "2026-11-06T18:29:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876856-20261106.htm"
+            },
+            {
+              "name": "金管局",
+              "url": "https://www.hkma.gov.hk/chi/news-and-media/press-releases/2026/11/20261106-4/"
+            },
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202611/06/P2026110600509.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "本港二手樓價按周跌0.17%連跌四周　創近五個月低位",
+          "summary": "中原城市領先指數最新報159.11點，按周跌0.17%並連跌四周，是逾兩年來首次四周連跌，創近五個月低位；港島樓價按周跌逾2.5%，中原地產指新盤低價促銷、息口預期及金融市場波動令二手市場持續受壓。",
+          "time_hkt": "2026-11-06T17:35:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876838-20261106.htm"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "人民幣兌美元收市報6.6711　較上日微跌1點子",
+          "summary": "人民幣兌美元收市報6.6711，較上日收市微跌1點子；市場人士指全球科技股重挫令避險情緒升溫，加上美國非農數據公布前美元反覆向上，人民幣稍為受壓。",
+          "time_hkt": "2026-11-06T18:20:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876852-20261106.htm"
+            }
+          ],
+          "rank": 4
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "香港金融科技周x StartmeupHK閉幕　吸引逾4.8萬名來自120多個經濟體與會者",
+          "summary": "香港金融科技周x StartmeupHK 2026圓滿結束，吸引逾4.8萬名來自120多個經濟體的與會者，並有逾1100名講者及800家展商參與，討論涵蓋人工智能、數碼資產及跨境擴張，凸顯香港作為Finance+與AI+匯聚平台角色。",
+          "time_hkt": "2026-11-06T19:04:00+08:00",
+          "sources": [
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202611/06/P2026110600377.htm"
+            },
+            {
+              "name": "新浪香港",
+              "url": "https://portal.sina.com.hk/finance/gia-info-gov-hk/2026/11/06/1979615/%E9%A6%99%E6%B8%AF%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80%E5%91%A8-x-startmeuphk-2026%E5%9C%93%E6%BB%BF%E7%B5%90%E6%9D%9F%E3%80%80%E5%90%B8%E5%BC%95%E9%80%BE48-000%E8%88%87%E6%9C%83%E8%80%85%E3%80%80/"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "澳洲潔淨科技企ClearVue在港設全球研發基地　聚焦大灣區太陽能發電玻璃",
+          "summary": "投資推廣署宣布澳洲上市潔淨科技企業ClearVue在香港設立全球研發基地，並透過與內地真空玻璃商洛陽蘭迪的合資公司，結合其專利太陽能玻璃技術與內地製造優勢，以大灣區為重點拓展亞洲業務。",
+          "time_hkt": "2026-11-06T17:45:00+08:00",
+          "sources": [
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202611/06/P2026110400656.htm"
+            },
+            {
+              "name": "香港文匯報",
+              "url": "https://www.wenweipo.com/a/202611/06/AP6aeda6dbe4b028ec0192dd38.html"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    }
+  ]
+}
