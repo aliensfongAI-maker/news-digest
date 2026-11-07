@@ -1,0 +1,63 @@
+{
+  "date": "2026-11-08",
+  "hour": "00",
+  "updatedAt": "2026-11-08T00:20:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "筲箕灣男子踢波被球擊中胸口昏迷　街坊急救後送深切治療",
+          "summary": "一名27歲男子星期六下午近5時在筲箕灣耀興道配水庫遊樂場踢足球時，疑被足球擊中胸口後當場昏迷，經街坊施行心肺復甦後送往東區醫院深切治療部；其父稱兒子曾心跳停頓需電擊復甦，事故原因仍在調查。",
+          "time_hkt": "2026-11-07T21:35:00+08:00",
+          "sources": [
+            {
+              "name": "香港文匯報",
+              "url": "https://www.wenweipo.com/a/202611/07/AP6aef2907e4b028ec0193057b.html"
+            },
+            {
+              "name": "點新聞",
+              "url": "https://www.dotdotnews.com/a/202611/07/AP6aef2f18e4b091a65a2f0601.html"
+            },
+            {
+              "name": "Dimsum Daily",
+              "url": "https://www.dimsumdaily.hk/man-collapses-after-football-strikes-chest-at-shau-kei-wan-service-reservoir-playground/"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "波蘭克拉科夫中央市集廣場槍擊案　至少5死逾10傷槍手被捕",
+          "summary": "波蘭南部城市克拉科夫中央市集廣場附近星期六下午發生槍擊，一名男子駕車駛入廣場後從車內向路人開槍，造成至少5人死亡、逾10人受傷；警方開槍擊中並逮捕槍手，總理圖斯克稱事件悲慘，當局正調查動機。",
+          "time_hkt": "2026-11-07T23:27:00+08:00",
+          "sources": [
+            {
+              "name": "聯合早報",
+              "url": "https://www.zaobao.com.sg/news/world/story20261107-9964769"
+            },
+            {
+              "name": "鳳凰網",
+              "url": "https://news.ifeng.com/c/8xrtpeAFkT3"
+            },
+            {
+              "name": "中時新聞網",
+              "url": "https://www.chinatimes.com/realtimenews/20261107003366-260408"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/poland-shooting-krakow-market-dead-076b972f107df14a1f71e12a74d4d8e5"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
