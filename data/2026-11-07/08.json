@@ -1,0 +1,179 @@
+{
+  "date": "2026-11-07",
+  "hour": "08",
+  "updatedAt": "2026-11-07T08:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "科大校長葉玉如獲教科文組織國際生命科學研究獎",
+          "summary": "第10屆「聯合國教科文組織—赤道幾內亞國際生命科學研究獎」頒獎儀式在巴黎舉行，香港科技大學校長、中國科學院院士葉玉如因神經科學及阿茲海默症研究貢獻獲獎，成為第6位獲該獎的中國科學家。",
+          "time_hkt": "2026-11-07T05:57:00+08:00",
+          "sources": [
+            {
+              "name": "新華網",
+              "url": "https://www.news.cn/tech/20261107/e2823a1c88884b6baca750e428a2b8fa/c.html"
+            },
+            {
+              "name": "香港文匯報",
+              "url": "https://www.wenweipo.com/a/202611/07/AP6aee5c43e4b028ec0192eb35.html"
+            },
+            {
+              "name": "點新聞",
+              "url": "https://www.dotdotnews.com/a/202611/07/AP6aee6693e4b091a65a2ef632.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "英國哈里王子岳父Thomas Markle涉藏兒童性虐物品在美被捕",
+          "summary": "梅根王妃的父親、82歲的Thomas Markle星期五在美國佛羅里達州被捕，被控一項管有兒童色情物品罪；司法部指聯邦調查局在其洛杉磯區兩個長期租用的儲物倉檢獲約78件疑似兒童性虐材料，他其後出庭並被裁定須居家監禁及電子監控。",
+          "time_hkt": "2026-11-07T05:05:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/en/component/k2/1876893-20261107.htm"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/cqgkvv8m8pgyo"
+            },
+            {
+              "name": "NBC News",
+              "url": "https://www.nbcnews.com/news/us-news/meghans-father-thomas-markle-arrested-florida-child-sexual-abuse-rcna607836"
+            },
+            {
+              "name": "星島日報",
+              "url": "https://www.singtaousa.com/2026/11/06/news/usa/fbi-arrests-thomas-markle-father-meghan-source-says/"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "巴拉圭總統培尼亞被國會彈劾後被捕　副總統阿利亞納宣誓接任",
+          "summary": "捲入韋諾銀行倒閉危機的巴拉圭總統培尼亞遭國會通過彈劾解除職務後，被檢察官下令軟禁在家；副總統阿利亞納宣誓接任並完成其至2028年的餘下任期，承諾不會拋棄失去存款的數百萬存戶。",
+          "time_hkt": "2026-11-07T07:41:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876906-20261107.htm"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/paraguay-santiago-pena-bank-failure-ueno-impeachment-trial-resign-crisis-e84f5ada84e8c747329ec82fabb46e4d"
+            },
+            {
+              "name": "ABC Color",
+              "url": "https://www.abc.com.py/policiales/2026/11/06/expresidente-santiago-pena-fue-detenido-por-el-caso-ueno-bank/"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "烏方提出烏美俄三方會談優先議題　布達諾夫稱不指望取得突破",
+          "summary": "俄羅斯總統普京確認下星期二在阿布扎比舉行俄美烏三方會談；烏克蘭外長瑟比加指安全保障、黑海局勢降級及能源停火為優先議題，但代表團成員布達諾夫表示不指望會談取得突破，歐盟外交與安全政策高級代表卡拉斯則強調任何協議落實都需歐盟參與。",
+          "time_hkt": "2026-11-07T06:11:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876891-20261107.htm"
+            },
+            {
+              "name": "香港01",
+              "url": "https://global.hk01.com/%E5%8D%B3%E6%97%B6%E5%9B%BD%E9%99%85/60408087/%E7%BE%8E%E4%BF%84%E4%B9%8C%E4%B8%89%E6%96%B9%E4%BC%9A%E8%B0%88%E5%8D%B3%E5%B0%86%E7%99%BB%E5%9C%BA-%E6%99%AE%E4%BA%AC%E8%AF%81%E5%AE%9E11-10%E4%BA%8E%E9%98%BF%E5%B8%83%E6%89%8E%E6%AF%94%E4%B8%BE%E8%A1%8C"
+            },
+            {
+              "name": "Ukrinform",
+              "url": "https://www.ukrinform.net/rubric-polytics/4182215-budanov-to-lead-ukrainian-delegation-at-talks-in-abu-dhabi.html"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "日本首次在沖繩部署16式機動戰鬥車　引起當地民眾抗議",
+          "summary": "日本陸上自衛隊為配合駐那霸第15旅團明年升格師團，首次將配備105毫米火炮的16式機動戰鬥車運抵沖繩；多個民間團體到縣政府前抗議，要求縣知事反對部署新裝備及擴編，指部署預設城市巷戰並加劇戰爭風險。",
+          "time_hkt": "2026-11-07T04:51:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876888-20261107.htm"
+            },
+            {
+              "name": "新華網",
+              "url": "https://www.news.cn/20261107/6e02b0b7b72d4e20acc4a31f7be53a5a/c.html"
+            },
+            {
+              "name": "琉球新報",
+              "url": "https://ryukyushimpo.jp/politics/entry-5590915.html"
+            }
+          ],
+          "rank": 4
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "美股收市個別發展　道指跌237點　納指反彈逾1%科技股回升",
+          "summary": "美股星期五收市個別發展，道指收報51285點跌237點（約0.5%），標普500升約0.3%，納指升約1.1%收報24579點；費城半導體指數反彈逾4%，惟納指連跌第四周，市場消化強勁非農數據後對聯儲局下月加息預期升溫。",
+          "time_hkt": "2026-11-07T05:55:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876896-20261107.htm"
+            },
+            {
+              "name": "香港電台英文",
+              "url": "https://news.rthk.hk/rthk/en/component/k2/1876903-20261107.htm"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "油價周五反覆微升　布蘭特及紐約期油本周累計跌逾一成",
+          "summary": "布蘭特期油1月合約周五收報每桶98.32美元微升，紐約期油收報90.83美元升0.3%，惟兩市本周累計跌逾一成；油價走勢反覆，市場關注中東局勢及戰爭溢價回落。",
+          "time_hkt": "2026-11-07T06:27:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876900-20261107.htm"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "傳OpenAI完成新一輪110億美元融資　估值約1.25萬億美元",
+          "summary": "彭博引述知情人士指，OpenAI已完成新一輪融資中首批約110億美元資金，公司估值約1.25萬億美元，整輪融資料未來數周完成、規模或達約200億美元，低於原先最高約300億美元的募資目標；報道指軟銀及MGX有參與。",
+          "time_hkt": "2026-11-07T06:53:00+08:00",
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
+            },
+            {
+              "name": "CNA",
+              "url": "https://www.channelnewsasia.com/business/openai-gets-11-billion-funding-125-trillion-valuation-source-says-6532301"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
