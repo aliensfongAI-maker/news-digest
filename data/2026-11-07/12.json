@@ -1,0 +1,159 @@
+{
+  "date": "2026-11-07",
+  "hour": "12",
+  "updatedAt": "2026-11-07T12:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "特區政府就十國有關黃之鋒案聯合聲明作出嚴正反駁",
+          "summary": "特區政府今日發表嚴正聲明，對美、英、法、德、日、意、澳、加、荷及新西蘭十國就「黃之鋒串謀勾結案」判刑發表的所謂聯合聲明表示強烈不滿和堅決反對，指聲明罔顧事實、干預司法並詆毀《香港國安法》，敦促有關國家立即停止干涉屬中國內政的香港事務。",
+          "time_hkt": "2026-11-07T10:39:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876917-20261107.htm"
+            },
+            {
+              "name": "香港文匯報",
+              "url": "https://www.wenweipo.com/a/202611/07/AP6aee9771e4b028ec0192f3c2.html"
+            },
+            {
+              "name": "點新聞",
+              "url": "https://www.dotdotnews.com/a/202611/07/AP6aee952ae4b091a65a2ef9b1.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "第三屆香港青年發展高峰論壇開幕　李家超籲擴大青年發展機遇",
+          "summary": "民政及青年事務局今日於灣仔會展舉辦第三屆「香港青年發展高峰論壇」，行政長官李家超視像致辭指香港首個五年規劃將擴大青年發展機會，培育具國際視野青年；《青年發展藍圖》已推出逾290項措施，並呼籲青年把握交流機會、追求卓越。",
+          "time_hkt": "2026-11-07T11:27:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876927-20261107.htm"
+            },
+            {
+              "name": "香港政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202611/07/P2026110500551.htm"
+            },
+            {
+              "name": "商業電台",
+              "url": "https://www.881903.com/news/local/2658413"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "特朗普證實美軍打擊伊朗格什姆島小型防空裝置",
+          "summary": "美國總統特朗普證實美方對伊朗實施小規模打擊，摧毀一座伊朗製造的小型防空裝置；伊朗媒體報道兩枚導彈擊中格什姆島，伊軍稱擊落一架美軍MQ-9無人機，美軍中央司令部另懸紅最高2000萬美元徵集伊朗核計劃情報。",
+          "time_hkt": "2026-11-07T08:59:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876911-20261107.htm"
+            },
+            {
+              "name": "東方日報",
+              "url": "https://hk.on.cc/hk/bkn/cnt/intnews/20261107/bkn-20261107090440034-1107_00992_001.html"
+            },
+            {
+              "name": "點新聞",
+              "url": "https://www.dotdotnews.com/a/202611/07/AP6aee7c77e4b091a65a2ef79b.html"
+            },
+            {
+              "name": "新華網",
+              "url": "https://www.news.cn/20261107/12f7a3369a624c1f8b112dac9fd48fb7/c.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "中國空間站將迎首位外籍航天員　巴基斯坦載荷專家參加神舟二十四號任務",
+          "summary": "中國載人航天工程辦公室公布，神舟二十四號任務將有1名巴基斯坦航天員以載荷專家身份參加，完成短期在軌飛行後隨神舟二十三號返回，為中國載人航天史上首次中外航天員聯合飛行；兩名巴基斯坦預備航天員經選拔訓練後一人執飛、一人備份。",
+          "time_hkt": "2026-11-07T10:04:00+08:00",
+          "sources": [
+            {
+              "name": "新華網",
+              "url": "https://www.news.cn/tech/20261107/df269b49458f430381d7badf91f0c91f/c.html"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876916-20261107.htm"
+            },
+            {
+              "name": "中國新聞網",
+              "url": "https://www.chinanews.com.cn/gn/2026/11-07/10727783.shtml"
+            },
+            {
+              "name": "點新聞",
+              "url": "https://www.dotdotnews.com/a/202611/07/AP6aee9381e4b091a65a2ef998.html"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "何立峰與貝森特、格里爾視像通話　中方關切美對華經貿限制",
+          "summary": "中美經貿中方牽頭人、國務院副總理何立峰昨晚與美方牽頭人財長貝森特及貿易代表格里爾視像通話，中方就近期美對華經貿限制表達嚴正關切；美方強調中方須全面立即履行釜山貿易協議承諾，尤其農產品採購及稀土等關鍵礦產供應，雙方同意繼續發揮磋商機制管控分歧。",
+          "time_hkt": "2026-11-07T08:01:00+08:00",
+          "sources": [
+            {
+              "name": "新華網",
+              "url": "https://www.news.cn/20261107/ca7b6c7ffd7b4130bd15f770f52234b5/c.html"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876909-20261107.htm"
+            },
+            {
+              "name": "東方日報",
+              "url": "https://hk.on.cc/hk/bkn/cnt/intnews/20261107/bkn-20261107080028553-1107_00992_001.html"
+            },
+            {
+              "name": "中央社",
+              "url": "https://www.cna.com.tw/news/acn/202611070035.aspx"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "Crusoe出售懷俄明州數據中心項目予Google　谷歌擬投資170億美元建設",
+          "summary": "人工智能基礎設施開發商Crusoe確認已將美國懷俄明州東南一處未完工數據中心項目售予Google；谷歌早前因成本與工期對Crusoe管理有疑慮，現接手後計劃投資約170億美元建設該園區，雙方仍合作得州阿馬里洛附近另一數據中心項目。",
+          "time_hkt": "2026-11-07T09:40:00+08:00",
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/"
+            },
+            {
+              "name": "Crusoe",
+              "url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
