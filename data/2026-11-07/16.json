@@ -1,0 +1,159 @@
+{
+  "date": "2026-11-07",
+  "hour": "16",
+  "updatedAt": "2026-11-07T16:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "港鐵東涌西站工地支柱曾未經批准填補修補　已即時停工調查",
+          "summary": "港鐵表示東涌西站月台層部分支柱頂部末端曾進行未事先獲批的物料填補修補，上月恆常巡查發現後已通知政府部門，並指示總承建商即時停工深入調查；強調不涉及結構安全，承建商須提交報告及修正方案獲批後方可復工，相關費用由其承擔。",
+          "time_hkt": "2026-11-07T13:54:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876937-20261107.htm"
+            },
+            {
+              "name": "點新聞",
+              "url": "https://www.dotdotnews.com/a/202611/07/AP6aeebfcbe4b091a65a2efd24.html"
+            },
+            {
+              "name": "商業電台",
+              "url": "https://www.881903.com/news/local/2658433"
+            },
+            {
+              "name": "香港商報",
+              "url": "https://www.hkcd.com/hkcdweb/content/2026/11/07/content_8784071.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "3人涉手工啤酒機投資騙案被捕　6市民疑受騙共投資逾400萬元",
+          "summary": "警方偵破以內地租出手工啤酒機、保證年回報60%作招徠的投資騙案，拘捕兩男一女（46至54歲）涉嫌串謀詐騙；初步接觸6名大多較年長的懷疑受騙市民共投資逾400萬元，集團在港並無實際營運，部分資金轉入私人戶口。",
+          "time_hkt": "2026-11-07T14:49:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876944-20261107.htm"
+            },
+            {
+              "name": "香港文匯報",
+              "url": "https://www.wenweipo.com/a/202611/07/AP6aeec5d9e4b028ec0192fa6e.html"
+            },
+            {
+              "name": "東方日報",
+              "url": "https://hk.on.cc/hk/bkn/cnt/news/20261107/bkn-20261107133019142-1107_00822_001.html"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "醫療器械規管擬按風險分級　矯視隱形眼鏡及小便試紙等須註冊",
+          "summary": "醫務衞生局向立法會提交文件，爭取明年提交《醫療器械條例草案》以法定註冊及貿易商牌照制度取代現行自願行政管理制度，按風險分級規管，矯視隱形眼鏡、小便試紙及血糖試劑等須上市前註冊，相關建議下周五衞生事務委員會討論。",
+          "time_hkt": "2026-11-07T13:31:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876936-20261107.htm"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60408123/%E8%97%A5%E6%A2%B0%E6%96%B0%E8%A6%8F%E7%AE%A1%E6%93%AC%E8%A8%AD%E5%88%86%E7%B4%9A%E5%88%B6-%E7%9F%AF%E8%A6%96%E9%9A%B1%E5%BD%A2%E7%9C%BC%E9%8F%A1%E7%AD%89%E9%AB%98%E9%A2%A8%E9%9A%AA%E5%99%A8%E6%A2%B0%E9%A0%88%E5%85%88%E8%A8%BB%E5%86%8A"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "中共中央部署二十一大代表選舉工作　大會明年下半年召開",
+          "summary": "中共中央印發通知全面部署二十一大代表選舉，大會定於2027年下半年在北京召開；代表名額共2360名由全國38個選舉單位產生，實行多於15%差額選舉，選舉工作即日起至明年6月底前結束，並強調嚴把政治關廉潔關防止「帶病當選」。",
+          "time_hkt": "2026-11-07T14:47:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876943-20261107.htm"
+            },
+            {
+              "name": "新華網",
+              "url": "https://www.news.cn/politics/zywj/20261107/52f31843c5b2424c9cc5733fff7e1838/c.html"
+            },
+            {
+              "name": "香港文匯報",
+              "url": "https://www.wenweipo.com/a/202611/07/AP6aeea4fce4b028ec0192f557.html"
+            },
+            {
+              "name": "財新網",
+              "url": "https://china.caixin.com/2026-11-07/102502085.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "新西蘭議會選舉投票結束　初步開票國家黨與工黨選情膠着",
+          "summary": "新西蘭議會選舉投票結束，正式結果料本月27日公布；初步開票顯示執政國家黨與反對工黨得票接近，兩大陣營均難單獨取得過半數，較小政黨料在組閣過程中具關鍵影響力，生活成本與經濟就業成選民主要關注。",
+          "time_hkt": "2026-11-07T14:14:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876939-20261107.htm"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/7/governing-party-leads-in-new-zealands-knife-edge-vote-early-results"
+            },
+            {
+              "name": "民視新聞網",
+              "url": "https://www.ftvnews.com.tw/news/detail/2026B07W0345"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "一名中國公民在澳洲墨爾本遇害身亡　疑犯被捕",
+          "summary": "一名中國公民昨晚在墨爾本市區遇害，當地警方已拘捕疑犯；中國駐墨爾本總領館啟動領事保護應急機制，要求警方全力徹查嚴懲兇手，並已與家屬聯繫協助善後。",
+          "time_hkt": "2026-11-07T13:01:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876931-20261107.htm"
+            },
+            {
+              "name": "新華網",
+              "url": "https://www.news.cn/world/20261107/ba10fac1925d41a7ad7a52a333a3a00d/c.html"
+            },
+            {
+              "name": "ABC News",
+              "url": "https://www.abc.net.au/news/2026-11-07/man-dead-and-another-injured-in-melbourne-cbd-stabbing/107358892"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "澳門特區強烈譴責外部勢力就法院依法審理國安案發表不實言論",
+          "summary": "澳門特區政府及立法會強烈不滿歐盟對外行動署、美國國會及行政當局中國委員會、聯合國人權高專辦及歐洲議會個別議員等，就法院依法審理首宗國安案件（區錦新案）發表的不實言論，強調屬澳門內部事務並呼籲外界尊重裁決。",
+          "time_hkt": "2026-11-07T16:03:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876949-20261107.htm"
+            },
+            {
+              "name": "澳門特區政府",
+              "url": "https://www.gov.mo/zh-hant/news/1280253/"
+            }
+          ],
+          "rank": 4
+        }
+      ]
+    }
+  ]
+}
