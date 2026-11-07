@@ -1,0 +1,131 @@
+{
+  "date": "2026-11-07",
+  "hour": "20",
+  "updatedAt": "2026-11-07T20:20:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "天水圍嘉湖山莊單位起火　約百人疏散　一女梯間昏迷送院",
+          "summary": "天水圍嘉湖山莊樂湖居14座一中層單位下午約5時39分疑雜物起火，約100名居民疏散，消防傍晚6時07分救熄；救援人員在梯間發現一名女子昏迷，送往天水圍醫院治理，起火原因仍在調查。",
+          "time_hkt": "2026-11-07T19:07:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876964-20261107.htm"
+            },
+            {
+              "name": "東方日報",
+              "url": "https://hk.on.cc/hk/bkn/cnt/news/20261107/bkn-20261107184400928-1107_00822_001.html"
+            },
+            {
+              "name": "點新聞",
+              "url": "https://www.dotdotnews.com/a/202611/07/AP6aef080be4b091a65a2f028a.html"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408252/%E5%A4%A9%E6%B0%B4%E5%9C%8D%E5%98%89%E6%B9%96%E5%B1%B1%E8%8E%8A%E6%A8%82%E6%B9%96%E5%B1%85%E5%96%AE%E4%BD%8D%E8%B5%B7%E7%81%AB-%E4%B8%80%E4%BA%BA%E6%98%8F%E8%BF%B7%E5%80%92%E8%87%A5%E6%A2%AF%E9%96%93-%E7%8D%B2%E6%95%91%E9%80%81%E9%99%A2"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "屯門運載電池貨車貨斗起火　濃煙籠罩青田路橋底無人傷",
+          "summary": "傍晚約6時13分，一輛中型貨車沿屯門震寰路駛至青田路橋底往建生方向時，貨斗內疑電池突然起火冒出濃煙，司機棄車逃生報案，消防其後將火撲滅，無人受傷，部分行車線一度封閉，起火原因有待調查。",
+          "time_hkt": "2026-11-07T18:31:00+08:00",
+          "sources": [
+            {
+              "name": "東方日報",
+              "url": "https://hk.on.cc/hk/bkn/cnt/news/20261107/bkn-20261107183151098-1107_00822_001.html"
+            },
+            {
+              "name": "點新聞",
+              "url": "https://www.dotdotnews.com/a/202611/07/AP6aef07d3e4b091a65a2f0287.html"
+            },
+            {
+              "name": "香港文匯報",
+              "url": "https://www.wenweipo.com/a/202611/07/AP6aef0a60e4b028ec019301ef.html"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408257/%E6%9C%89%E7%9B%B8-%E5%B1%AF%E9%96%80%E8%B2%A8%E8%BB%8A%E8%B2%A8%E6%96%97%E9%9B%BB%E6%B1%A0%E8%B5%B7%E7%81%AB-%E9%BB%91%E7%85%99%E7%B1%A0%E7%BD%A9%E6%A9%8B%E5%BA%95-%E6%B6%88%E9%98%B2%E6%92%B2%E7%86%84%E5%B9%B8%E7%84%A1%E4%BA%BA%E5%82%B7"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "海關機場檢獲美國包裹內5隻瀕危活龜　估計市值約5萬元",
+          "summary": "香港海關今日在香港國際機場檢查一個由美國進口、報稱載有玩具模型禮盒的包裹，檢獲5隻懷疑受管制屬瀕危物種的活龜，估計市值共約5萬元，案件已轉交漁農自然護理署跟進。",
+          "time_hkt": "2026-11-07T17:34:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1876958-20261107.htm"
+            },
+            {
+              "name": "香港政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202611/07/P2026110700513.htm"
+            },
+            {
+              "name": "東方日報",
+              "url": "https://hk.on.cc/hk/bkn/cnt/news/20261107/bkn-20261107173435982-1107_00822_001.html"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "新西蘭大選初步結果：國家黨執政聯盟以67席微弱多數有望連任",
+          "summary": "新西蘭選舉委員會星期六晚公布約95%至95.5%選票初步結果，國家黨、行動黨與新西蘭優先黨合共取得67席，以微弱多數有望繼續執政；總理拉克森稱選情仍膠着，須待本月27日正式結果及組閣談判，期間適用看守政府慣例。",
+          "time_hkt": "2026-11-07T19:12:00+08:00",
+          "sources": [
+            {
+              "name": "新華社",
+              "url": "https://english.news.cn/20261107/9088d239009542b4b4728b4ba8a755c0/c.html"
+            },
+            {
+              "name": "國際在線",
+              "url": "https://news.cri.cn/20261107/8a4dc0e9-659f-1b16-ee0c-15c8f3d5c2df.html"
+            },
+            {
+              "name": "聯合早報",
+              "url": "https://www.zaobao.com.sg/news/world/story20261107-9964183"
+            },
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "伊朗革命衛隊稱已解除導彈射程限制　強調須在戰場展現能力",
+          "summary": "伊朗伊斯蘭革命衛隊發言人穆赫比星期六表示，伊朗導彈射程限制已解除，並稱須在實際行動中展現相關能力；言論正值美伊緊張及特朗普確認打擊伊朗小型防空裝置之後，並指可在不對稱戰爭中打擊敵方意想不到的目標。",
+          "time_hkt": "2026-11-07T19:58:00+08:00",
+          "sources": [
+            {
+              "name": "鳳凰網",
+              "url": "https://news.ifeng.com/c/8xrelUK1PlS"
+            },
+            {
+              "name": "Tasnim",
+              "url": "https://www.tasnimnews.ir/en/news/2026/11/07/3742388/restrictions-on-range-of-iranian-missiles-lifted-irgc-spokesman"
+            },
+            {
+              "name": "俄新社",
+              "url": "https://ria.ru/20261107/iran-2129929136.html"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    }
+  ]
+}
