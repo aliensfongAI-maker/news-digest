@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-08",
+  "hour": "16",
+  "updatedAt": "2026-11-08T16:20:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "馬鞍山昂平滑翔傘疑降落時撞傷3人　直升機送院",
+          "summary": "今日中午約12時36分，馬鞍山昂平營地有滑翔傘懷疑降落時撞倒地面3人，包括一對母子及另一名青少年，三人頭部或背部受傷，由飛行服務隊直升機送往律敦治醫院治理，警方正調查意外原因。",
+          "time_hkt": "2026-11-08T12:36:00+08:00",
+          "sources": [
+            {
+              "name": "東網",
+              "url": "https://hk.on.cc/hk/bkn/cnt/news/20261108/bkn-20261108132127429-1108_00822_001.html"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877008-20261108.htm"
+            },
+            {
+              "name": "文匯報",
+              "url": "https://www.wenweipo.com/a/202611/08/AP6af01140e4b028ec019319a1.html"
+            },
+            {
+              "name": "am730",
+              "url": "https://www.am730.com.hk/%E6%9C%AC%E5%9C%B0/1062630/%E9%A6%AC%E9%9E%8D%E5%B1%B1%E6%98%82%E5%B9%B3%E6%BB%91%E7%BF%94%E5%82%98%E9%99%8D%E8%90%BD%E5%A4%B1%E6%8E%A7-%E6%92%9E%E5%82%B73%E6%AF%8D%E5%AD%90"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "天水圍嘉湖山莊疑香薰引致火警　女子昏迷延至凌晨不治",
+          "summary": "天水圍嘉湖山莊樂湖居14座一個單位昨午疑因香薰意外點燃雜物起火，一名67歲女子昏迷送院，延至今日凌晨不治；警方列作火警有人死亡，初步相信沒有可疑。",
+          "time_hkt": "2026-11-08T14:52:00+08:00",
+          "sources": [
+            {
+              "name": "am730",
+              "url": "https://www.am730.com.hk/%E6%9C%AC%E5%9C%B0/1062632/%E5%A4%A9%E6%B0%B4%E5%9C%8D%E5%98%89%E6%B9%96%E5%B1%B1%E8%8E%8A%E9%A6%99%E8%96%B0%E7%84%9A%E5%AE%85-67%E6%AD%B2%E5%A5%B3%E6%88%B6%E4%B8%BB%E6%98%8F%E8%BF%B7-%E6%90%B6%E6%95%919%E5%B0%8F%E6%99%82%E4%B8%8D%E6%B2%BB"
+            },
+            {
+              "name": "文匯報",
+              "url": "https://www.wenweipo.com/a/202611/08/AP6af01ddae4b028ec01931bae.html"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877011-20261108.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "盧寵茂稱香港主動對接「健康灣區」　助力國家標準走向世界",
+          "summary": "醫務衞生局局長盧寵茂在廣州出席中山大學醫科辦學160周年論壇時表示，香港會主動對接「健康灣區」建設、加強跨境醫療協作，並助力國家標準走向世界；他指中山一院屬長者醫療券大灣區試點，截至上月港人在該院使用醫療券超過9100宗。",
+          "time_hkt": "2026-11-08T12:01:00+08:00",
+          "sources": [
+            {
+              "name": "文匯報",
+              "url": "https://www.wenweipo.com/a/202611/08/AP6aeff42ee4b028ec0193159b.html"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877014-20261108.htm"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "陳茂波：10月訪港旅客按年升11.8%　會展客按年增7%",
+          "summary": "財政司司長陳茂波在網誌表示，10月訪港旅客按年上升11.8%，去年會展旅客達251萬人次、按年增7%，本年首三季經濟合計增長5.1%；他稱會繼續推動盛事，亞博館二期及灣仔北重建完成後，香港大型會展空間將增加四成多。",
+          "time_hkt": "2026-11-08T12:44:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877002-20261108.htm"
+            },
+            {
+              "name": "大公文匯網",
+              "url": "https://www.tkww.hk/a/202611/08/AP6aeffd15e4b0bcb39b1867dd.html"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1205176-%E9%99%B3%E8%8C%82%E6%B3%A2%E7%A8%B1%E4%B8%8A%E6%9C%88%E8%A8%AA%E6%B8%AF%E6%97%85%E5%AE%A2%E6%8C%89%E5%B9%B4%E5%8D%87%E8%BF%91%E4%B8%80%E6%88%90%E4%BA%8C%E5%B0%87%E7%BA%8C%E6%8E%A8%E7%9B%9B%E4%BA%8B%E4%BB%A4%E9%AB%98%E5%A2%9E%E5%80%BC%E6%97%85%E9%81%8A%E7%AD%89%E7%99%BC%E5%B1%95%E6%9B%B4%E8%93%AC%E5%8B%83"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
