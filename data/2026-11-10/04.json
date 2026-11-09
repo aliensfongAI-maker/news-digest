@@ -1,0 +1,185 @@
+{
+  "date": "2026-11-10",
+  "hour": "04",
+  "updatedAt": "2026-11-10T04:18:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "海洋公園海洋摩天塔機件故障　約40人一度被困其中1人不適",
+          "summary": "海洋公園「海洋摩天塔」昨午因故障訊號觸發安全系統暫停，約40至41名乘客一度被困半空；園方職員以塔中安全通道疏散大部分乘客，一名行動不便並感不適的旅客由消防以高空拯救工具帶回地面，機電署將調查成因，園方稱會全面檢修。",
+          "time_hkt": "2026-11-09T16:39:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877137-20261109.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/en/component/k2/1877141-20261109.htm"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60408747/%E6%B5%B7%E6%B4%8B%E5%85%AC%E5%9C%92%E6%B5%B7%E6%B4%8B%E6%91%A9%E5%A4%A9%E5%A1%94%E7%96%91%E6%95%85%E9%9A%9C-40%E9%81%8A%E5%AE%A2%E4%B8%80%E5%BA%A6%E8%A2%AB%E5%9B%B0%E5%8D%8A%E7%A9%BA-%E6%B6%88%E9%98%B2%E9%A3%9B%E5%B0%87%E8%BB%8D%E6%95%91%E6%8F%B4"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/en/1205409-Some40peopletrappedinOceanParkTowerafteritbrokedown"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "觀光城巴票務兌換系統疑遭未獲授權登入　無發現資料外洩",
+          "summary": "城巴表示，處理「觀光城巴」旅遊票務兌換及認證的第三方系統近日懷疑遭未獲授權登入，系統載有約5.3萬名用戶姓名及電郵，目前無發現資料外洩、亦不涉及付款或核心車務系統；城巴已通報私隱專員公署並指示供應商提交調查報告。",
+          "time_hkt": "2026-11-09T20:47:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877162-20261109.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "西九龍中心美食廣場食肆爐頭搶火　據報一人手部燒傷",
+          "summary": "昨晚深水埗西九龍中心美食廣場一間潮州菜食肆爐頭懷疑搶火，廚房出現巨大火焰，消防於約8時34分接報；據報一名55歲女負責人手指燒傷送院治理，現場一度疏散。",
+          "time_hkt": "2026-11-09T22:06:00+08:00",
+          "sources": [
+            {
+              "name": "點新聞",
+              "url": "https://www.dotdotnews.com/a/202611/09/AP6af1d375e4b091a65a2f3168.html"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "土耳其鋼鐵廠爆炸增至最少16死　總統稱已展開調查",
+          "summary": "土耳其伊茲密爾省阿利阿加區哈巴斯鋼鐵廠星期一中午維修期間發生大規模爆炸並引發火警，當局指起重機倒塌損及電弧爐及天然氣管道；總統埃爾多安表示遇難增至最少16人、另有約13人受傷，已展開司法及行政調查。",
+          "time_hkt": "2026-11-10T03:24:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877185-20261110.htm"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/cq2d6d5z9y5jo"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/turkey-aliaga-explosion-steel-plant-habas-7892a839350d41aa530dfb01323cf7dc"
+            },
+            {
+              "name": "TRT World",
+              "url": "https://www.trtworld.com/article/a63edd69c847"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "山西太原公寓火警致14死25傷　相關負責人被控制",
+          "summary": "山西太原迎澤區豪生國際公寓昨日下午近5時起火，至晚上7時救熄，造成14人死亡、25人受傷（其中9人危殆）；當局已對產權單位管理人員及物業負責人採取控制措施，起火原因仍在調查。",
+          "time_hkt": "2026-11-09T19:21:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877154-20261109.htm"
+            },
+            {
+              "name": "新華社",
+              "url": "https://www.news.cn/20261109/ac8c99339dd6433184a38d2095b31645/c.html"
+            },
+            {
+              "name": "中新網",
+              "url": "https://www.chinanews.com.cn/sh/2026/11-09/10729021.shtml"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "美股造好道指升逾千點　Nvidia因黃仁勳風波急挫約6%",
+          "summary": "美股星期一造好，油價回落紓緩通脹憂慮，道瓊斯指數升約1132點報52418點、標普及納指亦升逾2%；芯片股多數反彈，但Nvidia因行政總裁黃仁勳承認婚外情及董事會調查外國情報目標傳聞，股價急挫約6%。",
+          "time_hkt": "2026-11-09T22:50:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877170-20261109.htm"
+            },
+            {
+              "name": "Reuters",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-rise-rough-103539344.html"
+            },
+            {
+              "name": "聯合早報",
+              "url": "https://www.zaobao.com.sg/finance/world/story20261109-9971809"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "港股低收32點　成交減至1737億元",
+          "summary": "港股高開低走，恒生指數收報24448點，跌32點或0.13%，主板成交減至1737億元，逾一星期首次不足2000億；科技指數收跌近1%，美團急挫6.5%成表現最差藍籌，煤炭及部分AI相關股份則造好。",
+          "time_hkt": "2026-11-09T16:23:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877134-20261109.htm"
+            },
+            {
+              "name": "智通財經",
+              "url": "https://hk.investing.com/news/stock-market-news/article-1746862"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "法國指責伊朗伊斯蘭革命衛隊是超市冷藏系統網絡攻擊幕後黑手",
+          "summary": "法國指伊朗伊斯蘭革命衛隊旗下網絡組織為上月約700間超市冷藏系統遭遙控篡改溫度、造成食材損失及火災的幕後黑手，已召見伊朗大使並展開司法調查尋求國際逮捕令；外長警告若再攻擊，歐盟或加強制裁。",
+          "time_hkt": "2026-11-10T01:53:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877182-20261110.htm"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/france-cyberattack-supermarket-refrigerators-iran-6914ecf1a3285291653e103655f9e4a4"
+            },
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
