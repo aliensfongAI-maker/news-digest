@@ -1,0 +1,37 @@
+{
+  "date": "2026-11-09",
+  "hour": "08",
+  "updatedAt": "2026-11-09T08:20:00+08:00",
+  "sections": [
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "Nvidia就黃仁勳據報成外國情報目標展開獨立調查　黃仁勳承認不忠並致歉",
+          "summary": "Nvidia行政總裁黃仁勳在發給員工的訊息中承認對妻子不忠，表示行為傷害了妻子及孩子、深感抱歉，並向董事會、夥伴及股東稱將努力贏回信任；公司董事會宣布，鑑於有報道指他成為外國情報活動目標，已啟動由獨立董事委員會及外部獨立法律顧問監督的調查，同時表示目前無理由相信美國國家安全或公司機密已受損害，黃仁勳支持調查並將繼續擔任行政總裁。",
+          "time_hkt": "2026-11-09T04:12:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877056-20261109.htm"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/nvidia-jensen-huang-investigation-chinese-spy-68839e7ca6ba2b121529f7e475e501d6"
+            },
+            {
+              "name": "NVIDIA",
+              "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
