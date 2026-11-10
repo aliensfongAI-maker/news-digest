@@ -1,0 +1,103 @@
+{
+  "date": "2026-11-11",
+  "hour": "04",
+  "updatedAt": "2026-11-11T04:25:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "美國眾議院共和黨推選喬丹出任下屆少數黨領袖　以106票對73票擊敗斯卡利斯",
+          "summary": "美國眾議院共和黨在上周期中選舉失利、民主黨料將於明年1月掌控國會兩院後，周二以秘密投票106票對73票，推選俄亥俄州眾議員、司法委員會主席喬丹出任下屆少數黨領袖，擊敗現任多數黨領袖、路易斯安那州的斯卡利斯；現任議長約翰遜早前已表明不會競逐該職位。",
+          "time_hkt": "2026-11-11T03:40:00+08:00",
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/us-news/2026/nov/10/jim-jordan-house-republican-leader"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/10/jim-jordan-congress-republicans-midterm.html"
+            },
+            {
+              "name": "NBC",
+              "url": "https://www.nbcnews.com/politics/congress/republicans-reeling-election-choose-leadership-congress-rcna608300"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "英國樞密院推翻千里達和多巴哥將同性性行為入罪的法律",
+          "summary": "作為千里達和多巴哥終審法院的倫敦樞密院周二裁定，推翻該國上訴法院2025年恢復將雙方同意的男性同性性行為入罪的判決，支持人權活動人士Jason Jones的挑戰；法官指與他人建立親密關係屬重要權益，裁決亦可能影響其他仍以樞密院為終審、並保留類似法律的加勒比海國家。",
+          "time_hkt": "2026-11-11T01:55:10+08:00",
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/nov/10/activist-jason-jones-wins-10-year-fight-against-homophobic-trinidad-tobago-laws"
+            },
+            {
+              "name": "SCMP",
+              "url": "https://www.scmp.com/news/world/americas/article/3373994/uk-court-overturns-trinidad-and-tobago-law-criminalising-gay-sex"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "輝達獨立董事聘請律師樓Wachtell Lipton調查黃仁勳婚外情風波",
+          "summary": "輝達獨立董事周二發表聲明，已聘請紐約南區聯邦檢察官前代理檢察長Joon H. Kim及其所屬律師樓Wachtell, Lipton, Rosen & Katz，就行政總裁黃仁勳與一名據報與中國情報機關有關連的女子之間的關係，展開徹底獨立調查；董事會周日已宣布將展開調查。",
+          "time_hkt": "2026-11-11T03:19:00+08:00",
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/10/nvidia-wachtell-lipton-huang-affair.html"
+            },
+            {
+              "name": "輝達",
+              "url": "https://nvidianews.nvidia.com/news/statement-from-the-independent-members-of-the-nvidia-board"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "OpenAI為ChatGPT推出已驗證「商業代理」及商家檔案",
+          "summary": "OpenAI宣布在ChatGPT以測試形式推出已驗證的「商業代理」（Business Agents）及商家檔案等面向企業的功能，合資格的美國電子商務及網上服務商家可讓用戶在對話中查詢產品及比較商品，TechCrunch指此舉旨在加強ChatGPT作為消費發現平台的角色。",
+          "time_hkt": "2026-11-11T02:00:00+08:00",
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub"
+            },
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "Google向付費開發者及Ultra用戶推出Gemini 4 Carbon　並加入代理人「群體」功能",
+          "summary": "Google在10月底向部分網絡安全機構推出Gemini 4 Carbon後，周二起經Gemini API、Google AI Studio、Gemini for business，以及Google AI Ultra訂戶的Gemini應用程式、搜尋AI Mode及Antigravity平台擴大提供，公司稱該模型較適宜處理多步驟編程及科學研究等複雜任務，並可把單一指令交由一組代理人協調執行。",
+          "time_hkt": "2026-11-11T00:00:00+08:00",
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout"
+            },
+            {
+              "name": "Engadget",
+              "url": "https://www.engadget.com/2311855/gemini-4-carbon-now-available-worldwide/"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    }
+  ]
+}
