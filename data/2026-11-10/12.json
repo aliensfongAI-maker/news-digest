@@ -1,0 +1,197 @@
+{
+  "date": "2026-11-10",
+  "hour": "12",
+  "updatedAt": "2026-11-10T12:22:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "打鼓嶺優先發展區擴至約250公頃　大學城校園倍增　區議員促加快鐵路",
+          "summary": "北區區議會討論打鼓嶺新發展區最新建議，政府將優先發展區略為擴大至約250公頃，打鼓嶺大學城校園區由約40公頃倍增至75公頃，計劃明年第一季展開詳細設計及建造，首批土地最早2030年產出、2035年首批居民遷入；區議員關注交通、棕地車流及水浸，促加快鐵路規劃，當局表示現時鐵路重點在北環綫古洞站等，打鼓嶺方面會較後到位。",
+          "time_hkt": "2026-11-10T11:26:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877230-20261110.htm"
+            },
+            {
+              "name": "東網",
+              "url": "https://hk.on.cc/hk/bkn/cnt/news/20261110/bkn-20261110103007264-1110_00822_001.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "烏克蘭代表團抵達阿布扎比　參加俄美烏三方會談",
+          "summary": "烏克蘭總統澤連斯基表示，烏方談判代表團已抵達阿聯酋首都阿布扎比，參加由美國斡旋的俄美烏三方會談，目標是促成真正的和平，並將與歐洲伙伴另行會晤；美方代表包括特使威特科夫及庫什納，會談據報聚焦戰後安全保障及人道議題，惟雙方在結束衝突的立場仍有明顯差距。",
+          "time_hkt": "2026-11-10T08:08:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877203-20261110.htm"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/cqpvgvrpjvv8o"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/10/russia-ukraine-and-us-to-meet-as-zelenskyy-claims-battlefield-successes"
+            },
+            {
+              "name": "RTE",
+              "url": "https://www.rte.ie/news/ukraine/2026/1110/1598616-ukraine-russia-world/"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "內地10月出口按年升35.2%進口升41.6%　首10月順差突破1萬億美元",
+          "summary": "海關總署公布，內地10月以美元計價出口按年增長35.2%、進口增長41.6%，均高過市場預期，上月貿易順差收窄至約1053億美元；今年首10個月進出口按年升20%，貿易順差達1.04萬億美元，連續第二年在首10個月已突破1萬億美元。",
+          "time_hkt": "2026-11-10T10:57:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877226-20261110.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/en/component/k2/1877232-20261110.htm"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html"
+            },
+            {
+              "name": "新華社",
+              "url": "https://www.news.cn/20261110/511489dbceca43bfacfe616a759d0724/c.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "亞股造好　日經半日升近3%　韓股初段升逾5%",
+          "summary": "油價回落及隔夜美股反彈帶動亞洲股市上升，日經平均指數半日報60475點，升1700點或2.89%；韓國綜合指數開市初段升逾5%，台灣加權指數初段升近3%；內地股市半日靠穩，創業板指數升約1.5%，上證綜合指數微升2點。",
+          "time_hkt": "2026-11-10T11:10:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877224-20261110.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877205-20261110.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877231-20261110.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/en/component/k2/1877225-20261110.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "日央行10月意見摘要顯示部分委員籲加快加息步伐",
+          "summary": "日本央行公布10月會議意見摘要，在核心通脹已達2%目標的背景下，部分委員呼籲加快將利率調整至中性水平；日本央行上月會議維持指標利率在1.25厘，亦有委員提醒未來加息可能拖累經濟、拉低通脹。",
+          "time_hkt": "2026-11-10T09:28:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877209-20261110.htm"
+            },
+            {
+              "name": "日本央行",
+              "url": "https://www.boj.or.jp/en/mopo/mpmsche_minu/opinion_2026/opi261030.pdf"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "恒指半日升69點報24518　成交近930億元",
+          "summary": "港股承接隔夜美股高開172點後升幅收窄，恒生指數午市報24518點，升69點或0.3%，主板成交近930億元；恒生科技指數升0.7%，國企指數微升0.03%，科網股分化，阿里巴巴跌逾3%，百度及小米造好，新股芯德半導體半日收市較上市價高逾兩成，登臨科技則低於上市價。",
+          "time_hkt": "2026-11-10T12:05:00+08:00",
+          "sources": [
+            {
+              "name": "經濟通",
+              "url": "https://www.etnet.com.hk/www/tc/news/news-article.php?section=categorized&category=latest&newsid=202611100010"
+            },
+            {
+              "name": "格隆匯",
+              "url": "https://www.gelonghui.com/live/2754302"
+            },
+            {
+              "name": "AASTOCKS",
+              "url": "https://www.aastocks.com/tc/stocks/news/aafn-con/NOW.1553800/latest-news/AAFN"
+            },
+            {
+              "name": "AASTOCKS",
+              "url": "https://www.aastocks.com/tc/stocks/news/aafn-con/NOW.1553801/latest-news/AAFN"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "藥明康德：美軍已將其移出中國軍方企業清單",
+          "summary": "藥明康德向港交所提交文件，指美國國防部副部長因華盛頓聯邦法院禁止執行相關指定，已將公司從《國防授權法》第1260H條「中國軍方企業」清單移除，公司稱此舉使其免於該指定的進一步不利影響；股份今早一度升約6%。",
+          "time_hkt": "2026-11-10T11:13:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/en/component/k2/1877228-20261110.htm"
+            },
+            {
+              "name": "CNA",
+              "url": "https://www.channelnewsasia.com/business/wuxi-apptec-removed-pentagon-list-chinese-military-companies-6536466"
+            },
+            {
+              "name": "AASTOCKS",
+              "url": "https://www.aastocks.com/tc/stocks/news/aafn-con/NOW.1553730/popular-news/AAFN"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "Anthropic據報本周訂估值區間　擬於下周中後段掛牌上市",
+          "summary": "《華爾街日報》引述消息指，人工智能公司Anthropic計劃本周釐定估值區間，並於下周四或周五開始買賣；報道指部分機構投資者傾向估值低於上周談論的1.5萬億美元目標，而上市計劃正值近期科技股波動之際。",
+          "time_hkt": "2026-11-10T09:27:00+08:00",
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
