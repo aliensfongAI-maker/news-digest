@@ -1,0 +1,228 @@
+{
+  "date": "2026-11-10",
+  "hour": "20",
+  "updatedAt": "2026-11-10T20:08:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "政府與港鐵簽訂北環綫全綫協議　造價862億較原預算低28%",
+          "summary": "行政長官會同行政會議今日批准北環綫項目第二部分財務安排，運輸及物流局與港鐵簽訂全綫項目協議，標誌主綫及支綫全面進入建設階段，目標於2034年或之前同步開通；整個項目建造成本預算為862億港元（按2025年7月價格計算），較原預算低28%，政府並按「鐵路加物業」模式向港鐵批出8幅用地作為財務資助。",
+          "time_hkt": "2026-11-10T17:38:00+08:00",
+          "sources": [
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202611/10/P2026111000471.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877274-20261110.htm"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1205567-%E6%95%B4%E5%80%8B%E5%8C%97%E7%92%B0%E7%B6%AB%E5%85%B1%E9%A0%90%E7%AE%97%E9%80%A0%E5%83%B9862%E5%84%84%E8%BC%83%E5%8E%9F%E6%9C%AC%E9%99%8D28"
+            },
+            {
+              "name": "商業電台",
+              "url": "https://www.881903.com/news/local/2658867"
+            },
+            {
+              "name": "經濟通",
+              "url": "https://www.etnet.com.hk/www/tc/news/news-article.php?section=categorized&category=editorchoice&newsid=20261110542"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "元朗拆卸村屋圍牆壓死女工　工程公司及承建商被罰13萬至15.5萬",
+          "summary": "元朗去年11月一棟拆卸中的村屋圍牆倒塌，壓死一名正在牆外清理的女工；涉事工程公司及承建商因違反《工廠及工業經營條例》，今日在粉嶺裁判法院分別被判罰款13萬元至15萬5千元。",
+          "time_hkt": "2026-11-10T17:05:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877266-20261110.htm"
+            },
+            {
+              "name": "商業電台",
+              "url": "https://www.881903.com/news/local/2658845"
+            },
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202611/10/P2026111000448.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "機電署要求海洋公園全面檢查海洋摩天塔　核實後才能恢復運作",
+          "summary": "機電署表示，海洋公園「海洋摩天塔」昨日發生停機事故後，署方已要求園方全面檢查該機動遊戲機並提交事故報告；涉事設施須經重複測試，並在署方人員核實後才能恢復運作。事發時有41名乘客在其上，其中1人感到不適，需由消防協助返回地面。",
+          "time_hkt": "2026-11-10T17:33:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877271-20261110.htm"
+            },
+            {
+              "name": "商業電台",
+              "url": "https://www.881903.com/news/local/2658835"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "俄美烏三方會談在阿布扎比舉行　美方稱各方展現若干彈性",
+          "summary": "新一輪俄羅斯、美國和烏克蘭三方會談星期二在阿聯酋首都阿布扎比舉行，是今年2月談判停滯以來三方時隔約9個月重啟面對面磋商；美方官員稱各方顯示出若干彈性，會談聚焦推動政治解決、安全保障及結束敵對行動等議題，阿聯酋代表亦有與會。",
+          "time_hkt": "2026-11-10T17:07:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877273-20261110.htm"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o"
+            },
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/10/trump-russia-ukraine-abu-dhabi-war-talks.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "外交部：中美雙方就兩國元首年內互動安排保持溝通",
+          "summary": "美國總統特朗普日前表示，將前往中國出席亞太經合組織領導人非正式會議，期間與國家主席習近平會面；中國外交部發言人郭嘉昆在例行記者會上回應時表示，中美雙方就兩國元首年內互動安排保持著溝通。",
+          "time_hkt": "2026-11-10T16:27:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877262-20261110.htm"
+            },
+            {
+              "name": "商業電台",
+              "url": "https://www.881903.com/news/international/2658827"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "聯儲局沃勒傾向12月加息0.25厘　若核心CPI偏高應考慮加0.5厘",
+          "summary": "美國聯儲局理事沃勒在倫敦表示，即使10月通脹數據有所改善，他仍傾向支持12月加息0.25厘；若10月核心消費物價指數按月升幅達0.3%或以上，則應考慮加息0.5厘，否則可能損害聯儲局抗通脹的公信力。",
+          "time_hkt": "2026-11-10T17:00:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877276-20261110.htm"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html"
+            },
+            {
+              "name": "Yahoo Finance",
+              "url": "https://finance.yahoo.com/economy/article/feds-waller-leans-toward-quarter-point-rate-hike-in-december-open-to-50-basis-points-090000672.html"
+            },
+            {
+              "name": "美國聯儲局",
+              "url": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "布蘭特期油跌近3%至89.66美元　8月以來首次跌破90美元",
+          "summary": "倫敦布蘭特期油星期二下跌近3%至每桶89.66美元，為8月31日以來最低，並一度跌破90美元；市場消化美國總統特朗普稱對伊朗戰事「實際上已結束」、再發動打擊的可能性不大，紐約期油亦下跌。",
+          "time_hkt": "2026-11-10T18:28:00+08:00",
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/business/2026/nov/10/oil-prices-fall-donald-trump-iran-war-ftse-100-markets"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/10/oil-prices-trump-iran.html"
+            },
+            {
+              "name": "The Independent",
+              "url": "https://www.independent.co.uk/news/business/donald-trump-iran-brent-andrew-bailey-white-house-b3082334.html"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "港股高收108點報24557　滙控升逾4%　成交約1782億",
+          "summary": "港股結束兩日跌勢反彈，恒生指數收報24557點，升108點或0.44%，主板成交約1782億元；金融及AI相關股份造好，滙控升逾4%，渣打升5%，舜宇升近6%，惟阿里巴巴跌近3%，內地油股逆市下跌。",
+          "time_hkt": "2026-11-10T16:29:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877261-20261110.htm"
+            },
+            {
+              "name": "經濟通",
+              "url": "https://www.etnet.com.hk/www/tc/news/news-article.php?section=features&category=financenews&newsid=416142"
+            },
+            {
+              "name": "商業電台",
+              "url": "https://www.881903.com/news/finance/2658846"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1205536-%E6%B8%AF%E8%82%A1%E6%94%B6%E5%B8%82%E5%A0%B124557%E9%BB%9E%E5%8D%87108%E9%BB%9E"
+            },
+            {
+              "name": "Yahoo財經",
+              "url": "https://hk.finance.yahoo.com/news/%E6%81%92%E6%8C%87%E5%85%A8%E6%97%A5%E6%94%B6%E5%A0%B124557-04%E9%BB%9E-%E5%8D%87-0-44-081500744.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "領展近2.4億新加坡元向英康保險收購東福坊50.1%權益",
+          "summary": "領展宣布以2.395億新加坡元向英康保險收購新加坡東福坊50.1%權益，預計明年首季完成；完成後英康將持有餘下49.9%，雙方計劃分階段進行資產提升，領展在新加坡管理的零售資產將增至3個。",
+          "time_hkt": "2026-11-10T18:42:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877281-20261110.htm"
+            },
+            {
+              "name": "經濟通",
+              "url": "https://www.etnet.com.hk/www/tc/news/news-article.php?section=categorized&category=editorchoice&newsid=20261110601"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": []
+    }
+  ]
+}
