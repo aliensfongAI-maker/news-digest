@@ -1,0 +1,168 @@
+{
+  "date": "2026-11-10",
+  "hour": "08",
+  "updatedAt": "2026-11-10T08:16:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "天文台今晨錄得最低17.8度　入秋以來最低紀錄",
+          "summary": "本港今早各區氣溫普遍較昨日低約7度，天文台截至上午5時30分錄得最低氣溫17.8度，是入秋以來最低紀錄，新界普遍再低一至兩度；天文台預測今日顯著轉涼、最高約23度，強烈季候風信號及紅色火災危險警告生效，初時離岸及高地吹強風。",
+          "time_hkt": "2026-11-10T06:23:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877196-20261110.htm"
+            },
+            {
+              "name": "新浪香港",
+              "url": "https://portal.sina.com.hk/news-hongkong/news-realtime/rthk/2026/11/10/1982294/%E5%A4%A9%E6%96%87%E5%8F%B0%E4%BB%8A%E6%99%A8%E9%8C%84%E5%BE%97%E6%9C%80%E4%BD%8E17-8%E5%BA%A6%E3%80%80%E5%85%A5%E7%A7%8B%E4%BB%A5%E4%BE%86%E6%9C%80%E4%BD%8E%E7%B4%80%E9%8C%84/"
+            },
+            {
+              "name": "新假期",
+              "url": "https://www.weekendhk.com/%e7%9f%9a%e7%9b%ae%e8%a9%b1%e9%a1%8c/%e4%bb%8a%e6%97%a917-8-c%e5%85%a5%e7%a7%8b%e6%9c%80%e4%bd%8e-%e5%a4%a9%e6%96%87%e5%8f%b0%e6%96%99%e6%97%a5%e9%96%93%e9%9d%9e%e5%b8%b8%e4%b9%be%e7%87%a5%e6%9c%80%e9%ab%98%e7%b4%8423-c-3539262/"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "特朗普晤卡塔爾首相後稱對伊朗戰事在軍事上「實際上已結束」",
+          "summary": "美國總統特朗普星期一在白宮與卡塔爾首相穆罕默德會談後向記者表示，對伊朗的戰事在軍事上「實際上已結束」，現階段再採取軍事行動似乎並非必要，並稱見到結束衝突的勢頭、預料相當快會結束；他同時指卡塔爾、沙特等海灣國家傾向維持現狀，繼續實施大規模海上封鎖及「鐵門」行動，若局勢有變美方仍「已做好準備」。",
+          "time_hkt": "2026-11-10T06:58:00+08:00",
+          "sources": [
+            {
+              "name": "新華社",
+              "url": "https://www.news.cn/world/20261110/5317e9a2c96a4fc8851a6dc9860fe8ad/c.html"
+            },
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/us-news/2026/nov/09/trump-iran-war"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm"
+            },
+            {
+              "name": "國際在線",
+              "url": "https://news.cri.cn/20261110/3f0a2a7c-368b-7af0-3c9b-8ff93246ad0c.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "美聯邦眾議員馬西提交決議案推動彈劾國防部長赫格塞思",
+          "summary": "美國肯塔基州共和黨籍聯邦眾議員馬西向眾議院提交涵蓋8項條款的彈劾決議案，指控國防部長赫格塞思未經國會批准對伊朗用兵及其他濫權行為，並啟動兩日內全院表決的程序；眾議院民主黨領袖傑弗里斯表明支持，特朗普則稱對赫格塞思有信心，即使眾議院通過彈劾亦會力挺。",
+          "time_hkt": "2026-11-10T07:18:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877198-20261110.htm"
+            },
+            {
+              "name": "ABC",
+              "url": "https://www.abc.net.au/news/2026-11-10/us-defence-secretary-pete-hegseth-subject-of-new-impeachment-bid/107366698"
+            },
+            {
+              "name": "NPR",
+              "url": "https://www.npr.org/2026/11/09/nx-s1-6034483/thomas-massie-impeachment-pete-hegseth"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "國際油價低收逾4%至近6%　特朗普暗示將對伊朗克制",
+          "summary": "國際油價低收逾4%至近6%，因美國總統特朗普淡化再次對伊朗發動打擊的可能性；倫敦布蘭特期油收市報每桶92.57美元，跌5.75美元或5.8%，紐約期油報86.85美元，跌3.98美元或近4.4%，結算後價格續跌。",
+          "time_hkt": "2026-11-10T06:33:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877191-20261110.htm"
+            },
+            {
+              "name": "Reuters",
+              "url": "https://finance.yahoo.com/news/oil-falls-open-trump-says-235002807.html"
+            },
+            {
+              "name": "The Business Times",
+              "url": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/oil-down-more-us7-barrel-post-settlement-trade-trump-signals-restraint-iran"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "金價曾升2%　美元下跌市場風險偏好升溫",
+          "summary": "受美元走弱及油價下跌紓緩通脹憂慮提振，現貨金一度升2%至近每盎司4150美元，紐約期金收市報4114.5美元、升近1%；美元指數紐約尾市跌逾0.5%報101.65，歐元及英鎊兌美元均升近0.7%，市場亦關注周二公布的美國CPI。",
+          "time_hkt": "2026-11-10T06:34:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877193-20261110.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877194-20261110.htm"
+            },
+            {
+              "name": "Mining.com.au",
+              "url": "https://mining.com.au/gold-price-rebounds-as-oil-and-dollar-retreat/"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "歐股高收逾1%",
+          "summary": "歐洲主要股市收市升逾1%，銀行和國防股造好；德國DAX指數收報26267點，升446點或1.7%，法國CAC指數報8233點，升近1.2%，英國富時100指數報10782點，升108點或1%。",
+          "time_hkt": "2026-11-10T05:36:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877189-20261110.htm"
+            },
+            {
+              "name": "ABC",
+              "url": "https://www.abc.net.au/news/2026-11-10/asx-markets-business-live-news-november-10-2026/107363300"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "港股ADR與本港收市比較個別發展",
+          "summary": "港股美國預託證券與本港收市比較個別發展：金融股方面滙控ADR較本港收市升逾3%，友邦升近1%；科技股方面京東和阿里巴巴的ADR則跌近1%或以上。",
+          "time_hkt": "2026-11-10T06:36:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877195-20261110.htm"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": []
+    }
+  ]
+}
