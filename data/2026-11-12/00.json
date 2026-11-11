@@ -1,0 +1,59 @@
+{
+  "date": "2026-11-12",
+  "hour": "00",
+  "updatedAt": "2026-11-12T00:15:00+08:00",
+  "sections": [
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "美股開市後個別發展　納指升約1.2%　標普升約0.8%　Nvidia反彈　CoreWeave績後急升逾一成",
+          "summary": "美股星期三開市後個別發展，港台及Yahoo財經均指納斯達克指數升約1.2%、標準普爾500指數升約0.8%，道瓊斯指數近乎持平；Nvidia在連續兩日下跌後反彈，受惠其投資的雲端運算公司CoreWeave公布季績優於預期並上調全年收入展望，CoreWeave股價急升逾一成，帶動芯片股造好。",
+          "time_hkt": "2026-11-11T22:49:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877444-20261111.htm"
+            },
+            {
+              "name": "Yahoo Finance",
+              "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/11/stocks-moving-the-most-today-live-updates.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "據報Anthropic首次公開招股認購意向達發售股數數倍　擬籌最多904億美元",
+          "summary": "彭博引述知情人士報道，人工智能公司Anthropic的首次公開招股已獲得相當於發售股數數倍的認購意向，需求主要來自錨定規模認購；公司計劃通過IPO及私募配售最多籌集904億美元，合計規模有望超過SpaceX的上市集資，成為史上最大規模首次公開招股，惟細節仍可能有變。",
+          "time_hkt": "2026-11-11T21:27:00+08:00",
+          "sources": [
+            {
+              "name": "Yahoo財經",
+              "url": "https://hk.finance.yahoo.com/news/anthropic%E9%87%8D%E7%A3%85ipo%E6%93%9A%E6%82%89%E5%B7%B2%E7%8D%B2%E6%95%B8%E5%80%8D%E8%B6%85%E9%A1%8D%E8%AA%8D%E8%B3%BC-132702410.html"
+            },
+            {
+              "name": "新浪財經",
+              "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniykqvt1696877.shtml"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1205850-%E6%93%9A%E5%A0%B1Anthropic%E6%8B%9B%E8%82%A1%E8%AA%8D%E8%B3%BC%E6%84%8F%E5%90%91%E9%81%94%E7%99%BC%E5%94%AE%E8%82%A1%E6%95%B8%E6%95%B8%E5%80%8D%E6%93%AC%E7%B1%8C%E6%9C%80%E5%A4%9A904%E5%84%84%E7%BE%8E%E5%85%83"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
