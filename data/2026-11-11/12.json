@@ -1,0 +1,109 @@
+{
+  "date": "2026-11-11",
+  "hour": "12",
+  "updatedAt": "2026-11-11T12:15:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "美財長貝森特：美中將推人工智能雙邊對話以防範共同風險　同時爭取主導地位",
+          "summary": "美國財長貝森特周二在紐約美中關係全國委員會晚宴的準備講稿中表示，美中在人工智能問題上存在分歧，應在減低技術風險上合作、同時爭取領域主導地位；他指出下星期將隨特朗普訪華，並在深圳亞太經合組織峰會期間推進「超級智能」雙邊對話，交換先進模型發布前的測試評估做法、維持人類判斷主導，以及建立嚴重事故相互通報的直接溝通管道，並重申美國目標是「去風險而非脫鈎」。",
+          "time_hkt": "2026-11-11T09:27:00+08:00",
+          "sources": [
+            {
+              "name": "美國財政部",
+              "url": "https://home.treasury.gov/news/press-releases/sb0688/"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877359-20261111.htm"
+            },
+            {
+              "name": "The Straits Times",
+              "url": "https://www.straitstimes.com/world/united-states/us-and-china-should-stay-clear-eyed-on-ai-cooperation-and-competition-bessent-says"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "費城聯儲總裁保爾森：進一步逐步加息屬合適　若通脹惡化將更積極行動",
+          "summary": "費城聯邦儲備銀行總裁保爾森在周二晚演講中表示，通脹仍然偏高、基礎通脹徘徊於2.5%至3%，聯儲局在將通脹降至2%方面仍有更多工作要做，因此進一步逐步加息屬合適，讓經濟有時間適應更高借貸成本，官員亦有空間評估政策影響；她支持9月加息及10月息口不變，並指若通脹預期上移、工資壓力升溫或基礎通脹走高，則會傾向更快行動。",
+          "time_hkt": "2026-11-11T08:50:00+08:00",
+          "sources": [
+            {
+              "name": "Philadelphia Fed",
+              "url": "https://www.philadelphiafed.org/the-economy/monetary-policy/261110-81st-annual-field-meeting-capstone-speech"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877342-20261111.htm"
+            },
+            {
+              "name": "FXStreet",
+              "url": "https://www.fxstreet.com/news/feds-paulson-further-gradual-rate-hikes-appropriate-given-high-inflation-202611110137"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "恒指低開202點報24354點　科技及地產股偏軟　新荷花上市高開近28%",
+          "summary": "受美國通脹高於預期、市場加息預期升溫影響，港股周三低開，恒生指數競價時段報24354點，跌202點或0.83%，恒生科技指數跌39點或0.96%報4045點；滙控低開逾1%，騰訊、阿里巴巴等大型科網股以及新世界、長實等地產股偏軟，寧德時代則升逾2%；中藥飲片供應商新荷花上市開市報51.3元，較招股價高近28%。",
+          "time_hkt": "2026-11-11T09:20:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877349-20261111.htm"
+            },
+            {
+              "name": "東網",
+              "url": "https://hk.on.cc/hk/bkn/cnt/finance/20261111/bkn-20261111092025450-1111_00842_001.html"
+            },
+            {
+              "name": "The Standard",
+              "url": "https://www.thestandard.com.hk/finance/article/348132/Hang-Seng-slips-202-points-on-tech-sell-off-rate-fears-hit-property"
+            },
+            {
+              "name": "香港商報",
+              "url": "https://www.hkcd.com/hkcdweb/content/2026/11/11/content_8784725.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "金發局發表報告提三項建議　吸引長期「耐心資本」鞏固財富管理樞紐地位",
+          "summary": "金融發展局發表《強化香港作為國際資產及財富管理樞紐地位：吸引耐心資本》報告，提出拓寬產品種類、深化跨境互聯互通，以及完善市場生態圈三項核心建議；主席洪丕正表示，耐心資本能提供穩定資金、有助抵禦市場周期波動，報告並指內地保險業境外資產配置比例僅5.4%，低於15%的監管上限，隨着內地養老及保險資金擴張，香港可成為連接國際與區域長期資本的橋樑。",
+          "time_hkt": "2026-11-11T11:15:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877364-20261111.htm"
+            },
+            {
+              "name": "文匯報",
+              "url": "https://www.wenweipo.com/a/202611/11/AP6af3e041e4b028ec01937b15.html"
+            },
+            {
+              "name": "東網",
+              "url": "https://hk.on.cc/hk/bkn/cnt/finance/20261111/bkn-20261111114614511-1111_00842_001.html"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    }
+  ]
+}
