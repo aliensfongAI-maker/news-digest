@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-12",
+  "hour": "04",
+  "updatedAt": "2026-11-12T04:15:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "俄羅斯駐美大使達爾奇耶夫突然去世　終年66歲　俄方指在莫斯科死於慢性疾病",
+          "summary": "俄羅斯外交部宣布，駐美國大使亞歷山大·達爾奇耶夫星期三突然去世，終年66歲；部門發言人扎哈羅娃其後表示，他在莫斯科因慢性疾病逝世，外交部形容他是傑出外交官及美國問題專家，並於2025年3月獲總統普京任命為駐美大使。",
+          "time_hkt": "2026-11-12T00:50:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877449-20261112.htm"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/russia-ambassador-alexander-darchiev-obit-486a4a9bf9bac4759a8060196e0dfc1c"
+            },
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/nov/11/russia-ambassador-dies-alexander-darchiev"
+            },
+            {
+              "name": "新華社",
+              "url": "https://www.xinhuanet.com/world/20261112/2a30b7f787134bab9b3f0dbc45b598fa/c.html"
+            },
+            {
+              "name": "TASS",
+              "url": "https://tass.com/politics/2216529"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
