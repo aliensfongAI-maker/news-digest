@@ -1,0 +1,131 @@
+{
+  "date": "2026-11-11",
+  "hour": "20",
+  "updatedAt": "2026-11-11T20:12:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "韓國荷蘭有地區爆發禽流感　本港暫停進口該等地區禽肉及禽類產品",
+          "summary": "食環署食物安全中心宣布，因應韓國全南光州長興郡爆發高致病性H5N9禽流感、京畿道驪州市爆發H5N1，以及荷蘭海德蘭省爆發H5N1，即時指示業界暫停從上述地區進口禽肉及禽類產品（包括禽蛋）；中心指本港今年首九個月從韓國進口約80公噸冷藏禽肉及約1148萬隻禽蛋，從荷蘭進口約790公噸冷藏禽肉。",
+          "time_hkt": "2026-11-11T17:35:00+08:00",
+          "sources": [
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202611/11/P2026111100538.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877416-20261111.htm"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "阿布扎比會談結束　俄方稱已與烏克蘭就大規模戰俘交換達成協議　美特使將晤普京及澤連斯基",
+          "summary": "為期兩日的美俄烏阿布扎比會談結束後，俄方首席談判代表梅金斯基表示雙方已就大規模交換戰俘達成協議、部分議題取得相互理解並將繼續會談，但對歐盟加入談判持保留態度；美國特使庫什納及威特科夫形容會談實質而艱巨，將於周四在莫斯科會見普京，其後前往都柏林向澤連斯基匯報。",
+          "time_hkt": "2026-11-11T19:30:00+08:00",
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates"
+            },
+            {
+              "name": "RFE/RL",
+              "url": "https://www.rferl.org/a/ukraine-russia-talks-resume-in-abu-dhabi-amid-drone-attacks/33895197.html"
+            },
+            {
+              "name": "Kyiv Post",
+              "url": "https://www.kyivpost.com/post/89788"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "據報內地累計申報離岸信託個人所得稅超過1600億元人民幣",
+          "summary": "新華社引述國家稅務總局表示，離岸信託收益徵稅政策過渡期已平穩結束，絕大多數納稅人積極配合，累計申報離岸信託個人所得稅超過1600億元人民幣，其中10月入庫逾1200億元，帶動當月全國個人所得稅收入增長近90%。",
+          "time_hkt": "2026-11-11T16:30:00+08:00",
+          "sources": [
+            {
+              "name": "新華社",
+              "url": "https://www.xinhuanet.com/fortune/20261111/4495662701aa4cc6b438eb1559ed69f3/c.html"
+            },
+            {
+              "name": "第一財經",
+              "url": "https://www.yicai.com/brief/103436431.html"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877421-20261111.htm"
+            },
+            {
+              "name": "聯合早報",
+              "url": "https://www.zaobao.com.sg/news/china/story20261111-9982453"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "恒指低收241點報24315　科指跌逾1.4%　新荷花收市較招股價高近72%",
+          "summary": "受美國加息預期升溫影響，恒生指數全日收報24315點，跌241點或0.98%，主板成交約1807億元；恒生科技指數跌約1.41%報4027點，科網及電動車股偏軟，中芯國際則逆市升近3.7%，首日上市的新荷花收報69元，較招股價高近72%。",
+          "time_hkt": "2026-11-11T16:34:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877403-20261111.htm"
+            },
+            {
+              "name": "英文虎報",
+              "url": "https://www.thestandard.com.hk/finance/article/348184/Hang-Seng-closes-down-241-points-as-tech-and-EV-shares-weigh-SMIC-jumps-37"
+            },
+            {
+              "name": "信報",
+              "url": "https://www.hkej.com/instantnews/stock/article/4562873"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "財政部擬下周在港發行美元主權債券　規模不多於20億美元",
+          "summary": "財政部表示，經國務院批准，將於11月16日當周在香港發行美元主權債券，規模不超過20億美元，具體發行安排將於發行前另行公布。",
+          "time_hkt": "2026-11-11T17:41:00+08:00",
+          "sources": [
+            {
+              "name": "第一財經",
+              "url": "https://www.yicai.com/brief/103436566.html"
+            },
+            {
+              "name": "新華社",
+              "url": "https://www.news.cn/gangao/20261111/7f1328d5f86d4043a1fea3c9b505ee08/c.html"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877418-20261111.htm"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    }
+  ]
+}
