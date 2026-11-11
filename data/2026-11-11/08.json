@@ -1,0 +1,119 @@
+{
+  "date": "2026-11-11",
+  "hour": "08",
+  "updatedAt": "2026-11-11T08:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "市區今早降至18度左右　新界部分地區降至12度或以下",
+          "summary": "天文台表示，乾燥的東北季候風正影響廣東沿岸，本港今早市區氣溫降至18度左右，上午5時50分錄得18.4度；因天朗氣清及風勢較弱，新界部分地區輻射冷卻較明顯，打鼓嶺低見10.6度、大帽山及大隴錄得11.2度，預測今日天晴乾燥、日間最高約25度。",
+          "time_hkt": "2026-11-11T05:14:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877324-20261111.htm"
+            },
+            {
+              "name": "東網",
+              "url": "https://hk.on.cc/hk/bkn/cnt/news/20261111/bkn-20261111051755214-1111_00822_001.html"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60409349/%E5%A4%A9%E6%B0%A3-%E4%BB%8A%E6%97%A9%E5%B8%82%E5%8D%80%E7%B4%8418%E5%BA%A6-%E6%96%B0%E7%95%8C%E9%83%A8%E4%BB%BD%E5%9C%B0%E5%8D%8012%E5%BA%A6%E6%88%96%E4%BB%A5%E4%B8%8B-%E6%97%A5%E9%96%93%E6%9C%80%E9%AB%98%E7%B4%8425%E5%BA%A6"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "美國眾議院以211票對204票通過程序動議　將赫格塞斯彈劾案移交司法委員會",
+          "summary": "美國眾議院周二以211票對204票通過程序動議，將共和黨眾議員梅西提出的國防部長赫格塞斯彈劾案移交由共和黨控制的司法委員會，變相阻撓即時全院表決；除梅西外，共和黨議員幾乎全數支持該動議，特朗普其後稱此為「偉大愛國者得到昭雪」，民主黨料於明年1月掌控國會後或再推進彈劾。",
+          "time_hkt": "2026-11-11T07:08:00+08:00",
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/us-news/2026/nov/10/pete-hegseth-impeachment-effort"
+            },
+            {
+              "name": "Fox News",
+              "url": "https://www.foxnews.com/politics/house-gop-leaders-block-massie-hegseth-impeachment-push"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877338-20261111.htm"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "美股三大指數收市下跌　道指低收157點　輝達再跌約5.5%",
+          "summary": "美國10月通脹高於預期、市場加息預期升溫，美股周二收市全線下跌，道瓊斯指數收報52231點，跌157點或0.3%，標準普爾500指數跌0.38%報7520點，納斯達克指數跌0.74%報25065點；輝達再跌約5.5%，收報168.8美元，微軟亦跌逾2%。",
+          "time_hkt": "2026-11-11T05:25:00+08:00",
+          "sources": [
+            {
+              "name": "信報",
+              "url": "https://www.hkej.com/instantnews/international/article/4562683/%E7%BE%8E%E8%82%A1%E8%B5%B0%E5%8B%A2%E4%B8%A8%E9%81%93%E6%8C%87%E6%94%B6%E5%B8%82%E6%8C%AB157%E9%BB%9E+%E8%BC%9D%E9%81%94%E5%B8%82%E5%80%BC%E4%B8%80%E5%BA%A6%E8%B7%8C%E7%A0%B44%E8%90%AC%E5%84%84%E7%BE%8E%E5%85%83"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877327-20261111.htm"
+            },
+            {
+              "name": "經濟通",
+              "url": "https://www.etnet.com.hk/www/tc/news/news-article.php?category=us&newsid=416242&section=categorized"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "美元和美債息上升　10年期孳息升逾13個基點至4.99厘以上",
+          "summary": "美國10月通脹略高於預期，鞏固聯儲局下月加息預期，美元指數在紐約尾市升逾0.5%報102.24，美國10年期國債孳息率升逾13個基點、企於4.99厘以上，對利率較敏感的2年期債息則升近20個基點、在4.74厘以上。",
+          "time_hkt": "2026-11-11T06:12:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877329-20261111.htm"
+            },
+            {
+              "name": "信報",
+              "url": "https://www.hkej.com/instantnews/international/article/4562683/%E7%BE%8E%E8%82%A1%E8%B5%B0%E5%8B%A2%E4%B8%A8%E9%81%93%E6%8C%87%E6%94%B6%E5%B8%82%E6%8C%AB157%E9%BB%9E+%E8%BC%9D%E9%81%94%E5%B8%82%E5%80%BC%E4%B8%80%E5%BA%A6%E8%B7%8C%E7%A0%B44%E8%90%AC%E5%84%84%E7%BE%8E%E5%85%83"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "港股ADR普遍較本港收市下跌　滙控跌近2%",
+          "summary": "受美股收市下跌影響，港股美國預託證券普遍較本港上日收市下跌，其中滙控ADR跌近2%，友邦跌近1%，阿里巴巴及小米等科技股ADR亦跌近1%或以上。",
+          "time_hkt": "2026-11-11T06:34:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877331-20261111.htm"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
