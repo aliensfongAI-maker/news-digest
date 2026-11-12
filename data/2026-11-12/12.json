@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-12",
+  "hour": "12",
+  "updatedAt": "2026-11-12T12:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "廉署起訴啟德醫院分判商工頭曾楚松　涉向5名輸入勞工電工收賄75100元",
+          "summary": "廉政公署接獲貪污投訴後，昨夜落案起訴啟德醫院建築項目電工分判商億達利電機工程的52歲工頭曾楚松，控告他涉嫌於今年9月至11月向5名輸入勞工電工收取共10筆賄款合共75100元，以協助他們獲聘及繼續受僱，案件今早在屯門裁判法院提訊。",
+          "time_hkt": "2026-11-12T09:28:33+08:00",
+          "sources": [
+            {
+              "name": "廉政公署",
+              "url": "https://www.icac.org.hk/tc/p/press/index_id_5053.html"
+            },
+            {
+              "name": "巴士的報",
+              "url": "https://www.bastillepost.com/hongkong/article/17165962-%e5%bb%89%e7%bd%b2%e8%b5%b7%e8%a8%b4%e5%95%9f%e5%be%b7%e9%86%ab%e9%99%a2%e5%bb%ba%e7%af%89%e9%a0%85%e7%9b%ae%e5%88%86%e5%88%a4%e5%95%86%e3%80%8c%e5%b7%a5%e9%a0%ad%e3%80%8d-%e6%b6%89%e5%90%91%e5%a4%96"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877493-20261112.htm"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "孫中山誕辰160周年　李家超主持紀念儀式稱繼承振興中華精神屬最好紀念",
+          "summary": "特區政府今早10時在中山紀念公園舉行孫中山先生誕辰160周年紀念儀式，行政長官李家超致辭表示，紀念孫中山的最好方式是學習和繼承其振興中華的志向及熱愛祖國的精神，並指本港首個五年規劃提出深化愛國主義教育，期望把愛國愛港精神化為行動。",
+          "time_hkt": "2026-11-12T10:15:50+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877494-20261112.htm"
+            },
+            {
+              "name": "商業電台",
+              "url": "https://www.881903.com/news/local/2659145"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "北京舉行孫中山誕辰160周年大會　習近平稱絕不會為台獨活動留下空間",
+          "summary": "紀念孫中山先生誕辰160周年大會今早在北京人民大會堂舉行，國家主席習近平出席並發表講話；其後台灣媒體報道，他重申堅持和平統一、一國兩制，願在一個中國原則和九二共識基礎上與台灣各界對話協商，但強調絕不會為各種形式的台獨分裂活動留下任何空間。",
+          "time_hkt": "2026-11-12T10:11:05+08:00",
+          "sources": [
+            {
+              "name": "新華社",
+              "url": "https://www.news.cn/politics/20261112/30d3b1c56d554a358134a29b31ecf620/c.html"
+            },
+            {
+              "name": "中國新聞網",
+              "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730650.shtml"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877495-20261112.htm"
+            },
+            {
+              "name": "中時新聞網",
+              "url": "https://www.chinatimes.com/realtimenews/20261112002360-260409"
+            },
+            {
+              "name": "ETtoday",
+              "url": "https://www.ettoday.net/news/20261112/3270821.htm"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "恒指低開194點報24121點　科指失守4000點　其後跌幅擴大",
+          "summary": "港股星期四低開，恒生指數開市報24121點，跌194點或0.8%，恒生科技指數失守4000點關口，報3995點，同樣跌0.8%；其後跌幅擴大，恒指一度下跌327點至23988點，阿里巴巴等大型科網股受壓，芯片股則逆市向好；今日上市的智能移動機器人商一微科技開市較招股價高逾37%。",
+          "time_hkt": "2026-11-12T09:20:13+08:00",
+          "sources": [
+            {
+              "name": "東網",
+              "url": "https://hk.on.cc/hk/bkn/cnt/finance/20261112/bkn-20261112092013380-1112_00842_001.html"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877484-20261112.htm"
+            },
+            {
+              "name": "新浪財經",
+              "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-12/doc-iniymsin8629597.shtml"
+            },
+            {
+              "name": "每日經濟新聞",
+              "url": "https://www.nbd.com.cn/articles/2026-11-12/4645608.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
