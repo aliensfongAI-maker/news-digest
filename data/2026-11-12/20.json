@@ -1,0 +1,155 @@
+{
+  "date": "2026-11-12",
+  "hour": "20",
+  "updatedAt": "2026-11-12T20:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "假門票集團10人被捕涉洗黑錢逾8100萬　部分人有三合會背景",
+          "summary": "警方過去兩日打擊網上演唱會及大型活動假門票詐騙和洗黑錢，拘捕10名年齡介乎18至46歲人士，涉嫌以欺騙手段取得財產、串謀詐騙及洗黑錢，部分人有三合會背景；涉案傀儡戶口處理超過8100萬元懷疑犯罪得益，並牽涉至少12宗騙案、騙款逾36萬元，騙徒在社交平台偽冒實體店放售門票，或以應援物建立信任，再於港鐵站面交假票收款。",
+          "time_hkt": "2026-11-12T16:21:10+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877540-20261112.htm"
+            },
+            {
+              "name": "都市日報",
+              "url": "https://metrohk.com.hk/%E6%B8%AF%E8%81%9E/%E8%AD%A6%E6%96%B9%E7%93%A6%E8%A7%A3%E6%9C%AC%E5%9C%B0%E5%81%87%E9%96%80%E7%A5%A8%E9%9B%86%E5%9C%98%E6%8B%98%E5%8D%81%E4%BA%BA-9834a7"
+            },
+            {
+              "name": "英文虎報",
+              "url": "https://www.thestandard.com.hk/news/article/348341/Police-smash-fake-concert-ticket-syndicate-arrest-10"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "瑪麗醫院新大樓升降機調查報告出爐　或涉違法行為已轉介調查",
+          "summary": "發展局向立法會提交瑪麗醫院新臨床大樓升降機工程調查報告，指28部升降機頻繁故障主要涉及井道及導軌垂直度偏差、機廂重心不平衡和安裝工藝欠妥；當局將懲處承建商、分判商及顧問公司，並就建築署人員啟動紀律程序，機電署相關人員將發勸誡信，調查發現可能涉及其他違法行為已轉介執法部門跟進；截至本周二28部升降機中18部已完成執修，其中7部已開放使用，餘下預計今年第四季完成，須全部正常運作才全面啟用新大樓。",
+          "time_hkt": "2026-11-12T18:41:38+08:00",
+          "sources": [
+            {
+              "name": "東網",
+              "url": "https://hk.on.cc/hk/bkn/cnt/news/20261112/bkn-20261112184138671-1112_00822_001.html"
+            },
+            {
+              "name": "商業電台",
+              "url": "https://www.881903.com/news/local/2659249"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877571-20261112.htm"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "紐約布魯克林樓宇倒塌死亡人數升至6人　另有19人受傷",
+          "summary": "美國紐約布魯克林Flatbush一棟約90年歷史的三層建築於當地周三下午倒塌並墮入毗鄰地盤的挖掘坑，救援持續至周四清晨；當地傳媒報道死亡人數已升至6人，另有19人受傷，當中包括7名兒童，4人情況危殆，消防仍在瓦礫中搜索，當局正調查原因，事發時旁邊地盤正在進行挖掘工程。",
+          "time_hkt": "2026-11-12T19:45:57+08:00",
+          "sources": [
+            {
+              "name": "ABC7 New York",
+              "url": "https://abc7ny.com/live-updates/brooklyn-building-collapse-live-updates-1-dead-flatbush/20034152/"
+            },
+            {
+              "name": "New York Post",
+              "url": "https://nypost.com/2026/11/12/us-news/at-least-4-confirmed-dead-in-collapsed-nyc-building-as-massive-rescue-operation-continues/"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "中芯第3季盈利按年升1.2倍至4.28億美元　預計第4季收入再增",
+          "summary": "中芯國際公布，第3季銷售收入31.9億美元，按年升33.9%；公司擁有人應佔溢利4.28億美元，按年升1.23倍，按季跌約一成；毛利率升至29.9%，高於上一季的25.3%，集團預計第4季收入按季增長4%至6%，毛利率指引介乎26%至28%。",
+          "time_hkt": "2026-11-12T17:41:38+08:00",
+          "sources": [
+            {
+              "name": "東網",
+              "url": "https://hk.on.cc/hk/bkn/cnt/finance/20261112/bkn-20261112174138794-1112_00842_001.html"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877568-20261112.htm"
+            },
+            {
+              "name": "港交所披露易",
+              "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1112/2026111200682.pdf"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "恒指低收307點報24008點　阿里巴巴挫近7%　領展績後升逾3%",
+          "summary": "港股延續跌勢，恒生指數低見23942點，收報24008點，跌307點或約1.3%，主板成交約2027億元；科技指數收報3931點，跌約2.4%，阿里巴巴午後顯著下挫、低收近7%，為表現最差藍籌，領展公布中期業績後升逾3%，為表現最好藍籌。",
+          "time_hkt": "2026-11-12T16:10:00+08:00",
+          "sources": [
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1205962-%E6%B8%AF%E8%82%A1%E6%94%B6%E5%B8%82%E5%A0%B124008%E9%BB%9E%E8%B7%8C307%E9%BB%9E"
+            },
+            {
+              "name": "巴士的報",
+              "url": "https://www.bastillepost.com/hongkong/article/17169125-%e5%85%a8%e6%97%a5%e6%94%b6%e5%b8%82%ef%b8%b1%e5%8d%88%e5%be%8c%e5%86%8d%e6%8c%ab-%e6%81%92%e6%8c%87%e8%b7%8c307%e9%bb%9e%e5%a0%b124008%e9%bb%9e-%e9%98%bf%e9%87%8c%e6%88%90%e8%b7%8c%e5%b8%82%e7%bd%aa"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877542-20261112.htm"
+            },
+            {
+              "name": "星島頭條",
+              "url": "https://www.stheadline.com/stock-market/3636228/%E6%81%92%E6%8C%87%E6%8C%AB307%E9%BB%9E-%E9%9A%AA%E5%AE%88%E5%85%A9%E8%90%AC%E5%9B%9B-%E9%98%BF%E9%87%8C%E7%80%897%E5%A4%B1%E5%AE%88%E7%B4%85%E5%BA%95-%E5%B0%88%E5%AE%B6%E6%86%82Nvidia%E4%BA%8B%E4%BB%B6%E8%94%93%E5%BB%B6%E6%B8%AF%E8%82%A1%E6%94%B6%E5%B8%82"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "長和：零售業務獨立上市評估仍持續　董事會尚未作出決定",
+          "summary": "長和發公告，知悉近期有媒體報道集團暫停旗下零售業務建議獨立上市；公司表示相關策略探索、評估及籌備工作仍然持續，但截至公告日期，董事會未有就任何涉及零售業務獨立上市的交易作出決定，目前並不確定有關交易會否進行。",
+          "time_hkt": "2026-11-12T16:40:15+08:00",
+          "sources": [
+            {
+              "name": "每日經濟新聞",
+              "url": "https://www.nbd.com.cn/articles/2026-11-12/4645995.html"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877550-20261112.htm"
+            },
+            {
+              "name": "港交所披露易",
+              "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1112/2026111200262.pdf"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    }
+  ]
+}
