@@ -1,0 +1,151 @@
+{
+  "date": "2026-11-13",
+  "hour": "00",
+  "updatedAt": "2026-11-13T00:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "崇光百貨及周生生通報系統遭未經授權存取　崇光或影響約82萬會員資料",
+          "summary": "崇光（香港）百貨表示本月發現會員系統曾遭未經授權存取，受影響資料主要包括部分會員號碼、姓名、電話、電郵及積分，私隱專員公署指事故或影響約82萬名會員並已展開調查；周生生則公布近日發現系統遭未經授權存取，本週一首次識別事件，部分客戶及員工資料或曾被提取，受影響系統包括會員系統及官方電子商貿渠道，兩間公司均已向私隱署等部門通報。",
+          "time_hkt": "2026-11-12T21:48:57+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877591-20261112.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877592-20261112.htm"
+            },
+            {
+              "name": "東網",
+              "url": "https://hk.on.cc/hk/bkn/cnt/news/20261112/bkn-20261112215453331-1112_00822_001.html"
+            },
+            {
+              "name": "文匯報",
+              "url": "https://www.wenweipo.com/a/202611/12/AP6af5d5b9e4b028ec0193ae50.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "中環康樂廣場遇襲外籍男子不治　警方將案件改列謀殺案",
+          "summary": "警方公布，上星期六在中環康樂廣場對開遇襲、頭部受傷的41歲外籍男子於今日下午證實死亡，已將案件由傷人改列謀殺案，由中區警區重案組調查；警方曾於事發翌日在九龍城及灣仔拘捕兩名44歲及52歲外籍男子，兩人已被暫控意圖造成身體嚴重傷害而傷人，案件已於星期二提堂，現時還押看管。",
+          "time_hkt": "2026-11-12T22:49:00+08:00",
+          "sources": [
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202611/12/P2026111200722.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877597-20261112.htm"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "普京晤美特使威特科夫及庫什納　稱不能接受外國軍隊在烏克蘭駐紮",
+          "summary": "俄羅斯總統普京星期四在克里姆林宮會見美國總統特使威特科夫及庫什納，會晤約兩個半小時；普京表示俄方不能接受外國軍隊在烏克蘭駐紮，認為會對俄國安構成威脅，並稱若有外國軍隊部署將成為俄軍合法打擊目標、等同戰爭延續，同時提出在頓巴斯的康斯坦丁尼夫卡組織人道行動，但未就停火或領土問題作出讓步。",
+          "time_hkt": "2026-11-12T21:40:57+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877588-20261112.htm"
+            },
+            {
+              "name": "RTÉ",
+              "url": "https://www.rte.ie/news/ukraine/2026/1112/1598908-ukraine-russia/"
+            },
+            {
+              "name": "俄羅斯新聞社",
+              "url": "https://ria.ru/20261112/putin-2131176365.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "華盛頓洛根環島附近健身室發生槍擊　至少五人中槍一人死亡",
+          "summary": "美國首都華盛頓洛根環島附近一間健身室當地星期四早上發生槍擊，至少五人中槍，當中一人死亡、四人受傷，其中一人情況危殆；槍手其後把自己關在附近建築物內，並在與警方通話後被發現自己中槍死亡。現場位於白宮以北約1.5公里，警方一度封鎖附近街道並呼籲民眾遠離該區。",
+          "time_hkt": "2026-11-12T23:37:58+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877599-20261112.htm"
+            },
+            {
+              "name": "NBC News",
+              "url": "https://www.nbcnews.com/news/us-news/live-blog/live-updates-active-shooter-reported-washington-dc-rcna608960"
+            },
+            {
+              "name": "FOX 5 DC",
+              "url": "https://www.fox5dc.com/news/dc-shooting-what-we-know-about-suspect"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "美股初段偏軟　Nvidia曾急挫逾14%　市值失守4萬億美元",
+          "summary": "美股星期四開市後偏軟，新浪財經及第一財經均指開市時納斯達克指數跌約1.4%、標普500指數跌約0.8%，道瓊斯指數近乎持平；Nvidia在董事會宣布黃仁勳辭任後開市曾急挫逾14%，其後據港台報道跌幅收窄至約8%，市值失守4萬億美元，是自去年7月以來首次。",
+          "time_hkt": "2026-11-12T22:48:02+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877596-20261112.htm"
+            },
+            {
+              "name": "新浪財經",
+              "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-12/doc-iniynyav1624809.shtml"
+            },
+            {
+              "name": "第一財經",
+              "url": "https://www.yicai.com/brief/103438868.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "Nvidia宣布黃仁勳即日起辭任行政總裁　財務總監Colette Kress出任臨時行政總裁",
+          "summary": "Nvidia董事會宣布，聯合創辦人黃仁勳即日起辭去行政總裁及董事職務，董事會已啟動繼任人選工作，將考慮內部及外部人選；在正式繼任人確定前，由2013年起擔任執行副總裁兼財務總監的Colette Kress出任臨時行政總裁並繼續兼任財務總監，集團同時任命Harvey C. Jones為董事會首位主席。",
+          "time_hkt": "2026-11-12T21:58:07+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877593-20261112.htm"
+            },
+            {
+              "name": "Nvidia",
+              "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"
+            },
+            {
+              "name": "NBC News",
+              "url": "https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-resigns-reports-extramarital-relationships-rcna608402"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
