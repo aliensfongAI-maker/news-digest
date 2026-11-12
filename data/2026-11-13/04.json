@@ -1,0 +1,87 @@
+{
+  "date": "2026-11-13",
+  "hour": "04",
+  "updatedAt": "2026-11-13T04:15:00+08:00",
+  "sections": [
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "歐洲股市收市普遍上升　Stoxx 600再創收市新高",
+          "summary": "歐洲主要股市星期四收市普遍上升，泛歐Stoxx 600指數升0.25%報664.01點，連續第二個交易日收市創新高；法國CAC 40指數升0.34%報8361.36點，德國DAX升0.57%，英國富時100指數升0.25%。報道指歐洲股市受企業業績及油價回落支持，加上科技股佔比較低，相對少受Nvidia行政總裁黃仁勳請辭所引發的美股波動影響。",
+          "time_hkt": "2026-11-13T00:41:03+08:00",
+          "sources": [
+            {
+              "name": "金十數據",
+              "url": "https://flash.jin10.com/detail/20261113004103254800"
+            },
+            {
+              "name": "Boursorama",
+              "url": "https://www.boursorama.com/bourse/actualites/l-europe-finit-en-hausse-a-l-abri-des-secousses-chez-nvidia-6fc8db81ec6d081f99b8626d4574dec7"
+            },
+            {
+              "name": "信報",
+              "url": "https://www.hkej.com/instantnews/international/article/4564596/%E6%AD%90%E8%82%A1%E5%B0%BE%E6%AE%B5%E5%8F%97%E8%BC%9D%E9%81%94%E6%B6%88%E6%81%AF%E5%BD%B1%E9%9F%BF+%E6%94%B6%E5%B8%82%E6%99%AE%E9%81%8D%E5%9B%9E%E9%A0%86"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "特朗普稱應由蘋果庫克接替黃仁勳出任Nvidia行政總裁",
+          "summary": "美國總統特朗普在社群平台發文，稱讚剛辭任的Nvidia行政總裁黃仁勳「表現出色」，並指接任人選「只有一個」，就是蘋果執行董事長庫克，形容是「傳奇接替傳奇」；庫克已於今年9月卸任蘋果行政總裁、改任執行董事長，蘋果及庫克未有即時回應，Nvidia則已由財務總監Colette Kress出任臨時行政總裁並展開繼任人選工作。",
+          "time_hkt": "2026-11-13T00:12:44+08:00",
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/"
+            },
+            {
+              "name": "信報",
+              "url": "https://www.hkej.com/instantnews/international/article/4564592/%E7%89%B9%E6%9C%97%E6%99%AE%E4%BF%83%E8%98%8B%E6%9E%9C%E5%BA%AB%E5%85%8B%E6%8E%A5%E6%9B%BF%E9%BB%83%E4%BB%81%E5%8B%B3%E6%8E%8C%E8%BC%9D%E9%81%94"
+            },
+            {
+              "name": "POLITICO",
+              "url": "https://www.politico.com/news/2026/11/12/trump-apple-tim-cook-nvidia-01162128"
+            },
+            {
+              "name": "韓國時報",
+              "url": "https://www.koreatimes.co.kr/world/20261113/trump-says-ex-apple-ceo-cook-is-a-legend-should-replace-huang-at-nvidia"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "Google推出Gemini 4 Hydrogen　取代3.8 Flash並用於搜尋等產品",
+          "summary": "Google公布推出Gemini 4 Hydrogen，定位為面向日常任務及代理人工作流程的快速模型，用以取代Gemini 3.8 Flash；官方指該模型支援100萬token輸入，在預設高思考設定下完成任務速度快約2.5倍，並已用於Gemini應用程式、Gemini API，以及Google搜尋的AI模式等產品。",
+          "time_hkt": "2026-11-13T02:00:00+08:00",
+          "sources": [
+            {
+              "name": "Google",
+              "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
+            },
+            {
+              "name": "9to5Google",
+              "url": "https://9to5google.com/2026/11/12/gemini-4-hydrogen-launch/"
+            },
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/"
+            },
+            {
+              "name": "Yahoo新聞",
+              "url": "https://hk.news.yahoo.com/%E5%8F%96%E4%BB%A3-gemini-3-8-flash-184549360.html"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    }
+  ]
+}
