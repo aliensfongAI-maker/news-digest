@@ -1,0 +1,89 @@
+{
+  "date": "2026-11-12",
+  "hour": "08",
+  "updatedAt": "2026-11-12T08:15:00+08:00",
+  "sections": [
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "美股三大指數收市上升　道指高收254點　納指升1.6%　Nvidia反彈近3%",
+          "summary": "美股星期三收市全線上升，市場對人工智能相關交易興趣重燃；道瓊斯指數收報52486點，升254點或近0.5%，納斯達克指數收報25466點，升400點或1.6%，標準普爾500指數收報7619點，升98點或1.3%；Nvidia反彈近3%、結束兩日跌勢，AI算力供應商CoreWeave急升近25%。",
+          "time_hkt": "2026-11-12T05:06:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877463-20261112.htm"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60409788/%E7%BE%8E%E8%82%A1-%E9%81%93%E6%8C%87%E6%94%B6%E5%B8%82%E5%8D%87254%E9%BB%9E-%E7%B4%8D%E6%8C%87%E6%BC%B21-60-nvidia%E5%8F%8D%E5%BD%882-87"
+            },
+            {
+              "name": "Kiplinger",
+              "url": "https://www.kiplinger.com/investing/stocks/nasdaq-adds-400-points-after-coreweave-earnings-stock-market-today"
+            },
+            {
+              "name": "Yahoo Finance",
+              "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "港股ADR普遍較本港收市下跌　小米跌幅較大　友邦及港交所跌近1%",
+          "summary": "港股美國預託證券普遍較本港收市下跌；科技股方面，ATMXJ的ADR較本港收市跌逾1%至逾2%，以小米集團跌幅較大；金融股方面，滙控ADR較本港收市微跌不足0.1%，友邦和港交所則跌近1%。",
+          "time_hkt": "2026-11-12T06:27:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877470-20261112.htm"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "美媒指黃仁勳涉及另一宗婚外情　Nvidia董事會據報擬罷免其職務　股價盤後急跌約8%",
+          "summary": "《紐約時報》報道，Nvidia行政總裁黃仁勳曾與一名向其匯報的醫療業務副總裁發生婚外情；其後《華爾街日報》引述知情人士指，董事會正準備罷免黃仁勳，並計劃最早於星期三召開會議決定其去留，消息傳出後Nvidia股價盤後急跌約8%，納指期貨亦走低。",
+          "time_hkt": "2026-11-12T06:19:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877474-20261112.htm"
+            },
+            {
+              "name": "經濟日報",
+              "url": "https://money.udn.com/money/story/5599/9873177"
+            },
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor"
+            },
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/11/stock-market-today-live-updates.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
