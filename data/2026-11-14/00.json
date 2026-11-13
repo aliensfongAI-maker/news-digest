@@ -1,0 +1,271 @@
+{
+  "date": "2026-11-14",
+  "hour": "00",
+  "updatedAt": "2026-11-14T00:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "粉嶺坪輋路貨倉火警已救熄　消防正進行降溫及散煙",
+          "summary": "消防處表示，今晚8時18分接獲報告指粉嶺坪輋路一個貨倉起火，至晚上9時58分大致救熄，人員正進行降溫及散煙；當局呼籲如市民受到隨風飄散的煙霧和異味影響，請關閉門窗並保持鎮定。",
+          "time_hkt": "2026-11-13T22:44:00+08:00",
+          "sources": [
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202611/13/P2026111300773.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877748-20261113.htm"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "深圳APEC｜本港下周二至周五設臨時限制飛行區　禁放無人機等",
+          "summary": "為配合下周在深圳舉行的亞太經合組織領導人非正式會議，警務處及民航處提醒，11月17日凌晨0時01分至20日晚上11時59分將設立臨時限制飛行區，新界北部禁飛無人機、滑翔傘、飛艇、風箏及氣球等，除政府飛行服務隊外全港亦限制直升機及小型飛機活動，違例可被罰款及監禁。",
+          "time_hkt": "2026-11-13T22:53:27+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877746-20261113.htm"
+            },
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202611/13/P2026111300534.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "早前失蹤14歲少女下午於天水圍天瑞邨被尋回",
+          "summary": "警方表示，馬鞍山耀安邨一名14歲少女星期三上午離開住所後失蹤，其家人同日報案，該名少女今日下午在天水圍天瑞邨被尋回，沒有受傷，案件沒有可疑。",
+          "time_hkt": "2026-11-13T22:16:00+08:00",
+          "sources": [
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202611/13/P2026111300761.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877743-20261113.htm"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "柴灣聖米迦勒小學11歲男生疑校內遇襲　教育局稱對欺凌零容忍",
+          "summary": "警方指上月接報，一名11歲男生上月21日在柴灣一間學校內懷疑被人用手襲擊並報稱受傷，送往東區醫院治理，案件列襲擊致造成身體傷害，暫未有人被捕；無綫新聞指事發於聖公會柴灣聖米迦勒小學、男童臀部受傷，教育局表示十分關注並重申對校園欺凌採取零容忍政策，已提醒學校嚴肅跟進及提供支援。",
+          "time_hkt": "2026-11-13T21:40:48+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877741-20261113.htm"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1206251-柴灣聖米迦勒小學男童疑遭欺凌臀部受傷教育局稱零容忍"
+            }
+          ],
+          "rank": 4
+        },
+        {
+          "headline": "國泰和快運稱使用微軟服務的旅客或無法收到航空公司電郵",
+          "summary": "微軟365服務大範圍故障期間，國泰航空、香港快運、香港航空及大灣區航空均表示航班運作正常，但國泰和快運指出，使用微軟電郵帳戶的旅客可能無法收到航班通知；國泰正透過應用程式、短訊及電郵發出電子登機證，快運則建議旅客將聯絡電郵改為其他服務供應商並預留時間提早到機場。",
+          "time_hkt": "2026-11-13T23:53:26+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877751-20261113.htm"
+            }
+          ],
+          "rank": 5
+        },
+        {
+          "headline": "警方呼籲提供長洲失蹤65歲女子消息",
+          "summary": "警方今晚呼籲市民提供一名在長洲失蹤女子的消息，65歲女子梁佩蘭11月11日下午在長洲渡輪碼頭最後露面後失蹤，其家人今日向警方報案；任何人如有她的消息或曾見過她，請聯絡新界南總區失蹤人口調查組或任何一間警署。",
+          "time_hkt": "2026-11-13T23:25:00+08:00",
+          "sources": [
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202611/13/P2026111300797.htm"
+            }
+          ],
+          "rank": 6
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "貝森特指責商務部未將Megaspeed列入實體清單　拉特尼克同意到國會作證",
+          "summary": "美國財長貝森特向CNBC表示，多個政府機構數月來都贊成將新加坡公司Megaspeed列入實體清單，但商務部擁有最終決定權，他將輝達高階晶片出口監管問題歸咎於商務部長拉特尼克；拉特尼克發言人稱他已同意自願出席參議院銀行委員會作證，該委員會正就輝達前行政總裁黃仁勳醜聞及晶片是否流入中國所引發的國安疑慮展開質詢。",
+          "time_hkt": "2026-11-13T23:40:08+08:00",
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/13/nvidia-scandal-lutnick-chip-sales.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "李強與泰國總理阿努廷會談　冀加緊磋商新版經貿合作五年規劃",
+          "summary": "國務院總理李強展開訪問泰國行程，在曼谷與總理阿努廷會談，表示願推進高質量共建一帶一路、實施好中泰鐵路等項目，並加緊磋商新版經貿合作五年規劃，推動新能源、半導體及人工智能等合作；阿努廷稱願擴大雙邊貿易、為中國企業提供良好營商環境，並加強執法安全合作，雙方其後見證簽署多項合作文件。",
+          "time_hkt": "2026-11-13T22:57:41+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877745-20261113.htm"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1206254-李強指願同泰方一道遵循兩國領導人戰略引領書寫中泰友好更美麗故事"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "王毅晤韓國外長趙顯：中韓關係重回改善發展軌道",
+          "summary": "外長王毅在北京與韓國外長趙顯會談，表示自去年底以來兩國領導人成功互訪，中韓關係已重回改善發展軌道，中方願繼續保持高層交往；趙顯表示願就朝鮮半島局勢加強戰略溝通，兩人並期待兩國領導人下周在深圳亞太經合組織會議期間會晤。",
+          "time_hkt": "2026-11-13T20:33:42+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877738-20261113.htm"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1206264-中韓外長北京會面王毅指願同韓方攜手促進地區共同發展"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "國際原子能機構對伊朗未受視察的伊斯法罕核設施表示日益關注",
+          "summary": "聯合國核監察機構國際原子能機構表示，對伊朗逾一年前宣布在伊斯法罕設立、但該機構從未獲准視察的鈾濃縮設施日益關注，並稱不清楚廠址確切位置及是否存有核材料；報告指自戰事開始以來伊朗限制視察人員進入核設施，令機構無法核實濃縮鈾庫存，認為有關資訊及准入缺失構成嚴重擴散隱憂，須盡快糾正。",
+          "time_hkt": "2026-11-13T20:28:28+08:00",
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cm75261e3pdko"
+            }
+          ],
+          "rank": 4
+        },
+        {
+          "headline": "伊朗稱打擊巴林美國預警雷達　美軍否認遭摧毀並指攔截無人機",
+          "summary": "伊朗伊斯蘭革命衛隊稱，為報復美軍襲擊霍爾木茲海峽附近錫里克一座通訊塔，已打擊並摧毀位於巴林的美國預警雷達，是數月來首次直接攻擊美國軍事設施；美國中央司令部否認雷達被摧毀，並表示美軍攔截了兩架飛向巴林的伊朗無人機。",
+          "time_hkt": "2026-11-13T21:52:00+08:00",
+          "sources": [
+            {
+              "name": "衛報",
+              "url": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz"
+            }
+          ],
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "美國10月PPI按年升6.5%創近4年新高　按月升幅放緩至0.3%",
+          "summary": "美國10月最終需求生產物價指數按年升6.5%，為近四年新高但略低於預期，核心PPI按年升幅維持5%；按月計PPI升0.3%，升幅低於預期，並較9月的1.4%顯著放緩，核心PPI按月亦升0.3%。",
+          "time_hkt": "2026-11-13T21:51:45+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877742-20261113.htm"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1206270-美國10月生產物價指數升幅見近四年高位"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "美股初段個別發展　道指曾升逾200點　蘋果股價創新高",
+          "summary": "美股開市後個別發展，道指一度升逾220點，較早時升75點報52372點；標普500指數報7571點跌21點，納指報25205點跌160點，輝達跌逾2%，蘋果股價則創新高並一度升近2%。",
+          "time_hkt": "2026-11-13T22:59:12+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877747-20261113.htm"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1206271-美股三大指數高開後個別發展輝達再跌逾2"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "國際能源署：全球原油供應10月重現過剩　為伊朗戰事爆發以來首次",
+          "summary": "國際能源署表示，全球原油供應在10月再次超過需求近200萬桶，是今次美以對伊朗開戰以來首次出現過剩，認為海灣出口恢復快於全球需求，市場展現初步再平衡跡象；布蘭特原油周五約報95美元，本周稍早曾跌至8月底以來低位。",
+          "time_hkt": "2026-11-13T21:35:00+08:00",
+          "sources": [
+            {
+              "name": "衛報",
+              "url": "https://www.theguardian.com/business/2026/nov/13/global-oil-supply-returns-to-surplus-for-first-time-since-start-of-iran-war-says-iea"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/13/russia-oil-exports-iea-diesel-deal.html"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "微軟稱365服務出現恢復跡象　全球故障進入第二天仍未完全修復",
+          "summary": "微軟表示，365服務包括Outlook、Teams及Copilot的大規模中斷已出現趨於穩定和恢復的初步跡象，但全面修復仍在進行，並稱未發現惡意活動；故障影響超過70個國家，波及法院、醫療系統、學校及政府機構，公司指歐洲及北美已見改善，部分用戶電郵已恢復但仍可能出現延遲。",
+          "time_hkt": "2026-11-13T22:43:59+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877744-20261113.htm"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cqp9d58eldlro"
+            },
+            {
+              "name": "衛報",
+              "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports"
+            },
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1206269-微軟全球服務故障至今仍未完全恢復股價早段跌逾1"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
