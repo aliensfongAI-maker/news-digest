@@ -1,0 +1,151 @@
+{
+  "date": "2026-11-14",
+  "hour": "04",
+  "updatedAt": "2026-11-14T04:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "天文台發出黃色暴雨警告及雷暴警告　籲注意水浸",
+          "summary": "天文台今日凌晨12時45分發出雷暴警告，其後在上午3時50分發出黃色暴雨警告信號，指本港廣泛地區已錄得或預料會有每小時雨量超過30毫米的大雨，且雨勢可能持續，低窪及排水欠佳地區或會出現水淹；渠務署呼籲市民如發現街道水浸，可致電24小時熱線2300 1110，勞工處亦提醒僱主在暴雨期間避免安排僱員在受影響地點進行電力工作。",
+          "time_hkt": "2026-11-14T03:50:00+08:00",
+          "sources": [
+            {
+              "name": "香港天文台",
+              "url": "https://www.hko.gov.hk/tc/wxinfo/currwx/tcwarning.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877758-20261114.htm"
+            },
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202611/14/P2026111400135.htm"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "美國最高法院同意審理特朗普禁止南部邊境庇護申請的行政命令",
+          "summary": "美國最高法院星期五同意審理總統特朗普禁止在美墨邊境提出庇護申請的行政命令，特朗普政府希望推翻下級法院指該命令違法的裁決；聯邦法律賦予人們尋求庇護的權利，無論其如何抵達美國，政府則主張可一律拒絕命令涵蓋的申請，而無須接受預料會被拒的個案。",
+          "time_hkt": "2026-11-14T02:49:06+08:00",
+          "sources": [
+            {
+              "name": "NBC News",
+              "url": "https://www.nbcnews.com/politics/supreme-court/supreme-court-takes-trumps-asylum-ban-case-rcna608564"
+            },
+            {
+              "name": "The Hill",
+              "url": "https://thehill.com/regulation/court-battles/6219384-supreme-court-trump-asylum-restrictions/"
+            },
+            {
+              "name": "衛報",
+              "url": "https://www.theguardian.com/us-news/2026/nov/13/supreme-court-us-mexico-border-asylum"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "英法德意波及歐盟將組團參與涉烏談判　俄方稱尚未同意",
+          "summary": "歐盟領導人在都柏林非正式會議達成共識，由英國、法國、德國、意大利、波蘭及歐盟機構共同代表歐洲，參與未來與俄羅斯有關烏克蘭問題的談判；歐洲理事會主席科斯塔強調歐洲必須發出統一聲音，歐委會主席馮德萊恩亦稱要以團隊形式工作。克里姆林宮發言人佩斯科夫則表示，俄方尚未同意讓歐洲參與談判。",
+          "time_hkt": "2026-11-14T01:29:17+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877756-20261114.htm"
+            },
+            {
+              "name": "紐約時報",
+              "url": "https://www.nytimes.com/2026/11/13/world/europe/europe-ukraine-talks-russia.html"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "土耳其與卡塔爾簽署共同防禦協議　稱防範海灣再爆發戰爭",
+          "summary": "土耳其總統埃爾多安星期五在伊斯坦布爾與到訪的卡塔爾埃米爾塔米姆簽署共同防禦協議，聯合聲明指雙方將對針對任何一方的外來武裝攻擊採取一致立場，並加強聯合軍演、國防工業及人員培訓等合作；埃爾多安表示將繼續努力防止海灣地區再次爆發戰爭，協議具體條文尚未完全披露。",
+          "time_hkt": "2026-11-14T02:12:09+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877759-20261114.htm"
+            },
+            {
+              "name": "半島電視台",
+              "url": "https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "莫斯科汽車炸彈襲擊　親普京烏克蘭前總理顧問受傷",
+          "summary": "俄羅斯偵查委員會通報，星期五莫斯科南部發生汽車炸彈襲擊，烏克蘭前總理阿扎羅夫的顧問扎沃羅特內受傷送院，外電指傷勢嚴重；這是聖彼得堡類似爆炸導致一名俄軍人員死亡後的翌日，莫斯科指責基輔策動針對與烏克蘭戰事相關人士的襲擊。",
+          "time_hkt": "2026-11-14T00:25:49+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877754-20261114.htm"
+            },
+            {
+              "name": "半島電視台",
+              "url": "https://www.aljazeera.com/news/2026/11/13/car-bombings-in-russia-kill-military-officer-injure-ex-ukraine-pm-adviser"
+            }
+          ],
+          "rank": 4
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "衛報：特朗普在放寬晶片對華出口前買入最多500萬美元Nvidia股票",
+          "summary": "《衛報》引述反貪組織DeKleptocracy對特朗普財務披露的分析指，他在2025年5月政府撤銷拜登時期限制先進人工智能晶片輸華規則前數日，買入價值100萬至500萬美元的Nvidia股票，其後在宣布允許對華出售H200晶片後再至少三次各買入25萬零1至50萬美元；該組織質疑其對華科技政策或受個人財務利益影響。",
+          "time_hkt": "2026-11-14T03:09:05+08:00",
+          "sources": [
+            {
+              "name": "衛報",
+              "url": "https://www.theguardian.com/us-news/2026/nov/13/trump-nvidia-stock-jensen-huang-us-china"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "微軟就365全球故障致歉　指屬網絡容量升級問題、與網絡攻擊或AI無關",
+          "summary": "微軟365服務大範圍故障進入第二天仍未完全恢復，公司向受影響用戶致歉，指故障源於早前網絡容量升級過程中的技術問題，與網絡攻擊或人工智能無關，並因需求規模龐大而採取逐步恢復以確保系統穩定；故障影響全球至少70個國家或地區的Teams、Outlook及Copilot等服務。",
+          "time_hkt": "2026-11-14T02:33:10+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877760-20261114.htm"
+            },
+            {
+              "name": "衛報",
+              "url": "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
