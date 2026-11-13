@@ -1,0 +1,277 @@
+{
+  "date": "2026-11-13",
+  "hour": "16",
+  "updatedAt": "2026-11-13T16:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "立法會討論瑪麗升降機報告　機電署：有機會永久吊銷臺日電梯牌照",
+          "summary": "立法會發展事務委員會特別會議討論瑪麗醫院新臨床大樓升降機調查報告及臺日電梯漏裝耐火門框組件事件，發展局局長甯漢豪稱今次主要是執行上出錯、制度有可改善之處，多名議員批評像層層隱瞞並要求啟動部門首長責任制第二級調查；機電署署長潘國英表示正蒐證及徵詢律政司意見，可能提出檢控及召開紀律聆訊，有機會永久吊銷臺日電梯牌照。",
+          "time_hkt": "2026-11-13T13:41:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877684-20261113.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877664-20261113.htm"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1206121-%E7%91%AA%E9%BA%97%E9%86%AB%E9%99%A2%E5%8D%87%E9%99%8D%E6%A9%9F%E4%BA%8B%E6%95%85%E5%A0%B1%E5%91%8A%E6%89%B9%E5%BB%BA%E7%AF%89%E7%BD%B2%E7%9B%A3%E7%AE%A1%E4%B8%8D%E5%8A%9B%E8%AD%B0%E5%93%A1%E5%80%A1%E5%95%9F%E5%8B%95%E9%83%A8%E9%96%80%E9%A6%96%E9%95%B7%E8%B2%AC%E4%BB%BB%E5%88%B6%E8%BF%BD%E7%A9%B6"
+            },
+            {
+              "name": "東網",
+              "url": "https://hk.on.cc/hk/bkn/cnt/news/20261113/bkn-20261113122742867-1113_00822_001.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "藥械監管中心條例草案刊憲　盧寵茂：推動香港成國際醫療創新樞紐",
+          "summary": "《藥物及醫療器械監督管理中心條例草案》今日刊憲，訂於本月25日提交立法會首讀，建議成立藥械監管中心為法人團體，並將分散的規管職能統一至衞生署署長；醫務衞生局局長盧寵茂稱此為監管制度改革的重要里程碑，旨在加快引入先進藥械並推動香港成為國際醫療創新樞紐，他又指市民網購或從境外帶藥械回港是否違法，須視乎數量及目的。",
+          "time_hkt": "2026-11-13T12:43:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877679-20261113.htm"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1206140-%E7%9B%A7%E5%AF%B5%E8%8C%82%E6%8C%87%E5%B8%82%E6%B0%91%E7%B6%B2%E8%B3%BC%E6%88%96%E5%BE%9E%E5%A2%83%E5%A4%96%E5%B8%B6%E8%97%A5%E6%A2%B0%E5%9B%9E%E6%B8%AF%E6%98%AF%E5%90%A6%E9%81%95%E6%B3%95%E8%A6%96%E4%B9%8E%E6%95%B8%E9%87%8F%E5%8F%8A%E7%9B%AE%E7%9A%84"
+            },
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202611/13/P2026111300223.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "麗港城擬引入人臉識別門禁　私隱公署主動展開循規審查",
+          "summary": "個人資料私隱專員公署表示，留意到管理麗港城的物業管理公司計劃引入人臉識別門禁系統，引起部分住戶對私隱的關注；公署指面容影像屬敏感個人資料，加上或涉及8000多戶，已主動對有關系統進行循規審查，要求相關機構提供進一步資料，確保收集及處理生物辨識資料時遵從《個人資料（私隱）條例》，特別是資料保安規定。",
+          "time_hkt": "2026-11-13T15:35:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877696-20261113.htm"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1206145-%E9%BA%97%E6%B8%AF%E5%9F%8E%E6%93%AC%E5%BC%95%E5%85%A5%E4%BA%BA%E8%87%89%E8%AD%98%E5%88%A5%E9%96%80%E7%A6%81%E7%A7%81%E9%9A%B1%E5%85%AC%E7%BD%B2%E5%B1%95%E9%96%8B%E5%BE%AA%E8%A6%8F%E5%AF%A9%E6%9F%A5"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "蔡樹強獲委任為副廉政專員兼執行處首長　本月17日生效",
+          "summary": "廉政專員胡英明公布，執行處處長蔡樹強獲委任為副廉政專員，同時出任執行處首長，由本月17日起生效，接替同日展開退休前休假的丘樹春；胡英明表示蔡樹強投身廉署28年，深信他能帶領執行處維持專業反貪水平，並感謝丘樹春逾30年來的貢獻。",
+          "time_hkt": "2026-11-13T16:00:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877699-20261113.htm"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1206138-%E5%BB%89%E7%BD%B2%E5%9F%B7%E8%A1%8C%E8%99%95%E8%99%95%E9%95%B7%E6%94%BF%E5%BA%9C%E9%83%A8%E9%96%80%E8%94%A1%E6%A8%B9%E5%BC%B7%E7%8D%B2%E5%A7%94%E4%BB%BB%E7%82%BA%E5%89%AF%E5%BB%89%E6%94%BF%E5%B0%88%E5%93%A1"
+            }
+          ],
+          "rank": 4
+        },
+        {
+          "headline": "一名14歲女童於馬鞍山失蹤　警方呼籲提供消息",
+          "summary": "警方呼籲市民提供消息，指一名14歲女童於本星期三上午離開位於馬鞍山耀安邨的住所後失蹤，家人同日報案；女童身高約1.5米，最後露面時身穿白色恤衫、藍色短裙、深色外套及黑色皮鞋，並攜有一個黑色物品。",
+          "time_hkt": "2026-11-13T13:44:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877685-20261113.htm"
+            },
+            {
+              "name": "東網",
+              "url": "https://hk.on.cc/hk/bkn/cnt/news/20261113/bkn-20261113114302380-1113_00822_001.html"
+            },
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202611/13/P2026111300282.htm"
+            }
+          ],
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "習近平將主持下周深圳亞太經合組織領導人非正式會議",
+          "summary": "外交部宣布，亞太經合組織第三十三次領導人非正式會議將於下星期三至星期四在深圳舉行，主題為「建設亞太共同體，促進共同繁榮」，國家主席習近平將主持會議並發表講話；他亦將出席下星期二至三舉行的工商領導人峰會開幕式並作主旨演講，期間將為與會經濟體領導人或代表舉行歡迎宴會，並同外國領導人舉行雙邊會晤。",
+          "time_hkt": "2026-11-13T09:12:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877645-20261113.htm"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1206101-APEC%E9%A0%98%E5%B0%8E%E4%BA%BA%E6%9C%83%E8%AD%B0%E4%B8%8B%E5%91%A8%E6%B7%B1%E5%9C%B3%E8%88%89%E8%A1%8C%E7%BF%92%E8%BF%91%E5%B9%B3%E5%B0%87%E4%B8%BB%E6%8C%81%E4%B8%A6%E7%99%BC%E8%A1%A8%E8%AC%9B%E8%A9%B1"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "澤連斯基歡迎歐洲代表出席下輪和談　盼議程包括停火措施",
+          "summary": "烏克蘭總統澤連斯基表示，歡迎歐洲代表出席下一輪由美國斡旋的俄烏和平談判，並希望議程包括旨在實現停火及緩和衝突的措施；他在與美國特使威特科夫及庫什納會談後表示，日前阿布扎比會談後和平進程得以重啟至關重要，而較早前威特科夫亦在莫斯科會晤後表明歐洲將參與下輪多邊談判。",
+          "time_hkt": "2026-11-13T11:03:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877661-20261113.htm"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1206088-%E6%99%AE%E4%BA%AC%E5%BC%B7%E8%AA%BF%E4%B8%8D%E5%85%81%E5%A4%96%E5%9C%8B%E9%83%A8%E9%9A%8A%E9%A7%90%E5%AE%88%E7%83%8F%E5%85%8B%E8%98%AD%E6%BE%A4%E9%80%A3%E6%96%AF%E5%9F%BA%E6%8C%87%E6%AD%90%E6%B4%B2%E4%BB%A3%E8%A1%A8%E5%B0%87%E5%8F%83%E8%88%87%E4%BF%84%E7%83%8F%E8%AB%87%E5%88%A4"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "亞太股市個別發展　日經及台股收升　滬深及韓股低收",
+          "summary": "亞洲主要股市周五收市個別發展：日經平均指數收報61142點，升322點或0.53%，本周累計升約6.5%；台灣加權指數收報43675點，升583點或1.35%，全周累升10%；韓國首爾綜合指數收報5290點，跌52點或約1%；上證指數收報3634點，跌21點或約0.6%，深證成指跌約2%，創業板指數跌逾3.3%報2426點。",
+          "time_hkt": "2026-11-13T15:34:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877693-20261113.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877690-20261113.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877683-20261113.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877691-20261113.htm"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "恒指失守24000點　半日跌222點　近收市跌約371點",
+          "summary": "港股連跌並失守24000點，恒生指數中午收市報23786點，跌222點或0.92%，半日主板成交逾935億元，科技指數跌近2%報3863點，騰訊及小米半日跌逾2%；午後跌幅擴大，一度見23722點跌286點，全日低見23595.36點，阿斯達克行情於下午4時11分顯示恒指報23637.60點，跌370.95點或1.55%，成交約1958.57億元。",
+          "time_hkt": "2026-11-13T16:11:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877673-20261113.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877682-20261113.htm"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1206118-%E6%B8%AF%E8%82%A1%E4%B8%AD%E5%8D%88%E6%94%B6%E5%B8%82%E5%A0%B123786%E9%BB%9E%E8%B7%8C222%E9%BB%9E"
+            },
+            {
+              "name": "阿斯達克",
+              "url": "https://www.aastocks.com/tc/stocks/market/index/hk-index-con.aspx"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "新世界發展開市前停牌　待發布內幕消息公告",
+          "summary": "新世界發展公布，股份今早起停牌，以待公司發出有關若干內幕消息的公告，多隻由公司擔保的債券亦暫停交易；股份停牌前報4.87元。",
+          "time_hkt": "2026-11-13T08:59:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877642-20261113.htm"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1206097-%E6%96%B0%E4%B8%96%E7%95%8C%E7%99%BC%E5%B1%95%E9%96%8B%E5%B8%82%E5%89%8D%E5%81%9C%E7%89%8C%E5%BE%85%E7%99%BC%E5%B8%83%E6%9C%89%E9%97%9C%E5%85%A7%E5%B9%95%E6%B6%88%E6%81%AF%E5%85%AC%E5%91%8A"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "金管局經貼現窗向銀行投放76.6億港元　為近七年最多",
+          "summary": "金管局透過貼現窗向本港銀行投放76.6億港元流動性，規模為2019年12月以來最多，用以滿足銀行短期資金需求；貼現窗是金管局向銀行提供短期流動資金的工具。",
+          "time_hkt": "2026-11-13T10:45:00+08:00",
+          "sources": [
+            {
+              "name": "東網",
+              "url": "https://hk.on.cc/hk/bkn/cnt/finance/20261113/bkn-20261113104511269-1113_00842_001.html"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1206092-%E9%87%91%E7%AE%A1%E5%B1%80%E5%90%91%E6%9C%AC%E6%B8%AF%E9%8A%80%E8%A1%8C%E6%8A%95%E6%94%BE766%E5%84%84%E6%B8%AF%E5%85%83%E6%B5%81%E5%8B%95%E6%80%A7%E5%89%B5%E8%BF%91%E4%B8%83%E5%B9%B4%E4%BE%86%E6%9C%80%E5%A4%9A"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "微軟全球服務大面積死機　波及逾70國　本港電郵及商業通訊受阻",
+          "summary": "微軟Microsoft 365、Outlook、Teams及Copilot等服務發生大面積故障，監測數據顯示一度波及逾70個國家，Outlook相關報告高峰約13萬至14萬宗，公司稱因多台伺服器未能通過健康檢查而意外離線，並排除網絡攻擊，至周五下午仍未完全恢復；本港不少機構凌晨起未能開啟Outlook，港交所確認電郵受影響但市場運作正常，香港付貨人委員會稱製造業及物流接單受阻，立法會議員吳傑莊指立法會電郵亦一度未能使用，促請機構做好後備方案。",
+          "time_hkt": "2026-11-13T10:00:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877655-20261113.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877701-20261113.htm"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1206127-%E5%BE%AE%E8%BB%9F%E7%B3%BB%E7%B5%B1%E6%95%85%E9%9A%9C%E6%B3%A2%E5%8F%8A%E9%80%BE70%E5%9C%8B%E6%9C%8D%E5%8B%99%E4%BB%8D%E6%9C%AA%E5%AE%8C%E5%85%A8%E6%81%A2%E5%BE%A9%E5%85%AC%E5%8F%B8%E7%A8%B1%E9%83%A8%E5%88%86%E4%BC%BA%E6%9C%8D%E5%99%A8%E6%9C%AA%E8%83%BD%E6%AD%A3%E5%B8%B8%E9%81%8B%E4%BD%9C"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o"
+            },
+            {
+              "name": "南華早報",
+              "url": "https://www.scmp.com/business/banking-finance/article/3374291/microsoft-outlook-outage-disrupts-workers-hong-kongs-financial-sector"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
