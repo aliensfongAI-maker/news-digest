@@ -1,0 +1,153 @@
+{
+  "date": "2026-11-15",
+  "hour": "04",
+  "updatedAt": "2026-11-15T04:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "機管局應用「自動噴油機械人」重劃跑道標識　工序需時減三分二",
+          "summary": "香港國際機場今年9月起應用已獲民航處批准的「自動噴油機械人」重劃跑道線條及標識，為全球首個採用該工序的機場，機管局指劃線可由傳統每次2至4小時減至1至2小時，並計劃配備6部機械人。",
+          "time_hkt": "2026-11-15T00:47:24+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877848-20261115.htm"
+            },
+            {
+              "name": "星島日報",
+              "url": "https://www.stheadline.com/society/3637141/"
+            },
+            {
+              "name": "商業電台",
+              "url": "https://www.881903.com/news/local/2659514"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "港珠澳大橋香港段半馬今早舉行　當局分階段實施封路",
+          "summary": "港珠澳大橋（香港段）半馬拉松今早舉行，警方在香港口岸至粵港分界線的連接路分階段封路，包括昨晚約11時至今日下午約2時封閉往珠海及澳門方向全部行車線，並實施雙線雙程行車。",
+          "time_hkt": "2026-11-15T00:27:27+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877846-20261115.htm"
+            },
+            {
+              "name": "東網",
+              "url": "https://hk.on.cc/hk/bkn/cnt/news/20261115/bkn-20261115013017933-1115_00822_001.html"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "維港泳今早舉行　灣仔北及尖沙咀實施特別交通安排",
+          "summary": "維港泳今早舉行，約4000名泳手由灣仔金紫荊廣場公眾碼頭游至尖沙咀星光大道，期間金紫荊廣場外一段博覽道東臨時封閉，來往灣仔至尖沙咀及中環至紅磡等渡輪航線上午暫停。",
+          "time_hkt": "2026-11-15T00:38:56+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877847-20261115.htm"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "美運輸部長：全國停飛由更換舊銅線的例行設備升級引起",
+          "summary": "美國運輸部長達菲表示，上周五聯邦航空管理局實施全國航班停飛，是由於承辦商L3Harris在設施更換舊銅線電訊系統的例行升級所引起，當局仍在調查屬承辦商失誤或設備故障。",
+          "time_hkt": "2026-11-15T01:11:18+08:00",
+          "sources": [
+            {
+              "name": "衛報",
+              "url": "https://www.theguardian.com/world/2026/nov/14/faa-ground-stop-flights-resume-airport-chaos"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/c6wy9lynq4qno"
+            },
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html"
+            },
+            {
+              "name": "半島電視台",
+              "url": "https://www.aljazeera.com/news/2026/11/14/us-blames-system-upgrade-for-longest-nationwide-faa-ground-stop-since-9"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "李強在曼谷晤泰國國王哇集拉隆功　稱中泰經貿合作逆勢增長",
+          "summary": "國務院總理李強昨日在曼谷會見泰國國王哇集拉隆功，轉達國家主席習近平的問候，並表示在動盪國際形勢下中泰經貿合作逆勢增長難能可貴，願拓展投資、科技創新及新能源汽車等領域合作。",
+          "time_hkt": "2026-11-15T00:32:52+08:00",
+          "sources": [
+            {
+              "name": "新華社",
+              "url": "https://www.news.cn/politics/leaders/20261115/7386071991684d3b8a1dd4cd7d13e67e/c.html"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877849-20261115.htm"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "歐盟促以色列立即開放所有過境站　讓人道援助不受阻礙進入加沙",
+          "summary": "歐盟外交與安全政策高級代表卡拉斯代表歐盟發表聲明，對加沙持續嚴峻的人道危機表示嚴重關注，敦促以色列立即開放所有過境站，允許人道主義援助不受阻礙進入，並指洪災及冬季天氣加劇民眾困境。",
+          "time_hkt": "2026-11-15T01:43:11+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877850-20261115.htm"
+            },
+            {
+              "name": "半島電視台",
+              "url": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza"
+            },
+            {
+              "name": "新華社",
+              "url": "https://www.xinhuanet.com/20261114/f257bc1ba9d148feb5f64fbfc036fb90/c.html"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "兩大股東去信Nvidia董事會　促勿倉促覓接班人並保留黃仁勳回歸選項",
+          "summary": "股東Altimeter Capital及Atreides Management去信Nvidia董事會，促請審慎物色行政總裁繼任人，並保留創辦人黃仁勳回歸的可能性，認為臨時行政總裁Colette Kress可暫時領導公司。",
+          "time_hkt": "2026-11-15T01:46:06+08:00",
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html"
+            },
+            {
+              "name": "經濟時報",
+              "url": "https://economictimes.indiatimes.com/news/international/world-news/altimeter-capital-atreides-urge-nvidia-board-not-to-rush-jensen-huang-replacement-seek-to-keep-his-ceo-return-open/articleshow/135825589.cms"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
