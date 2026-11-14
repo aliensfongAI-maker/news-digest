@@ -1,0 +1,175 @@
+{
+  "date": "2026-11-14",
+  "hour": "12",
+  "updatedAt": "2026-11-14T12:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "周一鳴：銳眼閉路電視系統下周一啟用人臉識別功能",
+          "summary": "警務處處長周一鳴出席警察學院結業會操後表示，警方「銳眼」閉路電視系統將於11月16日（下周一）啟用人臉識別功能；被問及戴口罩能否辨識時，他稱不會公開技術細節以免被利用規避執法，並強調無論疑犯如何偽裝，警隊均有能力將其繩之於法。",
+          "time_hkt": "2026-11-14T11:03:00+08:00",
+          "sources": [
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1206317-周一鳴銳眼閉路電視系統下周一將啟用人臉識別功能"
+            },
+            {
+              "name": "星島日報",
+              "url": "https://www.stheadline.com/breaking-news/3637023/警務處處長周一鳴銳眼計劃下周一啟動人面識別功能-為守法市民帶來更大保障"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "國泰兩班美國出發航班因全美停飛令延誤　其餘今日航班暫按計劃運作",
+          "summary": "國泰航空表示，因應美國聯邦航空管理局早前發出的全美停飛令，當地11月13日由美國出發的CX807及CX879航班延誤，已為受影響乘客安排酒店住宿；今日其餘往返美國航班目前按原定時間運作，但因停飛後航管擠塞，部分航班仍可能延誤。",
+          "time_hkt": "2026-11-14T11:17:00+08:00",
+          "sources": [
+            {
+              "name": "國泰航空",
+              "url": "https://www.cathaypacific.com/cx/zh_HK/latest-news/flight-disruptions/us-nationwide-ground-stop.html"
+            },
+            {
+              "name": "星島日報",
+              "url": "https://www.stheadline.com/society/3637027/全美航機停飛國泰兩班美國出發航班延誤-今天餘下往返美國航空航班按原定時間運作"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "周一鳴：持續打擊非法跨境白牌車　過去兩星期拘捕12名司機",
+          "summary": "警務處處長周一鳴表示，警方昨日在啟德體育園附近打擊非法跨境白牌車，過去兩星期拘捕12名白牌車司機，昨晚亦拖走一輛懷疑改裝的7人車，並指未來數晚會繼續行動；他又說過去7個月接獲10,030宗警員投考申請，較去年同期上升11%。",
+          "time_hkt": "2026-11-14T11:07:37+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877793-20261114.htm"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "麥美娟：大維修業主大會法定人數維持一成　期望明年底前推授權票科技平台",
+          "summary": "民政及青年事務局局長麥美娟在《星期六問責》表示，大維修工程的業主大會法定出席人數將維持業主人數的一成，因有業主擔心再提高會難以召開會議；她又說修例會落實核查授權票真偽，期望明年底前推行科技平台先導計劃。",
+          "time_hkt": "2026-11-14T09:25:01+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877783-20261114.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877790-20261114.htm"
+            }
+          ],
+          "rank": 4
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "聯邦航空管理局解除全美航班停飛令　當局稱與網絡攻擊無關",
+          "summary": "美國聯邦航空管理局在美東時間周五晚上8時15分解除維持約4小時的全美航班停飛令，運輸部長達菲稱已找出問題、空域已重開，但消化延誤需時，取消及延誤或延至週末；當局指事件由老舊通信網絡過載引起，與網絡攻擊或微軟服務故障無關，航班追蹤顯示當日近1.5萬架次延誤或取消。",
+          "time_hkt": "2026-11-14T09:15:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877785-20261114.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877795-20261114.htm"
+            },
+            {
+              "name": "衛報",
+              "url": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html"
+            },
+            {
+              "name": "星島日報",
+              "url": "https://www.stheadline.com/realtime-world/3636998/全美航機停飛911以來第2次-國土安全部與微軟大死機無關"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "白宮：特朗普下周四在深圳與習近平及普京舉行三方會晤",
+          "summary": "白宮發言人表示，總統特朗普將於下星期四（19日）在深圳出席亞太經合組織峰會期間，與國家主席習近平及俄羅斯總統普京舉行史無前例的三方會晤，討論削減核武等議題，但預計不會達成協議；美方官員稱亦可能討論美伊戰事，但會避開烏克蘭問題，中方則表示正與相關方保持溝通。",
+          "time_hkt": "2026-11-14T08:06:52+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877782-20261114.htm"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do"
+            },
+            {
+              "name": "美國之音",
+              "url": "https://www.voachinese.com/a/presidents-trump-xi-and-putin-to-hold-talks-in-china-next-week-white-house-says-20261113/8223619.html"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "美官員：特朗普訪華期間不打算提及Nvidia及間諜指控",
+          "summary": "美國官員表示，總統特朗普下周訪華並與國家主席習近平會晤期間，預計不會提出已辭任Nvidia行政總裁黃仁勳據報與被美方懷疑為中國間諜的人士有婚外情的議題。",
+          "time_hkt": "2026-11-14T09:34:11+08:00",
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877782-20261114.htm"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "SpaceX星艦試飛取消回收助推器　改為海上降落並起火",
+          "summary": "SpaceX在最新一次星艦（Starship）試飛中，取消以發射塔機械臂回收超級重型助推器的計劃，改為導向海上降落並在下降時起火；上方飛行器繼續進入軌道，公司稍後再決定會否在周六嘗試回收，這是該公司首次嘗試完整回收整枚火箭。",
+          "time_hkt": "2026-11-14T08:01:01+08:00",
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo"
+            },
+            {
+              "name": "衛報",
+              "url": "https://www.theguardian.com/science/2026/nov/13/spacex-starship-megarocket-blasts-off-earth-orbit"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
