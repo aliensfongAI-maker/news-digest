@@ -1,0 +1,191 @@
+{
+  "date": "2026-11-14",
+  "hour": "08",
+  "updatedAt": "2026-11-14T08:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "天文台清晨取消黃色暴雨警告　今早多區錄得大雨",
+          "summary": "天文台在今早5時30分取消黃色暴雨警告信號，指與高空擾動相關的驟雨及雷暴正逐漸遠離珠江口一帶；本港今早普遍錄得超過40毫米雨量，港島東部及西貢區更超過70毫米，預測日間部分時間有陽光，最高氣溫約27度。",
+          "time_hkt": "2026-11-14T05:30:00+08:00",
+          "sources": [
+            {
+              "name": "香港天文台",
+              "url": "https://www.info.gov.hk/gia/wr/202611/14/P2026111400163.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877769-20261114.htm"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1206277-0530天文台取消黃色暴雨警告信號"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "美國空管通訊故障　FAA下令全國航班停飛　官員稱暫無襲擊跡象",
+          "summary": "美國聯邦航空管理局因空管中心出現電信通訊故障，在美東時間周五下午下令全國航班暫停起飛，已在空中的航班仍可降落、入境國際航班將按個案處理；國土安全部長馬林強調出於謹慎、暫無跡象顯示是針對美國的襲擊，運輸部長達菲指技術人員正調查原因，航班追蹤數據顯示近7,000班航班延誤或取消，這是2023年1月以來再次實施全國停飛。",
+          "time_hkt": "2026-11-14T04:53:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877780-20261114.htm"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1206280-美國當局下令全國航班暫停起飛入境國際航班視具體情況逐一處理"
+            },
+            {
+              "name": "ABC News",
+              "url": "https://www.abc.net.au/news/2026-11-14/follow-live-us-aviation-authority-grounds-all-flights/107385742"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/faa-us-flights-grounded-extraordinary-circumstances-6aaa6bd4991ef22eb0c3baa6961a91d1"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "新奧爾良運油輪撞郵輪致傾側　全船獲救32人送院無生命危險",
+          "summary": "美國路易斯安那州新奧爾良密西西比河上，一艘運油輪周五當地中午疑因失去舵效撞向停泊中、載有逾120名乘客的郵輪，導致郵輪傾側並局部沉沒；市長莫雷諾表示船上所有人已獲救，32人送院均無生命危險，州長蘭德里稱之為「密西西比河上的奇蹟」，當局正調查事故原因。",
+          "time_hkt": "2026-11-14T06:51:07+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877779-20261114.htm"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/cw20xmy0m5yyo"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/new-orleans-tanker-river-cruise-rescue-passengers-757bed7a70ceb72f0d7140143fe2a764"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "紐約郵報：特朗普擬周四在深圳與習近平及普京舉行三方會談",
+          "summary": "美國《紐約郵報》報道，總統特朗普將於周四深圳亞太經合組織會議期間，與中國國家主席習近平及俄羅斯總統普京舉行三方會談，預料重點討論核武管控，亦可能涉及朝鮮及伊朗戰事；路透社引述報道指白宮及中國駐美使館未即時回應，北京外交部日前稱中方正與相關方保持溝通。",
+          "time_hkt": "2026-11-14T05:49:47+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877772-20261114.htm"
+            },
+            {
+              "name": "路透社",
+              "url": "https://www.investing.com/news/world-news/trump-to-hold-summit-with-xi-putin-in-shenzhen-on-thursday-ny-post-reports-5026581"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "美股收市個別發展　三大指數本周升逾2%　Nvidia連跌6周累挫近13%",
+          "summary": "美股周五收市個別發展，道指升50點報52347點，標普500跌30點報7561點，納指跌229點報25136點；全星期三大指數均升逾2%，其中標指升2.5%，但Nvidia再跌2%、本周累跌近13%並連跌6周，滙豐將其投資評級下調至「持有」，AMD跌近9%。",
+          "time_hkt": "2026-11-14T05:00:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877771-20261114.htm"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1206287-美股個別發展輝達再跌2遭滙豐下調投資評級"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "美元持續高位徘徊　美債息上升　本周美元指數累升1.1%",
+          "summary": "市場對聯儲局將加息的預期升溫，推高美國債息，美元指數升近0.2%報103.4，本周累升1.1%、連升3星期，並徘徊於逾一年半高位附近。",
+          "time_hkt": "2026-11-14T07:22:33+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877777-20261114.htm"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1206300-美國債息上升推動美元匯價錄兩個月以來最大按星期升幅"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "現貨金本周累跌約4.6%　創逾5個月最大單周跌幅",
+          "summary": "現貨金周五微升0.1%收市報每盎司3880.04美元，但本周累計跌約4.6%，為6月初以來最大單一星期跌幅；紐約期金收市報每盎司3886.3美元，跌1美元。",
+          "time_hkt": "2026-11-14T07:21:12+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877776-20261114.htm"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1206289-金價經過上日急挫後回穩"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "國際油價本周累跌約2.5%　周五收市變動不大",
+          "summary": "國際油價周五收市變動不大，倫敦布蘭特期油升2美仙報每桶95.84美元，紐約期油跌0.2%報每桶88.56美元；全星期英美期油價格累計跌約2.5%，連跌第二個星期。",
+          "time_hkt": "2026-11-14T07:20:49+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877775-20261114.htm"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1206290-原油期貨價格扭轉過去兩日升勢連跌第二個星期"
+            }
+          ],
+          "rank": 4
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "港股ADR普遍較本港收市上升　阿里巴巴及京東ADR升逾2%",
+          "summary": "港股美國預託證券普遍較本港收市上升，金融股方面滙控ADR較本港收市升逾0.5%，科技股方面阿里巴巴和京東的ADR則升逾2%。",
+          "time_hkt": "2026-11-14T06:17:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877778-20261114.htm"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1206288-港股美國預託證券與本港收市比較造價個別發展"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
