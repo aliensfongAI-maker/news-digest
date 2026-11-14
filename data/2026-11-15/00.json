@@ -1,0 +1,89 @@
+{
+  "date": "2026-11-15",
+  "hour": "00",
+  "updatedAt": "2026-11-15T00:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "荃灣夾公仔店遭淋紅油　警方拘19歲女子及15歲少年",
+          "summary": "荃灣一間夾公仔店本周二凌晨遭人淋潑紅色漆油，警方經調查及翻查閉路電視後，先後於昨日及今日在深水埗及紅磡，以涉嫌刑事毀壞拘捕一名19歲女子及一名15歲少年，二人現正被扣留調查。",
+          "time_hkt": "2026-11-14T20:00:00+08:00",
+          "sources": [
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410854/%E8%8D%83%E7%81%A3%E5%A4%BE%E5%85%AC%E4%BB%94%E8%88%96%E8%A2%AB%E6%B7%8B%E9%A1%8F%E6%96%99-%E8%AD%A6%E9%80%A3%E6%97%A5%E6%9F%A5%E5%A4%A9%E7%9C%BC-%E6%8B%9819%E6%AD%B2%E5%B0%91%E5%A5%B3%E5%8F%8A15%E6%AD%B2%E7%94%B7%E7%AB%A5"
+            },
+            {
+              "name": "東網",
+              "url": "https://hk.on.cc/hk/bkn/cnt/news/20261114/bkn-20261114202105341-1114_00822_001.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "孫玉菡出席社福界界別分組候選人見面會　籲選民積極投票",
+          "summary": "勞工及福利局局長孫玉菡今日到灣仔戴麟趾夫人訓練中心體育館，出席社會福利界界別分組候選人見面會；該組有25位候選人競逐15個選任席位，他呼籲合資格選民於11月22日積極投票。",
+          "time_hkt": "2026-11-14T21:11:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877836-20261114.htm"
+            },
+            {
+              "name": "星島日報",
+              "url": "https://www.stheadline.com/politics/3637166/%E9%81%B8%E5%A7%94%E6%9C%83%E9%81%B8%E8%88%892026%E5%AD%AB%E7%8E%89%E8%8F%A1%E5%B8%AD%E7%A4%BE%E7%A6%8F%E7%95%8C%E7%95%8C%E5%88%A5%E5%88%86%E7%B5%84%E5%80%99%E9%81%B8%E4%BA%BA%E8%A6%8B%E9%9D%A2%E6%9C%83-%E5%91%BC%E7%B1%B2%E9%81%B8%E6%B0%91%E8%B8%B4%E8%BA%8D%E6%8A%95%E7%A5%A8"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "英倫銀行首席經濟學家：未來數月可能再加息以壓抑通脹",
+          "summary": "英倫銀行首席經濟學家皮爾接受《金融時報》訪問時表示，該行本月將利率上調至4%後「仍有一段路要走」，預期12月及2027年初可能再加息，以將通脹逐步帶回2%目標。",
+          "time_hkt": "2026-11-14T20:05:00+08:00",
+          "sources": [
+            {
+              "name": "衛報",
+              "url": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rises-inflation-bank-of-england-chief-economist"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "意大利以Facebook擅取Android用戶相簿為由向Meta罰款8.05億歐元",
+          "summary": "意大利個人資料保護局周六宣布向Meta罰款8.05億歐元（約8.87億美元），指Facebook的Android應用程式在未取得特定同意下取用用戶相簿照片及影片作發佈建議，並要求該公司於60日內預設關閉有關功能及另行取得同意。",
+          "time_hkt": "2026-11-14T20:15:00+08:00",
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/14/italy-fines-meta-887-million-over-android-users-data-access.html"
+            },
+            {
+              "name": "星島日報",
+              "url": "https://www.stheadline.com/realtime-world/3637167/Meta%E9%81%AD%E6%84%8F%E5%A4%A7%E5%88%A9%E9%87%8D%E7%BD%B0%E9%80%BE69%E5%84%84%E6%B8%AF%E5%85%83-%E5%AE%89%E5%8D%93FB%E6%93%85%E5%8F%96%E7%94%A8%E6%88%B6%E7%85%A7%E7%89%87%E5%BD%B1%E7%89%87%E6%95%B8%E6%93%9A"
+            },
+            {
+              "name": "安莎社",
+              "url": "https://www.ansa.it/sito/notizie/politica/2026/11/14/garante-805-milioni-di-multa-a-meta-per-luso-di-foto-su-fb-senza-consenso_c28909e5-4d3b-4ec6-9d7c-e23ea349b64d.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
