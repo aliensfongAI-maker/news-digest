@@ -1,0 +1,207 @@
+{
+  "date": "2026-11-14",
+  "hour": "16",
+  "updatedAt": "2026-11-14T16:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "機管局：截至中午12時往來香港與美國共17班航班取消或延誤",
+          "summary": "機管局表示，今日原定有16班航班由美國抵港、17班由香港前往美國，截至中午12時，抵港航班有2班取消、7班延誤，離港航班有2班取消、6班延誤；當局指美國航空交通限制已解除，但預計今明兩日往來航班仍會受一定程度影響，呼籲旅客留意航空公司最新公布。",
+          "time_hkt": "2026-11-14T14:01:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877809-20261114.htm"
+            },
+            {
+              "name": "東網",
+              "url": "https://hk.on.cc/hk/bkn/cnt/news/20261114/bkn-20261114141057795-1114_00822_001.html"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410737/%E7%BE%8E%E5%9C%8B%E5%81%9C%E9%A3%9B%E4%BB%A4%E8%A7%A3%E9%99%94-%E6%A9%9F%E7%AE%A1%E5%B1%80-%E6%88%AA%E8%87%B3%E4%B8%AD%E5%8D%8812%E6%99%82-17%E7%8F%AD%E8%88%AA%E7%8F%AD%E5%8F%96%E6%B6%88%E6%88%96%E5%BB%B6%E8%AA%A4"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "粉嶺坪輋路貨倉火警疑死灰復燃　消防繼續射水降溫及清理",
+          "summary": "粉嶺坪輋路一個貨倉昨晚火警大致救熄後，今日下午再有網民拍到現場冒煙並出現明火，消防在場射水降溫並清理燒毀貨物，消防處表示正進行善後工作；運輸署宣布坪輋路近浸會園實施單線雙程行車。",
+          "time_hkt": "2026-11-14T15:23:00+08:00",
+          "sources": [
+            {
+              "name": "東網",
+              "url": "https://hk.on.cc/hk/bkn/cnt/news/20261114/bkn-20261114152338894-1114_00822_001.html"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410747/%E5%9D%AA%E8%BC%8B%E8%B2%A8%E5%80%89%E7%81%AB%E8%AD%A6%E7%96%91%E6%AD%BB%E7%81%B0%E5%BE%A9%E7%87%83-%E5%86%8D%E5%86%92%E7%99%BD%E7%85%99-%E6%B6%88%E9%98%B2%E7%95%99%E5%AE%88%E7%8F%BE%E5%A0%B4%E5%B0%84%E6%B0%B4%E9%99%8D%E6%BA%AB"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "運輸署呼籲市民提防偽冒汽車安全氣袋召回信息",
+          "summary": "運輸署呼籲市民提防偽冒該署的汽車安全氣袋召回信息，強調不會發信通知個別車主召回車輛，目前只在網頁列出由註冊製造商授權香港代理提供的召回資訊，並指事件將轉交警方跟進，呼籲勿向可疑信息提供個人資料。",
+          "time_hkt": "2026-11-14T15:19:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877815-20261114.htm"
+            },
+            {
+              "name": "東網",
+              "url": "https://hk.on.cc/hk/bkn/cnt/news/20261114/bkn-20261114151903227-1114_00822_001.html"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "數字辦：高度關注軟件系統故障　暫未接獲政府部門系統受影響",
+          "summary": "數字政策辦公室回覆查詢時表示，高度關注近日軟件系統故障事件，暫時未接獲政府部門系統受影響的報告，會繼續密切監察並向部門提供支援；保安局則指基於保安考慮，不會公布關鍵基礎設施營運者名單或相關事宜。",
+          "time_hkt": "2026-11-14T14:44:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877811-20261114.htm"
+            }
+          ],
+          "rank": 4
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "愛爾蘭警方在多國領導人晚宴場地附近查獲爆炸裝置",
+          "summary": "歐洲政治共同體領導人會議星期四在都柏林舉行後，愛爾蘭警方星期五在市中心梅里恩廣場一棟辦公大樓內查獲一枚被形容為製作粗糙但具備引爆能力的簡易爆炸裝置，軍方拆彈專家已安全拆除，當局正調查；當日法國總統馬克龍、英國首相貝安德及加拿大總理卡尼等曾在附近的國家美術館出席晚宴。",
+          "time_hkt": "2026-11-14T14:36:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877808-20261114.htm"
+            },
+            {
+              "name": "愛爾蘭廣播電視",
+              "url": "https://www.rte.ie/news/dublin/2026/1113/1599157-gardai-merrion-square/"
+            },
+            {
+              "name": "愛爾蘭時報",
+              "url": "https://www.irishtimes.com/crime-law/2026/11/13/gardai-and-defence-forces-investigate-suspicious-device-found-at-merrion-square/"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "英國皇家空軍萊肯希思基地疑現未經授權無人機活動",
+          "summary": "英國東部薩福克郡皇家空軍萊肯希思基地星期五晚疑似出現未經授權無人機活動，駐紮該基地的美軍安全人員作出應對，基地人員一度收到就地避險指令；英國國防部其後表示情況已得到解決，美國空軍稱沒有人員、飛機或基礎設施受影響。",
+          "time_hkt": "2026-11-14T13:44:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877804-20261114.htm"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/c6jd75geegzyo"
+            },
+            {
+              "name": "AP",
+              "url": "https://apnews.com/article/drone-military-base-uk-us-40644fc3f0d12f57d5c1f429d8d1d1e8"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "中方：支持對話協商解決航道爭端　反對將關鍵航道政治化",
+          "summary": "中國常駐聯合國代表傅聰在安理會中東海灣局勢公開會上表示，解決地區問題的前提是立即停火止戰，中方主張善意行使國際法賦予的航行權利，支持各國通過平等對話協商解決航道爭端，反對將關鍵航道政治化、軍事化、工具化。",
+          "time_hkt": "2026-11-14T14:14:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877805-20261114.htm"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "深圳APEC｜王曦：籌備工作就緒　有信心呈現高水平盛會",
+          "summary": "亞太經合組織領導人非正式會議將於下星期三至四在深圳舉行，廣東省委常委、會議籌備辦主任王曦在中外媒體吹風會上表示，各項籌備工作已經就緒，有信心向世界呈現一屆高水平盛會，並指將突出綠色及科技賦能，做好場館、接待及城市運行等服務保障。",
+          "time_hkt": "2026-11-14T13:54:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877807-20261114.htm"
+            }
+          ],
+          "rank": 4
+        },
+        {
+          "headline": "古巴國家主席：決心抵制任何外國軍事侵略企圖",
+          "summary": "古巴國家主席迪亞斯卡內爾星期五在哈瓦那省參加國防準備活動時表示，美國近日一再發出軍事侵略威脅，古巴已展開國防準備以保障全民戰爭防禦戰略，並強調決心抵制任何外國軍事侵略企圖，同時要求美方解除對古巴的封鎖。",
+          "time_hkt": "2026-11-14T12:49:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877798-20261114.htm"
+            }
+          ],
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "當局批8幅地予港鐵作財務資助　楊美珍稱無時間壓力把地推出市場",
+          "summary": "政府與港鐵簽訂北環綫全線項目協議，整體建造成本預算862億港元、較原先預算少28%，並批出8幅用地作為財務資助；港鐵行政總裁楊美珍在電視節目表示，港鐵沒有時間壓力要把這些用地推出市場，會視乎土地成熟程度及市況，古洞站附近配套較佳、推出優次較高。",
+          "time_hkt": "2026-11-14T14:15:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877810-20261114.htm"
+            },
+            {
+              "name": "有線新聞",
+              "url": "https://www.i-cable.com/%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A/523652/%E6%A5%8A%E7%BE%8E%E7%8F%8D%E5%B0%88%E8%A8%AA-%E7%A8%B1%E5%8C%97%E7%92%B0%E7%B6%AB%E5%BC%95%E5%85%A5%E6%96%B0%E6%A8%99%E6%BA%96%E6%B8%9B%E6%88%90%E6%9C%AC-8%E5%B9%85%E8%B3%87%E5%8A%A9"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "微軟表示已完成修復　Outlook、Teams及Copilot等服務全面恢復",
+          "summary": "微軟表示已完成處理導致Outlook、Teams及Copilot等服務中斷超過一日的技術問題，並恢復對剩餘受影響客戶和地區的服務；公司再次致歉，重申故障源於網絡容量升級，與網絡攻擊或人工智能無關。",
+          "time_hkt": "2026-11-14T14:42:27+08:00",
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877812-20261114.htm"
+            },
+            {
+              "name": "法國24",
+              "url": "https://www.france24.com/en/technology/20261114-microsoft-says-consumer-products-fully-recovered-business-services-improving"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
