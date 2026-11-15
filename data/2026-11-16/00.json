@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-16",
+  "hour": "00",
+  "updatedAt": "2026-11-16T00:15:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "印尼總統普拉博沃就跨境煙霾向新加坡及馬來西亞道歉",
+          "summary": "印尼總統普拉博沃周日在馬尼拉舉行的第49屆東盟峰會上，就本國森林及土地火災近四個月引發跨境煙霾、影響新加坡及馬來西亞，代表印尼政府及人民向兩國道歉；他稱當局已動員約7.1萬人撲火，期間16名消防員殉職、多人受傷並損失兩架直升機，已撤銷17家公司特許經營權，現有26家公司接受調查、11家被提控，另有23家擬被控，警方正調查共104家公司，並指將由着重滅火轉向系統性預防，計劃成立新機構加強防範。",
+          "time_hkt": "2026-11-15T22:16:25+08:00",
+          "sources": [
+            {
+              "name": "羅盤報",
+              "url": "https://nasional.kompas.com/read/2026/11/15/21162581/di-ktt-asean-prabowo-minta-maaf-karhutla-ri-ganggu-singapura-hingga-malaysia"
+            },
+            {
+              "name": "8視界",
+              "url": "https://www.8world.com/southeast-asia/prabowo-apologise-for-forest-fire-3341271"
+            },
+            {
+              "name": "CGTN",
+              "url": "https://news.cgtn.com/news/2026-11-15/news-1S6cHSBUphK/p.html"
+            },
+            {
+              "name": "亞洲新聞台",
+              "url": "https://www.channelnewsasia.com/asia/indonesia-prabowo-apology-haze-6553166"
+            },
+            {
+              "name": "南華早報",
+              "url": "https://www.scmp.com/news/asia/southeast-asia/article/3374510/indonesias-prabowo-apologises-singapore-malaysia-over-transboundary-haze"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
