@@ -1,0 +1,143 @@
+{
+  "date": "2026-11-15",
+  "hour": "12",
+  "updatedAt": "2026-11-15T12:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "黃大仙下邨龍光樓火警　起火單位發現一女子遺體　約50人疏散",
+          "summary": "警方今早約8時47分接報黃大仙下邨龍光樓一個單位起火並冒出濃煙，據報一度傳出爆炸聲；消防出動一條喉及一隊煙帽隊灌救，約於9時16分將火救熄後在單位內發現一女子遺體，約50人疏散，另有一名65歲婦人懷疑吸入濃煙不適，起火原因有待調查。",
+          "time_hkt": "2026-11-15T08:52:33+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877870-20261115.htm"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60410902/%E9%BB%83%E5%A4%A7%E4%BB%99%E4%B8%8B%E9%82%A8%E5%96%AE%E4%BD%8D%E8%B5%B7%E7%81%AB-%E9%BB%91%E7%85%99%E6%8D%B2%E5%8D%8A%E7%A9%BA%E7%85%99%E9%9C%A7%E5%BD%8C%E6%BC%AB-50%E4%BA%BA%E7%B7%8A%E6%80%A5%E7%96%8F%E6%95%A3"
+            },
+            {
+              "name": "東網",
+              "url": "https://hk.on.cc/hk/bkn/cnt/news/20261115/bkn-20261115085233400-1115_00822_001.html"
+            },
+            {
+              "name": "星島日報",
+              "url": "https://www.stheadline.com/breaking-news/3637246/%E9%BB%83%E5%A4%A7%E4%BB%99%E4%B8%8B%E9%82%A8%E5%96%AE%E4%BD%8D%E8%B5%B7%E7%81%AB%E5%82%B3%E7%88%86%E7%82%B8%E8%81%B2-%E6%B6%88%E9%98%B2%E6%95%91%E7%86%84%E5%BE%8C%E7%99%BC%E7%8F%BE%E4%B8%80%E5%A5%B3%E5%AD%90%E5%B1%8D%E9%AB%94"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "維港泳優悠組最後一組因水流問題取消　約700人受影響將獲退回報名費",
+          "summary": "維港泳2026今早舉行，主辦單位中國香港游泳總會會長王敏超表示，因維港水流較大，基於安全及時間限制，決定取消優悠組最後一組（第四組）賽事，約700名選手受影響，將獲退回報名費；優悠組原約3700人、分4組出發。",
+          "time_hkt": "2026-11-15T09:55:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877869-20261115.htm"
+            },
+            {
+              "name": "東網",
+              "url": "https://hk.on.cc/hk/bkn/cnt/news/20261115/bkn-20261115095555603-1115_00822_001.html"
+            },
+            {
+              "name": "星島日報",
+              "url": "https://www.stheadline.com/society/3637258/%E7%B6%AD%E6%B8%AF%E6%B8%A1%E6%B5%B7%E6%B3%B3%E5%84%AA%E6%82%A0%E7%B5%84%E7%AC%AC%E5%9B%9B%E7%B5%84%E5%8F%96%E6%B6%88%E4%B8%8B%E6%B0%B4-%E7%8F%BE%E5%A0%B4%E5%BB%A3%E6%92%AD%E6%8C%87%E6%B0%B4%E6%B5%81%E5%A4%AA%E6%80%A5"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "沙特主導聯盟稱攔截胡塞武裝射向利雅得的兩枚彈道導彈",
+          "summary": "沙特主導聯盟發言人馬利基周日清晨表示，防空系統攔截並摧毀胡塞武裝射向利雅得的兩枚彈道導彈；阿拉伯新聞社等並引述聯盟稱同時攔截射向東部省的無人機，利雅得民防清晨發出空襲警報，其後解除。",
+          "time_hkt": "2026-11-15T10:59:06+08:00",
+          "sources": [
+            {
+              "name": "半島電視台",
+              "url": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh"
+            },
+            {
+              "name": "阿拉伯新聞",
+              "url": "https://www.arabnews.com/saudi-arabia/coalition-forces-intercept-2-houthi-missiles-targeting-riyadh-3-drones-in-eastern-province-3011963"
+            },
+            {
+              "name": "安納杜魯新聞社",
+              "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepts-2-houthi-ballistic-missiles-targeting-riyadh/4125465"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "瑞銀揭幕西九龍新總部　約3500名員工將遷入以拓展大灣區財富業務",
+          "summary": "瑞銀帶領傳媒參觀西九龍國際門廊（International Gateway Centre）內樓高20層的新香港總部客戶樓層，大廈約50萬平方呎，並設亞太區最大交易大堂；目前分散於中環國際金融中心二期等五個辦事處的約3500名員工，預計第四季開始遷入。",
+          "time_hkt": "2026-11-15T11:00:10+08:00",
+          "sources": [
+            {
+              "name": "南華早報",
+              "url": "https://www.scmp.com/business/companies/article/3374426/ubs-unveils-new-west-kowloon-hub-tap-greater-bay-area-wealth"
+            },
+            {
+              "name": "大公報",
+              "url": "https://www.tkww.hk/epaper/view/newsDetail/2118769079912370176.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "丘應樺：港9月出口升64.9%主因AI電子產品　料AI發展或放緩須另覓機遇",
+          "summary": "商務及經濟發展局局長丘應樺出席電台節目時表示，本港9月出口按年升64.9%、進口升57.8%，創逾40年來最快單月出口增速，主要受人工智能電子產品貿易帶動；他認為未來AI發展或會放緩，強調香港不能「等運到」，須自強不息、不斷發掘新機遇。",
+          "time_hkt": "2026-11-15T09:47:13+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877864-20261115.htm"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "韓國稅務會計師試第一名承認以生成式AI及偷拍鏡頭作弊",
+          "summary": "韓國今屆稅務會計師資格試第一名周日在律師頻道上承認，先前曾否認的作弊指控屬實，指以微型鏡頭拍攝試題、傳送至生成式人工智能並以智能手機查看答案，其後向首爾警方自首；其首輪160題中答對159題的成績早前引起廣泛質疑。",
+          "time_hkt": "2026-11-15T09:40:16+08:00",
+          "sources": [
+            {
+              "name": "南華早報",
+              "url": "https://www.scmp.com/news/asia/east-asia/article/3374467/top-tax-accountant-exam-scorer-south-korea-admits-using-ai-cheat"
+            },
+            {
+              "name": "韓國先驅報",
+              "url": "https://www.koreaherald.com/article/10937374"
+            },
+            {
+              "name": "韓國時報",
+              "url": "https://www.koreatimes.co.kr/southkorea/law-crime/20261115/top-tax-accountant-exam-scorer-admits-to-using-ai-to-cheat"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
