@@ -1,0 +1,37 @@
+{
+  "date": "2026-11-16",
+  "hour": "04",
+  "updatedAt": "2026-11-16T04:15:00+08:00",
+  "sections": [
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "美財長貝森特促Nvidia從外部覓新行政總裁　要求董事會10日內交代合規問題",
+          "summary": "美國財政部長貝森特周日在福斯新聞節目表示，黃仁勳辭職後，Nvidia董事會物色新行政總裁時必須從公司外部尋找人選，並稱公司需要大刀闊斧整頓；他質疑公司是否曾藉疑似違法的晶片銷售推高收入及盈利，要求董事會及外聘法律顧問在未來10天內就出口管制合規文化作出交代。",
+          "time_hkt": "2026-11-16T00:49:00+08:00",
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html"
+            },
+            {
+              "name": "Axios",
+              "url": "https://www.axios.com/2026/11/15/bessent-nvidia-earnings-china-chip-sales-ceo"
+            },
+            {
+              "name": "每日電訊報",
+              "url": "https://www.telegraph.co.uk/business/2026/11/15/bessent-turns-fire-on-nvidia-board-after-huang-exit/"
+            },
+            {
+              "name": "聯合新聞網",
+              "url": "https://udn.com/news/story/6811/9880686"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
