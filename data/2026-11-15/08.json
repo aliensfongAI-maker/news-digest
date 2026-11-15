@@ -1,0 +1,59 @@
+{
+  "date": "2026-11-15",
+  "hour": "08",
+  "updatedAt": "2026-11-15T08:15:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "庫什納：美方正促成歐洲與俄羅斯直接接觸以推進烏克蘭和談",
+          "summary": "美國特使庫什納周六表示，美方目前重點是促成莫斯科與歐洲夥伴直接接觸，並籌備下一輪美俄烏三方會談議程，稱近日討論出現若干新構思，或部分可直接帶來突破、或演變成彌合分歧的新方案。",
+          "time_hkt": "2026-11-15T05:10:26+08:00",
+          "sources": [
+            {
+              "name": "半島電視台",
+              "url": "https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine"
+            },
+            {
+              "name": "CBS News",
+              "url": "https://www.cbsnews.com/news/us-europe-russia-engagement-ukraine-war/"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "SpaceX首次以發射塔「筷子」接住Starship上層級　助推器改墜海爆炸",
+          "summary": "SpaceX在德州Starbase以發射塔「Mechazilla」機械臂（綽號「筷子」）首次成功接住第15次試飛的Starship上層級，該飛行器繞地球14圈、歷時約22小時後返回；原計劃同步接住的Super Heavy助推器因導航系統判定位置不符而中止，改為墜入墨西哥灣並爆炸。",
+          "time_hkt": "2026-11-15T05:44:44+08:00",
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch"
+            },
+            {
+              "name": "衛報",
+              "url": "https://www.theguardian.com/science/2026/nov/14/spacex-starship-double-catch"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
