@@ -1,0 +1,67 @@
+{
+  "date": "2026-11-16",
+  "hour": "08",
+  "updatedAt": "2026-11-16T08:15:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "哈利王子突訪烏克蘭利沃夫會見傷兵　稱「你們會打贏這場戰爭」",
+          "summary": "英國哈利王子在出於安全考慮實施新聞封鎖、直至離境後才公開的情況下，對烏克蘭作第四次戰時訪問，於利沃夫逗留兩日，在超級人類中心會見傷兵並觀看輪椅欖球，向他們表示「你們會打贏這場戰爭」，形容傷兵是榜樣，並承諾在戰事結束、烏克蘭勝出後支持當地舉辦Invictus運動會。",
+          "time_hkt": "2026-11-16T06:00:00+08:00",
+          "sources": [
+            {
+              "name": "英國廣播公司",
+              "url": "https://www.bbc.com/news/articles/c60evn992jq8o"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/prince-harry-ukraine-britain-invictus-wounded-veterans-ea4373cfbc0aaad3d1f32895d587013a"
+            },
+            {
+              "name": "獨立報",
+              "url": "https://www.independent.co.uk/news/uk/home-news/harry-ukraine-visit-russia-lviv-b3085227.html"
+            },
+            {
+              "name": "南華早報",
+              "url": "https://www.scmp.com/news/world/europe/article/3374521/prince-harry-salutes-wounded-ukrainian-veterans-role-models-surprise-ukraine-visit"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "金融時報：黃仁勳考慮復職　矽谷組「戰情室」遊說Nvidia董事會",
+          "summary": "英國《金融時報》引述知情人士報道，日前辭職的Nvidia創辦人黃仁勳正與親信討論重返行政總裁一職；一名盟友稱正集結矽谷企業高層組成「戰情室」遊說董事會並尋求白宮支持，相關行動獲黃仁勳支持，馬斯克及Epic Games行政總裁史威尼等人亦聲援要求讓他回歸。",
+          "time_hkt": "2026-11-16T04:43:00+08:00",
+          "sources": [
+            {
+              "name": "經濟日報",
+              "url": "https://money.udn.com/money/story/5599/9880733"
+            },
+            {
+              "name": "海峽時報",
+              "url": "https://www.straitstimes.com/business/companies-markets/jensen-huang-discusses-comeback-as-nvidia-ceo-with-allies-ft-reports"
+            },
+            {
+              "name": "雅虎新聞",
+              "url": "https://hk.news.yahoo.com/%E9%87%91%E8%9E%8D%E6%99%82%E5%A0%B1-%E9%BB%83%E4%BB%81%E5%8B%B3%E8%80%83%E6%85%AE%E5%BE%A9%E8%81%B7-%E7%9F%BD%E8%B0%B7%E7%B5%84-%E6%88%B0%E6%83%85%E5%AE%A4-%E9%81%8A%E8%AA%AA-212124978.html"
+            },
+            {
+              "name": "獨立報",
+              "url": "https://www.independent.co.uk/news/world/americas/jensen-huang-nvidia-return-spy-b3085318.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
