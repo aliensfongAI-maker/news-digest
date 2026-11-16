@@ -1,0 +1,151 @@
+{
+  "date": "2026-11-16",
+  "hour": "12",
+  "updatedAt": "2026-11-16T12:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "鄺港傑稱創作辯護理由圖減輕刑責　曾寫信指父親殺害蔡天鳳",
+          "summary": "蔡天鳳案在高等法院續審，首被告、蔡天鳳前大伯鄺港傑接受控方盤問時承認，被捕後曾自行構思辯護理由並撰寫辯方案情信，指第二被告父親鄺球殺害蔡天鳳，以減輕刑責及協助第三被告胞弟鄺港智，惟他同時同意鄺球並無殺人、案發時亦不在車上，並稱後來因律師要求他說出真相而改口。",
+          "time_hkt": "2026-11-16T10:59:00+08:00",
+          "sources": [
+            {
+              "name": "商業電台",
+              "url": "https://www.881903.com/news/local/2659693"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877960-20261116.htm"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "外交部宣布習近平周四將在深圳與普京及特朗普舉行中俄美元首會晤",
+          "summary": "中國外交部發言人周一宣布，國家主席習近平將於11月19日（星期四）在深圳與俄羅斯總統普京及美國總統特朗普舉行中俄美元首會晤；會晤預計在亞太經合組織領導人峰會期間舉行，克里姆林宮及白宮較早前已確認三方會面，香港電台引述指美方期望討論削減核武及伊朗戰事。",
+          "time_hkt": "2026-11-16T09:00:00+08:00",
+          "sources": [
+            {
+              "name": "中國外交部",
+              "url": "https://www.mfa.gov.cn/zyxw/202611/t20261116_12059654.shtml"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877934-20261116.htm"
+            },
+            {
+              "name": "亞洲新聞台",
+              "url": "https://www.channelnewsasia.com/asia/donald-trump-xi-jinping-vladimir-putin-china-meeting-6553826"
+            },
+            {
+              "name": "新城電台",
+              "url": "https://www.metroradio.com.hk/News/details.aspx?CategoryName=china&NewsId=20261116091806"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "內地10月消費、工業及投資數據全線遜預期　固投首10個月跌8.1%",
+          "summary": "國家統計局公布，內地10月社會消費品零售總額按年增長0.4%、規模以上工業增加值增長4.8%，均較9月放緩0.7個百分點並低於市場預期，首10個月固定資產投資按年跌8.1%、跌幅擴大，反映房地產持續不振下內需偏弱。",
+          "time_hkt": "2026-11-16T10:00:00+08:00",
+          "sources": [
+            {
+              "name": "南華早報",
+              "url": "https://www.scmp.com/economy/economic-indicators/article/3374531/chinas-economic-activity-falters-october-amid-sluggish-retail-sales"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877945-20261116.htm"
+            },
+            {
+              "name": "日經亞洲",
+              "url": "https://asia.nikkei.com/economy/china-s-factory-output-grows-but-household-spending-remains-subdued"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "新世界發展復牌急挫逾45%　1供11折讓逾八成集資249億元",
+          "summary": "新世界發展（00017）因「1供11」供股計劃今早復牌，開市報2.655港元，較停牌前收市價4.87港元急挫逾45%，盤中低見過2.57港元、跌幅逾47%；公司擬以每股0.9港元供股集資約249億元（淨額約241億元），較停牌價折讓約81.5%，所得主要用於償債及發展項目，並須待股東批准。",
+          "time_hkt": "2026-11-16T09:24:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877938-20261116.htm"
+            },
+            {
+              "name": "新城電台",
+              "url": "https://www.metroradio.com.hk/News/details.aspx?CategoryName=finance&NewsId=20261116093830"
+            },
+            {
+              "name": "經濟通",
+              "url": "https://www.etnet.com.hk/www/tc/news/news-article.php?newsid=416813"
+            },
+            {
+              "name": "財新",
+              "url": "https://finance.caixin.com/2026-11-16/102505179.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "港交所推出首個離岸人民幣債券指數　支持掛鈎點心債ETF",
+          "summary": "香港交易所今日推出首個冠名固定收益指數，亦是香港首個追蹤在港發行點心債的基準指數，並與彭博合作進行指數管理及計算；已有資產管理公司籌備推出掛鈎ETF等產品，以提升離岸人民幣債券市場透明度並支持產品創新。",
+          "time_hkt": "2026-11-16T08:15:00+08:00",
+          "sources": [
+            {
+              "name": "財新",
+              "url": "https://finance.caixin.com/2026-11-16/102505097.html"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877929-20261116.htm"
+            },
+            {
+              "name": "央廣網",
+              "url": "https://finance.cnr.cn/cjtt/20261116/t20261116_527874251.shtml"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "無紙證券市場今日起實施　實名抽新股改以電子方式記存",
+          "summary": "香港今日起實施無紙證券市場，證監會市場監察部執行董事梁仲賢表示，投資者以「白表」實名抽新股將不再獲發實物股票，改以電子方式記存在股份過戶處「持股易」戶口；現時逾九成、約2700間以實物股票上市的公司將於五年內分批無紙化，首批預計明年2月推行。",
+          "time_hkt": "2026-11-16T08:55:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877930-20261116.htm"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    }
+  ]
+}
