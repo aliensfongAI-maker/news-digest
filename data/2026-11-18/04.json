@@ -1,0 +1,87 @@
+{
+  "date": "2026-11-18",
+  "hour": "04",
+  "updatedAt": "2026-11-18T04:15:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "美國失去麻疹消除地位　墨西哥及玻利維亞同被撤銷認證",
+          "summary": "泛美衞生組織宣布，因同一株麻疹病毒持續傳播超過12個月，美國失去維持26年的麻疹消除地位，墨西哥及玻利維亞亦同時被撤銷認證；該組織總幹事在記者會上把疫情反彈歸因於疫苗接種缺口，美國疾控中心則表明將擴大疫苗可及性以圖重獲認證。",
+          "time_hkt": "2026-11-18T00:07:48+08:00",
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/17/us-officially-loses-measles-free-status-after-26-years-amid-outbreak"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/17/us-measles-elimination-status.html"
+            },
+            {
+              "name": "泛美衞生組織",
+              "url": "https://www.paho.org/en/news/17-11-2026-paho-urges-countries-step-efforts-stop-measles-outbreaks-and-move-towards"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/measles-elimination-status-us-mexico-b6694152aca12e8cf4293d9f50090ec9"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "伊朗指美軍襲擊格什姆島部分地點　稱居民區及基礎設施未受損",
+          "summary": "伊朗霍爾木茲甘省副省長納菲西表示，美軍襲擊位於霍爾木茲海峽北岸的格什姆島部分地點，但居民區、商業及基礎設施未有受損，當地情況受控，救援部門全面戒備；伊朗傳媒早前報道島上傳出爆炸聲並冒出濃煙，美軍當時未有即時回應。",
+          "time_hkt": "2026-11-18T01:10:49+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878204-20261118.htm"
+            },
+            {
+              "name": "新華社",
+              "url": "https://www.news.cn/20261118/9e5d805d89d1458c8d42c48fb93ff6e6/c.html"
+            },
+            {
+              "name": "安納多盧通訊社",
+              "url": "https://www.aa.com.tr/en/middle-east/iran-says-us-military-struck-several-locations-in-area-of-qeshm-island/4128214"
+            },
+            {
+              "name": "Al-Monitor",
+              "url": "https://www.al-monitor.com/originals/2026/11/iran-steps-hormuz-bahrain-attacks-us-hits-qeshm-again-what-know"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "蘋果iCloud、App Store及Apple Pay等服務一度大範圍故障",
+          "summary": "美國東部時間上午約11時半起，蘋果多項網上服務包括iCloud、App Store、Apple Pay及Apple Music等出現大範圍連線故障，部分用戶更無法啟用新iPhone；蘋果其後表示因內部更新所致而非網絡攻擊，不少系統已恢復，並正盡快修復其餘服務。",
+          "time_hkt": "2026-11-18T02:15:04+08:00",
+          "sources": [
+            {
+              "name": "Engadget",
+              "url": "https://www.engadget.com/2319504/icloud-and-other-apple-services-are-down-in-an-apparent-outage/"
+            },
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
