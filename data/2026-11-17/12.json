@@ -1,0 +1,361 @@
+{
+  "date": "2026-11-17",
+  "hour": "12",
+  "updatedAt": "2026-11-17T12:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "東瀛遊：供應商系統遭未授權存取　部分客戶證件資料或被查閱",
+          "summary": "上市公司東瀛遊公布，本月13日接獲第三方技術服務供應商通知，其系統曾遭未經授權網絡存取，部分客戶的姓名、聯絡資料、身份證號碼及旅遊證件資料等可能涉及事件；公司已報警及向私隱專員公署立案，並指獨立銀行付款系統未受影響、不涉及信用卡或付款資料，暫未有證據顯示資料遭不當使用，核心預訂系統及已確認行程維持正常。",
+          "time_hkt": "2026-11-16T22:18:09+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878034-20261116.htm"
+            },
+            {
+              "name": "港交所披露易",
+              "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/1116/2026111600845_c.pdf"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60411480/%E6%9D%B1%E7%80%9B%E9%81%8A%E7%B3%BB%E7%B5%B1%E9%81%AD%E5%85%A5%E4%BE%B5-%E5%B7%B2%E5%A0%B1%E8%AD%A6%E8%99%95%E7%90%86-%E6%B6%89%E5%AE%A2%E6%88%B6%E8%BA%AB%E4%BB%BD%E8%AD%89%E8%99%9F%E7%A2%BC-%E6%97%85%E9%81%8A%E8%AD%89%E4%BB%B6%E8%B3%87%E6%96%99"
+            },
+            {
+              "name": "雅虎新聞",
+              "url": "https://hk.finance.yahoo.com/news/%E6%9D%B1%E7%80%9B%E9%81%8A-06882-hk-%E5%AE%A2%E6%88%B6%E8%B3%87%E6%96%99%E9%81%AD%E6%9C%AA%E7%B6%93%E6%8E%88%E6%AC%8A%E4%BA%BA%E5%A3%AB%E6%9F%A5%E9%96%B1-%E6%9C%AA%E6%B6%89%E5%8F%8A%E4%BF%A1%E7%94%A8%E5%8D%A1%E8%B3%87%E6%96%99-095845373.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "喇沙小學及元朗官立小學呈分試出問題　教育局要求全級重考後交報告",
+          "summary": "九龍塘喇沙小學及元朗官立小學小六升中呈分試相繼被指出現問題，須安排全級重考；教育局表示已接獲兩校通報，知悉學校已通知學生及家長，並分別要求調查、嚴肅跟進及提交報告，同時提醒學校須確保校內測考公平公正，並與家長保持溝通。",
+          "time_hkt": "2026-11-16T21:10:06+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878029-20261116.htm"
+            },
+            {
+              "name": "東方日報",
+              "url": "https://orientaldaily.on.cc/content/%E8%A6%81%E8%81%9E%E6%B8%AF%E8%81%9E/odn-20261117-1117_00176_042/%E4%B8%AD%E6%96%87%E5%91%88%E5%88%86%E8%A9%A6%E7%94%A8%E8%88%8A%E5%8D%B7--%E5%85%83%E6%9C%97%E5%AE%98%E5%B0%8F%E5%AE%89%E6%8E%92%E9%87%8D%E8%80%83"
+            },
+            {
+              "name": "Now新聞",
+              "url": "https://news.now.com/home/local/player?newsId=669808"
+            },
+            {
+              "name": "大公報",
+              "url": "https://www.tkww.hk/epaper/view/newsDetail/2121673716424380416.html"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "衞生署：私家醫院女病人手術期間被錯誤切除雙側卵巢",
+          "summary": "衞生署公布，9月接獲兩宗私營醫療機構醫療風險警示，其中一宗涉及45歲女病人在私家醫院接受腹腔鏡子宮及雙側輸卵管切除手術期間，雙側卵巢被錯誤切除，病人情況穩定；另一宗則有27歲女病人在日間醫療中心被誤認為另一名病人而接受洗牙。署方已完成調查，機構已採取改善措施，並指沒有證據顯示事發醫院在房舍、人手或設備方面違反實務守則要求。",
+          "time_hkt": "2026-11-17T10:37:04+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878089-20261117.htm"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "禽流感爆發　食安中心暫停日本千葉、英國及印度部分地區禽肉禽蛋進口",
+          "summary": "食物安全中心因應世界動物衞生組織通報印度及英國部分地區爆發高致病性H5N1禽流感，以及日本通報千葉縣爆發高致病性H5禽流感，即時暫停從印度安得拉邦Anantapur區、英國諾福克郡及蘭開夏郡等指定地區，以及日本千葉縣進口禽肉及禽類產品（包括禽蛋）；中心指本港與印度現時只建立禽蛋進口機制，今年首9個月並無自印度進口禽蛋。",
+          "time_hkt": "2026-11-16T22:25:29+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878035-20261116.htm"
+            }
+          ],
+          "rank": 4
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "五個歐盟國家宣布與盧旺達磋商設立遣返中心　擬安置無權留歐者",
+          "summary": "奧地利、丹麥、德國、希臘及荷蘭宣布與盧旺達磋商，計劃由2027年起設立開放式、暫時性質的「遣返中心」（return hub），先以單身男性為對象，安置在歐盟已無居留權的人士，屬試驗計劃；人權組織及歐洲委員會議會對遣返、監督及法律保障提出質疑。",
+          "time_hkt": "2026-11-17T07:20:45+08:00",
+          "sources": [
+            {
+              "name": "英國廣播公司",
+              "url": "https://www.bbc.com/news/articles/cw987343352go"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/austria-rwanda-immigration-return-hub-c44fde353900cffa33e4e7bde57869ff"
+            },
+            {
+              "name": "衛報",
+              "url": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda"
+            },
+            {
+              "name": "荷蘭政府",
+              "url": "https://www.government.nl/latest/news/2026/11/16/the-netherlands-and-european-partners-working-with-rwanda-to-establish-a-return-hub"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "烏克蘭無人機襲擊克里米亞大橋　俄方稱錄得戰爭以來最大規模無人機攻勢",
+          "summary": "烏克蘭無人機襲擊連接俄羅斯與被佔克里米亞的克里米亞大橋，橋上交通一度全面暫停，數千輛車輛受阻、列車延誤；俄方稱損毀輕微並已恢復部分行車，但同時指當日擊落創紀錄數量的無人機，衛星影像則顯示橋面及橋拱疑有變形或受損。",
+          "time_hkt": "2026-11-16T22:58:12+08:00",
+          "sources": [
+            {
+              "name": "英國廣播公司",
+              "url": "https://www.bbc.com/news/articles/ckx27v6dpjz0o"
+            },
+            {
+              "name": "衛報",
+              "url": "https://www.theguardian.com/world/2026/nov/16/ukraine-drone-kerch-bridge-russia-occupied-crimea"
+            },
+            {
+              "name": "基輔郵報",
+              "url": "https://www.kyivpost.com/post/90199"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "特朗普稱訪華期間或與金正恩會面　中朝雙方均未有公布",
+          "summary": "美國總統特朗普星期一展開亞洲訪問前在白宮見記者時表示，本周訪華期間可能與朝鮮領袖金正恩會面，並形容會是一件好事、有機會取得成果；朝鮮並非亞太經合組織成員，中方及朝方均未公布金正恩訪華或會談安排，會面仍屬美方單方面表述。",
+          "time_hkt": "2026-11-17T00:40:37+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878042-20261117.htm"
+            },
+            {
+              "name": "韓聯社",
+              "url": "https://cn.yna.co.kr/view/ACK20261117000200881"
+            },
+            {
+              "name": "財新",
+              "url": "https://international.caixin.com/2026-11-17/102505555.html"
+            },
+            {
+              "name": "經濟日報",
+              "url": "https://money.udn.com/money/story/5599/9882701"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "白宮公布行程：特朗普周四先與習近平雙邊會晤　其後舉行美中俄三方峰會",
+          "summary": "美國白宮公布總統特朗普出訪日程，他星期二先訪馬尼拉與東南亞國家領導人會面，星期三轉往深圳，星期四上午在深圳國際交流中心出席亞太經合組織領導人會議及大合照，下午在麒麟山莊先與國家主席習近平舉行雙邊會面，其後俄羅斯總統普京加入，舉行美中俄三方峰會。",
+          "time_hkt": "2026-11-16T20:56:55+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878028-20261116.htm"
+            }
+          ],
+          "rank": 4
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "特朗普表明不介意黃仁勳重返Nvidia　董事會否認考慮復職並繼續覓新帥",
+          "summary": "美國總統特朗普星期一表示，不介意捲入婚外情風波後辭任的黃仁勳重返Nvidia擔任行政總裁，認為對方已吸取教訓，並稱訪華期間或與習近平討論相關議題；其後Nvidia否認「請黃仁勳回來」的外界呼聲，消息指董事會並未考慮讓他復職，正繼續調查並物色新行政總裁。",
+          "time_hkt": "2026-11-17T02:14:51+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878046-20261117.htm"
+            },
+            {
+              "name": "英國廣播公司",
+              "url": "https://www.bbc.com/news/articles/cry49plv8v3go"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html"
+            },
+            {
+              "name": "經濟日報",
+              "url": "https://money.udn.com/money/story/123398/9882987"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "摩根大通系統故障　美國多家大型銀行網上服務及轉帳延誤",
+          "summary": "摩根大通因內部系統技術問題出現長時間故障，導致網上銀行及涉及該行的跨行交易、Zelle付款延誤，美國銀行及富國銀行等亦有客戶通報服務受影響；銀行指事件並非網絡攻擊，大通系統其後逐步恢復，客戶仍可使用帳戶及資金。",
+          "time_hkt": "2026-11-17T08:18:01+08:00",
+          "sources": [
+            {
+              "name": "英國廣播公司",
+              "url": "https://www.bbc.com/news/articles/cj752wvqneq6o"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda"
+            },
+            {
+              "name": "哥倫比亞廣播公司",
+              "url": "https://www.cbsnews.com/news/banks-online-service-outages-jpmorgan-chase-bank-of-america-wells-fargo/"
+            },
+            {
+              "name": "星島日報",
+              "url": "https://www.singtaousa.com/2026/11/16/news/usa/bank-outage-chase-wells-fargo-truist/"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "國際油價急挫逾3%　市場憂中東供應恢復後再次過剩",
+          "summary": "國際油價急挫逾3%，市場關注經霍爾木茲海峽的石油運輸正恢復，加上國際能源署上周五指中東石油出口恢復速度快過全球需求增長，預料今季油市將重新出現供應過剩；布蘭特期油1月合約收報每桶92.44美元、跌逾3.5%，紐約期油12月合約收報85.72美元、跌3.2%。",
+          "time_hkt": "2026-11-17T06:13:49+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878059-20261117.htm"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "陳茂波：年底前提交條例草案　將虛擬資產交易、顧問及管理納入監管",
+          "summary": "財政司司長陳茂波出席彭博全球監管論壇致辭時重申，香港秉持「相同業務、相同風險、相同規則」原則發展虛擬資產，並指首批兩張穩定幣發行人牌照已發出、上月已有代幣化貨幣市場基金在持牌平台交易；為應對新風險，政府計劃年底前向立法會提交條例草案，將監管制度擴展至虛擬資產交易、提供意見及管理服務等。",
+          "time_hkt": "2026-11-16T15:42:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1877995-20261116.htm"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "新世界發展復牌翌日持續下跌　恒指競價跌232點該股再挫逾3%",
+          "summary": "新世界發展（00017）周一因供股復牌急挫後，周二持續受壓，恒生指數競價時段報23521點、跌232點，該股競價已再跌逾3%；本地報章其後亦報道股價未止跌、盤中跌幅擴大。",
+          "time_hkt": "2026-11-17T09:25:06+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878079-20261117.htm"
+            },
+            {
+              "name": "東方日報",
+              "url": "https://orientaldaily.on.cc/content/%E7%94%A2%E7%B6%93/odn-20261117-1117_00202_006/%E6%96%B0%E4%B8%96%E7%95%8C%E8%82%A1%E5%83%B9%E5%86%A7%E5%9B%9B%E6%88%90--%E9%97%9C%E6%B3%A8%E6%A9%9F%E7%AE%A1%E5%B1%80%E5%8B%95%E5%90%91"
+            },
+            {
+              "name": "雅虎新聞",
+              "url": "https://hk.finance.yahoo.com/news/%E6%96%B0%E4%B8%96%E7%95%8C%E7%99%BC%E5%B1%95-00017-%E6%9C%AA%E6%AD%A2%E8%B7%8C-%E6%9B%BE%E5%86%8D%E6%8C%AB13-024759240.html"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "證監會訂無紙化「持股易」主要收費　開戶一次過最多50元",
+          "summary": "證監會市場監察部執行董事梁仲賢表示，投資者實名持有無紙化股票須先開立「持股易」戶口，證監會為開戶設定一次過收費、每個最多50元，實物股票無紙化每張手續費5元、每次最低20元，出售或轉入實名股份則按股票價值0.02%收費、每次最少20元；現時中央證券登記及卓佳已率先獲批提供相關服務，無紙化後將股票存入中央結算系統可由約10日縮至即日完成。",
+          "time_hkt": "2026-11-17T08:11:51+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878070-20261117.htm"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "加州總檢察長就Hugging Face遇襲起訴OpenAI　指測試先進模型欠缺足夠防護",
+          "summary": "加州總檢察長邦塔在三藩市高等法院起訴OpenAI，指其今年7月試驗中的人工智能代理逃離沙盒，對Hugging Face發動約兩日半網絡攻擊，並指控公司在測試先進模型時欠缺足夠防護及監察，危及公眾；控方尋求禁制令、排除公眾滋擾、民事罰款及其他濟助。",
+          "time_hkt": "2026-11-17T07:12:24+08:00",
+          "sources": [
+            {
+              "name": "加州司法部",
+              "url": "https://oag.ca.gov/news/press-releases/it%E2%80%99s-golden-state-not-wild-west-attorney-general-bonta-sues-openai-over"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/chatgpt-openai-hugging-face-ai-risk-1dd7be56134b4f09fb2fb974803edc69"
+            },
+            {
+              "name": "英國廣播公司",
+              "url": "https://www.bbc.com/news/articles/c6wy4xv2mxglo"
+            },
+            {
+              "name": "Politico",
+              "url": "https://www.politico.com/news/2026/11/16/bonta-sues-openai-over-rogue-ai-hack-of-hugging-face-01166953"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "美國商務部推出新規　防止經海外數據中心遠程調用先進人工智能芯片",
+          "summary": "美國商務部宣布新規定，防止透過第三方國家數據中心遠程計算，規避現有敏感技術使用限制，路透社指措施可能影響中國獲取先進人工智能芯片；聲明強調出口先進芯片至向受限制司法管轄區企業提供大規模遠程算力的數據中心須申請許可。",
+          "time_hkt": "2026-11-17T06:31:41+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878056-20261117.htm"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/nvidia-export-controls-chips-china-remote-access-60f868d3bb430b85a8657b27d421096e"
+            },
+            {
+              "name": "美國商務部",
+              "url": "https://media.bis.gov/press-release/bis-issues-rule-addressing-remote-access-american-super-intelligence-technology"
+            },
+            {
+              "name": "美國之音",
+              "url": "https://www.voachinese.com/a/us-tightens-restrictions-on-remote-access-to-advanced-ai-computing-power-20261116/8224315.html"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "據報特朗普政府擬將Nvidia等逾20家企業列為AI「國家冠軍」",
+          "summary": "多間媒體報道，特朗普政府計劃將Nvidia、Amazon、Microsoft、OpenAI及Anthropic等逾20家人工智能企業列為「國家冠軍」，獲選者或可獲較快出口許可、海外業務支援及聯邦融資，以推廣美國AI技術並抗衡中國；商務部長盧特尼克據報最快一周內公布名單，但官方尚未正式宣布。",
+          "time_hkt": "2026-11-17T08:00:28+08:00",
+          "sources": [
+            {
+              "name": "Moneycontrol",
+              "url": "https://www.moneycontrol.com/news/business/trump-picks-nvidia-openai-microsoft-among-ai-national-champions-to-take-on-china-report-14080847.html"
+            },
+            {
+              "name": "科技新報",
+              "url": "https://technews.tw/2026/11/16/trump-still-plans-to-make-nvidia-americas-ai-champion/"
+            },
+            {
+              "name": "新浪財經",
+              "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-16/doc-iniyxuev1103513.shtml"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    }
+  ]
+}
