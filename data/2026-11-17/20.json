@@ -1,0 +1,285 @@
+{
+  "date": "2026-11-17",
+  "hour": "20",
+  "updatedAt": "2026-11-17T20:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "李家超在深圳APEC工商峰會致辭　稱香港是開拓大灣區的跳板與門戶",
+          "summary": "行政長官李家超今日在深圳出席亞太經合組織工商領導人峰會，表示粵港澳大灣區是開放合作的例子，今年首三季大灣區內地九市與亞太經合組織貿易額約8370億美元、按年增長逾26%，並邀請各經濟體以香港為跳板把握大灣區機遇。",
+          "time_hkt": "2026-11-17T17:30:25+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878149-20261117.htm"
+            },
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202611/17/P2026111700401.htm"
+            },
+            {
+              "name": "商業電台",
+              "url": "https://www.881903.com/news/local/2659929"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60411838/apec%E6%B7%B1%E5%9C%B3%E5%B3%B0%E6%9C%83-%E6%9D%8E%E5%AE%B6%E8%B6%85-%E9%A6%99%E6%B8%AF%E5%8F%AF%E6%88%90%E8%B7%B3%E6%9D%BF-%E5%8D%94%E5%8A%A9%E4%BC%81%E6%A5%AD%E6%8A%8A%E6%8F%A1%E5%A4%A7%E7%81%A3%E5%8D%80%E6%A9%9F%E9%81%87"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "警方接逾40人報案指兩間寄賣店疑拖欠款項　涉款共約1660萬元",
+          "summary": "警方截至下午3時接獲43人報案，指銅鑼灣羅素街「Vootic」及金鐘夏愨道「樂星」兩間二手名牌寄賣店懷疑拖欠寄賣款項，分別涉約1400萬及260萬元、合計逾1660萬元，案件暫列欺詐，由灣仔及中區警區重案組跟進。",
+          "time_hkt": "2026-11-17T18:27:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878160-20261117.htm"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60411627/%E6%A8%82%E6%98%9F-vootic%E7%96%91%E8%B5%B0%E6%95%B8-%E4%BA%8C%E6%89%8B%E5%90%8D%E7%89%8C%E5%BA%97%E9%80%BE40%E4%BA%BA%E5%A0%B1%E8%AD%A6%E6%B6%891660%E8%90%AC-%E9%87%8D%E6%A1%88%E7%B5%84%E8%B7%9F%E9%80%B2"
+            },
+            {
+              "name": "香港文匯報",
+              "url": "https://www.wenweipo.com/a/202611/17/AP6afc2fcfe4b028ec019452b2.html"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "新西蘭進口Homegrown蘋果汁棒曲霉素超標　食安中心指令下架回收",
+          "summary": "食安中心在西營盤批發市場抽取的新西蘭進口Homegrown「100% PURE NZ APPLE JUICE」（1公升裝、最佳食用日期2027年2月11日）樣本，每公斤含79微克棒曲霉素，超出法例上限50微克，進口商已停售下架並回收，中心呼籲市民不要飲用。",
+          "time_hkt": "2026-11-17T17:20:00+08:00",
+          "sources": [
+            {
+              "name": "食物安全中心",
+              "url": "https://www.cfs.gov.hk/tc_chi/press/20261117_12747.html"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878150-20261117.htm"
+            },
+            {
+              "name": "商業電台",
+              "url": "https://www.881903.com/news/local/2659927"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60411910/%E7%B4%90%E8%A5%BF%E8%98%ADhomegrown%E8%98%8B%E6%9E%9C%E6%B1%81%E6%A3%92%E6%9B%B2%E9%9C%89%E7%B4%A0%E5%90%AB%E9%87%8F%E8%B6%85%E6%A8%99-%E9%A3%9F%E5%AE%89%E4%B8%AD%E5%BF%83%E6%8C%87%E4%BB%A4%E4%B8%8B%E6%9E%B6%E5%9B%9E%E6%94%B6"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "港怡醫院有病人接受腎臟替代治療被輸錯電解質劑量　涉事護士已離職",
+          "summary": "衞生署公布有病人在私家醫院接受連續性腎臟替代治療期間被輸入錯誤劑量的濃縮電解質；港怡醫院回覆指當值護士誤調劑量後已立即修正，病人情況穩定，院方已呈報衞生署並向病人解釋，涉事護士已離職。",
+          "time_hkt": "2026-11-17T18:11:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878155-20261117.htm"
+            },
+            {
+              "name": "商業電台",
+              "url": "https://www.881903.com/news/local/2659949"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60411593/%E9%86%AB%E7%99%82%E5%A4%B1%E8%AA%A4-%E7%97%85%E4%BA%BA%E5%81%9A%E8%85%8E%E8%87%9F%E6%9B%BF%E4%BB%A3%E6%B2%BB%E7%99%82%E8%A2%AB%E8%BC%B8%E9%8C%AF%E5%8A%91%E9%87%8F-%E6%B8%AF%E6%80%A1%E7%A8%B1%E6%B6%89%E4%BA%8B%E8%AD%B7%E5%A3%AB%E5%B7%B2%E9%9B%A2%E8%81%B7"
+            }
+          ],
+          "rank": 4
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "克里米亞大橋部分橋面坍塌　澤連斯基稱為「史無前例」行動",
+          "summary": "烏克蘭對連接俄羅斯與佔領下克里米亞的克里米亞大橋（克赤大橋）發動攻擊後，影像顯示公路橋一段拱橋及橋面坍塌入海，澤連斯基稱為籌備數周的「七階段行動」；俄交通部稱道路及鐵路一度暫停、暫無傷亡，克里姆林宮稱將重建。",
+          "time_hkt": "2026-11-17T16:30:00+08:00",
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/cw772jk4rvmxo"
+            },
+            {
+              "name": "聯合新聞網",
+              "url": "https://udn.com/news/story/6809/9884640"
+            },
+            {
+              "name": "紐約時報",
+              "url": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-kyiv-russia-kerch-bridge-crimea.html"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/17/kerch-bridge-ukraine-russia-putin-kyiv.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "特朗普抵達馬尼拉出席東盟峰會　當地反特朗普示威數百人被捕",
+          "summary": "美國總統特朗普今日抵達馬尼拉，準備出席東盟峰會及相關會議；菲律賓多地爆發反對特朗普及「Pax Silica」協議的示威，報道指數以百計人士被捕，抗議者憂慮協議影響主權、環境及原住民權益。",
+          "time_hkt": "2026-11-17T18:13:00+08:00",
+          "sources": [
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/us-president-trump-arrives-in-manila-ahead-of-asean-summit"
+            },
+            {
+              "name": "GMA News",
+              "url": "https://www.gmanetwork.com/news/topstories/nation/1009755/us-president-donald-trump-arrives-in-manila-for-asean-summit/story/"
+            },
+            {
+              "name": "紐約時報",
+              "url": "https://www.nytimes.com/2026/11/17/world/asia/philippines-protest-trump-marcos.html"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "習近平在深圳會見卡尼　中加擴大關稅減免安排延至2028年",
+          "summary": "國家主席習近平在深圳會見加拿大總理卡尼，雙方同意擴大貿易安排：中國將取消約4億加元加拿大凍豬肉及海產的25%關稅，由2027年1月1日起至2028年；加拿大則延長部分中國鋼鋁產品關稅減免，並新增32個稅目。",
+          "time_hkt": "2026-11-17T17:46:00+08:00",
+          "sources": [
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/apec-china-canada-xi-carney-1427deb4175e27c61efec6ee8eef36e8"
+            },
+            {
+              "name": "南華早報",
+              "url": "https://www.scmp.com/news/china/diplomacy/article/3374769/china-and-canada-agree-fresh-tariff-reliefs-thaw-continues-xi-carney-meeting"
+            },
+            {
+              "name": "加拿大總理府",
+              "url": "https://www.pm.gc.ca/en/news/news-releases/2026/11/17/prime-minister-carney-advances-canadas-strategic-partnership-china"
+            },
+            {
+              "name": "中國政府網",
+              "url": "https://www.gov.cn/yaowen/liebiao/202611/content_7086319.htm"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "京東上季盈利按年升逾23%　經調整盈利升近44%",
+          "summary": "京東公布2026年第三季業績，盈利按年升約23%至人民幣65.03億元，經調整盈利升近44%至約83億元，收入升3.5%至約3096億元。",
+          "time_hkt": "2026-11-17T17:47:31+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878154-20261117.htm"
+            },
+            {
+              "name": "東網",
+              "url": "https://hk.on.cc/hk/bkn/cnt/finance/20261117/bkn-20261117174731039-1117_00842_001.html"
+            },
+            {
+              "name": "GlobeNewswire",
+              "url": "https://www.globenewswire.com/news-release/2026/11/17/3404344/0/en/jd-com-announces-third-quarter-2026-results.html"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "港股低收245點　金融及科技股受壓　晶片股逆市反彈",
+          "summary": "恒生指數今日收報23508點，跌245點或1.03%，主板成交約1981億元；阿里巴巴及百度跌逾5%、騰訊跌近4%，滙控等金融股下挫，中芯及華虹則分別升近7%及近8%。",
+          "time_hkt": "2026-11-17T16:16:16+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878139-20261117.htm"
+            },
+            {
+              "name": "新城電台",
+              "url": "https://www.metroradio.com.hk/News/details.aspx?CategoryName=finance&NewsId=20261117161616"
+            },
+            {
+              "name": "新華網",
+              "url": "https://www.news.cn/fortune/20261117/51ced06799a3419c9d6ccaf227292cc5/c.html"
+            },
+            {
+              "name": "英文虎報",
+              "url": "https://www.thestandard.com.hk/finance/article/348767/Hang-Seng-falls-245-points-on-Tuesday-Alibaba-Baidu-down-5-percent"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "本港最新失業率回落至3.8%　失業人數減少約4500人",
+          "summary": "政府統計處公布，經季節性調整的失業率由7月至9月的3.9%下跌至8月至10月的3.8%，就業不足率維持2.0%，失業人數減少約4500人至15.05萬人；勞工及福利局局長孫玉菡稱近月勞工市場大致平穩。",
+          "time_hkt": "2026-11-17T16:30:00+08:00",
+          "sources": [
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202611/17/P2026111700264.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878142-20261117.htm"
+            },
+            {
+              "name": "香港政府新聞網",
+              "url": "https://www.news.gov.hk/chi/2026/11/20261117/20261117_163139_927.html"
+            },
+            {
+              "name": "南華早報",
+              "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3374748/hong-kongs-unemployment-rate-dips-38-amid-steady-growth"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "美國證實調查新加坡企業Megaspeed　涉嫌將Nvidia芯片轉運中國",
+          "summary": "美國司法部及商務部發表聯合聲明，證實自2024年起調查總部在新加坡的Megaspeed，懷疑其違反出口管制、協助將Nvidia先進人工智能芯片轉運至中國；商務部2025年6月曾聯同新加坡當局實地檢查，目前未有提出控罪，公司否認違法。",
+          "time_hkt": "2026-11-17T19:17:32+08:00",
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/cmn504nq5033o"
+            },
+            {
+              "name": "南華早報",
+              "url": "https://www.scmp.com/tech/tech-war/article/3374742/us-details-criminal-probe-nvidia-customer-megaspeed-over-potential-chip-diversion"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/17/megaspeed-investigation-nvidia-jensen-huang.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
