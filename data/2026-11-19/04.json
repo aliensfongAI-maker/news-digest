@@ -1,0 +1,37 @@
+{
+  "date": "2026-11-19",
+  "hour": "04",
+  "updatedAt": "2026-11-19T04:15:00+08:00",
+  "sections": [
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "聯儲局公布10月會議紀要　幾乎所有委員認為應再加息並警示人工智能風險",
+          "summary": "聯儲局星期三公布10月27至28日議息會議紀要，顯示當時以10票對2票把聯邦基金利率目標區間維持在3.75厘至4厘，但幾乎所有與會者認為，為使通脹及時回到2%目標，進一步加息很可能是合適的；紀要指與人工智能相關的需求是重大通脹風險，多數委員並關注人工智能相關債務快速擴張及不透明融資結構或威脅金融穩定，亦有個別委員提到12月會議或需更大幅度加息。",
+          "time_hkt": "2026-11-19T03:00:00+08:00",
+          "sources": [
+            {
+              "name": "美國聯儲局",
+              "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html"
+            },
+            {
+              "name": "紐約時報",
+              "url": "https://www.nytimes.com/2026/11/18/business/federal-reserve-rate-increase-october-meeting.html"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/federal-reserve-inflation-rates-9e72f3b6e3484173471cc382d6918de0"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
