@@ -1,0 +1,61 @@
+{
+  "date": "2026-11-18",
+  "hour": "08",
+  "updatedAt": "2026-11-18T08:15:00+08:00",
+  "sections": [
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "Nvidia上季業績勝預期　董事會表明不打算讓黃仁勳復任行政總裁",
+          "summary": "Nvidia公布2027財政年度第三季收入1158億美元，按年升103%，高於市場預期約1091億美元，並預測第四季收入約1300億美元，假設不包括中國數據中心計算收入；董事會主席瓊斯在業績電話會議上表明，董事會一致接受黃仁勳辭職，不打算讓他復任行政總裁，收市後股價一度升約4%至5%。",
+          "time_hkt": "2026-11-18T05:45:13+08:00",
+          "sources": [
+            {
+              "name": "Nvidia",
+              "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/en/component/k2/1878218-20261118.htm"
+            },
+            {
+              "name": "南華早報",
+              "url": "https://www.scmp.com/news/world/united-states-canada/article/3374805/nvidia-results-beat-expectations-ousted-ceo-huang-told-no-way-back"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "美股收市下跌　道指跌848點　納指曾失守24000點",
+          "summary": "投資者在Nvidia業績公布前態度審慎，道瓊斯指數收市跌848點或1.6%報50759點，盤中最多曾跌逾1040點並創逾5個月收市新低，標普500指數跌1%報7340點，納斯達克指數跌0.7%報24328點，盤中一度失守24000點。",
+          "time_hkt": "2026-11-18T05:00:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878211-20261118.htm"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-ff6caef4d9289cf7f1e6ee48a706eddc"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    }
+  ]
+}
