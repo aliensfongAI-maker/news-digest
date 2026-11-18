@@ -1,0 +1,151 @@
+{
+  "date": "2026-11-18",
+  "hour": "20",
+  "updatedAt": "2026-11-18T20:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "蔡天鳳案｜鄺球稱處理屍體時接近「精神崩潰」　多次以「不記得」回應提問",
+          "summary": "蔡天鳳案在高等法院續審，第二被告鄺球就肢解過程多次以「不記得」回應控方提問，稱當時精神狀況接近崩潰，並否認在2023年2月21日當晚切割，指是翌日才進行；他又承認叫鄺港傑幫忙將載有屍體的膠箱搬入屋屬於非法行為，並稱單位內的青紅蘿蔔是用來餵飼流浪貓狗。",
+          "time_hkt": "2026-11-18T17:42:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878321-20261118.htm"
+            },
+            {
+              "name": "東網",
+              "url": "https://hk.on.cc/hk/bkn/cnt/news/20261118/bkn-20261118184000684-1118_00822_001.html"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60412320/%E8%94%A1%E5%A4%A9%E9%B3%B3%E6%A1%88-%E9%84%BA%E7%90%83%E7%A8%B1%E8%99%95%E7%90%86%E5%B1%8D%E9%AB%94%E6%99%82%E7%B2%BE%E7%A5%9E%E7%8B%80%E6%B3%81%E5%B4%A9%E6%BD%B0%E5%92%81%E6%BB%AF-%E8%A6%8B%E5%88%B0%E4%B9%9C%E5%92%AA%E6%8F%BC%E8%90%BD%E5%8E%BB%E7%85%B2"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "盧寵茂稱公營醫療收費改革後　逾25萬人獲批全額醫療費用減免",
+          "summary": "醫務衞生局局長盧寵茂在立法會表示，公營醫療收費改革實施後，獲批全額醫療費用減免的人數由以往全年少於1.4萬人增至超過25萬人，今年首十個月減免金額約9億元；他又指次緊急及非緊急急症室個案較去年同期減少，全年收費上限1萬元機制已有超過2.4萬名病人獲批，免收費用約2億元。",
+          "time_hkt": "2026-11-18T16:36:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878308-20261118.htm"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1207059-%E5%85%AC%E7%87%9F%E9%86%AB%E7%99%82%E6%94%B6%E8%B2%BB%E6%94%B9%E9%9D%A9%E5%AF%A6%E6%96%BD%E8%BF%91%E4%B8%80%E5%B9%B4%E9%80%BE25%E8%90%AC%E4%BA%BA%E7%8D%B2%E6%89%B9%E5%85%A8%E9%A1%8D%E9%86%AB%E7%99%82%E8%B2%BB%E7%94%A8%E6%B8%9B%E5%85%8D"
+            },
+            {
+              "name": "新城電台",
+              "url": "https://www.metroradio.com.hk/News/details.aspx?CategoryName=&NewsId=20261118170824"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "深圳APEC｜習近平親赴深圳機場迎接特朗普　屬1980年以來中國元首首次接機",
+          "summary": "美國總統特朗普於下午約4時42分乘專機抵達深圳寶安國際機場，國家主席習近平親赴停機坪迎接，兩人握手並相擁，是中國自1980年以來首次由最高領導人親自到機場迎接外國元首，被視為對特朗普今年9月親赴機場迎接習近平的對等禮遇；特朗普其後出席歡迎宴會，並將於周四與習近平會談及參加中美俄三方會晤。",
+          "time_hkt": "2026-11-18T16:42:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878318-20261118.htm"
+            },
+            {
+              "name": "BBC中文",
+              "url": "https://www.bbc.com/zhongwen/articles/cjy5xkw9g1zpo/trad"
+            },
+            {
+              "name": "新華社",
+              "url": "https://www.news.cn/world/20261118/eeacd5c8d9c84ce7bf729c90f440cc24/c.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "港股低收213點報23294　京東系績後受壓",
+          "summary": "恒生指數連續第二日下跌，最多曾跌300點，收市報23294.75點，跌213.42點或0.91%，主板成交額近1772億元；恒生科技指數跌0.58%，京東集團收市跌逾7%、京東健康急跌逾15%，同為表現最差的恒指及科指成份股。",
+          "time_hkt": "2026-11-18T16:10:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878307-20261118.htm"
+            },
+            {
+              "name": "東方財富",
+              "url": "https://finance.eastmoney.com/a/202611183933983998.html"
+            },
+            {
+              "name": "鉅亨網",
+              "url": "https://news.cnyes.com/news/id/6666310"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "騰訊上季經調整盈利按年跌6%　資本開支急升逾五倍、自由現金流轉負",
+          "summary": "騰訊公布第三季業績，非國際財務報告準則經調整盈利665億元人民幣，按年下跌6%；收入2073億元，升8%但遜於市場預期；資本開支814億元按年急升527%，自由現金流錄得負691億元，主要用於人工智能及計算基礎設施投入。",
+          "time_hkt": "2026-11-18T17:49:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878313-20261118.htm"
+            },
+            {
+              "name": "南華早報",
+              "url": "https://www.scmp.com/tech/big-tech/article/3374902/tencent-profit-dips-sixfold-increase-ai-infrastructure-spending-sacrifices-margin"
+            },
+            {
+              "name": "騰訊",
+              "url": "https://www.tencent.com/wp-content/uploads/2026/11/Tencent-Announces-2026-Third-Quarter-Results.pdf"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "《俠盜獵車手VI》展開全球發行　紐西蘭率先解鎖，早期評測近乎滿分",
+          "summary": "相隔13年的《俠盜獵車手VI》展開全球分時區發行，紐西蘭於格林尼治時間11時（香港時間19時）率先解鎖，成為全球首批可遊玩的地區；早期評測平均分在Metacritic上達99分，IGN給予10分滿分。",
+          "time_hkt": "2026-11-18T19:00:00+08:00",
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/live/c60rkg21dl22t"
+            },
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/entertainment/1035847/grand-theft-auto-6-launch-review-news"
+            },
+            {
+              "name": "The Guardian",
+              "url": "https://www.theguardian.com/games/2026/nov/18/grand-theft-auto-vi-gta-6-review-playstation-rockstar"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
