@@ -1,0 +1,101 @@
+{
+  "date": "2026-11-18",
+  "hour": "12",
+  "updatedAt": "2026-11-18T12:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "港鐵港大站附近信號故障　港島綫早上高峰受阻約兩小時後恢復",
+          "summary": "港鐵表示，今早約8時45分香港大學站附近出現信號設備故障，港島綫列車需慢駛，整體行車時間一度額外延長5至8分鐘，北角站等地出現人潮，至約10時30分修復後列車服務陸續恢復正常。",
+          "time_hkt": "2026-11-18T08:54:17+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878251-20261118.htm"
+            },
+            {
+              "name": "英文虎報",
+              "url": "https://www.thestandard.com.hk/news/article/348832/Island-Line-services-resume-after-nearly-two-hour-signal-fault-near-HKU-Station"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "蔡天鳳案｜鄺球認對肢解負全責　稱絕無計劃殺害蔡天鳳",
+          "summary": "蔡天鳳碎屍案在高等法院續審第40日，第二被告鄺球作供時同意對切割蔡天鳳屍體負全責、與兩名兒子無關，並稱絕對沒有計劃殺死蔡天鳳。",
+          "time_hkt": "2026-11-18T10:42:45+08:00",
+          "sources": [
+            {
+              "name": "星島頭條",
+              "url": "https://www.stheadline.com/society/3638378/%E8%94%A1%E5%A4%A9%E9%B3%B3%E7%A2%8E%E5%B1%8D%E6%A1%88%E9%84%BA%E7%90%83%E8%AA%8D%E5%B0%8D%E8%94%A1%E5%A4%A9%E9%B3%B3%E8%A2%AB%E8%82%A2%E8%A7%A3%E8%B2%A0%E5%85%A8%E8%B2%AC-%E7%A8%B1%E8%88%87%E4%BB%BB%E4%BD%95%E4%BA%BA%E5%9D%87%E7%84%A1%E8%A8%88%E5%8A%83%E6%AE%BA%E5%AE%B3%E8%94%A1"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878260-20261118.htm"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "深圳APEC｜習近平出席工商領導人峰會發表主旨演講　提出建設亞太共同體",
+          "summary": "國家主席習近平上午在深圳前海國際會議中心出席亞太經合組織工商領導人峰會開幕式，並發表題為《堅定信心，勇毅前行 共創亞太光明未來》的主旨演講，提出維護和平穩定、搭建開放合作橋樑、激發創新增長動力及拓展互利共贏路徑等主張，並表明中方支持成立世界灣區經濟合作聯盟，又稱中國「十五五」開局良好，將為亞太以至全球經濟增長提供機遇。",
+          "time_hkt": "2026-11-18T10:04:07+08:00",
+          "sources": [
+            {
+              "name": "新華社",
+              "url": "https://www.news.cn/20261118/75e7b04bb69740e0a919baea491190e9/c.html"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878245-20261118.htm"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "恒指低開79點報23428　其後跌約1%　京東早盤跌近8%",
+          "summary": "港股延續跌勢，恒生指數開市報23428點，跌79點或0.34%，恒生科技指數開市報3751點，跌6點或0.18%；其後跌幅擴大，至上午11時前後見約23273點、跌約1%，京東集團開市跌逾4%，早盤一度跌近8%。",
+          "time_hkt": "2026-11-18T09:20:11+08:00",
+          "sources": [
+            {
+              "name": "東網",
+              "url": "https://hk.on.cc/hk/bkn/cnt/finance/20261118/bkn-20261118092011517-1118_00842_001.html"
+            },
+            {
+              "name": "巴士的報",
+              "url": "https://www.bastillepost.com/hongkong/article/17204927/"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878238-20261118.htm"
+            },
+            {
+              "name": "香港商報",
+              "url": "https://hkcd.com/hkcdweb/content/2026/11/18/content_8785915.html"
+            },
+            {
+              "name": "每日經濟新聞",
+              "url": "https://www.nbd.com.cn/articles/2026-11-18/4651105.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
