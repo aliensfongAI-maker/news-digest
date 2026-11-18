@@ -1,0 +1,159 @@
+{
+  "date": "2026-11-18",
+  "hour": "16",
+  "updatedAt": "2026-11-18T16:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "中大醫院行政總裁就錯誤切除卵巢致歉　稱涉事醫生手術時「失神」",
+          "summary": "中大醫院行政總裁鍾健禮就45歲女病人在腹腔鏡子宮及雙側輸卵管切除手術期間被錯誤切除雙側卵巢一事，向病人及家屬致歉，指涉事合約婦產科醫生經驗豐富，但當時沒有留意病人選擇保留卵巢的方案而「失神」，已承認錯誤；院方表示會按人事程序追究責任，病人情況穩定並獲免費治療及跟進。",
+          "time_hkt": "2026-11-18T14:24:41+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878292-20261118.htm"
+            },
+            {
+              "name": "香港經濟日報",
+              "url": "https://news.hket.com/article/4226953/%E4%B8%AD%E5%A4%A7%E9%86%AB%E9%99%A2%EF%BD%9C%E8%AA%A4%E5%88%8745%E6%AD%B2%E5%A5%B3%E5%8D%B5%E5%B7%A2%E3%80%80%E8%A1%8C%E6%94%BF%E7%B8%BD%E8%A3%81%E9%8D%BE%E5%81%A5%E7%A6%AE%E8%87%B4%E6%AD%89%EF%BC%9A%E6%B6%89%E4%BA%8B%E9%86%AB%E7%94%9F%E7%B6%93%E9%A9%97%E8%B1%90%E5%AF%8C%E6%83%9F%E9%80%B2%E8%A1%8C%E6%89%8B%E8%A1%93%E6%99%82%E3%80%8C%E5%A4%B1%E7%A5%9E%E3%80%8D"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1207035-%E4%B8%AD%E5%A4%A7%E9%86%AB%E9%99%A2%E5%B0%B1%E5%A5%B3%E7%97%85%E4%BA%BA%E8%A2%AB%E9%8C%AF%E8%AA%A4%E5%88%87%E9%99%A4%E9%9B%99%E5%81%B4%E5%8D%B5%E5%B7%A2%E8%87%B4%E6%AD%89"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "蔡天鳳案｜鄺球否認兒子依靠蔡天鳳維生　稱「講事實而非講故仔」",
+          "summary": "蔡天鳳案續審，第二被告鄺球作供時承認曾稱蔡天鳳為「生仔機器」，並不同意鄺港智依靠蔡天鳳維生，形容其角色如「banker」；他又稱曾為鄺港智涉及的盜竊案透過律師向受害人還款600多萬元，被問到是否知道「講好故仔有價值」時否認，強調自己「講事實而非講故仔」。",
+          "time_hkt": "2026-11-18T14:52:24+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878296-20261118.htm"
+            },
+            {
+              "name": "星島頭條",
+              "url": "https://www.stheadline.com/society/3638431/%E8%94%A1%E5%A4%A9%E9%B3%B3%E7%A2%8E%E5%B1%8D%E6%A1%88%E9%84%BA%E7%90%83%E7%A8%B1%E5%B0%8D%E5%85%A9%E5%AD%90%E4%B8%80%E8%A6%96%E5%90%8C%E4%BB%81-%E5%90%A6%E8%AA%8D%E8%88%87%E9%84%BA%E6%B8%AF%E6%99%BA%E4%B8%8D%E5%92%8C-%E6%9B%BE%E7%82%BA%E5%B9%BC%E5%AD%90%E9%82%84%E6%AC%BE600%E8%90%AC%E5%85%83"
+            },
+            {
+              "name": "都市日報",
+              "url": "https://metrohk.com.hk/%E6%B8%AF%E8%81%9E/%E9%84%BA%E7%90%83%E5%BA%AD%E4%B8%8A%E5%90%A6%E8%AA%8D%E5%85%92%E5%AD%90%E4%BE%9D%E8%B3%B4%E8%94%A1%E5%A4%A9%E9%B3%AF%E7%B6%AD%E7%94%9F-396c9d"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "政府確認本月初咪錶故障不涉資料外洩　營辦商承諾賠償約130萬元",
+          "summary": "運輸及物流局局長陳美寶在立法會表示，本月3日早上咪錶泊車系統故障，源於營辦商清晨軟件更新出現程式缺陷，導致後台未能與咪錶連接；政府確認事件並非硬件故障、網絡受破壞或黑客攻擊，亦不涉及個人或支付資料外洩，營辦商已安排退還事故期間收費，並承諾向政府賠償約130萬元。",
+          "time_hkt": "2026-11-18T14:58:38+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878297-20261118.htm"
+            },
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202611/18/P2026111800154.htm"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "深圳APEC｜習近平中午會見普京　雙方將於周四與特朗普舉行三方會晤",
+          "summary": "國家主席習近平中午在深圳會見來華出席亞太經合組織領導人非正式會議的俄羅斯總統普京；港台引述報道指這是兩人今年第五次會面，聯合早報引述報道指雙方其後共進工作午餐。普京在會談中表示，俄中外交協作穩定且積極運行，雙邊貿易額連續幾年大幅超過2000億美元，並期待周四與習近平及美國總統特朗普舉行的三方會晤能帶來潛在益處。",
+          "time_hkt": "2026-11-18T12:03:32+08:00",
+          "sources": [
+            {
+              "name": "新華社",
+              "url": "https://www.news.cn/politics/leaders/20261118/6f518fbc55ff4d43a42cbfe177a6f1d1/c.html"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878276-20261118.htm"
+            },
+            {
+              "name": "香港電台（英文）",
+              "url": "https://news.rthk.hk/rthk/en/component/k2/1878287-20261118.htm"
+            },
+            {
+              "name": "聯合早報",
+              "url": "https://www.zaobao.com.sg/news/china/story20261118-10018127"
+            },
+            {
+              "name": "衛報",
+              "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "英國10月通脹升至3.6%　汽油及柴油價格上漲成主因",
+          "summary": "英國國家統計局公布，消費物價指數在10月按年上升3.6%，高於9月的3.5%，主要受汽油及柴油價格上漲帶動；汽油每公升較9月上升5.2便士、平均價達174.7便士，為2022年8月以來最高，柴油平均價199.5便士更創有紀錄以來新高，英倫銀行本月已將利率由3.75%上調至4%。",
+          "time_hkt": "2026-11-18T15:01:09+08:00",
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo"
+            },
+            {
+              "name": "衛報",
+              "url": "https://www.theguardian.com/business/2026/nov/18/uk-inflation-rises-energy-prices-iran-war-oil"
+            },
+            {
+              "name": "華爾街日報",
+              "url": "https://www.wsj.com/economy/central-banking/u-k-inflation-rises-as-energy-costs-keep-pressure-on-bank-of-england-68f3edbb"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "港股半日跌266點　午後跌幅擴大　京東系股份急挫",
+          "summary": "恒生指數中午報23241點，跌266點或1.1%，主板成交額約869億元，恒生科技指數半日跌近1.5%；京東系績後急挫，京東集團半日跌約8%，京東健康跌近18%，京東物流跌逾4%，午後初段恒指較早時報23232點、跌275點或約1.2%。",
+          "time_hkt": "2026-11-18T12:16:46+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878268-20261118.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878281-20261118.htm"
+            },
+            {
+              "name": "英文虎報",
+              "url": "https://www.thestandard.com.hk/finance/article/348843/Hang-Seng-Index-falls-at-noon-on-Wednesday"
+            },
+            {
+              "name": "巴士的報",
+              "url": "https://www.bastillepost.com/hongkong/article/17206410-%e5%8d%8a%e5%86%8d%e6%94%b6%e5%b8%82%ef%b8%b1%e8%a3%82%e5%8f%a3%e5%86%8d%e8%b7%8c-%e6%81%92%e6%8c%87%e5%8d%8a%e6%97%a5%e6%8c%ab266%e9%bb%9e%e5%a0%b123241%e9%bb%9e-%e4%ba%ac%e6%9d%b1%e7%b3%bb3"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
