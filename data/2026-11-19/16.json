@@ -1,0 +1,197 @@
+{
+  "date": "2026-11-19",
+  "hour": "16",
+  "updatedAt": "2026-11-19T16:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "警打擊電騙及洗黑錢拘123人　搗破紅磡及觀塘兩個工廈詐騙中心",
+          "summary": "警方在一項約兩星期的行動中拘捕123人，偵破108宗電話騙案，涉款約6800萬元，並搗破紅磡及觀塘工廈內的詐騙電話操作中心、檢獲「貓池」電話卡裝置；警方指本港今年首三季電話騙案近1萬宗、損失約19億元，又以涉嫌串謀詐騙、以欺騙手段取得財產及洗黑錢等罪名拘捕被捕人士。",
+          "time_hkt": "2026-11-19T12:32:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878418-20261119.htm"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60412547/%E8%AD%A6%E6%90%97%E8%A7%80%E5%A1%98%E7%B4%85%E7%A3%A1%E5%B7%A5%E5%BB%88%E8%A9%90%E9%A8%99%E4%B8%AD%E5%BF%83%E6%AA%A2%E8%B2%93%E6%B1%A0%E6%A9%9F-%E7%A0%B4%E7%99%BE%E5%AE%97%E6%A1%88%E6%8B%98123%E4%BA%BA-%E6%B6%89-6800%E8%90%AC"
+            },
+            {
+              "name": "南華早報",
+              "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3375033/hong-kong-police-arrest-123-and-uncover-108-cases-anti-fraud-operation"
+            },
+            {
+              "name": "文匯報",
+              "url": "https://www.wenweipo.com/a/202611/19/AP6afe95fce4b028ec0194ab7b.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "深圳APEC｜李家超稱會面的東盟領導人支持香港盡快加入RCEP",
+          "summary": "行政長官李家超在深圳出席亞太經合組織會議期間，先後與馬來西亞、越南、汶萊、泰國及智利等成員經濟體領導人會談，並表示與他會面的東盟成員領導人均支持香港盡快加入《區域全面經濟夥伴關係協定》（RCEP）；他指RCEP已於今年9月成立加入工作組，啟動包括香港在內的申請經濟體加入程序。",
+          "time_hkt": "2026-11-19T13:36:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878430-20261119.htm"
+            },
+            {
+              "name": "信報",
+              "url": "https://www.hkej.com/features/article/%E7%81%A3%E5%8D%80%E5%8B%95%E5%90%91/1694984027/%E6%B7%B1%E5%9C%B3APEC%E4%B8%A8%E6%9D%8E%E5%AE%B6%E8%B6%85%E6%99%A4%E5%A4%9A%E5%9C%8B%E9%A0%98%E8%A2%96+%E6%84%9F%E8%AC%9D%E6%94%AF%E6%8C%81%E9%A6%99%E6%B8%AF%E7%9B%A1%E6%97%A9%E5%8A%A0%E5%85%A5RCEP"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "深圳APEC｜李家超與習近平短暫交流　談大灣區機遇及香港優勢",
+          "summary": "正在深圳出席亞太經合組織會議的行政長官李家超表示，期間與國家主席習近平作短暫交流，介紹工商領導人峰會上有關大灣區發展的討論，並指與會者認同粵港澳大灣區發展潛力龐大；他向習近平表明，香港會繼續用好「一國兩制」下「內聯外通」優勢，發揮超級聯繫人及超級增值人角色。",
+          "time_hkt": "2026-11-19T13:53:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878433-20261119.htm"
+            },
+            {
+              "name": "南華早報",
+              "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3375026/greater-bay-area-potential-enormous-john-lee-tells-xi-apec-ceo-summit"
+            },
+            {
+              "name": "聯合早報",
+              "url": "https://www.zaobao.com.sg/news/china/story20261119-10024351"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "深圳APEC｜習近平在麒麟山莊會見特朗普　會談約一小時",
+          "summary": "國家主席習近平今日下午在深圳麒麟山莊會見來華出席亞太經合組織會議的美國總統特朗普，會談約一小時，是兩人今年內第三次會晤；特朗普稱雙方已設立貿易委員會並同意300億美元對等降稅，又提到霍爾木茲海峽能源通道、伊朗不得擁有核武器及芬太尼等議題，習近平則表示中美關係整體穩定並持續改善，願共同引領雙邊關係走在正確軌道上。",
+          "time_hkt": "2026-11-19T14:35:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878444-20261119.htm"
+            },
+            {
+              "name": "亞洲新聞台",
+              "url": "https://www.channelnewsasia.com/east-asia/xi-trump-bilateral-talks-apec-shenzhen-6564771"
+            },
+            {
+              "name": "安納多盧通訊社",
+              "url": "https://www.aa.com.tr/en/asia-pacific/trump-touts-outstanding-personal-relationship-with-xi-at-meeting-in-shenzhen-china/4129955"
+            },
+            {
+              "name": "新華社",
+              "url": "https://www.news.cn/20261119/173a745cb53f4b049625d806dcbe0229/c.html"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/19/trump-xi-putin-china-apec-.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "深圳APEC｜特朗普與普京會晤約35至40分鐘　討論烏克蘭及三方峰會籌備",
+          "summary": "美國總統特朗普與俄羅斯總統普京在深圳國際交流中心會晤，是兩人自去年8月阿拉斯加峰會以來首次面對面接觸；克里姆林宮助理烏沙科夫稱會晤約35至40分鐘，討論俄美雙邊關係、烏克蘭問題及中美俄三方峰會籌備，並指普京會後心情很好。",
+          "time_hkt": "2026-11-19T14:18:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878440-20261119.htm"
+            },
+            {
+              "name": "安納多盧通訊社",
+              "url": "https://www.aa.com.tr/en/eurasia/ukraine-war-russia-us-ties-discussed-during-putin-trump-talks-in-china-kremlin-aide/4129994"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/19/trump-xi-putin-china-apec-.html"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "台股收市急挫4.4%　加權指數跌1768點失守4萬點",
+          "summary": "台灣股市周四收市急挫，加權指數收報38426點，跌1768點、跌幅4.4%，失守4萬點水平。",
+          "time_hkt": "2026-11-19T14:41:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878442-20261119.htm"
+            },
+            {
+              "name": "經濟日報",
+              "url": "https://money.udn.com/money/story/5607/9888887"
+            },
+            {
+              "name": "工商時報",
+              "url": "https://www.ctee.com.tw/news/20261119701355-430201"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "聯想集團中期盈轉虧　核心盈利升1.7倍　午後股價一度挫逾13%",
+          "summary": "聯想集團截至9月底止中期業績由盈轉虧，股東應佔虧損12.5億美元，主要受認股權證非現金公允值虧損近36億美元拖累；撇除相關項目後經調整盈利24.4億美元、按年升1.7倍，上半年收入升46%至571.8億美元創新高，午後股價一度急挫逾13%，其後收窄至約10%。",
+          "time_hkt": "2026-11-19T14:28:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878437-20261119.htm"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60412619/%E8%81%AF%E6%83%B3%E4%B8%8A%E5%AD%A3%E7%B6%93%E8%AA%BF%E6%95%B4%E8%B3%BA1-7%E5%80%8D-%E6%83%9F%E8%82%A1%E6%9D%B1%E6%87%89%E4%BD%94%E7%9B%88%E8%BD%89%E8%99%A7%E6%90%8D98%E5%84%84-%E8%82%A1%E5%83%B9%E6%80%A5%E7%80%8913"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "國際能源署：數據中心碳排放2030年料升七成　主因美中以化石燃料支援人工智能",
+          "summary": "國際能源署在《世界能源展望2026》警告，全球數據中心用電到2030年料將倍增，其中四分三增長來自人工智能擴張；若美國和中國繼續以化石燃料發電支援有關需求，數據中心相關二氧化碳排放在四年內料將上升70%。",
+          "time_hkt": "2026-11-19T13:00:00+08:00",
+          "sources": [
+            {
+              "name": "衞報",
+              "url": "https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns"
+            },
+            {
+              "name": "國際能源署",
+              "url": "https://www.iea.org/reports/world-energy-outlook-2026"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
