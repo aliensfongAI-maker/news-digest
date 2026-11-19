@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-20",
+  "hour": "04",
+  "updatedAt": "2026-11-20T04:15:00+08:00",
+  "sections": [
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "Anthropic上市首日開市升34%　市值約2.01萬億美元　美股其後由升轉跌、道指跌822點",
+          "summary": "人工智能公司Anthropic（股票代號ANT）周四近中午在納斯達克展開上市首日交易，開市報111.5美元，較發行價83美元升34%，開市市值約2.01萬億美元，其後升幅收窄至約17%；美股三大指數在該股開市後由早段升勢轉跌，截至美東時間下午2時38分，道瓊斯指數跌822點或1.6%，標普500指數及納斯達克指數均跌1.4%，市場指投資者趁人工智能上市里程碑獲利回吐。",
+          "time_hkt": "2026-11-20T03:38:00+08:00",
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/anthropic-ipo-nasdaq-ai-b6a74b8949021207dc162fcc876c4649"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/stocks-markets-ai-us-anthropic-206c84045137824feabe052a29ff6140"
+            },
+            {
+              "name": "衞報",
+              "url": "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo"
+            },
+            {
+              "name": "Yahoo Finance",
+              "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-live-141306032.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
