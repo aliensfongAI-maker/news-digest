@@ -1,0 +1,57 @@
+{
+  "date": "2026-11-19",
+  "hour": "08",
+  "updatedAt": "2026-11-19T08:15:00+08:00",
+  "sections": [
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "Anthropic上市定價每股83美元　高於預期區間，集資813億美元",
+          "summary": "人工智能公司Anthropic星期三將首次公開招股定價為每股83美元，高於上星期預定的70至78美元區間，並擴大發行規模至約9.80億股，集資813億美元；股份將於星期四以代號「ANT」在納斯達克掛牌，按發行價計市值超過原先目標的1.4萬億美元，CNBC指集資額超越SpaceX今年6月IPO最初集資750億美元的紀錄。",
+          "time_hkt": "2026-11-19T05:39:15+08:00",
+          "sources": [
+            {
+              "name": "衞報",
+              "url": "https://www.theguardian.com/technology/2026/nov/18/anthropic-share-price-stock-market-ipo"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"
+            },
+            {
+              "name": "紐約時報",
+              "url": "https://www.nytimes.com/2026/11/18/technology/anthropic-ipo-pricing.html"
+            },
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "美股收市個別發展　道指跌561點創逾5個月新低，納指反彈逾0.4%",
+          "summary": "美股星期三收市個別發展，道琼斯指數收報50198點，跌561點或1.1%，連跌3日並創逾5個月新低；標普500指數收報7323點，跌16點，連跌5日；納斯達克指數則反彈，收報24429點，升101點或逾0.4%。Nvidia股價再跌近3%，連跌5個交易日，較10月初收市高位累計回吐約37%。",
+          "time_hkt": "2026-11-19T05:00:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878364-20261119.htm"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    }
+  ]
+}
