@@ -1,0 +1,205 @@
+{
+  "date": "2026-11-19",
+  "hour": "20",
+  "updatedAt": "2026-11-19T20:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "逾300人報案稱被兩寄賣店拖欠寄賣款項　涉款共4190萬元",
+          "summary": "截至下午6時，警方接獲超過300人報案，指銅鑼灣羅素街及中區夏愨道兩間寄賣店懷疑拖欠寄賣款項，涉款共約4190萬元，其中羅素街店鋪有207人報案、涉約3000萬元，夏愨道店鋪有96人報案、涉約1190萬元。",
+          "time_hkt": "2026-11-19T19:11:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878485-20261119.htm"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60412843/%E6%A8%82%E6%98%9F-vootic%E7%96%91%E8%B5%B0%E6%95%B8-%E5%A2%9E%E8%87%B3303%E4%BA%BA%E5%A0%B1%E6%A1%88-%E6%B6%89%E6%AC%BE%E9%81%94-4190%E8%90%AC"
+            },
+            {
+              "name": "文匯報",
+              "url": "https://www.wenweipo.com/a/202611/19/AP6afed7c7e4b028ec0194b857.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "深圳APEC｜李家超晤黃循財　感謝新加坡支持香港加入RCEP",
+          "summary": "行政長官李家超在深圳出席亞太經合組織會議期間與新加坡總理黃循財會面，感謝新加坡作為明年東盟輪值主席國繼續支持並推動香港早日加入RCEP，並介紹《香港第一個五年規劃》及北部都會區機遇，歡迎包括新加坡政府投資公司在內的新方公私營界別發掘河套香港園區商機。",
+          "time_hkt": "2026-11-19T17:02:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878464-20261119.htm"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60412773/apec%E6%B7%B1%E5%9C%B3%E5%B3%B0%E6%9C%83-%E6%9D%8E%E5%AE%B6%E8%B6%85%E6%9C%83%E8%A6%8B%E9%BB%83%E5%BE%AA%E8%B2%A1-%E9%82%80%E6%96%B0%E5%8A%A0%E5%9D%A1%E4%B8%BB%E6%AC%8A%E5%9F%BA%E9%87%91gic%E6%8A%95%E8%B3%87%E5%8C%97%E9%83%BD"
+            },
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202611/19/P2026111900435.htm"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "深圳APEC｜中俄美元首歷史性會晤　發表和平宣言",
+          "summary": "國家主席習近平下午在深圳與俄羅斯總統普京、美國總統特朗普舉行三國元首首次會晤，歷時約一個半小時並發表和平宣言，重申核戰爭打不贏亦打不得、三國將就減少核風險及防止核擴散對話，並表明作為聯合國安理會常任理事國將推動聯合國改革、計劃增加精煉石油產品供應，以及認為國際刑事法院等機構不得濫用管轄權。",
+          "time_hkt": "2026-11-19T18:47:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878481-20261119.htm"
+            },
+            {
+              "name": "新華社",
+              "url": "https://www.news.cn/politics/leaders/20261119/52ee3a20593f4b3db7642db2a7ece1a7/c.html"
+            },
+            {
+              "name": "南華早報",
+              "url": "https://www.scmp.com/news/china/diplomacy/article/3375055/xi-trump-and-putin-meet-landmark-trilateral-talks-apec"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/19/trump-xi-putin-trilateral-meeting-china.html"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/trump-xi-putin-nuclear-ukraine-iran-a04dc76ed8e786b087e2c1ea9598783a"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "國際法院裁定緬甸對羅興亞人犯下種族滅絕行為",
+          "summary": "聯合國國際法院裁定，緬甸在2016至2017年「清剿行動」中對羅興亞少數族群實施《防止及懲治滅絕種族罪公約》下的行為，並具有毀滅該群體相當部分的意圖；庭長岩澤雄司指證據顯示緬甸安全部隊殺害約1萬名羅興亞人並有大規模性暴力等行為，超過70萬人逃往孟加拉，此案由岡比亞提出、歷時約七年。",
+          "time_hkt": "2026-11-19T19:08:00+08:00",
+          "sources": [
+            {
+              "name": "衞報",
+              "url": "https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar"
+            },
+            {
+              "name": "半島電視台",
+              "url": "https://www.aljazeera.com/news/2026/11/19/un-top-court-finds-myanmar-killed-10000-rohingya-as-it-rules-on-genocide"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/rohingya-myanmar-genocide-court-icj-30df77b12bf3f911f1100e77ebe3973a"
+            },
+            {
+              "name": "人權觀察",
+              "url": "https://www.hrw.org/news/2026/11/19/world-court-finds-myanmar-responsible-for-rohingya-genocide"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "深圳APEC｜高市稱打算全面推進日中戰略互惠關係",
+          "summary": "日本首相高市早苗在深圳出席亞太經合組織會議後表示，日方打算全面推進日中戰略互惠關係，透過對話維護兩國利益並建立建設性與穩定的關係；這是她上任後、亦是去年發表涉台言論導致關係惡化後首次到訪中國，中方則重申對日關係立場明確，並指已按國際慣例作出適當禮賓安排。",
+          "time_hkt": "2026-11-19T16:16:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878451-20261119.htm"
+            },
+            {
+              "name": "共同社",
+              "url": "https://china.kyodonews.net/articles/-/18552"
+            },
+            {
+              "name": "聯合新聞網",
+              "url": "https://udn.com/news/story/125069/9889336"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "深圳APEC｜領導人會議通過《深圳展望》　越南接任2027年東道主",
+          "summary": "亞太經合組織第三十三次領導人非正式會議在深圳通過2026年領導人文件《深圳展望》，就亞太共同體建設以及貿易、聯通、創新等領域提出合作成果，會議其後進行東道主交接，由越南於2027年接任主辦。",
+          "time_hkt": "2026-11-19T16:42:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878458-20261119.htm"
+            },
+            {
+              "name": "亞太經合組織",
+              "url": "https://www.apec.org/meeting-papers/leaders-declarations/2026/2026-apec-leaders--shenzhen-outlook"
+            },
+            {
+              "name": "聯合早報",
+              "url": "https://www.zaobao.com.sg/news/china/story20261119-10026786"
+            }
+          ],
+          "rank": 4
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "港股低收453點失守23000　騰訊績後急挫近7%",
+          "summary": "恒生指數連跌第3日，收市報22841點，跌453點或近2%，成交約2295億元；恒生科技指數跌2.33%報3649點，騰訊公布業績後急挫近7%，阿里巴巴跌近6%，聯想收市跌幅收窄至近6%，中芯及華虹則分別升近3%和約8%。",
+          "time_hkt": "2026-11-19T16:52:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878456-20261119.htm"
+            },
+            {
+              "name": "香港經濟日報",
+              "url": "https://inews.hket.com/article/4227457/%E3%80%90%E6%B8%AF%E8%82%A1%E6%94%B6%E5%B8%82%E3%80%91%E6%81%92%E6%8C%87453%E9%BB%9E%E5%A4%B1%E5%AE%88%E4%BA%8C%E8%90%AC%E4%B8%89%E3%80%80%E9%A8%B0%E8%A8%8A%E6%8C%AB%E8%B6%816-%E3%80%80%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E3%80%81%E8%81%AF%E6%83%B3%E8%B7%8C%E8%B6%8A%E5%8D%8A%E6%88%90%E3%80%80%E4%B8%AD%E8%8A%AF%E8%8F%AF%E8%99%B9%E9%80%86%E5%B8%82%E5%8D%87%EF%BC%88%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0%EF%BC%89"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/sc/1207247-%E6%B8%AF%E8%82%A1%E6%94%B6%E5%B8%82%E5%A0%B122841%E9%BB%9E%E8%B7%8C453%E9%BB%9E"
+            },
+            {
+              "name": "新華社",
+              "url": "http://www.news.cn/gangao/20261119/0fc787e98ae3484183137ed93ea544c2/c.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "信置及鷹君財團近27億元投得市建局土瓜灣道／榮光街項目",
+          "summary": "市區重建局公布，土瓜灣道／榮光街發展項目由信和置業及鷹君集團組成的財團以26.88億元投得，折合每平方呎樓面地價約5072元，低於市場估值約39億至48億元；項目可建樓面逾53萬平方呎，包括興建兩條連接港鐵土瓜灣站的行人天橋，預計2032年落成。",
+          "time_hkt": "2026-11-19T18:23:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878473-20261119.htm"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60412796/%E4%BF%A1%E7%BD%AE%E5%A4%A5%E9%B7%B9%E5%90%9B26-88%E5%84%84%E4%B8%AD%E6%A8%99%E5%B8%82%E5%BB%BA%E5%B1%80%E5%9C%9F%E7%93%9C%E7%81%A3%E9%81%93-%E6%A6%AE%E5%85%89%E8%A1%97%E9%A0%85%E7%9B%AE"
+            },
+            {
+              "name": "市區重建局",
+              "url": "https://www.ura.org.hk/tc/news-centre/press-releases/20261119"
+            },
+            {
+              "name": "信報",
+              "url": "https://www.hkej.com/instantnews/property/article/4562966/%E5%B8%82%E5%BB%BA%E5%B1%80%E5%9C%9F%E7%93%9C%E7%81%A3%E9%81%93%E9%A0%85%E7%9B%AE%E8%BF%9127%E5%84%84%E6%89%B9%E4%BF%A1%E7%BD%AE%E9%B7%B9%E5%90%9B+%E4%BD%8E%E9%A0%90%E6%9C%9F%E4%B8%8B%E9%99%9022%25"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    }
+  ]
+}
