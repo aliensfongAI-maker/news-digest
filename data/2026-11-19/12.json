@@ -1,0 +1,139 @@
+{
+  "date": "2026-11-19",
+  "hour": "12",
+  "updatedAt": "2026-11-19T12:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "港鐵港大站連續兩日信號故障　今晨已修復、港島綫服務恢復",
+          "summary": "港鐵今晨再指香港大學站附近出現信號設備故障，港島綫列車須慢駛、來往堅尼地城至柴灣全程額外約5至8分鐘，其後於約8時43分宣布故障已修復、列車服務陸續恢復正常；多家媒體指這是連續第二日同一地點出現信號問題，港鐵已向乘客致歉。",
+          "time_hkt": "2026-11-19T08:43:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878384-20261119.htm"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60412472/%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%B8%E7%AB%99%E9%80%A3%E7%BA%8C%E5%85%A9%E6%97%A5%E4%BF%A1%E8%99%9F%E6%95%85%E9%9A%9C-%E6%B8%AF%E9%90%B5%E5%B7%B2%E4%BF%AE%E5%BE%A9-%E5%88%97%E8%BB%8A%E6%9C%8D%E5%8B%99%E9%99%B8%E7%BA%8C%E6%81%A2%E5%BE%A9%E6%AD%A3%E5%B8%B8"
+            },
+            {
+              "name": "東網",
+              "url": "https://hk.on.cc/hk/bkn/cnt/news/20261119/bkn-20261119081701809-1119_00822_001.html"
+            },
+            {
+              "name": "南華早報",
+              "url": "https://www.scmp.com/news/hong-kong/transport/article/3374981/hong-kong-mtr-island-line-disrupted-second-signalling-fault-2-days"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "特朗普：不會尋求中俄協助結束伊朗戰事　並稱昨與習近平討論人工智能",
+          "summary": "正在深圳出席亞太經合組織會議的美國總統特朗普，今早出發與會前接受霍士新聞訪問時表示，不會在稍後的中美俄三方會談中尋求中國或俄羅斯協助結束伊朗戰事，稱美方已重創伊朗海空軍及防空力量；他又指昨日與國家主席習近平討論人工智能，過程中只簡短提到Nvidia前行政總裁黃仁勳並形容「是一場悲劇」，並稱中俄走近「不應被容許發生」。",
+          "time_hkt": "2026-11-19T08:40:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878386-20261119.htm"
+            },
+            {
+              "name": "東網",
+              "url": "https://hk.on.cc/hk/bkn/cnt/intnews/20261119/bkn-20261119084027215-1119_00992_001.html"
+            },
+            {
+              "name": "南華早報",
+              "url": "https://www.scmp.com/news/china/diplomacy/article/3374980/natural-enemies-trump-china-russia-ties-he-plays-down-nvidia-tragedy"
+            },
+            {
+              "name": "安納多盧通訊社",
+              "url": "https://www.aa.com.tr/en/politics/trump-says-us-doesn-t-need-help-from-china-russia-to-end-iran-war/4129924"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "深圳APEC｜習近平主持領導人非正式會議　與會領袖戴紅藍圍巾合影",
+          "summary": "國家主席習近平今早在深圳國際交流中心主持亞太經合組織第三十三次領導人非正式會議，並發表題為《建設亞太共同體，續寫「亞太奇跡」新篇章》的講話；會議開始前，他與美國總統特朗普、俄羅斯總統普京等握手並集體合影，與會者佩戴象徵深圳「鯤鵬展翅」的紅、藍圍巾，習近平等多數領袖選戴紅巾，特朗普與普京則戴藍巾。",
+          "time_hkt": "2026-11-19T09:58:00+08:00",
+          "sources": [
+            {
+              "name": "新華社",
+              "url": "https://www.news.cn/world/20261119/374ac06491064406839a13f3f2b4b0d0/c.html"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878396-20261119.htm"
+            },
+            {
+              "name": "南華早報",
+              "url": "https://www.scmp.com/news/china/diplomacy/article/3374995/apec-leaders-suit-scarf-family-photo-shenzhen"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "恒指跌逾400點失守23000　騰訊績後挫近6%、阿里跌逾5%",
+          "summary": "港股今早延續跌勢，恒生指數競價時段已跌245點報23049點，其後跌幅擴大，低見22869點、跌近425點或逾1.8%，失守23000點關口，是近三星期以來首次；騰訊公布業績後急挫近6%，阿里巴巴在業績公布前跌逾5%並連跌10個交易日，恒生科技指數跌約2.2%，兩大晶片股則逆市向上。",
+          "time_hkt": "2026-11-19T10:17:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878394-20261119.htm"
+            },
+            {
+              "name": "東網",
+              "url": "https://hk.on.cc/hk/bkn/cnt/finance/20261119/bkn-20261119092141100-1119_00842_001.html"
+            },
+            {
+              "name": "香港經濟日報",
+              "url": "https://inews.hket.com/article/4227457/%E3%80%90%E6%B8%AF%E8%82%A1%E5%B8%82%E6%B3%81%E3%80%91%E6%81%92%E6%8C%87%E9%96%8B%E5%B8%82%E5%BE%8C%E8%B7%8C400%E9%BB%9E%E5%A4%B1%E5%AE%88%E4%BA%8C%E8%90%AC%E4%B8%89%E3%80%80%E9%A8%B0%E8%A8%8A%E3%80%81%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E9%BD%8A%E8%B7%8C%E5%8D%8A%E6%88%90%E3%80%80%E8%8A%AF%E7%89%87%E8%82%A1%E9%80%86%E5%B8%82%E9%80%A0%E5%A5%BD%EF%BC%88%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0%EF%BC%89"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "特朗普在APEC發言稱美國主導「超級智能」　反對全球主義式監管",
+          "summary": "美國總統特朗普在深圳亞太經合組織第三十三次領導人非正式會議上發言，稱「超級智能」（SI）是工業革命以來最重大的技術變革，並指美國是全球領導者；他形容這項技術「幾乎完全是好的」但有「不良元素」須審慎管理，同時表明反對任何以全球主義式監管來控制或壓制其發展。",
+          "time_hkt": "2026-11-19T11:13:00+08:00",
+          "sources": [
+            {
+              "name": "安納多盧通訊社",
+              "url": "https://aa.com.tr/en/americas/us-opposes-globalist-regulation-of-ai-trump-tells-apec-summit-in-china/4129936"
+            },
+            {
+              "name": "韓聯社",
+              "url": "https://en.yna.co.kr/view/AEN20261119004900315"
+            },
+            {
+              "name": "南華早報",
+              "url": "https://www.scmp.com/news/china/diplomacy/article/3374977/world-leaders-gather-talk-trade-and-investment-apec-chinas-tech-hub-shenzhen"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
