@@ -1,0 +1,150 @@
+{
+  "date": "2026-11-20",
+  "hour": "00",
+  "updatedAt": "2026-11-20T00:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "政府關注港鐵港大站接連信號故障　機電署初步指不涉鐵路安全",
+          "summary": "就港鐵香港大學站連續兩日出現信號設備故障、影響列車服務，政府發言人表示關注，已要求港鐵深入調查事故原因並全面報告跟進及改善措施；機電工程署已派員到場調查，初步顯示不涉及鐵路安全事宜。",
+          "time_hkt": "2026-11-19T21:44:00+08:00",
+          "sources": [
+            {"name": "香港電台", "url": "https://news.rthk.hk/rthk/ch/component/k2/1878502-20261119.htm"},
+            {"name": "香港01", "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60412893/%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%B8%E7%AB%99%E9%80%A3%E7%BA%8C%E5%85%A9%E6%97%A5%E6%95%85%E9%9A%9C-%E6%94%BF%E5%BA%9C%E9%97%9C%E6%B3%A8-%E8%A6%81%E6%B1%82%E6%B8%AF%E9%90%B5%E4%BA%A4%E5%A0%B1%E5%91%8A-%E6%A9%9F%E9%9B%BB%E7%BD%B2%E8%AA%BF%E6%9F%A5"},
+            {"name": "有線新聞", "url": "https://www.i-cable.com/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/525712/%E6%B8%AF%E9%90%B5%E6%B8%AF%E5%A4%A7%E7%AB%99%E9%80%A3%E7%BA%8C%E5%85%A9%E6%97%A5%E4%BF%A1%E8%99%9F%E6%95%85%E9%9A%9C-%E6%94%BF%E5%BA%9C-%E8%A6%81%E6%B1%82%E6%B8%AF%E9%90%B5"}
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "丹麥國會一致通過格陵蘭安全協議　更新與美國的防務安排",
+          "summary": "丹麥國會以109票對0票一致通過格陵蘭、丹麥與美國的北極安全協議，更新1951年防務協定，容許美方在格陵蘭獲得水下准入並興建導彈防禦系統，同時確認格陵蘭為平等夥伴、若日後完全獨立仍留在北約；格陵蘭議會本月稍早已通過，丹麥外長拉斯穆森稱協議消除周邊不確定性，但仍待美方向國會作通知後生效。",
+          "time_hkt": "2026-11-19T20:33:00+08:00",
+          "sources": [
+            {"name": "衞報", "url": "https://www.theguardian.com/world/2026/nov/19/danish-mps-approve-greenland-security-pact-us"},
+            {"name": "路透社", "url": "https://www.reuters.com/world/denmark-expected-ratify-trump-deal-over-greenland-thursday-2026-11-19/"},
+            {"name": "美聯社", "url": "https://apnews.com/article/denmark-greenland-us-security-arctic-north-atlantic-a392abbba5c2f1bccbbb372e3d38769d"},
+            {"name": "CNBC", "url": "https://www.cnbc.com/2026/11/19/greenland-denmark-trump-security-military-bases.html"},
+            {"name": "丹麥國會", "url": "https://www.thedanishparliament.dk/en/news/2026/11/the-danish-parliament-approves-agreement-on-defence-of-greenland"}
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "索馬里限72小時內驅逐阿聯酋大使　指控侵犯主權如「公然入侵」",
+          "summary": "索馬里下令阿聯酋大使於72小時內離境，並撤回駐阿布扎比使節；資訊部長穆哈穆德透過官方媒體指阿聯酋行為等同對索馬里的「公然入侵」，總統哈桑早前亦指責阿方在未經聯邦政府同意下，與地方當局就伯貝拉、博薩索及基斯馬尤港口簽約，並協助建立不受國家指揮的軍事力量。",
+          "time_hkt": "2026-11-19T22:34:00+08:00",
+          "sources": [
+            {"name": "半島電視台", "url": "https://www.aljazeera.com/news/2026/11/19/somalia-expels-uae-ambassador-accuses-abu-dhabi-of-violating-sovereignty"},
+            {"name": "美聯社", "url": "https://apnews.com/article/somalia-uae-ambassador-expulsion-sovereignty-somaliland-mohamud-3cdeb27a0a08d365d6a04de46500d842"},
+            {"name": "The EastAfrican", "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/somalia-uae-row-deepens-mogadishu-orders-emirati-envoy-out-5677228"}
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "韓國最高法院撤銷部分定罪　前總理韓德洙戒嚴案發回重審",
+          "summary": "韓國最高法院周四就前總理韓德洙涉協助前總統尹錫悅於2024年12月宣布戒嚴一案，部分撤銷其被判囚15年的上訴判決，將案件發回首爾高等法院重審；法庭以9比3認為，檢方未能充分證明他在宣布前建議召開內閣會議是意圖協助非法奪權，韓德洙目前仍被羈押。",
+          "time_hkt": "2026-11-19T20:28:00+08:00",
+          "sources": [
+            {"name": "美聯社", "url": "https://apnews.com/article/south-korea-han-ducksoo-yoon-martial-law-0ff1cf97bb94f61dde3c010c4faac589"},
+            {"name": "亞洲新聞台", "url": "https://www.channelnewsasia.com/east-asia/south-korea-former-prime-minister-han-duck-soo-retrial-sentencing-6565916"},
+            {"name": "韓國中央日報", "url": "https://www.koreajoongangdaily.com/korea/top-court-partially-reverses-ruling-in-former-prime-ministers-martial-law-case-upholds-kim-keon-hees-sentence/12981857"},
+            {"name": "半島電視台", "url": "https://www.aljazeera.com/news/2026/11/19/south-korean-court-orders-retrial-for-ex-pm-han-over-martial-law-attempt"}
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "Anthropic上市首日交易　美股初段納指升近2%、AI股造好",
+          "summary": "美國人工智能公司Anthropic在納斯達克展開上市首日交易，提振人工智能相關股份；美股初段道瓊斯指數報50257點，升59點或0.12%，標普500指數報7391點，升67點或0.92%，納斯達克指數報24888點，升459點或1.88%，英特爾升近8%，Nvidia升近4%。",
+          "time_hkt": "2026-11-19T22:56:00+08:00",
+          "sources": [
+            {"name": "香港電台", "url": "https://news.rthk.hk/rthk/ch/component/k2/1878508-20261119.htm"},
+            {"name": "衞報", "url": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates"},
+            {"name": "CNBC", "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html"},
+            {"name": "經濟日報", "url": "https://money.udn.com/money/story/123398/9890002"}
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "美國上星期新申領失業援助人數意外升至20.3萬人",
+          "summary": "美國勞工部公布，截至11月14日一週的新申領失業援助人數按週增加1000人至經季節性調整後的20.3萬人，高於市場預期的19.7萬人，四週平均值升至19.775萬人；截至11月7日的持續申領人數為176.3萬人，亦高於預期的171萬人，按週增加7萬人。",
+          "time_hkt": "2026-11-19T21:45:00+08:00",
+          "sources": [
+            {"name": "香港電台", "url": "https://news.rthk.hk/rthk/ch/component/k2/1878501-20261119.htm"},
+            {"name": "美聯社", "url": "https://apnews.com/article/jobs-benefits-ea6affa07224e7be7cfafd66ae3235db"}
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "聯儲局副主席杰斐遜：AI需求正增加美國通脹壓力　長遠可降低價格壓力",
+          "summary": "聯儲局副主席杰斐遜在演說中表示，人工智能急速發展帶動的需求，正透過數據中心、先進運算設備等商業投資增加美國通脹壓力；他未有評論利率前景，並認為AI會同時影響供求、或替代部分職位亦會創造新崗位，但相信新技術帶來的生產力改善，長遠將降低價格壓力。",
+          "time_hkt": "2026-11-19T23:27:00+08:00",
+          "sources": [
+            {"name": "香港電台", "url": "https://news.rthk.hk/rthk/ch/component/k2/1878511-20261119.htm"},
+            {"name": "美國聯儲局", "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20261119a.htm"},
+            {"name": "路透社", "url": "https://www.streetinsider.com/Reuters/Feds+Jefferson+says+AI+boosting+inflation%2C+productivity+impact+possible+in+the+future/27374287.html"}
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "阿里：全球算力政策變化大　或降低長遠算力建設及資本開支目標",
+          "summary": "阿里巴巴在業績電話會議表示，全球算力出口管制新規會影響明年產品，供應鏈不確定性大，長遠算力建設目標及整體資本開支計劃或會降低；首席執行官吳泳銘強調目前全球AI算力仍供不應求，維持2030年雲業務外部收入1000億美元、利潤率超過20%的目標不變，並預計有望於2028年下半年實現現金流轉正。",
+          "time_hkt": "2026-11-19T22:13:00+08:00",
+          "sources": [
+            {"name": "香港電台", "url": "https://news.rthk.hk/rthk/ch/component/k2/1878503-20261119.htm"},
+            {"name": "香港經濟日報", "url": "https://inews.hket.com/article/4227985/%E3%80%909988%E3%80%91%E9%98%BF%E9%87%8C%E5%90%B3%E6%B3%B3%E9%8A%98%EF%BC%9A20%E5%90%89%E7%93%A6%E7%9B%AE%E6%A8%99%E5%8F%8A%E8%B3%87%E6%9C%AC%E6%94%AF%E5%87%BA%E6%88%96%E6%9C%83%E9%99%8D%E4%BD%8E%E3%80%80%E7%9B%AE%E6%A8%992028%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E8%87%AA%E7%94%B1%E7%8F%BE%E9%87%91%E6%B5%81%E8%BD%89%E6%AD%A3"},
+            {"name": "香港01", "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60412875/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%A5%AD%E7%B8%BE%E6%9C%83-%E6%93%AC%E4%B8%8B%E8%AA%BF%E7%AE%97%E5%8A%9B%E7%9B%AE%E6%A8%99%E5%8F%8A%E8%B3%87%E6%9C%AC%E9%96%8B%E6%94%AF-%E6%8A%BC%E6%B3%A8%E5%B9%B3%E9%A0%AD%E5%93%A5%E5%9C%8B%E7%94%A2%E7%AE%97%E5%8A%9B"}
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "《俠盜獵車手VI》全球正式發售　登陸PlayStation 5及Xbox Series",
+          "summary": "Rockstar Games宣布，開發長達13年的《俠盜獵車手VI》（Grand Theft Auto VI）已於11月19日全球發售，登陸PlayStation 5及Xbox Series X|S，故事設定於虛構州份利奧尼達（包括罪城）。",
+          "time_hkt": "2026-11-19T20:26:00+08:00",
+          "sources": [
+            {"name": "BBC", "url": "https://www.bbc.co.uk/news/articles/c6z74ep2n17zo"},
+            {"name": "The Verge", "url": "https://www.theverge.com/entertainment/1035847/grand-theft-auto-6-launch-review-news"},
+            {"name": "Take-Two Interactive", "url": "https://taketwointeractivesoftwareinc.gcs-web.com/news-releases/news-release-details/rockstar-games-announces-grand-theft-auto-vi-now-available"}
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "英國審裁處裁定政府須披露曾向蘋果發出秘密後門命令",
+          "summary": "英國調查權力審裁處裁定，政府須確認曾向蘋果發出技術能力通知（Technical Capability Notice），要求取得加密用戶數據的相關能力；審裁處駁回以國家安全為由完全隱瞞該命令存在的說法，但有關通知具體內容的公開問題，則留待後續聆訊再決定。",
+          "time_hkt": "2026-11-19T23:32:00+08:00",
+          "sources": [
+            {"name": "TechCrunch", "url": "https://techcrunch.com/2026/11/19/u-k-government-forced-to-disclose-secret-apple-backdoor-order/"},
+            {"name": "亞洲新聞台", "url": "https://www.channelnewsasia.com/business/uk-tribunal-confirms-government-order-demanding-access-apple-data-6565996"},
+            {"name": "Privacy International", "url": "https://privacyinternational.org/news-analysis/5896/win-tribunal-orders-uk-government-come-clean-about-secret-order-apple"}
+          ],
+          "rank": 2
+        }
+      ]
+    }
+  ]
+}
