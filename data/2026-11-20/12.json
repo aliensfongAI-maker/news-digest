@@ -1,0 +1,157 @@
+{
+  "date": "2026-11-20",
+  "hour": "12",
+  "updatedAt": "2026-11-20T12:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "天文台上午11時15分發出入秋後首次寒冷天氣警告　日間市區最低氣溫約12度",
+          "summary": "天文台在上午11時15分發出入秋後首次寒冷天氣警告，表示受強烈東北季候風影響，今明兩日天氣寒冷，日間市區最低氣溫約12度，新界及高地再低一兩度，並提醒市民留意風寒效應、注意保暖及關顧長者與慢性病患者；截至上午11時20分，天文台總部最低氣溫13.3度，沙田、九龍城、屯門及上水等地約11度，大帽山只有4.5度。",
+          "time_hkt": "2026-11-20T11:15:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878564-20261120.htm"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E5%A4%A9%E6%B0%A3/60413032/%E5%A4%A9%E6%96%87%E5%8F%B0%E7%99%BC%E5%87%BA%E5%AF%92%E5%86%B7%E5%A4%A9%E6%B0%A3%E8%AD%A6%E5%91%8A-%E6%97%A5%E9%96%93%E5%B8%82%E5%8D%80%E6%9C%80%E4%BD%8E%E6%B0%A3%E6%BA%AB%E7%B4%8412%E5%BA%A6-%E7%B1%B2%E6%B3%A8%E6%84%8F%E4%BF%9D%E6%9A%96"
+            },
+            {
+              "name": "香港天文台",
+              "url": "https://www.weather.gov.hk/hko/textonly/warning/warnc.htm"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "庫什納稱俄方同意歐洲參加多邊談判　並指可接受烏克蘭獲類似北約第五條保障",
+          "summary": "支援烏克蘭的「志願聯盟」峰會在柏林舉行後，美國總統特朗普女婿庫什納表示，俄羅斯已同意歐洲參加多邊談判機制，並稱俄方能接受烏克蘭獲得類似北約第五條的安全保障，特朗普對此持開放態度，但前提是符合美國利益；英國首相伯納姆指歐洲已有一致談判立場，德國總理默茨則認為俄方最高要價並不現實，烏克蘭總統澤連斯基強調歐洲必須被納入和平談判。",
+          "time_hkt": "2026-11-20T11:39:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878566-20261120.htm"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go"
+            },
+            {
+              "name": "衞報",
+              "url": "https://www.theguardian.com/world/2026/nov/20/ukraine-war-briefing-trump-open-to-kyiv-getting-nato-like-mutual-defence-guarantee-says-kushner"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/russia-ukraine-war-kerch-bridge-putin-crimea-7b4a86809dcd466bba97d374045a1a78"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "亞股齊挫　日經半日跌約4.5%創逾7個月新低　韓股跌約4.5%、台股一度跌近6%",
+          "summary": "亞洲股市星期五早段齊齊受壓，人工智能及晶片相關股份延續跌勢，市場認為Anthropic上市並未能消除對人工智能泡沫的憂慮；日經指數半日報56775點，跌2669點或約4.5%，低見56594點，創逾7個月新低，首爾綜合指數早段同樣下跌約4.5%，台灣加權指數一度跌近6%，恒生指數最多跌約2%。",
+          "time_hkt": "2026-11-20T10:47:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878558-20261120.htm"
+            },
+            {
+              "name": "半島電視台",
+              "url": "https://www.aljazeera.com/economy/2026/11/20/asias-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/stock-markets-anthropic-ai-chips-boom-c4c3f4878b12989347f8a930ed813dad"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "恒指低開後跌約2%徘徊22400點附近創年內新低　網易績後瀉近兩成、快手挫逾12%",
+          "summary": "港股競價時段恒生指數已報22482點，跌359點或約1.6%，其後跌幅擴大至約2%，徘徊22400點附近並創年內新低，恒生科技指數跌逾4%；網易公布業績後一度暴跌約18%至153.6元，遊戲收入罕見下跌1.7%，快手挫逾12%至20.2元，第三季經調整淨利潤按年跌逾八成，騰訊跌約1.7%，阿里巴巴則在連跌10日後逆市升逾2%。",
+          "time_hkt": "2026-11-20T11:05:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878548-20261120.htm"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60412989/%E6%B8%AF%E8%82%A1%E7%95%B0%E5%8B%95-%E5%BF%AB%E6%89%8B%E7%B8%BE%E5%BE%8C%E6%80%A5%E6%8F%9212-%E7%B6%B2%E6%98%93%E6%9A%B4%E7%80%89%E8%BF%91%E5%85%A9%E6%88%90"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "財政部在港發行20億美元三年期主權債券　認購額723億美元、超額36倍",
+          "summary": "中國財政部公布，昨日在香港發行20億美元、三年期主權債券，發行利率4.821厘，將全部於香港聯合交易所上市，總認購額723億美元，相當於發行金額的36倍；投資者方面，亞洲佔52%，歐洲及中東佔34%，美洲佔14%，主權類投資者佔59%。財政司司長陳茂波今日出席發行儀式，指這已是財政部第七次在港發行美元主權債券。",
+          "time_hkt": "2026-11-20T10:36:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878556-20261120.htm"
+            },
+            {
+              "name": "中國財政部",
+              "url": "https://www.mof.gov.cn/zhengwuxinxi/caizhengxinwen/202611/t20261120_4005035.htm"
+            },
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202611/20/P2026112000249.htm"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "《俠盜獵車手VI》首日銷售業界估計逾2450萬套、收入約23.6億美元",
+          "summary": "分析機構Sensor Tower估計，《俠盜獵車手VI》連同預購在內的首日銷量超過2450萬套，收入約23.6億美元，其中約四分三來自PlayStation 5、其餘為Xbox，料成為歷來最大型娛樂作品發行；開發商Rockstar及母公司Take-Two尚未公布官方銷售數字，只形容需求「前所未見」。",
+          "time_hkt": "2026-11-20T10:13:00+08:00",
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o"
+            },
+            {
+              "name": "Deadline",
+              "url": "https://deadline.com/2026/11/gta-6-sales-launch-day-surge-videogame-1237229514/"
+            },
+            {
+              "name": "TweakTown",
+              "url": "https://www.tweaktown.com/news/114795/gta-6-day-one-sales-estimates-break-24-5-million-with-dollars2-36-billion-earned/index.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
