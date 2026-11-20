@@ -1,0 +1,181 @@
+{
+  "date": "2026-11-21",
+  "hour": "00",
+  "updatedAt": "2026-11-21T00:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "特區政府強烈不滿和堅決反對美中經濟與安全審議委員會報告",
+          "summary": "特區政府強烈譴責美中經濟與安全審議委員會發表的「2026年報告」，指內容失實偏頗、以政治凌駕法治干預香港事務，並敦促美國立即停止干涉屬中國內政的香港事務；發言人同時反駁報告對國安法律、新聞自由及宏福苑火災善後的表述，重申會繼續依法實施《香港國安法》及《維護國家安全條例》。",
+          "time_hkt": "2026-11-20T21:35:56+08:00",
+          "sources": [
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202611/20/P2026112000800.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878649-20261120.htm"
+            },
+            {
+              "name": "星島頭條",
+              "url": "https://www.stheadline.com/politics/3639430/%E7%89%B9%E5%8D%80%E6%94%BF%E5%BA%9C%E5%BC%B7%E7%83%88%E8%AD%B4%E8%B2%AC%E7%BE%8E%E4%B8%AD%E7%B6%93%E6%BF%9F%E8%88%87%E5%AE%89%E5%85%A8%E5%AF%A9%E8%AD%B0%E5%A7%94%E5%93%A1%E6%9C%83%E5%A0%B1%E5%91%8A-%E5%9A%B4%E5%8E%B2%E9%A7%81%E6%96%A5%E5%9C%8B%E5%AE%89%E6%B3%95%E8%88%87%E7%B6%93%E6%BF%9F%E7%99%BC%E5%B1%95%E5%A4%B1%E5%AF%A6%E6%8C%87%E6%8E%A7"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "波蘭稱俄導彈及無人機侵犯領空墜於東南部　圖斯克指屬蓄意挑釁",
+          "summary": "波蘭國防部長科西尼亞克卡梅什表示，夜間有3個俄羅斯物體（包括一枚Kh-101巡航導彈及一架噴射無人機）侵入波蘭領空並墜於東南部鄉村，無人受傷、未報重大損毀，華沙譴責屬挑釁行為並將要求北約加強東翼支援；總理圖斯克指事件並非意外，且發生在「志願聯盟」軍事演習附近，北約秘書長呂特譴責並稱已出動戰機，他預定周六訪華沙。",
+          "time_hkt": "2026-11-20T20:09:00+08:00",
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro"
+            },
+            {
+              "name": "半島電視台",
+              "url": "https://www.aljazeera.com/news/2026/11/20/poland-condemns-russian-provocation-after-airspace-violations"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/poland-airspace-violation-ukraine-63386266cef90907913df2b456808a4d"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878636-20261120.htm"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "COP31氣候大會因化石燃料表述陷入僵局　談判料延長至周末",
+          "summary": "聯合國COP31氣候大會在土耳其安塔利亞原定周五結束，但近200國代表因最新草案刪去「轉型脫離化石燃料」表述、改以2035年電力佔最終能源需求35%的電氣化目標而陷入僵局，談判料延長至周末；法國、巴拿馬等國要求恢復有關表述，巴拿馬揚言反對未設石油產量上限的協議，歐盟官員亦指草案不可接受、不夠進取。",
+          "time_hkt": "2026-11-20T22:24:52+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/en/component/k2/1878647-20261120.htm"
+            },
+            {
+              "name": "南華早報",
+              "url": "https://www.scmp.com/news/world/article/3375291/cop31-climate-talks-go-overtime-nations-quarrel-over-fossil-fuels"
+            },
+            {
+              "name": "衞報",
+              "url": "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "李強與阿爾巴內塞舉行第十一輪中澳總理年度會晤　願擴大雙邊貿易",
+          "summary": "國務院總理李強在北京釣魚台國賓館與澳洲總理阿爾巴內塞舉行第十一輪中澳總理年度會晤，李強稱中澳關係保持積極發展勢頭，願以明年建交55周年為契機妥善管控分歧、擴大雙邊貿易並維護多邊貿易體系；阿爾巴內塞表示不能讓分歧干擾雙邊關係，願與中方維護以規則為基礎的多邊貿易體制，雙方並發表聯合成果聲明。",
+          "time_hkt": "2026-11-20T22:38:50+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878642-20261120.htm"
+            },
+            {
+              "name": "新華網",
+              "url": "https://www.news.cn/20261120/e4607bcc28b84a9584f6a79aba7ea6cf/c.html"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "俄副外長里亞布科夫：烏克蘭加入北約或成「準成員」均不可接受",
+          "summary": "俄羅斯副外長里亞布科夫表示，烏克蘭加入北約對俄方完全不可接受，即使是「準成員」地位或所謂創造性方案也不會被接受，並稱在歐盟持續軍事化下認為歐盟與北約分別不大；他並指俄方未就按阿布扎比模式再舉行三方會談達成共識，已決定邀請歐洲代表訪問莫斯科。",
+          "time_hkt": "2026-11-20T20:22:18+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878631-20261120.htm"
+            }
+          ],
+          "rank": 4
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "美股初段個別發展　道指升0.33%、納指跌1.24%　Anthropic曾跌逾9%",
+          "summary": "美股周五初段個別發展，道瓊斯指數較早時報49261點升164點或0.33%，標普500指數報7148點跌27點或0.39%，納斯達克指數報23582點跌296點或1.24%；人工智能公司Anthropic上市後第二個交易日股價一度跌逾9%，較早時報88.06美元。",
+          "time_hkt": "2026-11-20T22:47:17+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878651-20261120.htm"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "港交所、無綫集團及華潤電力等明年2月至3月參與無紙證券市場",
+          "summary": "無紙證券市場制度本周一起實施後，港交所更新預計參與名單，首批5間上市公司包括港交所、無綫集團、華潤電力、向中國際及閩信集團，其中港交所將於明年2月16日起參與無紙化，華潤電力及向中國際將於明年3月參與；已上市股票須於2026年11月16日起五年內參與，投資者現時不必急於將實物股票無紙化。",
+          "time_hkt": "2026-11-20T21:23:23+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878644-20261120.htm"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "中國在海南以長征八號甲成功發射衛星互聯網低軌30組衛星",
+          "summary": "中國晚上7時59分在海南商業航天發射場，以長征八號甲運載火箭成功將衛星互聯網低軌30組衛星發射升空，衛星順利進入預定軌道，發射任務獲得圓滿成功。",
+          "time_hkt": "2026-11-20T22:59:09+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878648-20261120.htm"
+            },
+            {
+              "name": "新華網",
+              "url": "https://www.xinhuanet.com/20261120/da600aa6b4e94c90a93b2dd59f9081f3/c.html"
+            },
+            {
+              "name": "中新網",
+              "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735563.shtml"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
