@@ -1,0 +1,151 @@
+{
+  "date": "2026-11-21",
+  "hour": "08",
+  "updatedAt": "2026-11-21T08:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "林正財：宏福苑支援計劃接觸逾3300名居民　約200人轉介精神科等跟進",
+          "summary": "大埔宏福苑大火將近一周年，精神健康諮詢委員會主席林正財表示，「凝聚．同行」計劃已接觸超過3300名暫住多區的居民，約1800人曾接受輔導、約200人被轉介至精神科或臨床心理學家跟進，外展接觸的56人中創傷後壓力症候群及抑鬱症狀比率分別由約21%及15%降至單位數；為期一年的「守望．同行」計劃亦已接觸156個喪親家庭，委員會將總結經驗後考慮以社區網絡延續支援。",
+          "time_hkt": "2026-11-21T07:00:24+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878665-20261121.htm"
+            },
+            {
+              "name": "南華早報",
+              "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3375288/hong-kong-looks-community-networks-support-tai-po-fire-survivors-mental-health"
+            },
+            {
+              "name": "文匯報",
+              "url": "https://www.wenweipo.com/a/202611/21/AP6b00ae81e4b028ec0194e761.html"
+            }
+          ],
+          "rank": 4
+        },
+        {
+          "headline": "荃灣韻濤居單位疑暖爐焫着被鋪起火　約80人疏散一人送院",
+          "summary": "今日凌晨約5時15分，荃灣青山公路韻濤居一個單位懷疑因暖爐焫着被鋪或雜物起火冒煙，消防到場將火救熄，約80名居民自行疏散，一名男子吸入濃煙不適送院，另有鄰居攜貓逃生時被抓傷、經現場治理後無需送院。",
+          "time_hkt": "2026-11-21T05:22:53+08:00",
+          "sources": [
+            {
+              "name": "東網",
+              "url": "https://hk.on.cc/hk/bkn/cnt/news/20261121/bkn-20261121052253659-1121_00822_001.html"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60413341/%E5%AF%92%E8%AD%A6%E4%B8%8B%E8%8D%83%E7%81%A3%E4%BD%8F%E5%AE%85%E6%9A%96%E7%88%90%E7%84%AB%E8%A2%AB%E9%8B%AA%E8%B5%B7%E7%81%AB-%E7%94%B7%E6%88%B6%E4%B8%BB%E4%B8%8D%E9%81%A9-%E9%84%B0%E5%B1%85%E9%80%83%E7%94%9F%E9%81%AD%E5%AE%B6%E8%B2%93%E6%8A%93%E5%82%B7"
+            },
+            {
+              "name": "星島",
+              "url": "https://www.stheadline.com/society/3639506/%E8%8D%83%E7%81%A3%E9%9F%BB%E6%BF%A4%E5%B1%85%E5%96%AE%E4%BD%8D%E8%B5%B7%E7%81%AB%E5%86%92%E6%BF%83%E7%85%99-1%E7%94%B7%E4%B8%8D%E9%81%A9%E9%80%81%E9%99%A280%E4%BA%BA%E7%96%8F%E6%95%A3-%E7%96%91%E6%9A%96%E7%88%90%E7%87%83%E7%9D%80%E8%A2%AB%E9%8B%AA%E8%82%87%E7%A6%8D"
+            }
+          ],
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "美國聯邦陪審團裁定男子兩項縱火罪成　指其引發致命帕利塞茲山火",
+          "summary": "美國聯邦陪審團周五裁定30歲前Uber司機Jonathan Rinderknecht兩項聯邦縱火罪成，指他於2025年元旦用打火機引發Lachman灌木火，火勢表面撲滅後仍在地下悶燒，其後再燃成造成12人死亡、燒毀6837幢建築物的洛杉磯帕利塞茲山火；此案今年6月首審因陪審團以10比2傾向無罪而宣告失效，他將於3月17日判刑。",
+          "time_hkt": "2026-11-21T06:51:00+08:00",
+          "sources": [
+            {
+              "name": "NBC News",
+              "url": "https://www.nbcnews.com/news/us-news/pacific-palisades-fire-retrial-jonathan-rinderknecht-rcna610336"
+            },
+            {
+              "name": "衛報",
+              "url": "https://www.theguardian.com/us-news/2026/nov/20/los-angeles-palisades-wildfire-trial-verdict"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/california-palisades-fire-trial-ab04eb0ebafd314e62b8d9edfe648c75"
+            },
+            {
+              "name": "洛杉磯時報",
+              "url": "https://www.latimes.com/california/story/2026-11-20/palisades-fire-arson-retrial-verdict"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "美股收市急跌　道指與標普跌入技術性調整　納指跌5.3%抹去今年升幅",
+          "summary": "美股周五收市急跌，道瓊斯指數收報48147點、跌949點或1.9%，標普500指數收報6910點、跌265點或3.7%，納斯達克指數收報22617點、跌1261點或約5.3%，道指與標普均較歷史收市高位下跌逾10%，正式進入技術性調整；Nvidia跌14%，Anthropic上市翌日收報88.91美元、跌8.5%，三大指數本周分別跌8%、8.6%及10%，納指錄得逾六年半最大單周跌幅。",
+          "time_hkt": "2026-11-21T06:16:27+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878662-20261121.htm"
+            },
+            {
+              "name": "紐約時報",
+              "url": "https://www.nytimes.com/2026/11/20/business/anthropic-ai-stocks-sp500.html"
+            },
+            {
+              "name": "衛報",
+              "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/stock-markets-anthropic-ai-chips-boom-c4c3f4878b12989347f8a930ed813dad"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "《俠盜獵車手VI》首日零售銷售37.9億美元　刷新娛樂作品開售紀錄",
+          "summary": "Take-Two旗下Rockstar周五公布，《俠盜獵車手VI》（Grand Theft Auto VI）截至周四的預購及首日零售銷售估計達37.9億美元，並已預售3250萬套，成為歷來最大型娛樂作品開售，亦遠高於前作《俠盜獵車手V》開售五天錄得11.5億美元的紀錄。",
+          "time_hkt": "2026-11-21T04:26:17+08:00",
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/20/take-two-sales-as-gta-vi-launches-to-massive-fanfare.html"
+            },
+            {
+              "name": "紐約時報",
+              "url": "https://www.nytimes.com/2026/11/20/arts/grand-theft-auto-vi-sales-revenue.html"
+            },
+            {
+              "name": "Axios",
+              "url": "https://www.axios.com/2026/11/20/grand-theft-auto-vi-first-day-sales"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/grand-theft-auto-gta-vice-city-playstation-15c69f76548ab5659bc3fe44a69756d8"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    }
+  ]
+}
