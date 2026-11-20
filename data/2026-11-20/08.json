@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-20",
+  "hour": "08",
+  "updatedAt": "2026-11-20T08:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "天文台今早錄得最低氣溫15.3度　為入秋以來最低　強烈季候風信號生效",
+          "summary": "天文台在凌晨4時45分發出強烈季候風信號，預料本港吹偏北強風、平均風速每小時超過40公里、陣風間中達烈風程度；截至上午5時30分錄得最低氣溫15.3度，是入秋以來最低，預測今日密雲有幾陣雨，日間市區氣溫介乎14至16度，新界再低一兩度，部分地區及高地寒冷。",
+          "time_hkt": "2026-11-20T05:59:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878529-20261120.htm"
+            },
+            {
+              "name": "星島頭條",
+              "url": "https://www.stheadline.com/society/3639144/"
+            },
+            {
+              "name": "東網",
+              "url": "https://hk.on.cc/hk/bkn/cnt/news/20261120/bkn-20261120055904891-1120_00822_001.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "美國參議院否決限制特朗普對伊朗動武的戰爭權力決議　以48票對51票未獲通過",
+          "summary": "美國參議院星期四以48票對51票否決一項旨在迫使總統特朗普停止對伊朗敵對行動的戰爭權力決議，共和黨的柯林斯、保羅及穆考斯基投贊成票，民主黨僅費特曼投反對票；眾議院較早前已通過該決議，這是共和黨在11月3日中期選舉失去兩院控制權後，國會首次就此類決議表決。",
+          "time_hkt": "2026-11-20T04:24:00+08:00",
+          "sources": [
+            {
+              "name": "衞報",
+              "url": "https://www.theguardian.com/us-news/2026/nov/19/senate-iran-war-powers-resolution-rejected"
+            },
+            {
+              "name": "半島電視台",
+              "url": "https://www.aljazeera.com/news/2026/11/19/senate-republicans-in-us-reject-measure-to-limit-trumps-war-powers-in-iran"
+            },
+            {
+              "name": "華盛頓郵報",
+              "url": "https://www.washingtonpost.com/politics/2026/11/19/senate-rejects-resolution-block-trump-striking-iran/"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "日本10月核心通脹升2.2%　低於預期但仍為今年以來最高",
+          "summary": "日本總務省公布，10月剔除新鮮食品的核心消費者物價指數按年升2.2%，高於9月的2.1%，為今年以來最高，但低於路透調查經濟學家預期的2.3%；剔除新鮮食品及能源的通脹由上月2.4%回落至2.2%。",
+          "time_hkt": "2026-11-20T07:31:00+08:00",
+          "sources": [
+            {
+              "name": "日本經濟新聞",
+              "url": "https://www.nikkei.com/article/DGXZQOUA169NP0W6A111C2000000/"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html"
+            },
+            {
+              "name": "日本總務省",
+              "url": "https://www.stat.go.jp/data/cpi/sokuhou/tsuki/pdf/zenkoku.pdf"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "加州司法部長向Nvidia發出調查傳票　查先進晶片會否流入中國及是否誤導投資者",
+          "summary": "加州司法部長邦塔星期四向Nvidia發出調查傳票，查究該公司或其前行政總裁黃仁勳的行為會否令先進晶片或機密資料流入中國，以及Nvidia有否向投資者及公眾隱瞞相關風險，從而違反加州法律；邦塔表示公司不可誤導投資者，Nvidia未有即時回應。",
+          "time_hkt": "2026-11-20T06:49:00+08:00",
+          "sources": [
+            {
+              "name": "加州司法部",
+              "url": "https://oag.ca.gov/news/press-releases/attorney-general-bonta-serves-investigative-subpoena-nvidia"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no"
+            },
+            {
+              "name": "洛杉磯時報",
+              "url": "https://www.latimes.com/california/story/2026-11-19/california-subpoenas-nvidia-as-questions-about-ceo-affair-ai-chips-mount"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
