@@ -1,0 +1,269 @@
+{
+  "date": "2026-11-20",
+  "hour": "20",
+  "updatedAt": "2026-11-20T20:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "陳國基稱不會阻止合法悼念宏福苑大火　籲市民小心選擇免被利用",
+          "summary": "政務司司長陳國基表示，宏福苑火災發生接近一年，任何合法悼念活動政府都絕對容許、不會阻止或妨礙，必要時部門亦可提供協助，並指市民可安心參與天主教、基督教、佛教等正當團體活動；他同時提醒網上有個別別有用心人士試圖利用悼念作出破壞，市民須小心選擇，警方會依法處理違法行為，又指政府正按獨立委員會報告推動改革並協助災民重建家園。",
+          "time_hkt": "2026-11-20T17:07:14+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878614-20261120.htm"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E6%94%BF%E6%83%85/60413228/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E9%99%B3%E5%9C%8B%E5%9F%BA-%E4%B8%8D%E6%9C%83%E9%98%BB%E6%AD%A2%E5%90%88%E6%B3%95%E6%82%BC%E5%BF%B5-%E7%B1%B2%E5%B0%8F%E5%BF%83%E9%81%B8%E6%93%87%E5%85%8D%E8%A2%AB%E6%9C%89%E5%BF%83%E4%BA%BA%E5%88%A9%E7%94%A8"
+            },
+            {
+              "name": "香港經濟日報",
+              "url": "https://news.hket.com/article/4228538/"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1207457-%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%E4%B8%80%E5%91%A8%E5%B9%B4%E7%8F%BE%E5%A0%B4%E9%99%B3%E5%9C%8B%E5%9F%BA%E6%94%BF%E5%BA%9C%E4%B8%8D%E6%9C%83%E5%A6%A8%E7%A4%99%E6%88%96%E9%98%BB%E6%AD%A2%E6%82%BC%E5%BF%B5%E6%8F%90%E9%86%92%E8%A6%81%E6%85%8E%E9%81%B8"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "政府擬修例提高嚴重僭建物罰則　修例前較輕微僭建檢核後可保留",
+          "summary": "政府建議修訂《建築物條例》，不遵辦清拆令可先處一萬元定額罰款，再犯最高罰款增至40萬元及監禁一年；性質嚴重的「指明僭建物」例如僭建地庫，最高罰則提高至30萬元及監禁兩年、再犯60萬元及監禁兩年，並建議刪除「明知」字眼、將非法進行建築工程最高罰款提高至200萬元，以及在修例後指定期限後取得存在「指明僭建物」的物業亦屬違法；同時擬整合檢核計劃，容許修例生效前已搭建的晾衫架、冷氣機支架及簷篷等較輕微僭建，經檢核後予以保留。",
+          "time_hkt": "2026-11-20T16:14:37+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878601-20261120.htm"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E5%9C%B0%E7%94%A2%E6%A8%93%E5%B8%82/60413269/%E7%99%BC%E5%B1%95%E5%B1%80%E6%93%AC%E4%BF%AE%E8%A8%82-%E5%BB%BA%E7%AF%89%E7%89%A9%E6%A2%9D%E4%BE%8B-%E6%89%93%E6%92%83%E5%9A%B4%E9%87%8D%E5%83%AD%E5%BB%BA-%E8%B2%B7%E5%83%AD%E5%BB%BA%E7%89%A9%E7%89%A9%E6%A5%AD%E5%90%8C%E5%B1%AC%E9%81%95%E6%B3%95"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1207445-%E5%83%AD%E5%BB%BA%E7%89%A9%E6%9C%80%E9%AB%98%E7%BD%B0%E5%89%87%E5%BB%BA%E8%AD%B0%E6%8F%90%E9%AB%98%E8%87%B3%E7%BD%B0%E6%AC%BE200%E8%90%AC%E6%88%B6%E5%A4%96%E6%96%9C%E9%81%93%E7%AD%89%E4%B8%8D%E5%86%8D%E8%A6%96%E7%82%BA%E5%83%AD%E5%BB%BA"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "《北部都會區發展條例》刊憲　首批附屬法例擬明年1月提交立法會",
+          "summary": "經立法會11月12日三讀通過的《北部都會區發展條例》今日刊憲，為城市規劃、收地補償、建築工程審批、噪音管制及便利跨境流動等措施提供法律基礎，當局指北都將以大學城、創科、產業和宜居宜業宜遊為布局；發展局正敲定首批附屬法例，計劃明年1月提交立法會審議，目標於第一季生效。",
+          "time_hkt": "2026-11-20T16:15:13+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878602-20261120.htm"
+            },
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202611/20/P2026112000525.htm"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "天文台錄得今日最低氣溫12.7度創入秋新低　民政署開放18間臨時避寒中心",
+          "summary": "受強烈東北季候風影響，天文台截至下午4時錄得今日最低氣溫12.7度，是入秋以來最低，並表示今晚和明日市區最低氣溫約13度、新界再低幾度，明日日間最高氣溫回升至約21度，其後一、兩日略為回升、下周中期再降溫；民政事務總署已在各區開放18間臨時避寒中心，寒冷天氣警告生效期間繼續開放，免費提供墊褥、毛氈或棉被、熱食及熱水。",
+          "time_hkt": "2026-11-20T17:56:04+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878625-20261120.htm"
+            },
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202611/20/P2026112000577.htm"
+            }
+          ],
+          "rank": 4
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "英國與歐盟在布魯塞爾峰會達成「重置」協議　涵蓋青年流動、農漁檢疫及碳市場對接",
+          "summary": "英國首相辦公室在布魯塞爾峰會後表示，與歐盟的談判已經結束並達成「重置」協議，雙方已就青年流動計劃、動植物衞生檢疫安排，以及排放交易體系對接的實施時間表達成共識，詳情將載於聯合聲明；報道指各國仍須完成各自的法律程序，部分議題包括學費等仍會繼續磋商。",
+          "time_hkt": "2026-11-20T18:47:15+08:00",
+          "sources": [
+            {
+              "name": "半島電視台",
+              "url": "https://www.aljazeera.com/news/2026/11/20/eu-and-uk-seal-reset-deal"
+            },
+            {
+              "name": "金融時報",
+              "url": "https://www.ft.com/content/8515b514-2067-43eb-a7f5-b5aa20ec4cc3"
+            },
+            {
+              "name": "衞報",
+              "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "俄軍大規模襲擊擊中基輔三座橋樑　澤連斯基稱屬開戰以來其中一次最猛烈打擊、至少8人死亡",
+          "summary": "在烏克蘭較早前重創克里米亞大橋後，俄羅斯對全國發動大規模導彈襲擊，彈道導彈擊中基輔的波迪爾—沃斯克雷森斯基橋、達爾尼茨基橋及南橋，三橋已關閉交通；總統澤連斯基形容是開戰以來其中一次最猛烈的打擊，至少造成8人死亡，基輔市長稱有關鍵基礎設施受損、7名醫護人員受傷，並呼籲非必要不要以私家車入城。",
+          "time_hkt": "2026-11-20T16:04:00+08:00",
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o"
+            },
+            {
+              "name": "半島電視台",
+              "url": "https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "中美兩軍在上海舉行海上軍事安全磋商機制工作小組會議及年度會晤",
+          "summary": "中美兩軍於本周三至五在上海舉行2026年度海上軍事安全磋商機制第二次工作小組會議和年度會晤，中國國防部表示雙方就當前海空安全形勢進行坦誠、務實、建設性交流，評估《中美海空相遇安全行為準則》年度執行情況，討論改進海上軍事安全的措施，並商定2027年工作小組會議議題。",
+          "time_hkt": "2026-11-20T19:25:47+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878632-20261120.htm"
+            },
+            {
+              "name": "新華網",
+              "url": "https://www.news.cn/20261120/448236c973e14636bec242aafe1063dc/c.html"
+            },
+            {
+              "name": "中新網",
+              "url": "https://www.chinanews.com.cn/gn/2026/11-20/10735368.shtml"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "歐股延續AI拋售潮　Stoxx 600早段跌1.3%料錄3月以來最差一周　Anthropic上市翌日跌6%",
+          "summary": "在亞洲股市本周重挫、周四美股主要指數均跌逾2%之後，歐洲股市周五續跌，泛歐Stoxx 600早段下跌1.3%，報道指歐洲股市料錄今年3月以來最差一周；英國富時100指數早市跌至五個月低位，本周累跌4.8%，並料錄伊朗戰爭爆發以來最大單周跌幅，而周四上市首日曾升17%的Anthropic周五一度回落6%。",
+          "time_hkt": "2026-11-20T18:02:21+08:00",
+          "sources": [
+            {
+              "name": "衞報",
+              "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
+            },
+            {
+              "name": "路透社",
+              "url": "https://www.investing.com/news/stock-market-news/european-shares-head-for-steepest-weekly-drop-since-march-5040936"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "內地商業銀行首3季盈利1.9萬億元人民幣　不良貸款率微升至1.54%",
+          "summary": "國家金融監管總局數據顯示，內地商業銀行首3季累計實現淨利潤1.9萬億元人民幣；截至上季末，不良貸款餘額3.8萬億元、按季增加745億元，不良貸款率1.54%、上升0.02個百分點，貸款損失準備餘額7.6萬億元，撥備覆蓋率199.49%。",
+          "time_hkt": "2026-11-20T18:46:22+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878623-20261120.htm"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "港股連跌4日　恒指收市跌1.89%報22410.80點創逾1年半新低",
+          "summary": "恒生指數周五收市報22410.80點，跌430.82點、跌幅1.89%，連跌4日並創逾1年半新低，盤中低見22307點，主板成交約2703億元；恒生科技指數收市報3511.14點，跌3.78%，創兩年低位，網易及快手績後分別下跌近18%及逾11%，阿里巴巴則因業績好過預期逆市升逾3%，恒指本周累跌近5.2%、科指累跌近8%。",
+          "time_hkt": "2026-11-20T16:38:45+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878607-20261120.htm"
+            },
+            {
+              "name": "Yahoo財經",
+              "url": "https://hk.finance.yahoo.com/news/%E6%81%92%E6%8C%87%E5%85%A8%E6%97%A5%E6%94%B6%E5%A0%B122410-80%E9%BB%9E-%E8%B7%8C-1-89-081500492.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "恒指公司：科指成份股由30隻增至50隻　納入寧德時代及壁仞科技等下月生效",
+          "summary": "恒指公司公布季度檢討，恒生科技指數成份股數目由30隻增至50隻，新加入寧德時代、瑞聲科技、壁仞科技、立訊精密、中際旭創、優必選及ASMPT等，恒生中國企業指數則納入MiniMax及智譜、剔除郵儲行及申洲國際，恒生指數成份股維持95隻不變；有關變動將於12月4日收市後實施、7日起生效。",
+          "time_hkt": "2026-11-20T18:36:55+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878630-20261120.htm"
+            },
+            {
+              "name": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-11-20/catl-luxshare-to-join-hong-kong-tech-index-in-major-revamp"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "本港10月通脹率升至2.2%　主要因差餉寬減結束　基本通脹放慢至2%",
+          "summary": "本港10月綜合消費物價指數按年上升2.2%，升幅較9月加快0.3個百分點，政府指主要是差餉寬減在9月結束；剔除所有政府一次性紓困措施後，基本通脹率為2%，較9月放慢0.1個百分點，當中電力、燃氣及水按年升12.7%，交通升4.5%，住屋升1.4%，基本食品則跌0.8%。",
+          "time_hkt": "2026-11-20T16:42:53+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878609-20261120.htm"
+            },
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202611/20/P2026112000306.htm"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "白宮撤換國家網絡安全總監Cairncross　改由國防部首席資訊官Davies接任",
+          "summary": "在美國連續出現航空管制故障、微軟服務中斷及銀行系統故障等技術事故後，白宮撤換2025年8月起擔任國家網絡安全總監的Sean Cairncross，改由國防部首席資訊官Kirsten Davies接任；英國廣播公司引述報道指他被解僱，並指白宮幕僚長米勒對其失去信心，而Davies表示美國有機會在網絡領域佔據主導。",
+          "time_hkt": "2026-11-20T16:33:59+08:00",
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/20/sean-cairncross-white-house-cyber-director.html"
+            },
+            {
+              "name": "半島電視台",
+              "url": "https://www.aljazeera.com/news/2026/11/20/us-appoints-new-cybersecurity-chief-after-series-of-tech-failures"
+            },
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
