@@ -1,0 +1,157 @@
+{
+  "date": "2026-11-21",
+  "hour": "04",
+  "updatedAt": "2026-11-21T04:15:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "印裔男子因密謀刺殺美國錫克教分離領袖被判囚逾19年",
+          "summary": "曼哈頓聯邦法院周五判印度籍男子古普塔（Nikhil Gupta）監禁235個月（逾19年半），因其串謀印度政府官員雅達夫（Vikash Yadav），向實為臥底的「殺手」支付1.5萬美元，密謀刺殺紐約錫克教獨立運動領袖、美加雙重國籍律師潘農（Gurpatwant Singh Pannun）；印方否認介入，雅達夫仍未落入美方羈押。",
+          "time_hkt": "2026-11-21T02:24:12+08:00",
+          "sources": [
+            {
+              "name": "衛報",
+              "url": "https://www.theguardian.com/us-news/2026/nov/20/indian-man-sentenced-prison-murder-plot-sikh-separatist"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/20/indian-man-sentenced-to-19-years-in-us-sikh-separatist-assassination-plot"
+            },
+            {
+              "name": "南華早報",
+              "url": "https://www.scmp.com/news/world/united-states-canada/article/3375297/indian-man-jailed-over-us-murder-plot-against-sikh-separatist"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "丹麥將驅逐俄防務武官　指俄情報機構策劃刺殺美籍烏克蘭饒舌歌手",
+          "summary": "丹麥外長拉斯穆森宣布，將在七天內驅逐俄羅斯駐哥本哈根防務武官，並已召見俄大使；丹麥警方及情報首長指，已挫敗俄情報機構策劃、於9月25日音樂會前刺殺美籍烏克蘭饒舌歌手Kyivstoner的企圖，當時攔截一輛載有上膛手槍及刀具的車輛，現有多名嫌疑人被控協助外國情報機構及謀殺未遂。",
+          "time_hkt": "2026-11-21T02:16:12+08:00",
+          "sources": [
+            {
+              "name": "衛報",
+              "url": "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing"
+            },
+            {
+              "name": "南華早報",
+              "url": "https://www.scmp.com/news/world/europe/article/3375295/denmark-expels-russian-diplomat-over-plot-kill-ukraine-rapper"
+            }
+          ],
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "美股延續AI拋售　標普與道指一度跌入技術性調整　納指抹去今年升幅　Anthropic上市翌日跌逾一成",
+          "summary": "美股周五在AI拋售中擴大跌勢，標普500指數午後跌約3%、較近期高位下跌約10%，與道瓊斯工業平均指數一度進入技術性調整，納斯達克綜合指數跌約4.5%並抹去今年升幅；Anthropic上市翌日一度跌逾12%，Nvidia跌約12%，並料連續第七周收跌、為2008年金融危機以來最長週線連跌，路透社並報道美國證交會正了解該公司潛在會計問題。",
+          "time_hkt": "2026-11-21T03:49:33+08:00",
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo"
+            },
+            {
+              "name": "衛報",
+              "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
+            },
+            {
+              "name": "NBC News",
+              "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "特朗普揚言禁止美企在海外興建AI數據中心　違者將面臨「巨額稅」",
+          "summary": "美國總統特朗普周五在白宮記者會上表示，將禁止美國公司在海外興建數據中心，若仍在境外興建會被課以「巨額稅」，稱不想中國把項目「全部搶走」，並指內閣團隊也是首次聽聞有關構思，細節與如何執行仍不清楚。",
+          "time_hkt": "2026-11-21T01:45:38+08:00",
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko"
+            },
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax"
+            },
+            {
+              "name": "紐約時報",
+              "url": "https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "特朗普稱曾與習近平討論黃仁勳並促Nvidia再給機會　與財長貝森特說法不一",
+          "summary": "特朗普在白宮記者會上稱曾與中國國家主席習近平討論前Nvidia行政總裁黃仁勳，並引述習近平稱其「出色」，又希望公司再給他第二次機會，與財長貝森特稍早在CNBC表示中美會談並未提及黃仁勳、對華出售H200晶片政策不變的說法並不一致；參議院銀行委員會主席斯科特其後表示，黃仁勳將到該委員會公開作證，日期未定。",
+          "time_hkt": "2026-11-21T03:15:44+08:00",
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/20/jensen-huang-nvidia-senate-testimony.html"
+            },
+            {
+              "name": "France 24",
+              "url": "https://www.france24.com/en/live-news/20261120-trump-calls-for-nvidia-s-huang-to-be-given-second-chance"
+            }
+          ],
+          "rank": 4
+        },
+        {
+          "headline": "Anthropic數學家稱與Claude共同證明黎曼猜想　尚未獲獨立驗證",
+          "summary": "Anthropic數學家阿爾珀格（Levent Alpöge）宣稱在Claude協助下，以可在Lean形式化驗證的論證證明了黎曼猜想乃至廣義黎曼猜想，但尚未經獨立驗證，亦未獲克萊數學研究所接納；同期史丹福博士後馬蘇洛（Alessandro Masullo）亦公布一份據稱全由人手完成的證明稿。",
+          "time_hkt": "2026-11-21T00:57:47+08:00",
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
+            },
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
+            },
+            {
+              "name": "南華早報",
+              "url": "https://www.scmp.com/news/world/united-states-canada/article/3375294/anthropic-researcher-says-claude-has-solved-maths-greatest-riddle"
+            }
+          ],
+          "rank": 6
+        }
+      ]
+    }
+  ]
+}
