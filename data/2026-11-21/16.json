@@ -1,0 +1,137 @@
+{
+  "date": "2026-11-21",
+  "hour": "16",
+  "updatedAt": "2026-11-21T16:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "立法會強烈不滿和堅決反對美中經濟與安全審議委員會「2026年報告」",
+          "summary": "立法會發言人表示，強烈不滿和堅決反對美中經濟與安全審議委員會發表的「2026年報告」，指其對香港法治、司法獨立、國安工作、選舉制度及經濟發展等作出失實偏頗陳述，並堅定支持特區政府相關聲明；發言人引述世界正義工程《2026年法治指數》指香港在全球143個國家和地區中位列第24位，並敦促美方立即停止干涉屬中國內政的香港事務。",
+          "time_hkt": "2026-11-21T13:17:00+08:00",
+          "sources": [
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202611/21/P2026112100349.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878696-20261121.htm"
+            },
+            {
+              "name": "星島頭條",
+              "url": "https://www.stheadline.com/politics/3639605/%E7%AB%8B%E6%B3%95%E6%9C%83%E5%BC%B7%E7%83%88%E8%AD%B4%E8%B2%AC%E7%BE%8E%E4%B8%AD%E7%B6%93%E6%BF%9F%E8%88%87%E5%AE%89%E5%85%A8%E5%AF%A9%E8%AD%B0%E5%A7%94%E5%93%A1%E6%9C%83%E5%A0%B1%E5%91%8A-%E4%BF%83%E8%AB%8B%E7%BE%8E%E6%96%B9%E5%81%9C%E6%AD%A2%E5%B9%B2%E6%B6%89%E9%A6%99%E6%B8%AF%E5%85%A7%E6%94%BF"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1207607-%E7%AB%8B%E6%B3%95%E6%9C%83%E5%B0%B1%E7%BE%8E%E4%B8%AD%E7%B6%93%E6%BF%9F%E8%88%87%E5%AE%89%E5%85%A8%E5%AF%A9%E8%AD%B0%E5%A7%94%E5%93%A1%E6%9C%83%E7%99%BC%E5%B8%83%E6%89%80%E8%AC%82%E5%A0%B1%E5%91%8A%E8%A1%A8%E7%A4%BA%E5%BC%B7%E7%83%88%E4%B8%8D%E6%BB%BF%E5%92%8C%E5%A0%85%E5%8E%B3%E5%8F%8D%E5%B0%8D"
+            }
+          ],
+          "rank": 4
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "COP31氣候大會通宵談判後仍陷僵局　周六料公布新一份協議草案",
+          "summary": "聯合國COP31氣候大會在土耳其安塔利亞的談判已通宵進行並延至周六，各國仍未能達成最終協議，法國、巴拿馬等要求把減少化石燃料需求的表述重新寫入文本，非洲集團則爭取恢復至2035年達1200億美元的適應氣候資金目標；最新草案首次承認把全球氣溫升幅控制在1.5°C內的目標已經失守，大會料於周六公布新一份或屬最終的協議文本。",
+          "time_hkt": "2026-11-21T14:55:00+08:00",
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/c6ly5w40eg07o"
+            },
+            {
+              "name": "衞報",
+              "url": "https://www.theguardian.com/environment/live/2026/nov/21/cop31-climate-deal-latest-news-updates"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/cop31-un-turkey-climate-change-global-warming-b54eebcade92e5ee4c513b9a5b2192a7"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "澤連斯基回應特朗普稱普京為朋友：對烏克蘭而言他是殺人兇手",
+          "summary": "烏克蘭總統澤連斯基接受美國傳媒訪問時，回應美國總統特朗普稱俄羅斯總統普京為「朋友」，表明對烏克蘭而言普京是敵人和殺人兇手、日日夜夜都在殺人，並指把普京形容為朋友意味其感受到的壓力未夠大；特朗普星期五在白宮總結亞洲之旅時未有收回該稱呼，但表明無法斷言普京是否算是美國的朋友。",
+          "time_hkt": "2026-11-21T15:10:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878700-20261121.htm"
+            },
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/cxnv4zvmdy0jo"
+            },
+            {
+              "name": "基輔郵報",
+              "url": "https://www.kyivpost.com/post/90773"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "特區政府與亞投行簽署兩份協議　確立亞投行在港設辦事處",
+          "summary": "特區政府與亞洲基礎設施投資銀行簽署兩份協議，正式確立亞投行在香港設立辦事處，香港並再向亞投行「項目準備特別基金」注資2000萬美元，連同2018年注資總額達3000萬美元；財政司司長陳茂波表示，此舉展現亞投行對香港作為國際金融中心的信心，國家財政部部長藍佛安、亞投行鄒加怡及中聯辦副主任張勇出席簽署儀式。",
+          "time_hkt": "2026-11-21T13:48:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878697-20261121.htm"
+            },
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202611/21/P2026112100327.htm"
+            },
+            {
+              "name": "METROHK",
+              "url": "https://metrohk.com.hk/%E6%B8%AF%E8%81%9E/%E4%BA%9E%E6%8A%95%E8%A1%8C%E5%9C%A8%E6%B8%AF%E8%A8%AD%E8%BE%A6%E4%BA%8B%E8%99%95%E5%8D%94%E8%AD%B0%E7%B0%BD%E7%BD%B2-12b381"
+            },
+            {
+              "name": "巴士的報",
+              "url": "https://www.bastillepost.com/hongkong/article/17231410-%e7%89%b9%e5%8d%80%e6%94%bf%e5%ba%9c%e8%88%87%e4%ba%9e%e6%8a%95%e8%a1%8c%e7%b0%bd%e7%bd%b2%e5%85%a9%e4%bb%bd%e5%8d%94%e8%ad%b0-%e7%a2%ba%e7%ab%8b%e5%9c%a8%e6%b8%af%e8%a8%ad%e8%be%a6%e4%ba%8b%e8%99%95"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "陳茂波率廿多人代表團深夜啟程訪問英國和荷蘭",
+          "summary": "財政司司長陳茂波今日深夜率領20多人代表團啟程訪問英國和荷蘭，成員包括政府部門、公營機構、行業組織以及投資界和創科界領袖，旨在增進商貿與創科交流並促成投資合作；代表團將於11月22日至25日訪英、25日至28日訪荷，他離港期間由財政司副司長黃偉綸署任財政司司長。",
+          "time_hkt": "2026-11-21T12:30:00+08:00",
+          "sources": [
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202611/21/P2026112100315.htm"
+            },
+            {
+              "name": "政府新聞網",
+              "url": "https://www.news.gov.hk/chi/2026/11/20261121/20261121_124800_209.html"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878693-20261121.htm"
+            },
+            {
+              "name": "巴士的報",
+              "url": "https://www.bastillepost.com/hongkong/article/17231287-%e9%99%b3%e8%8c%82%e6%b3%a2%e7%8e%8720%e5%a4%9a%e4%ba%ba%e4%bb%a3%e8%a1%a8%e5%9c%98%e8%a8%aa%e8%8b%b1%e8%8d%b7-%e6%b7%b1%e5%a4%9c%e5%95%9f%e7%a8%8b-%e6%86%80%e4%bf%83%e6%88%90%e6%9b%b4%e5%a4%9a"
+            }
+          ],
+          "rank": 5
+        }
+      ]
+    }
+  ]
+}
