@@ -1,0 +1,81 @@
+{
+  "date": "2026-11-22",
+  "hour": "00",
+  "updatedAt": "2026-11-22T00:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "AEON信貸證實系統遭未經授權查閱　稱暫無證據顯示資料被不當使用",
+          "summary": "AEON信貸財務（亞洲）證實近日發現公司系統遭未經授權查閱，稱已即時採取行動遏止影響並加強保安，並委聘獨立第三方網絡安全及數碼鑑證專家調查及評估潛在影響；現階段並無證據顯示資料被不當使用，網上平台及手機應用程式曾暫停服務逾兩日後於周六恢復，公司表示受影響客戶將獲個別通知。",
+          "time_hkt": "2026-11-21T21:03:00+08:00",
+          "sources": [
+            {
+              "name": "明報",
+              "url": "https://finance.mingpao.com/fin/instantf/20261121/1795266220053/aeon%e4%bf%a1%e7%94%a8%e5%8d%a1%e7%b6%b2%e4%b8%8a%e5%8f%8a%e6%89%8b%e6%a9%9fapp%e6%9c%8d%e5%8b%99%e4%b8%ad%e6%96%b7%e9%80%be%e5%85%a9%e6%97%a5-%e5%85%ac%e5%8f%b8%e8%ad%89%e5%af%a6%e7%b3%bb%e7%b5%b1%e9%81%ad%e6%9c%aa%e7%b6%93%e6%8e%88%e6%ac%8a%e6%9f%a5%e9%96%b1"
+            },
+            {
+              "name": "星島頭條",
+              "url": "https://www.stheadline.com/society/3639687/AEON%E4%BF%A1%E7%94%A8%E5%8D%A1%E7%B6%B2%E4%B8%8A%E5%B9%B3%E5%8F%B0%E5%8F%8A%E6%87%89%E7%94%A8%E7%A8%8B%E5%BC%8F%E6%9A%AB%E5%81%9C%E6%9C%8D%E5%8B%99%E9%80%BE%E5%85%A9%E6%97%A5-%E6%96%B9%E4%BF%9D%E5%83%91%E5%B1%AC%E6%96%BC%E6%A8%99%E6%BA%96%E7%B7%8A%E6%80%A5%E9%9A%94%E9%9B%A2%E6%8E%AA%E6%96%BD"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878730-20261121.htm"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "澤連斯基稱打擊克里米亞大橋是「公平回應」　英國國防大臣到訪基輔",
+          "summary": "烏克蘭總統澤連斯基在基輔接受BBC訪問時表示，烏克蘭多次打擊連接俄羅斯與被佔克里米亞的克里米亞大橋，是對俄軍109次襲擊烏克蘭橋樑的「公平回應」，並指該橋被用作軍事補給線，而非俄總統普京所稱的純民用設施；他其後與到訪基輔的英國國防大臣斯特里廷會面，斯特里廷表明此行是為顯示歐洲團結支持烏克蘭。",
+          "time_hkt": "2026-11-21T21:17:00+08:00",
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/c6wy0qj7w5zqo"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "歐盟與印尼簽署自由貿易協定　稱為歐盟在亞洲最雄心勃勃協議之一",
+          "summary": "歐盟與印尼周六在布魯塞爾簽署全面經濟夥伴關係協定及投資保護協定，歐盟委員會主席馮德萊恩稱為歐盟在亞洲最雄心勃勃的協議之一，涵蓋約7.3億人口市場；協議將取消對歐盟輸往印尼逾98%出口的關稅，預計每年可為歐盟出口商節省逾6億歐元關稅，並開放電動車、電子及醫藥等領域投資，待完成內部程序後料可於明年初適用。",
+          "time_hkt": "2026-11-21T20:12:00+08:00",
+          "sources": [
+            {
+              "name": "歐洲新聞台",
+              "url": "https://www.euronews.com/2026/11/21/european-union-and-indonesia-sign-free-trade-deal-after-decade-of-talks"
+            },
+            {
+              "name": "德國之聲",
+              "url": "https://www.dw.com/en/eu-and-indonesia-sign-trade-deal/a-80010099"
+            },
+            {
+              "name": "亞洲新聞台",
+              "url": "https://www.channelnewsasia.com/world/eu-indonesia-trade-deal-sign-ambitious-6571696"
+            },
+            {
+              "name": "南華早報",
+              "url": "https://www.scmp.com/news/asia/southeast-asia/article/3375341/indonesia-eu-sign-ambitious-trade-deal"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
