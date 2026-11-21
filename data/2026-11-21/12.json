@@ -1,0 +1,86 @@
+{
+  "date": "2026-11-21",
+  "hour": "12",
+  "updatedAt": "2026-11-21T12:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "羅淑佩：對全年訪港旅客達5500萬人次有一定信心",
+          "summary": "文化體育及旅遊局局長羅淑佩在電台節目表示，今年頭10個月訪港旅客已達4680萬人次、按年增長12%，當局原先估算全年可達5380萬人次，她對全年達到5500萬人次有一定信心；她並指深圳APEC會議帶動訪港住宿，尖東數間酒店入住率達92%至93%。",
+          "time_hkt": "2026-11-21T10:05:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878679-20261121.htm"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413372/%E9%A6%96%E5%8D%81%E6%9C%88%E8%A8%AA%E6%B8%AF%E5%AE%A2%E9%87%8F%E6%8C%89%E5%B9%B4%E5%8D%87%E9%80%BE%E4%B8%80%E6%88%90-%E7%BE%85%E6%B7%91%E4%BD%A9%E6%96%99%E5%85%A8%E5%B9%B4%E6%9C%89%E6%9C%9B%E7%AA%81%E7%A0%B45500%E8%90%AC%E4%BA%BA%E6%AC%A1"
+            },
+            {
+              "name": "am730",
+              "url": "https://www.am730.com.hk/%E6%9C%AC%E5%9C%B0/1064945/%E7%BE%85%E6%B7%91%E4%BD%A9-%E6%9C%89%E4%BF%A1%E5%BF%83%E5%85%A8%E5%B9%B4%E8%A8%AA%E6%B8%AF%E6%97%85%E5%AE%A2%E9%81%945500%E8%90%AC%E4%BA%BA%E6%AC%A1-%E6%9C%AA%E4%BE%86%E5%90%B8%E5%BC%95%E6%9B%B4%E5%A4%9A%E5%9C%8B%E9%9A%9B%E5%B7%A8%E6%98%9F%E9%96%8B%E6%BC%94%E5%94%B1%E6%9C%83"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "秘魯6.7級地震　首都利馬震感強烈",
+          "summary": "秘魯當地周五晚（香港時間今日上午8時9分）發生6.7級地震，秘魯地球物理研究所指震央位於胡寧省胡寧市西北約30公里、震源深度129公里，首都利馬等地震感強烈，居民一度走到戶外；香港天文台於8時20分發出強震報告，初步未有傳出重大傷亡。",
+          "time_hkt": "2026-11-21T08:09:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878674-20261121.htm"
+            },
+            {
+              "name": "新華網",
+              "url": "https://www.news.cn/20261121/2dc89aaecea1474a9d9518ee07513536/c.html"
+            },
+            {
+              "name": "香港天文台",
+              "url": "https://www.info.gov.hk/gia/wr/202611/21/P2026112100183.htm"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/peru-earthquake-andes-magnitude-67-d9c0a1de6be970d6a5a36993c607f29f"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "陳美寶：爭取年內通過為大宗商品貿易提供半稅優惠",
+          "summary": "運輸及物流局局長陳美寶在網誌表示，政府正加快建設綠色船用燃料交易平台，並爭取年內通過為大宗商品貿易提供半稅優惠，相關《2026年税務（修訂）（與航運有關的活動及實物大宗商品交易的稅務寬減）條例草案》下周三將在立法會大會恢復二讀，顧問估計每年可為香港帶來約46億港元經濟效益。",
+          "time_hkt": "2026-11-21T11:01:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878685-20261121.htm"
+            },
+            {
+              "name": "METROHK",
+              "url": "https://metrohk.com.hk/%E6%94%BF%E5%BA%9C%E5%85%AC%E5%91%8A/%E9%99%B3%E7%BE%8E%E5%AF%B6%E7%88%AD%E5%8F%96%E5%B9%B4%E5%85%A7%E9%80%9A%E9%81%8E%E5%A4%A7%E5%AE%97%E5%95%86%E5%93%81%E5%8D%8A%E7%A8%85%E5%84%AA%E6%83%A0-032b5d"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    }
+  ]
+}
+
