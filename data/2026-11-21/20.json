@@ -1,0 +1,141 @@
+{
+  "date": "2026-11-21",
+  "hour": "20",
+  "updatedAt": "2026-11-21T20:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "選委會界別分組一般選舉明日舉行　李家超到訪投票站籲踴躍投票",
+          "summary": "選舉委員會界別分組一般選舉將於明日（11月22日）上午9時至下午6時舉行，行政長官李家超下午在政制及內地事務局局長謝小華及選舉管理委員會主席陸啟康陪同下，到訪灣仔港灣道體育館投票站，了解場地佈置及最後準備並為工作人員打氣，呼籲約5,700名合資格投票人踴躍投票，在31個有競逐的界別分組中選出723名選委會委員；選管會表示籌備工作已就緒，全港設五個一般投票站，投票結束後所有投票箱將送往會展中央點票站點票。",
+          "time_hkt": "2026-11-21T16:14:00+08:00",
+          "sources": [
+            {
+              "name": "香港商報",
+              "url": "https://www.hkcd.com/hkcdweb/content/2026/11/21/content_8786567.html"
+            },
+            {
+              "name": "星島頭條",
+              "url": "https://www.stheadline.com/politics/3639626/%E9%81%B8%E5%A7%94%E6%9C%83%E9%81%B8%E8%88%89-%E6%9D%8E%E5%AE%B6%E8%B6%85%E4%BB%8A%E8%A6%96%E5%AF%9F%E7%81%A3%E4%BB%94%E7%A5%A8%E7%AB%99-%E7%B1%B2%E5%90%88%E8%B3%87%E6%A0%BC%E6%8A%95%E7%A5%A8%E4%BA%BA%E6%98%8E%E8%B8%B4%E8%BA%8D%E6%8A%95%E7%A5%A8"
+            },
+            {
+              "name": "文匯報",
+              "url": "https://www.wenweipo.com/a/202611/21/AP6b01581de4b028ec0194f903.html"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878710-20261121.htm"
+            },
+            {
+              "name": "巴士的報",
+              "url": "https://www.bastillepost.com/hongkong/article/17232470-%e9%81%b8%e5%a7%94%e6%9c%83%e7%95%8c%e5%88%a5%e5%88%86%e7%b5%84%e9%81%b8%e8%88%89%e5%91%a8%e6%97%a5%e8%88%89%e8%a1%8c-%e6%9d%8e%e5%ae%b6%e8%b6%85%e8%a6%96%e5%af%9f%e7%a5%a8%e7%ab%99%e7%b1%b2%e8%b8%b4"
+            },
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202611/21/P2026112100417.htm"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "伊朗稱在霍爾木茲海峽擊落美軍無人機　美方未即時證實",
+          "summary": "伊朗革命衛隊星期六稱，新防空系統在霍爾木茲海峽上空攔截並擊落一架美國MQ-9無人機，指這是開戰近九個月以來第58架被擊落的同類無人機，其後又稱在霍爾木茲海峽格什姆島上空擊落一架MQ-1無人機；美國軍方未即時置評，亦未有獨立核實，事件正值美伊結束戰爭的努力仍然停滯、雙方近日再度交火之際。",
+          "time_hkt": "2026-11-21T17:30:00+08:00",
+          "sources": [
+            {
+              "name": "半島電視台",
+              "url": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled"
+            },
+            {
+              "name": "Iran International",
+              "url": "https://www.iranintl.com/en/202611212508"
+            },
+            {
+              "name": "Dawn",
+              "url": "https://www.dawn.com/news/2046100/iran-says-it-shoots-down-58th-us-mq-9-drone-over-strait-of-hormuz"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "李強晤黃循財　指願加快推進中新自貿協定4.0版談判",
+          "summary": "國務院總理李強星期六上午在北京釣魚台國賓館與新加坡總理黃循財會談，表示中方願同新方加快推進中新自貿協定4.0版談判，促進更高水平雙向開放，並加強人工智能、清潔能源、互聯互通及金融等領域合作；他又指中新應在聯合國、亞太經合組織等場合協調配合，維護多邊貿易體制，中方支持新方明年擔任東盟輪值主席國。",
+          "time_hkt": "2026-11-21T16:33:00+08:00",
+          "sources": [
+            {
+              "name": "新華網",
+              "url": "https://www.news.cn/politics/leaders/20261121/b18a111d97ab4ad195f235623e51bdd9/c.html"
+            },
+            {
+              "name": "外交部",
+              "url": "https://www.fmprc.gov.cn/web/wjdt_674879/gjldrhd_674881/202611/t20261121_12064561.shtml"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878716-20261121.htm"
+            },
+            {
+              "name": "新加坡外交部",
+              "url": "https://www.mfa.gov.sg/newsroom/press-statements-transcripts-and-photos/prime-minister-and-minister-for-finance-lawrence-wong-s-meeting-with-premier-of-the-state-council-of-the-people-s-republic-of-china-li-qiang-in-beijing--21-november-2026/"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "米利班德：英國重返歐盟「所有選項都會擺上枱」　周五協議不取決於學費問題",
+          "summary": "英國外相米利班德接受BBC節目訪問時表示，首相安迪·伯納姆上星期五與歐盟達成的食品貿易、排放交易及青年流動協議將如期推進，並不取決於尚未談妥的歐盟學生學費問題；當被問及英國會否考慮重返歐盟時，他稱「所有選項都會擺上枱」，並指會衡量不同方案的利弊，但本屆國會仍會遵守不重返單一市場及關稅同盟的宣言紅線。",
+          "time_hkt": "2026-11-21T17:40:00+08:00",
+          "sources": [
+            {
+              "name": "BBC",
+              "url": "https://www.bbc.com/news/articles/cm9w9p4geke8o"
+            },
+            {
+              "name": "衞報",
+              "url": "https://www.theguardian.com/politics/2026/nov/21/rejoining-eu-uk-trade-youth-deals-ed-miliband"
+            },
+            {
+              "name": "獨立報",
+              "url": "https://www.independent.co.uk/news/business/ed-miliband-brussels-europe-ursula-von-der-leyen-prime-minister-b3089079.html"
+            }
+          ],
+          "rank": 4
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "神舟二十四號完成發射前最後一次全區合練　發射場已做好準備",
+          "summary": "神舟二十四號任務完成發射前最後一次全區合練，在北京航天飛行控制中心統一調度下，酒泉衛星發射中心、西安衛星測控中心及各測控點聯調聯控，全面模擬發射準備、發射及飛行過程，各系統完成功能檢查、設備狀態穩定、人員準備就緒；酒泉衛星發射中心表示，經過多日天氣分析後，專家組認為發射日當天天氣滿足任務最低氣象條件。",
+          "time_hkt": "2026-11-21T16:35:00+08:00",
+          "sources": [
+            {
+              "name": "新華網",
+              "url": "https://www.news.cn/20261121/d4bd6cd543cb4b2daf8958afce468550/c.html"
+            },
+            {
+              "name": "中新網",
+              "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735773.shtml"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878718-20261121.htm"
+            }
+          ],
+          "rank": 5
+        }
+      ]
+    }
+  ]
+}
