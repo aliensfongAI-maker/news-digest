@@ -1,0 +1,71 @@
+{
+  "date": "2026-11-22",
+  "hour": "12",
+  "updatedAt": "2026-11-22T12:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "選委會界別分組選舉開始投票　截至11時投票率69.61%",
+          "summary": "選舉委員會界別分組一般選舉今早9時至下午6時舉行，約5,709名合資格投票人在31個有競逐的界別分組中選出723名委員；截至上午10時投票率44.74%（2,554人），較上屆同時段高約30個百分點，南華早報指屬紀錄水平，截至11時升至69.61%（3,974人），其中商界（第三）113名選民已全部投票，選管會主席陸啟康表示票站運作暢順，有信心在公開、誠實和公平情況下於合理時間完成點票。",
+          "time_hkt": "2026-11-22T11:17:00+08:00",
+          "sources": [
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202611/22/P2026112200261.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878755-20261122.htm"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1207691-%E9%81%B8%E5%A7%94%E6%9C%83%E9%81%B8%E8%88%89%E6%88%AA%E8%87%B3%E4%B8%8A%E5%8D%8811%E6%99%823974%E4%BA%BA%E6%8A%95%E7%A5%A8%E6%8A%95%E7%A5%A8%E7%8E%876961"
+            },
+            {
+              "name": "南華早報",
+              "url": "https://www.scmp.com/news/hong-kong/politics/article/3375354/hong-kong-election-committee-race-long-lines-polling-stations-voting-begins"
+            },
+            {
+              "name": "星島頭條",
+              "url": "https://www.stheadline.com/politics/3638075/%E9%81%B8%E5%A7%94%E6%9C%83%E9%81%B8%E8%88%892026%E6%8C%81%E7%BA%8C%E6%9B%B4%E6%96%B0%E9%81%B8%E7%AE%A1%E6%9C%83%E6%8C%87%E7%A5%A8%E7%AB%99%E9%81%8B%E4%BD%9C%E6%9A%A2%E9%A0%86-%E6%9C%89%E4%BF%A1%E5%BF%83%E5%90%88%E7%90%86%E6%99%82%E9%96%93%E5%85%A7%E5%AE%8C%E6%88%90%E9%BB%9E%E7%A5%A8%E5%8F%8A%E5%85%AC%E5%B8%83%E7%B5%90%E6%9E%9C-%E9%A6%96%E5%85%A9%E5%B0%8F%E6%99%82%E6%8A%95%E7%A5%A8%E7%8E%87%E9%81%946961"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "中方反對美國擬禁中國電信商直接獲取美國互聯網電話號碼資源",
+          "summary": "中國商務部發言人今日就美國聯邦通訊委員會於11月19日通過規則、擬禁止中國電信、中國聯通及中國移動等被列入「覆蓋清單」的電信商直接獲取美國互聯網電話號碼資源發表談話，批評美方濫用監管權力、泛化國家安全風險並違反非歧視和公平競爭原則，表示中方堅決反對，敦促美方立即撤銷有關措施並回到磋商解決問題的道路，並稱將採取必要措施堅定維護自身利益。",
+          "time_hkt": "2026-11-22T09:00:00+08:00",
+          "sources": [
+            {
+              "name": "商務部",
+              "url": "https://www.mofcom.gov.cn/xwfb/sjfzrfb/art/2026/art_a8a703480a3a4720a247c584d9f77eeb.html"
+            },
+            {
+              "name": "新華網",
+              "url": "https://www.news.cn/world/20261122/851d80b000224df0bed28c95c524e15a/c.html"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1878750-20261122.htm"
+            },
+            {
+              "name": "第一財經",
+              "url": "https://www.yicai.com/brief/103449155.html"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    }
+  ]
+}
