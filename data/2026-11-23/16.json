@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-23",
+  "hour": "16",
+  "updatedAt": "2026-11-23T16:15:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "澤連斯基確認烏克蘭在利比亞近海以無人艇擊沉俄軍護衛艦「水星」號並擊中貨船",
+          "summary": "烏克蘭總統澤連斯基今日在社交媒體發文確認，烏方在利比亞近海出動7艘國產海上無人艇，擊沉俄軍2023年入役的護衛艦「水星」號並摧毀艦上卡-27直升機，同時擊中被指用於運送武器的俄籍貨船MV ANGARA，他稱之為回應俄羅斯戰爭的「典範行動」。",
+          "time_hkt": "2026-11-23T15:23:00+08:00",
+          "sources": [
+            {
+              "name": "烏克蘭國家通訊社",
+              "url": "https://www.ukrinform.ua/rubric-ato/4187537-vzirceva-operacia-u-livii-zelenskij-pidtverdiv-udari-po-rosijskomu-korvetu-merkurij-suhovantazu-i-ka27.html"
+            },
+            {
+              "name": "新華社",
+              "url": "https://www.news.cn/20261123/28fd1745a7ac4c5aaba8170e8da239ab/c.html"
+            },
+            {
+              "name": "半島電視台",
+              "url": "https://www.aljazeera.com/news/2026/11/23/zelenskyy-says-ukraine-behind-drone-attacks-on-russian-ships-near-libya"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/ukraine-russia-zelenskyy-warship-attack-libya-c382f8eb06dca7d87e89bc6c18ba7d61"
+            },
+            {
+              "name": "烏克蘭國際文傳電訊社",
+              "url": "https://en.interfax.com.ua/news/general/1240671.html"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
