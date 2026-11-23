@@ -1,0 +1,107 @@
+{
+    "date": "2026-11-23",
+    "hour": "20",
+    "updatedAt": "2026-11-23T20:15:00+08:00",
+    "sections": [
+        {
+            "id": "local",
+            "title": "本地／香港",
+            "items": [
+                {
+                    "headline": "打擊圍標特遣隊第二輪行動拘33人　涉15屋苑工程合約逾1.3億　另搗破賭檔油站等再拘64人",
+                    "summary": "保安局聯同警方、廉政公署及競爭事務委員會的打擊樓宇維修圍標聯合特遣隊，近日展開第二輪「UNITEDEDGE」行動，瓦解另一圍標集團，涉及全港15個屋苑或住宅大廈、工程合約總額逾1.3億元，並成功阻止兩份約760萬元維修合約，拘捕33名承建商、顧問公司及業主立案法團成員（部分有黑社會背景），另搗破非法賭檔、加油站及私煙倉庫等再拘64人；保安局局長鄧炳強表示，集團滲透法團、訛稱已有強制驗樓通知書以催促業主撥款，行動已切斷其資金鏈。",
+                    "time_hkt": "2026-11-23T17:41:00+08:00",
+                    "sources": [
+                        {
+                            "name": "香港電台",
+                            "url": "https://news.rthk.hk/rthk/ch/component/k2/1878964-20261123.htm"
+                        },
+                        {
+                            "name": "政府新聞公報",
+                            "url": "https://www.info.gov.hk/gia/general/202611/23/P2026112300596.htm"
+                        },
+                        {
+                            "name": "香港01",
+                            "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60413975/%E5%A4%A7%E7%B6%AD%E4%BF%AE%E5%9C%8D%E6%A8%99-%E8%81%AF%E5%90%88%E7%89%B9%E9%81%A3%E9%9A%8A%E6%8B%9833%E4%BA%BA-%E5%B7%A5%E7%A8%8B%E7%B8%BD%E9%A1%8D%E9%80%BE1-3%E5%84%84%E6%B6%8915%E5%B1%8B%E8%8B%91%E6%88%96%E5%A4%A7%E5%BB%88"
+                        },
+                        {
+                            "name": "英文虎報",
+                            "url": "https://www.thestandard.com.hk/news/article/349363/Interdepartmental-task-force-arrests-33-in-second-bid-rigging-crackdown"
+                        },
+                        {
+                            "name": "無綫新聞",
+                            "url": "https://news.tvb.com/tc/1207958-%E6%89%93%E6%93%8A%E5%9C%8D%E6%A8%99%E9%84%A7%E7%82%B3%E5%BC%B7%E6%8B%9897%E4%BA%BA%E6%B6%8915%E5%80%8B%E5%B1%8B%E8%8B%91%E5%8F%8A%E4%BD%8F%E5%AE%85%E9%80%BE13%E5%84%84%E5%90%88%E7%B4%84%E7%B8%BD%E9%A1%8D"
+                        }
+                    ],
+                    "rank": 1
+                },
+                {
+                    "headline": "李家超聽取宏福苑大火系統性改革進度　指示加快提交六條法例修訂　免費義診延長至明年4月底",
+                    "summary": "行政長官李家超今日聽取大埔宏福苑大火系統性改革進度，指示盡快將六條法例修訂草案提交立法會，其中《消防條例》將於下月進行首讀及二讀，並要求今年內成立樓宇維修支援及服務局；由政務司司長主持的督導委員會已落實29項建議。醫務衞生局同日宣布，向受影響居民提供的免費中西醫義診、牙醫鑲配假牙服務及醫管局全額醫療費用豁免，由原定今年12月底延長4個月至明年4月30日。",
+                    "time_hkt": "2026-11-23T18:00:00+08:00",
+                    "sources": [
+                        {
+                            "name": "政府新聞公報",
+                            "url": "https://www.info.gov.hk/gia/general/202611/23/P2026112300591.htm"
+                        },
+                        {
+                            "name": "香港電台",
+                            "url": "https://news.rthk.hk/rthk/ch/component/k2/1878966-20261123.htm"
+                        },
+                        {
+                            "name": "政府新聞公報",
+                            "url": "https://www.info.gov.hk/gia/general/202611/23/P2026112300359.htm"
+                        },
+                        {
+                            "name": "香港電台",
+                            "url": "https://news.rthk.hk/rthk/ch/component/k2/1878968-20261123.htm"
+                        },
+                        {
+                            "name": "無綫新聞",
+                            "url": "https://news.tvb.com/sc/1207969-%E5%AE%8F%E7%A6%8F%E8%8B%91%E6%9D%8E%E5%AE%B6%E8%B6%85%E8%81%BD%E5%8F%96%E5%90%84%E9%83%A8%E9%96%80%E6%94%B9%E9%9D%A9%E9%80%B2%E5%BA%A6%E7%A8%B1%E6%94%BF%E5%BA%9C%E5%B0%8D%E5%B1%85%E6%B0%91%E5%82%B7%E7%97%9B%E6%84%9F%E5%90%8C%E8%BA%AB%E5%8F%97"
+                        },
+                        {
+                            "name": "香港文匯報",
+                            "url": "https://www.wenweipo.com/a/202611/23/AP6b04141be4b028ec01954bbf.html"
+                        }
+                    ],
+                    "rank": 3
+                }
+            ]
+        },
+        {
+            "id": "tech",
+            "title": "科技",
+            "items": [
+                {
+                    "headline": "CrowdStrike以全股票交易約439億美元收購Zscaler　屬歷來最大網絡安全併購之一",
+                    "summary": "網絡安全公司CrowdStrike今日宣布以全股票交易收購同業Zscaler，交易估值約439億美元，Zscaler股東每股可換1.135股CrowdStrike股份，較前收市溢價約34%，尚待股東及監管批准，預計於CrowdStrike 2028財年下半年完成；消息公布後Zscaler盤前升逾13%，CrowdStrike則跌逾8%。",
+                    "time_hkt": "2026-11-23T18:43:00+08:00",
+                    "sources": [
+                        {
+                            "name": "CrowdStrike",
+                            "url": "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-acquire-zscaler-bringing-network-security-and-zero"
+                        },
+                        {
+                            "name": "CNBC",
+                            "url": "https://www.cnbc.com/2026/11/23/crowdstrike-to-buy-zscaler.html"
+                        },
+                        {
+                            "name": "彭博",
+                            "url": "https://news.bloomberglaw.com/mergers-and-acquisitions/crowdstrike-reaches-44-billion-cybersecurity-deal-for-zscaler"
+                        },
+                        {
+                            "name": "新浪財經",
+                            "url": "https://finance.sina.com.cn/stock/bxjj/2026-11-23/doc-iniztmue0624317.shtml"
+                        },
+                        {
+                            "name": "財聯社",
+                            "url": "https://www.cls.cn/detail/2541975"
+                        }
+                    ],
+                    "rank": 2
+                }
+            ]
+        }
+    ]
+}
