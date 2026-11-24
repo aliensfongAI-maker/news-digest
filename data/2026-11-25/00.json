@@ -1,0 +1,165 @@
+{
+  "date": "2026-11-25",
+  "hour": "00",
+  "updatedAt": "2026-11-25T00:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "伊利沙伯醫院內科女病房4名病人感染甲型流感　其中1人因自身疾病情況危殆",
+          "summary": "伊利沙伯醫院公布，一個內科女病房自本月20日起先後有4名60至75歲病人出現發燒或呼吸道感染徵狀，病毒測試均對甲型流感呈陽性，四人現正接受隔離治療，其中一人因自身疾病情況危殆、其餘三人情況穩定；院方已加強感染控制，並已將個案呈報醫管局總辦事處及衞生防護中心。",
+          "time_hkt": "2026-11-24T20:13:00+08:00",
+          "sources": [
+            {
+              "name": "政府新聞公報",
+              "url": "https://www.info.gov.hk/gia/general/202611/24/P2026112400657.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879117-20261124.htm"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1208231"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60414590/%E6%B5%81%E6%84%9F-%E4%BC%8A%E5%88%A9%E6%B2%99%E4%BC%AF%E9%86%AB%E9%99%A2%E5%85%A7%E7%A7%91%E5%A5%B3%E7%97%85%E6%88%BF%E7%88%86%E7%94%B2%E6%B5%81%E7%BE%A4%E7%B5%84-4%E7%97%85%E4%BA%BA%E7%99%BC%E7%87%92-%E4%B8%80%E4%BA%BA%E5%8D%B1%E6%AE%86"
+            }
+          ],
+          "rank": 6
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "英國兩男子涉擅闖威廉與凱特鄉間住所安默莊園被捕",
+          "summary": "英國諾福克郡警方表示，星期一傍晚6時前不久接報桑德靈厄姆莊園內的安默莊園出現可疑活動，隨即出動警犬、無人機及直升機搜查，並以涉嫌入屋犯法及擅闖拘捕兩名男子，當時屋內無人，兩人仍被扣留；肯辛頓宮表示不評論保安事宜，英國廣播公司報道安默莊園是已故英女王在威廉與凱特2011年結婚後送給兩人的鄉間住所，他們並非長期在此居住。",
+          "time_hkt": "2026-11-24T21:15:00+08:00",
+          "sources": [
+            {
+              "name": "英國廣播公司",
+              "url": "https://www.bbc.co.uk/news/articles/cr9d7qdg24vno"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/britain-prince-william-catherine-home-broken-into-ece0bfe1e1c9bb626fde429a7b29dc16"
+            },
+            {
+              "name": "紐約時報",
+              "url": "https://www.nytimes.com/2026/11/24/world/europe/prince-william-kate-home-break-in-anmer-hall-uk.html"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879120-20261124.htm"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "以軍空襲打死哈馬斯內部安全負責人納伊姆·阿布納赫爾　加沙至少7人死亡",
+          "summary": "加沙哈馬斯領導的內政部表示，以軍無人機在加沙城西部擊斃任職僅約兩個月的哈馬斯內部安全負責人、50歲的納伊姆·阿布納赫爾，目擊者稱他在流離失所者帳篷營地附近行人時遇襲；以色列總理內塔尼亞胡及國防部長卡茨宣布將其「清除」，衛生部門及救援人員指星期二加沙至少另有6人在較早空襲中死亡，連同這次襲擊共至少7人死亡。",
+          "time_hkt": "2026-11-24T20:12:00+08:00",
+          "sources": [
+            {
+              "name": "英國廣播公司",
+              "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o"
+            },
+            {
+              "name": "半島電視台",
+              "url": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strike-kills-senior-hamas-military-official-in-gaza"
+            },
+            {
+              "name": "以色列時報",
+              "url": "https://www.timesofisrael.com/israel-kills-hamas-security-chief-in-gaza-city-weeks-after-capturing-predecessor/"
+            },
+            {
+              "name": "歐洲新聞台",
+              "url": "https://www.euronews.com/2026/11/24/israeli-strike-kills-hamas-internal-security-chief-in-gaza-source-tells-afp"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "胡塞武裝襲擊利雅得金融區大廈致11人受傷　目擊者稱再擊中公共投資基金大樓",
+          "summary": "沙特民防表示，星期二利雅得阿卜杜拉國王金融區一幢大樓遭襲，造成11人受傷，包括2名沙特公民、2名印度人、3名尼泊爾人及4名埃及人；沙特主導聯盟譴責這是胡塞武裝發動的「恐怖襲擊」，聯盟未正式指明遇襲樓宇，但多名目擊者向法新社表示目標是本周內第二次遇襲、作為主權財富基金總部的公共投資基金（PIF）大樓。",
+          "time_hkt": "2026-11-24T21:08:00+08:00",
+          "sources": [
+            {
+              "name": "阿拉伯新聞",
+              "url": "https://www.arabnews.com/saudi-arabia/11-injured-after-houthi-attack-on-tower-in-riyadhs-financial-district-3013857"
+            },
+            {
+              "name": "半島電視台",
+              "url": "https://www.aljazeera.com/news/2026/11/24/saudi-led-coalition-condemns-terrorist-attack-on-tower-in-riyadh"
+            },
+            {
+              "name": "南華早報",
+              "url": "https://www.scmp.com/news/world/middle-east/article/3375667/saudi-condemns-terrorist-attack-after-riyadh-skyscraper-hit-twice-week"
+            },
+            {
+              "name": "沙特通訊社",
+              "url": "https://www.spa.gov.sa/en/w2735283"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "王毅與英國外相文立彬通話　願推動中英關係成熟穩健可持續發展",
+          "summary": "新華社報道，中共中央政治局委員、外長王毅應約與英國外相文立彬通電話，表示中方願同英方推動中英關係成熟、穩健、可持續向前發展，並希望英方切實恪守一個中國原則、堅持自由貿易及為中國企業提供穩定政策預期和良好營商環境；文立彬表示英方重視發展對華關係，重申在台灣問題上立場沒有改變，雙方並就中東及烏克蘭等問題交換意見。",
+          "time_hkt": "2026-11-24T22:26:40+08:00",
+          "sources": [
+            {
+              "name": "新華社",
+              "url": "https://www.news.cn/politics/leaders/20261124/b8a2245bb4a64325b1a61a4c042c4870/c.html"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879121-20261124.htm"
+            },
+            {
+              "name": "路透社",
+              "url": "https://www.streetinsider.com/Reuters/China+urges+Britain+to+support+free+trade%2C+provide%C2%A0favourable+business+environment/27392141.html"
+            }
+          ],
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "美國11月消費信心指數升至103.3　遠高過預期的92.5",
+          "summary": "世界大型企業研究會公布，美國11月消費者信心指數升11.4點至103.3，高過市場預期的92.5，亦高過10月的91.9，現況指數升至132.8、預期指數升至83.6，為連續第二個月上升，並回到2025年1月以來的水平，該會經濟學家指中期選舉過後不確定性下降可能是原因之一。",
+          "time_hkt": "2026-11-24T23:00:00+08:00",
+          "sources": [
+            {
+              "name": "世界大型企業研究會",
+              "url": "https://www.prnewswire.com/news-releases/us-consumer-confidence-surged-in-november-302949447.html"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/consumer-economy-confidence-inflation-9d13d96cc3e4bac8f334f9145c718e42"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879128-20261124.htm"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/video/2026/11/24/november-consumer-confidence-comes-in-at-103-point-3-surpassing-estimates.html"
+            }
+          ],
+          "rank": 4
+        }
+      ]
+    }
+  ]
+}
