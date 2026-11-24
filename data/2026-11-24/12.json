@@ -1,0 +1,207 @@
+{
+    "date": "2026-11-24",
+    "hour": "12",
+    "updatedAt": "2026-11-24T12:15:00+08:00",
+    "sections": [
+        {
+            "id": "local",
+            "title": "本地／香港",
+            "items": [
+                {
+                    "headline": "當局讚香港航天員黎家盈出色完成神舟二十三號任務　其後將與巴航員乘神舟二十三號返回",
+                    "summary": "中國載人航天工程新聞發言人在神舟二十四號任務新聞發布會表示，香港航天員黎家盈在神舟二十三號任務中擔任載荷專家，於空間科學研究、技術試驗及「天宮課堂·港澳專場」科普授課等方面很好完成各項任務，並在出艙活動中於艙內操作機械臂，協助隊友完成太陽翼維修及空間碎片防護裝置安裝；按計劃，巴基斯坦航天員完成短期聯合飛行後，將與張志遠、黎家盈共同搭乘神舟二十三號返回，張志遠擔任返回指令長，湯洪波、武毅及朱楊柱則繼續駐留空間站。",
+                    "time_hkt": "2026-11-24T10:13:00+08:00",
+                    "sources": [
+                        {
+                            "name": "香港電台",
+                            "url": "https://news.rthk.hk/rthk/ch/component/k2/1879039-20261124.htm"
+                        },
+                        {
+                            "name": "香港01",
+                            "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60414208/%E6%B8%AF%E7%94%A2%E5%A4%AA%E7%A9%BA%E4%BA%BA%E9%BB%8E%E5%AE%B6%E7%9B%88%E7%8D%B2%E8%AE%9A%E5%87%BA%E8%89%B2%E5%AE%8C%E6%88%90%E7%A5%9E%E5%BB%BF%E4%B8%89%E4%BB%BB%E5%8B%99-%E6%96%99%E4%B8%8B%E5%91%A8%E8%BF%94%E5%9B%9E%E5%9C%B0%E7%90%83"
+                        },
+                        {
+                            "name": "am730",
+                            "url": "https://www.am730.com.hk/%E4%B8%AD%E5%9C%8B/1065366/%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E8%99%9F-%E9%BB%8E%E5%AE%B6%E7%9B%88%E6%96%99%E4%B8%8B%E5%91%A8%E8%BF%94%E5%9C%B0%E7%90%83-%E7%8D%B2%E8%AE%9A%E5%87%BA%E8%89%B2%E5%AE%8C%E6%88%90%E7%A5%9E%E5%BB%BF%E4%B8%89%E4%BB%BB%E5%8B%99"
+                        },
+                        {
+                            "name": "香港文匯報",
+                            "url": "https://www.wenweipo.com/a/202611/24/AP6b04e9e8e4b028ec01955eba.html"
+                        }
+                    ],
+                    "rank": 3
+                },
+                {
+                    "headline": "陳國基稱會全數落實宏福苑獨立委員會120項建議　政府不會組織悼念活動",
+                    "summary": "政務司司長陳國基在電台節目表示，政府會全數落實宏福苑火災獨立委員會提出的120項建議，其中近30項已推行，其餘近九成已準備或正開展落實，絕大部分將於明年完成，十多項因須諮詢業界或修例而需時較長；公務員敍用委員會將釐清責任，估計接見約100人、當中約40至50人為調查對象，一旦確認缺失可展開紀律聆訊，最嚴重可開除或強迫退休。他又說，因坊間已有不少包括宗教團體的悼念活動，政府不會另行組織悼念，但不會妨礙合法悼念，必要時可提供交通等協助，並呼籲市民小心選擇，以免被利用。",
+                    "time_hkt": "2026-11-24T09:38:00+08:00",
+                    "sources": [
+                        {
+                            "name": "香港電台",
+                            "url": "https://news.rthk.hk/rthk/ch/component/k2/1879036-20261124.htm"
+                        },
+                        {
+                            "name": "香港01",
+                            "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60414241/%E5%AE%8F%E7%A6%8F%E8%8B%91%E4%B8%80%E5%91%A8%E5%B9%B4-%E9%99%B3%E5%9C%8B%E5%9F%BA%E7%A8%B1%E6%94%BF%E5%BA%9C%E4%B8%8D%E8%BE%A6%E6%82%BC%E5%BF%B5%E6%83%9F%E4%B8%8D%E9%98%BB%E5%90%88%E6%B3%95%E6%B4%BB%E5%8B%95-%E7%B1%B2%E5%B8%82%E6%B0%91%E6%85%8E%E9%81%B8"
+                        },
+                        {
+                            "name": "橙新聞",
+                            "url": "https://www.orangenews.hk/hongkong/VbqwxOF/%E5%AE%8F%E7%A6%8F%E8%8B%91-%E9%99%B3%E5%9C%8B%E5%9F%BA%E7%A8%B1120%E9%A0%85%E7%8D%A8%E7%AB%8B%E5%A7%94%E5%93%A1%E6%9C%83%E5%BB%BA%E8%AD%B0%E5%B0%87%E5%85%A8%E6%95%B8%E8%90%BD%E5%AF%A6-%E8%BF%9150%E5%85%AC%E5%8B%99%E5%93%A1%E6%88%90%E8%AA%BF%E6%9F%A5%E5%B0%8D%E8%B1%A1.shtml"
+                        }
+                    ],
+                    "rank": 4
+                },
+                {
+                    "headline": "丘成桐牽頭在港成立亞洲數學聯盟　聚焦純數、應用數學、統計學及人工智能",
+                    "summary": "菲爾茲獎得主、數學家丘成桐牽頭在香港成立「亞洲數學聯盟」，邀請數十名資深數學家及年青學者來港進行學術研究與定期交流，並聚焦基礎純數、應用數學、統計學和人工智能四大範疇；他接受香港電台專訪時表示，亞洲需要類似美歐數學學會的組織以匯聚人才，香港具備背靠內地科研資源及英語環境的優勢，並指人工智能與數學密不可分，無需擔心人工智能將完全取代人類工作。",
+                    "time_hkt": "2026-11-24T11:09:00+08:00",
+                    "sources": [
+                        {
+                            "name": "香港電台",
+                            "url": "https://news.rthk.hk/rthk/ch/component/k2/1879047-20261124.htm"
+                        },
+                        {
+                            "name": "Metro Radio",
+                            "url": "https://metrohk.com.hk/%E6%B8%AF%E8%81%9E/%E4%B8%98%E6%88%90%E6%A1%90%E7%89%BD%E9%A0%AD%E7%AB%8B%E4%BA%9E%E6%B4%B2%E6%95%B8%E5%AD%B8%E8%81%AF%E7%9B%9F-%E8%81%9A%E7%84%A6%E5%9B%9B%E5%A4%A7%E7%AF%84%E7%96%87-feff40"
+                        },
+                        {
+                            "name": "大公報",
+                            "url": "https://www.tkww.hk/epaper/view/newsDetail/2124929512172032000.html"
+                        }
+                    ],
+                    "rank": 7
+                }
+            ]
+        },
+        {
+            "id": "international",
+            "title": "國際",
+            "items": [
+                {
+                    "headline": "神舟二十四號瞄準明早8時18分發射　天宮將首迎巴基斯坦外籍航天員",
+                    "summary": "中國載人航天工程辦公室在酒泉衛星發射中心召開新聞發布會宣布，神舟二十四號載人飛船瞄準北京時間11月25日上午8時18分發射，乘組由指令長湯洪波、武毅及巴基斯坦載荷專家穆罕默德·齊尚·阿里組成，將是中國空間站首次迎來外籍航天員，亦是中國載人航天史上首次中外航天員聯合飛行；湯洪波將成為首位三次到訪「天宮」的航天員，長征二號F遙二十四運載火箭正準備加注推進劑，巴方航天員在軌期間將開展4個中巴合作科學項目。",
+                    "time_hkt": "2026-11-24T09:05:00+08:00",
+                    "sources": [
+                        {
+                            "name": "香港電台",
+                            "url": "https://news.rthk.hk/rthk/ch/component/k2/1879029-20261124.htm"
+                        },
+                        {
+                            "name": "香港電台",
+                            "url": "https://news.rthk.hk/rthk/ch/component/k2/1879044-20261124.htm"
+                        },
+                        {
+                            "name": "香港01",
+                            "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/60414137/%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E8%99%9F%E7%9B%B4%E6%92%AD-%E5%91%A8%E4%B8%898%E6%99%8218%E5%88%86%E7%99%BC%E5%B0%84-%E5%A4%96%E7%B1%8D%E8%88%AA%E5%A4%A9%E5%93%A1%E5%8F%83%E8%88%87%E9%BB%8E%E5%AE%B6%E7%9B%88%E8%BF%94%E8%88%AA"
+                        },
+                        {
+                            "name": "南華早報",
+                            "url": "https://www.scmp.com/news/china/science/article/3375536/pakistani-astronaut-joins-shenzhou-24-crew-heading-chinas-tiangong-space-station"
+                        },
+                        {
+                            "name": "中國新聞社",
+                            "url": "https://www.chinanews.com.cn/gn/2026/11-24/10736781.shtml"
+                        },
+                        {
+                            "name": "香港文匯報",
+                            "url": "https://www.wenweipo.com/a/202611/24/AP6b04e70ae4b028ec01955e5c.html"
+                        }
+                    ],
+                    "rank": 1
+                }
+            ]
+        },
+        {
+            "id": "finance-global",
+            "title": "財經（全球）",
+            "items": [
+                {
+                    "headline": "黃仁勳重返Nvidia帶動亞洲科技股急升　台股初段升逾9%重上4萬點　日韓股市同步大漲",
+                    "summary": "受隔夜美股及Nvidia股價急升帶動，亞洲股市周二全面反彈：台灣加權指數初段報40153點，升3341點或9.08%，重上4萬點且接近漲停；韓國綜合指數初段升近6%，其後升幅擴大至逾7%；日經平均指數假期後復市，半日收報58675點，升2239點或3.97%，早盤一度升穿59000點、升幅近5%；內地股市亦升，深成指及創業板指數初段分別升逾2%及3%。",
+                    "time_hkt": "2026-11-24T08:19:00+08:00",
+                    "sources": [
+                        {
+                            "name": "香港電台",
+                            "url": "https://news.rthk.hk/rthk/ch/component/k2/1879030-20261124.htm"
+                        },
+                        {
+                            "name": "香港電台",
+                            "url": "https://news.rthk.hk/rthk/ch/component/k2/1879023-20261124.htm"
+                        },
+                        {
+                            "name": "香港電台",
+                            "url": "https://news.rthk.hk/rthk/ch/component/k2/1879045-20261124.htm"
+                        },
+                        {
+                            "name": "南華早報",
+                            "url": "https://www.scmp.com/news/asia/east-asia/article/3375547/jensen-huangs-nvidia-return-buoys-south-korea-japan-stocks"
+                        },
+                        {
+                            "name": "CNBC",
+                            "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html"
+                        },
+                        {
+                            "name": "金融時報",
+                            "url": "https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47"
+                        }
+                    ],
+                    "rank": 2
+                }
+            ]
+        },
+        {
+            "id": "finance-hk",
+            "title": "財經（香港）",
+            "items": [
+                {
+                    "headline": "恒指競價時段升243點　科指升逾2%　人民幣中間價創近4年半高位",
+                    "summary": "港股跟隨亞洲同業在競價時段高開，恒生指數報22627點，升243點或1.09%，恒生科技指數報3579點，升71點或2.05%，市場聚焦Nvidia行政總裁黃仁勳復職後人工智能股份反彈；人民幣兌美元中間價報6.7111，較上日升9點子，創近四年半高位。",
+                    "time_hkt": "2026-11-24T09:28:00+08:00",
+                    "sources": [
+                        {
+                            "name": "香港電台",
+                            "url": "https://news.rthk.hk/rthk/ch/component/k2/1879033-20261124.htm"
+                        },
+                        {
+                            "name": "香港電台",
+                            "url": "https://news.rthk.hk/rthk/en/component/k2/1879040-20261124.htm"
+                        },
+                        {
+                            "name": "香港電台",
+                            "url": "https://news.rthk.hk/rthk/ch/component/k2/1879032-20261124.htm"
+                        },
+                        {
+                            "name": "南華早報",
+                            "url": "https://www.scmp.com/business/china-business/article/3375538/hong-kong-stocks-surge-jensen-huangs-surprising-comeback-revives-ai-trade"
+                        },
+                        {
+                            "name": "英文虎報",
+                            "url": "https://www.thestandard.com.hk/finance/article/349422/Hong-Kong-shares-rise-at-open-as-Jensen-Huangs-return-lifts-tech-shares"
+                        },
+                        {
+                            "name": "星島日報",
+                            "url": "https://www.stheadline.com/stock-market/3640500/%E9%BB%83%E4%BB%81%E5%8B%B3%E5%BC%B7%E5%8B%A2%E5%9B%9E%E6%AD%B8-AI%E8%82%A1%E7%98%8B%E7%82%92-%E6%81%92%E6%8C%87%E9%AB%98%E9%96%8B243%E9%BB%9E-%E6%99%BA%E8%AD%9C%E5%8B%9D%E5%AE%8F%E5%8F%8A%E4%B8%AD%E9%9A%9B%E6%97%AD%E5%89%B5%E7%B4%9B%E6%BC%B215%E6%B8%AF%E8%82%A1%E9%96%8B%E5%B8%82"
+                        }
+                    ],
+                    "rank": 5
+                },
+                {
+                    "headline": "先通醫藥成港股首隻無紙化新股掛牌　唐家成稱標誌香港開始過渡至無紙證券市場",
+                    "summary": "先通醫藥今日掛牌，成為首隻以無紙形式發行的港股新股，開市報49元，較招股價低近6%；港交所主席唐家成在上市儀式上表示，此事標誌香港開始過渡至無紙證券市場，未來新股不再以實物形式發行，有助建立更高效、現代化及數碼化的市場，現有證券將在五年過渡期內逐步納入，港交所本身將於明年2月首批轉換，投資者仍可按自身步伐將持有的證券轉為無紙化，現有實物股票仍然有效。",
+                    "time_hkt": "2026-11-24T10:02:00+08:00",
+                    "sources": [
+                        {
+                            "name": "香港電台",
+                            "url": "https://news.rthk.hk/rthk/ch/component/k2/1879038-20261124.htm"
+                        },
+                        {
+                            "name": "香港電台",
+                            "url": "https://news.rthk.hk/rthk/ch/component/k2/1879033-20261124.htm"
+                        }
+                    ],
+                    "rank": 6
+                }
+            ]
+        }
+    ]
+}
