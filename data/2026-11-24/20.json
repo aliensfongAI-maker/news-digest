@@ -1,0 +1,231 @@
+{
+  "date": "2026-11-24",
+  "hour": "20",
+  "updatedAt": "2026-11-24T20:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "港怡醫院手機程式遭未獲授權存取　部分病人個人資料外洩",
+          "summary": "港怡醫院公布，本月18日發現由第三方維護的手機應用程式「港怡『智』健康」保安設施出現未獲授權活動，部分病人姓名、身份證明文件號碼及聯絡資料遭存取，院方稱醫療紀錄及付款資料未受影響、事件已受遏制並已暫停程式服務；私隱公署表示23日接獲通報並已展開調查，機構仍未能確認受影響人數，消息指約49萬人，警方將案件列作「不誠實使用電腦」跟進。",
+          "time_hkt": "2026-11-24T17:16:00+08:00",
+          "sources": [
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60414487/%E6%B8%AF%E6%80%A1%E9%86%AB%E9%99%A2%E6%89%8B%E6%A9%9F%E7%A8%8B%E5%BC%8F%E5%A4%96%E6%B3%8449%E8%90%AC%E7%97%85%E4%BA%BA%E8%B3%87%E6%96%99-%E6%93%9A%E6%82%89%E9%99%A2%E6%96%B9%E5%B7%B2%E5%A0%B1%E8%AD%A8-%E6%9A%AB%E6%B2%92%E6%8E%A5%E5%8B%92%E7%B4%A2"
+            },
+            {
+              "name": "星島日報",
+              "url": "https://www.stheadline.com/society/3640690/"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879095-20261124.htm"
+            },
+            {
+              "name": "港怡醫院",
+              "url": "https://gleneagles.hk/user_uploads/Website-Statement_EN.pdf"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "中聯辦及港澳辦發聲回顧宏福苑火災一周年　稱支持追責問責及改革",
+          "summary": "宏福苑火災一周年之際，中聯辦發言人表示一年來與香港市民感同身受，讚特區政府從刑事、行政及政治三個層面追責問責「力度空前」，並支持推進樓宇維修等系統性改革；國務院港澳辦署名「港澳平」的文章指中央始終牽掛災民安危，肯定特區政府善後及改革工作，同時提醒警惕「以災亂港」圖謀。",
+          "time_hkt": "2026-11-24T18:14:00+08:00",
+          "sources": [
+            {
+              "name": "星島日報",
+              "url": "https://www.stheadline.com/politics/3640720/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD%E4%B8%80%E5%91%A8%E5%B9%B4-%E4%B8%AD%E8%81%AF%E8%BE%A6%E9%81%8E%E5%8E%BB%E4%B8%80%E5%B9%B4%E8%88%87%E9%A6%99%E6%B8%AF%E5%B8%82%E6%B0%91%E6%84%9F%E5%90%8C%E8%BA%AB%E5%8F%97-%E8%AE%9A%E6%94%BF%E5%BA%9C%E4%B8%89%E5%B1%A4%E9%9D%A2%E8%BF%BD%E8%B2%AC%E5%95%8F%E8%B2%AC%E5%8A%9B%E5%BA%A6%E7%A9%BA%E5%89%8D"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879102-20261124.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879101-20261124.htm"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1208172"
+            }
+          ],
+          "rank": 5
+        },
+        {
+          "headline": "周一鳴：銳眼計劃已啟用人臉辨識　曾於約一小時尋回失蹤長者",
+          "summary": "警務處處長周一鳴在元朗區議會表示，本月16日起在「銳眼計劃」啟用人工智能人臉辨識技術，除打擊罪案外亦協助尋找失蹤人士，並指最近一名居於新界、患失智症的長者失蹤後，警方在港島尋獲，由報案至尋回只花一個多小時；他又說「防騙視伏App」加強人工智能功能後，過去一年詐騙電話舉報數字上升一倍。",
+          "time_hkt": "2026-11-24T16:12:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879081-20261124.htm"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1208163"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60410956/%E5%91%A8%E4%B8%80%E9%B3%B4-%E9%8A%B3%E7%9C%BC%E4%BA%BA%E8%87%89%E8%AD%98%E5%88%A5%E6%9C%89%E5%88%B6%E8%A1%A1%E9%9D%9E-%E6%83%B3%E7%94%A8%E5%B0%B1%E7%94%A8-%E5%85%A8%E9%83%A8%E6%8B%8D%E6%94%9D%E5%85%AC%E7%9C%BE%E5%9C%B0%E6%96%B9"
+            }
+          ],
+          "rank": 8
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "上海市委書記陳吉寧涉嫌嚴重違紀違法　正接受中央紀委國家監委審查調查",
+          "summary": "新華社報道，中共中央政治局委員、上海市委書記陳吉寧涉嫌嚴重違紀違法，目前正接受中央紀委國家監委審查調查。",
+          "time_hkt": "2026-11-24T19:30:00+08:00",
+          "sources": [
+            {
+              "name": "新華社",
+              "url": "https://www.news.cn/legal/20261124/378b13d41b634900bbe3b8e3de92958d/c.html"
+            },
+            {
+              "name": "南華早報",
+              "url": "https://www.scmp.com/news/china/politics/article/3375640/shanghai-party-chief-faces-corruption-probe"
+            },
+            {
+              "name": "彭博",
+              "url": "https://www.bloomberg.com/news/articles/2026-11-24/china-probes-politburo-member-and-shanghai-chief-chen-jining"
+            },
+            {
+              "name": "中國新聞社",
+              "url": "https://www.chinanews.com.cn/gn/2026/11-24/10737144.shtml"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "越南河內餐廳爆炸增至最少6死10傷　初步指與烹飪燃氣有關",
+          "summary": "越南首都河內一間餐廳當地早上約8時發生爆炸，導致建築物倒塌，增至最少6人死亡、10人受傷，附近房屋亦告受損；越南公安部表示，初步調查顯示爆炸與烹飪用氣體有關。",
+          "time_hkt": "2026-11-24T16:46:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879085-20261124.htm"
+            },
+            {
+              "name": "南華早報",
+              "url": "https://www.scmp.com/news/asia/southeast-asia/article/3375639/suspected-gas-explosion-vietnamese-hotpot-restaurant-kills-6"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/vietnam-hanoi-eatery-explosion-suspected-gas-leak-cb339f6ed24c5c751124ae9916bf4bc7"
+            },
+            {
+              "name": "半島電視台",
+              "url": "https://www.aljazeera.com/news/2026/11/24/vietnam-restaurant-blast-kills-at-least-six"
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "Nvidia股價盤前跌逾5%　黃仁勳復任引發美國政界反彈",
+          "summary": "在行政總裁黃仁勳復任帶動下，Nvidia星期一收市升約三成後，星期二美股盤前一度跌約5.4%；美國總統特朗普稱曾說服董事會讓黃仁勳復職，民主、共和兩黨議員均提出質疑，國會並將就相關中國聯繫及總統介入作出質詢。",
+          "time_hkt": "2026-11-24T17:12:00+08:00",
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html"
+            },
+            {
+              "name": "英國廣播公司",
+              "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o"
+            },
+            {
+              "name": "衛報",
+              "url": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates"
+            },
+            {
+              "name": "金融時報",
+              "url": "https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "人行明日將開展8000億元人民幣一年期MLF及5000億元逆回購",
+          "summary": "中國人民銀行預告，將於明日開展8000億元人民幣、期限一年的中期借貸便利（MLF）操作，較本月到期量減少2000億元，並為保持銀行體系流動性充裕，同步開展5000億元人民幣7天期逆回購操作。",
+          "time_hkt": "2026-11-24T17:54:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879088-20261124.htm"
+            },
+            {
+              "name": "新浪財經",
+              "url": "https://finance.sina.com.cn/jryx/bank/2026-11-24/doc-inizvqtf2259771.shtml"
+            },
+            {
+              "name": "中國金融信息網",
+              "url": "https://www.cnfin.com/yw-lb/detail/20261124/4499714_1.html"
+            }
+          ],
+          "rank": 9
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "恒指收市跌164點連跌6日　創逾一年半收市新低　成交逾2126億",
+          "summary": "港股先高後低，恒生指數早段曾升逾260點後倒跌，收市報22219點，跌164點或0.73%，創逾一年半收市新低，連跌6個交易日累計挫逾1500點，成交額逾2126億元；恒生科技指數收報3466點，跌41點或1.17%，創逾兩年低位，小米及美團跌逾3%，首日掛牌的先通醫藥較招股價低23%。",
+          "time_hkt": "2026-11-24T16:29:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879084-20261124.htm"
+            },
+            {
+              "name": "新華社",
+              "url": "https://www.news.cn/20261124/860759fa1b254325a2af738ecd1108d6/c.html"
+            },
+            {
+              "name": "香港經濟日報",
+              "url": "https://inews.hket.com/article/4229882"
+            }
+          ],
+          "rank": 4
+        },
+        {
+          "headline": "小米上季盈利跌68.4%　經調整盈利跌56.8%　智能手機出貨跌逾29%",
+          "summary": "小米公布，第三季股東應佔盈利38.76億元人民幣，按年跌68.4%，經調整盈利48.84億元、跌56.8%，收入1072.4億元、跌5.2%；期內智能手機出貨量按年減少29.1%至約3070萬部，新能源汽車及人工智能等創新業務收入跌17.7%至238.8億元。",
+          "time_hkt": "2026-11-24T18:12:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879096-20261124.htm"
+            },
+            {
+              "name": "港交所",
+              "url": "https://www.hkexnews.hk/listedco/listconews/sehk/2026/1124/2026112400539_c.pdf"
+            },
+            {
+              "name": "聯合早報",
+              "url": "https://www.zaobao.com.sg/news/china/story20261124-10051353"
+            }
+          ],
+          "rank": 6
+        }
+      ]
+    }
+  ]
+}
