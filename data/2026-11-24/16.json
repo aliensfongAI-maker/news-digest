@@ -1,0 +1,161 @@
+{
+  "date": "2026-11-24",
+  "hour": "16",
+  "updatedAt": "2026-11-24T16:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "消息：明年1月中電電費按年加1.8%　港燈按年加7.9%",
+          "summary": "消息指兩電將於明年1月調整電費，中電按年加1.8%、港燈按年加7.9%，兩電代表今日下午在立法會環境事務委員會交代周年電費檢討；本月中電平均淨電價為每度電148.6仙、較今年1月升約5.7%，港燈為每度電183仙、升約12%，明年1月的按年加幅百分點較今年11月為低。",
+          "time_hkt": "2026-11-24T13:33:00+08:00",
+          "sources": [
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1208124-%E5%85%A9%E9%9B%BB%E4%B8%8B%E5%8D%88%E5%85%AC%E5%B8%83%E6%98%8E%E5%B9%B4%E9%9B%BB%E8%B2%BB%E8%AA%BF%E6%95%B4%E6%93%9A%E6%82%89%E4%B8%AD%E9%9B%BB%E5%BB%BA%E8%AD%B0%E5%8A%A018%E6%B8%AF%E7%87%88%E5%8A%A079"
+            },
+            {
+              "name": "東網",
+              "url": "https://hk.on.cc/hk/bkn/cnt/news/20261124/bkn-20261124140402202-1124_00822_001.html"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879069-20261124.htm"
+            },
+            {
+              "name": "星島日報",
+              "url": "https://www.stheadline.com/society/3640282/%E5%85%A9%E9%9B%BB%E5%8A%A0%E5%83%B9%E6%B6%88%E6%81%AF%E4%B8%AD%E9%9B%BB%E5%BB%BA%E8%AD%B0%E6%98%8E%E5%B9%B4%E9%9B%BB%E8%B2%BB%E5%8A%A018-%E6%B8%AF%E7%87%88%E5%8A%A079-%E4%B8%8B%E5%8D%88%E5%85%AC%E5%B8%83%E5%91%A8%E5%B9%B4%E9%9B%BB%E8%B2%BB%E6%AA%A2"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "10月訪港旅客約513萬人次按年升12%　首10個月近4600萬人次",
+          "summary": "旅發局公布，10月初步訪港旅客約513萬人次，按年升12%，其中內地旅客約397萬人次、升15%，長途客升19%，短途客則跌14%；受國慶黃金周及大型盛事帶動，今年首10個月訪港旅客近4600萬人次、按年升12%，相當於旅發局全年預測5380萬人次的約八成五。",
+          "time_hkt": "2026-11-24T13:18:00+08:00",
+          "sources": [
+            {
+              "name": "南華早報",
+              "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3375570/hong-kong-welcomes-51-million-visitors-october-12-year-year"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879064-20261124.htm"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "海關檢受管制減肥針劑及藥物拘7人　市值約2300萬元",
+          "summary": "海關偵破6宗由日本空運、報稱載有原子筆的郵包走私案，檢獲64支懷疑受管制減肥針劑，並搗破市區倉庫，合共檢獲約65萬件懷疑受管制藥物及製成煙草，估計市值約2300萬元，拘捕7人；海關指檢獲藥物包裝沒有衞生署註冊編號，減肥針劑亦無適當冷藏，安全品質存疑。",
+          "time_hkt": "2026-11-24T12:33:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879056-20261124.htm"
+            },
+            {
+              "name": "南華早報",
+              "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3375591/hong-kong-customs-arrests-7-seizes-hk23-million-suspected-smuggled-drugs"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60414264/%E6%97%A5%E6%9C%AC%E5%8E%9F%E5%AD%90%E7%AD%86%E9%83%B5%E5%8C%85%E8%97%8F%E6%B8%9B%E8%82%A5%E9%87%9D-%E6%B5%B7%E9%97%9C%E6%90%97%E8%B5%B0%E7%A7%81%E5%80%89%E6%AA%A2-2300%E8%90%AC%E7%AE%A1%E5%88%B6%E8%97%A5%E6%8B%987%E4%BA%BA"
+            }
+          ],
+          "rank": 4
+        },
+        {
+          "headline": "私隱公署稱本港資料外洩事故通報增加　籲機構加強數據保安",
+          "summary": "個人資料私隱專員公署表示，近期環球網絡攻擊風險加劇，本港資料外洩事故通報數目有所增加，受影響行業由航空及電器零售擴展至其他零售及金融等；公署呼籲機構提高網絡安全意識，定期檢視系統並採取資料保安措施，亦可參考其《資訊及通訊科技的保安措施指引》。",
+          "time_hkt": "2026-11-24T12:43:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879059-20261124.htm"
+            },
+            {
+              "name": "香港經濟日報",
+              "url": "https://news.hket.com/article/4230081/%E7%A7%81%E9%9A%B1%E5%85%AC%E7%BD%B2%EF%BD%9C%E6%9C%AC%E6%B8%AF%E8%B3%87%E6%96%99%E6%B4%A9%E6%BC%8F%E4%BA%8B%E6%95%85%E5%A2%9E%E3%80%80%E7%A7%81%E9%9A%B1%E5%B0%88%E5%93%A1%E5%85%AC%E7%BD%B2%E7%B1%B2%E6%A9%9F%E6%A7%8B%E6%8F%90%E9%AB%98%E7%B6%B2%E7%B5%A1%E5%AE%89%E5%85%A8%E6%84%8F%E8%AD%98"
+            }
+          ],
+          "rank": 6
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "孟加拉前總理哈西娜計劃12月16日結束流亡返國　當局稱若入境將拘捕",
+          "summary": "孟加拉前總理謝赫·哈西娜表示計劃於12月16日勝利日從印度流亡返國，並要求達卡安排孟加拉航空由德里接載；這是她首次定出返國日期，但孟加拉當局表明不會安排返國航班、只會處理引渡，並稱若她入境將會被捕。",
+          "time_hkt": "2026-11-24T14:23:00+08:00",
+          "sources": [
+            {
+              "name": "英國廣播公司",
+              "url": "https://www.bbc.co.uk/news/articles/c60rk1yj07xeo"
+            },
+            {
+              "name": "半島電視台",
+              "url": "https://www.aljazeera.com/news/2026/11/24/sheikh-hasina-plans-to-return-to-bangladesh-from-exile-on-december-16"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/bangladesh-sheikh-hasina-exile-india-1c668d190907b8ff9c041427fd25c8cb"
+            },
+            {
+              "name": "印度快報",
+              "url": "https://indianexpress.com/article/world/sheikh-hasina-dhaka-return-tarique-rahman-arrange-plane-on-december-16-10976064/"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "恒指半日跌87點連跌6日　科指跌約1%　先通醫藥低逾15%",
+          "summary": "港股先升後跌、連跌6個交易日，恒生指數早段一度升逾260點後倒跌，中午收市報22295點，跌87點或近0.4%，恒生科技指數跌約1%報3473點，半日主板成交逾1206億元；藍籌中聯想集團升逾4%較突出，新股先通醫藥半日報43.96元，較招股價低逾15%。",
+          "time_hkt": "2026-11-24T12:18:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879050-20261124.htm"
+            },
+            {
+              "name": "英文虎報",
+              "url": "https://www.thestandard.com.hk/finance/article/349443/Hong-Kong-stocks-pull-back-by-noon"
+            },
+            {
+              "name": "巴士的報",
+              "url": "https://www.bastillepost.com/hongkong/article/17251037-%e5%8d%8a%e5%86%97%e6%94%b6%e5%b8%82%ef%b8%b1%e5%85%88%e6%8f%9a%e5%be%8c%e8%b7%8c-%e6%81%92%e6%8c%87%e5%8d%8a%e6%97%a5%e8%b7%8c87%e9%bb%9e%e5%a0%b122295%e9%bb%9e-%e7%a7%91%e7%b6%b2%e7%ba%8c%e5%bc%b1"
+            }
+          ],
+          "rank": 5
+        },
+        {
+          "headline": "人行在港發行3個月及1年期央票　中標利率高過上次",
+          "summary": "金管局公布，人民銀行今日在港招標發行200億元人民幣3個月央票及300億元人民幣1年期央票，中標利率分別為1.32厘及1.41厘，較上次高2個及6個基點；申購額分別約491.7億及946億元人民幣，超額認購約1.46倍及2.15倍。",
+          "time_hkt": "2026-11-24T12:35:00+08:00",
+          "sources": [
+            {
+              "name": "香港金融管理局",
+              "url": "https://www.info.gov.hk/gia/general/202611/24/P2026112400328.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879062-20261124.htm"
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    }
+  ]
+}
