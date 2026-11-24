@@ -1,0 +1,125 @@
+{
+  "date": "2026-11-25",
+  "hour": "04",
+  "updatedAt": "2026-11-25T04:15:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "普京稱烏克蘭不顧特朗普要求持續襲擊俄煉油設施　報復行動不可避免",
+          "summary": "俄羅斯總統普京周二在克里姆林宮向政府官員及石油企業高層表示，烏克蘭不顧美國總統特朗普要求，持續襲擊俄煉油設施，「我方報復措施不可避免」，並要求加強能源設施保安；路透引述兩名業界消息稱，自10月下旬以來烏克蘭無人機襲擊已令俄煉油廠原油加工量合計減少約45%。",
+          "time_hkt": "2026-11-25T01:57:00+08:00",
+          "sources": [
+            {
+              "name": "塔斯社",
+              "url": "https://tass.com/politics/2224231"
+            },
+            {
+              "name": "半島電視台",
+              "url": "https://www.aljazeera.com/news/2026/11/24/putin-says-kyiv-hit-russian-oil-plants-despite-trump-plea-vows-retaliation"
+            },
+            {
+              "name": "路透社",
+              "url": "https://www.themoscowtimes.com/2026/11/24/putin-says-ukraine-hits-russian-oil-plants-despite-trumps-requests-promises-retaliation-a94367"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414627/%E6%99%AE%E4%BA%AC-%E7%83%8F%E5%85%8B%E8%98%AD%E4%B8%8D%E9%A1%A7%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E6%B1%82%E6%8C%81%E7%BA%8C%E8%A5%B2%E6%93%8A%E4%BF%84%E7%9F%B3%E6%B2%B9%E8%A8%AD%E6%96%BD-%E5%B0%87%E6%8E%A1%E5%8F%96%E5%A0%B1%E5%BE%A9%E8%A1%8C%E5%8B%95"
+            }
+          ],
+          "rank": 4
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "輝達股價盤中跌約7%回吐周一升幅　Anthropic跌穿上市價83美元",
+          "summary": "輝達股價周二美股盤中跌約7%，回吐行政總裁黃仁勳周一復任後逾30%升幅的一部分，美光、超微等芯片股及CoreWeave等相關股份同步下跌；人工智能公司Anthropic跌穿上市價83美元，盤中低見過76美元、較周一收市跌近12%。",
+          "time_hkt": "2026-11-25T02:30:00+08:00",
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html"
+            },
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/"
+            },
+            {
+              "name": "衞報",
+              "url": "https://www.theguardian.com/business/2026/nov/24/nvidia-stock-falls-jensen-huang"
+            },
+            {
+              "name": "紐約時報",
+              "url": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/stock-markets-ai-earnings-oil-feec0e25b9994b1c86b16329cf770192"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "美媒：特朗普政府計劃最快今晚宣布新一輪關稅　針對中國、歐洲等16個經濟體",
+          "summary": "華爾街日報報道，特朗普政府計劃最快於美國時間周二晚公布新一輪關稅，針對中國、歐洲及其他主要貿易夥伴，指對方政府補貼造成工業產能過剩；美國貿易代表署今年3月已對16個經濟體展開《1974年貿易法》第301條調查，歐盟、日本及韓國稅率或升至最高15%，中國可能面對更大加幅。",
+          "time_hkt": "2026-11-25T02:08:30+08:00",
+          "sources": [
+            {
+              "name": "Axios",
+              "url": "https://www.axios.com/2026/11/24/trump-tariffs-china-affordability"
+            },
+            {
+              "name": "Yahoo Finance",
+              "url": "https://finance.yahoo.com/economy/policy/articles/trump-bringing-tariffs-back-china-134752441.html"
+            },
+            {
+              "name": "Politico",
+              "url": "https://www.politico.com/news/2026/11/24/trump-tariffs-china-eu-mexico-manufacturing-01181685"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%9C%8B%E9%9A%9B/60414621/WSJ-%E7%BE%8E%E5%9C%8B%E6%93%AC%E5%B0%8D%E4%B8%AD%E5%9C%8B%E5%9C%A8%E5%85%A7%E6%95%B8%E5%8D%81%E5%9C%8B%E5%AE%B6%E5%8A%A0%E9%97%9C%E7%A8%85-%E8%8F%AF%E5%BA%9C%E7%A8%B1%E5%9B%A0%E6%90%8D%E5%AE%B3%E7%BE%8E%E4%BC%81%E5%88%A9%E7%9B%8A"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "黃仁勳向員工致歉稱犯下可怕錯誤並正接受治療　否認特朗普施壓復任",
+          "summary": "輝達行政總裁黃仁勳周二在復職後首次全體員工大會上致歉，承認婚外情違反公司行為守則，並稱「犯了一些可怕錯誤」、每天接受一個半小時治療；他否認特朗普施壓董事會讓他復任，指董事會是在評估整個情況並掌握事實後才改決定。",
+          "time_hkt": "2026-11-25T02:34:00+08:00",
+          "sources": [
+            {
+              "name": "紐約時報",
+              "url": "https://www.nytimes.com/2026/11/24/technology/jensen-huang-apology-nvidia-ceo.html"
+            },
+            {
+              "name": "衞報",
+              "url": "https://www.theguardian.com/technology/2026/nov/24/jensen-huang-nvidia-apologizes-staff"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    }
+  ]
+}
