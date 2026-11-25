@@ -1,0 +1,143 @@
+{
+  "date": "2026-11-25",
+  "hour": "16",
+  "updatedAt": "2026-11-25T16:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "審計署發表多份報告書　學貸拖欠逾9千宗　消委會及補地價審批均被點名",
+          "summary": "審計署今日發表多份報告書，指專上及大專學生資助計劃截至9月底累計有9515宗拖欠還款、涉款約1.31億元，近半尚未展開法律追討；消委會部分已結案投訴處理時間最長逾3年，調停成功率連續多年未達標；地政總署仍有300多宗契約修訂申請在處理，最長個案歷時逾20年，渠務署啟德河及翠屏河活化工程亦出現延誤。",
+          "time_hkt": "2026-11-25T12:28:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879188-20261125.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879193-20261125.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879215-20261125.htm"
+            }
+          ],
+          "rank": 4
+        },
+        {
+          "headline": "立法會首讀教育修訂條例草案　擬設教師執業證明書　犯國安罪將取消註冊",
+          "summary": "立法會今日首讀及二讀《2026年教育（修訂）條例草案》，教育局局長蔡若蓮表示，建議所有公帑資助、私立、國際學校及幼稚園教師包括校長須持有效執業證明書方可任教，並須每3個學年更新；被裁定干犯危害國家安全罪行的人士，自定罪當日起教師註冊及執業證明書將自動取消，永久喪失申請資格且不設上訴機制。",
+          "time_hkt": "2026-11-25T15:41:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879221-20261125.htm"
+            },
+            {
+              "name": "星島日報",
+              "url": "https://www.stheadline.com/politics/3641009/%E6%95%99%E8%82%B2%E4%BF%AE%E8%A8%82%E6%A2%9D%E4%BE%8B%E8%8D%89%E6%A1%88-%E5%9F%B7%E6%A5%AD%E8%AD%89%E6%9B%B8%E6%AF%8F3%E5%B9%B4%E7%BA%8C%E6%9C%9F-%E5%9C%8B%E5%AE%89%E7%BD%AA%E8%A1%8C%E5%AE%9A%E7%BD%AA%E6%95%99%E5%B8%AB%E8%A8%BB%E5%86%8A%E8%87%AA%E5%8B%95%E5%8F%96%E6%B6%88"
+            }
+          ],
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "神舟二十四號乘組進駐天宮　中外航天員首次「太空握手」",
+          "summary": "神舟二十四號載人飛船今早11時56分成功對接空間站天和核心艙前向端口，對接過程約3.5小時；下午2時35分，在軌的神舟二十三號乘組打開艙門迎接湯洪波、武毅及巴基斯坦航天員阿里入駐天宮，中外航天員首次「太空握手」，亦是天宮首次迎來外籍航天員，其後六人將進行在軌輪換。",
+          "time_hkt": "2026-11-25T14:35:00+08:00",
+          "sources": [
+            {
+              "name": "新華社",
+              "url": "https://www.news.cn/20261125/2e93763e2a264c24bbc49b313df5dbe1/c.html"
+            },
+            {
+              "name": "中國新聞社",
+              "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737539.shtml"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879206-20261125.htm"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "英國能源價格上限明年1月起上調26%　典型年費將逾2,000鎊",
+          "summary": "英國能源監管機構Ofgem宣布，2027年1月至3月能源價格上限將上調26%，以直接扣賬繳交煤氣及電費的典型住戶年化賬單由1,723鎊升至2,166鎊，主要因中東衝突推高國際氣價，約2,000萬戶使用標準浮動收費計劃的住戶受影響；政府亦宣布約2,000萬戶將於1月獲發100鎊能源補貼。",
+          "time_hkt": "2026-11-25T15:03:00+08:00",
+          "sources": [
+            {
+              "name": "Ofgem",
+              "url": "https://www.ofgem.gov.uk/press-release/energy-price-cap-rise-26-january-2027"
+            },
+            {
+              "name": "英國廣播公司",
+              "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o"
+            },
+            {
+              "name": "衞報",
+              "url": "https://www.theguardian.com/money/2026/nov/25/energy-bills-in-great-britain-to-rise-ofgem-price-cap"
+            },
+            {
+              "name": "金融時報",
+              "url": "https://www.ft.com/content/e9dea6f2-dcf8-4ec5-96ec-0415694bf897"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "恒指尾市失守22000點　跌約241點　華虹及聯想大幅下跌",
+          "summary": "港股早段曾升穿22500點，午後轉跌，尾市恒生指數失守22000點，較早時報21978點，跌241點或1.09%，恒生科技指數跌約2.5%；芯片及人工智能相關股份受壓，華虹宏力跌約15%，聯想跌近10%。",
+          "time_hkt": "2026-11-25T15:31:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879220-20261125.htm"
+            },
+            {
+              "name": "香港經濟日報",
+              "url": "https://inews.hket.com/article/4230547/%E3%80%90%E6%B8%AF%E8%82%A1%E5%B8%82%E6%B3%81%E3%80%91%E6%81%92%E6%8C%87%E5%8D%88%E5%BE%8C%E8%BD%89%E8%B7%8C%E9%80%BE%E7%99%BE%E9%BB%9E%E5%8F%88%E8%A9%A6%E4%BA%8C%E8%90%AC%E4%BA%8C%E3%80%80%E8%81%AF%E6%83%B3%E8%B7%8C%E8%BF%9110-%E3%80%80%E8%8F%AF%E8%99%B9%E5%AE%8F%E5%8A%9B%E6%8C%AB15-%EF%BC%88%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0%EF%BC%89"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "安永料今年香港新股集資額逾4300億元　創5年新高、全球第二",
+          "summary": "安永預計今年香港新股集資額逾4300億元（約559億美元），按年增長50%，有望創5年新高並位居全球第二，僅次於納斯達克約2543億美元，全年上市宗數料逾140宗；科技企業集資額料居各行業之首，並預計有40宗「A+H」上市、集資額逾2800億元。",
+          "time_hkt": "2026-11-25T15:48:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879223-20261125.htm"
+            },
+            {
+              "name": "香港文匯報",
+              "url": "https://www.wenweipo.com/a/202611/25/AP6b068d5be4b028ec01958cca.html"
+            }
+          ],
+          "rank": 6
+        }
+      ]
+    }
+  ]
+}
