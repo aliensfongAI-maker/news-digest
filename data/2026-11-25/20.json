@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-25",
+  "hour": "20",
+  "updatedAt": "2026-11-25T20:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "康文署：城市售票網被黑客非法進入　初步涉約130萬使用者資料",
+          "summary": "康樂及文化事務署今日公布，於11月24日接獲城市售票網外判承辦商通報，發現系統被黑客非法進入，初步涉及約130萬名使用者的用戶名稱或姓名、電話號碼及電郵地址；系統沒有登記身分證明文件資料，信用卡資料亦已遮蔽，署方已報警並向保安局、數字政策辦公室及個人資料私隱專員公署報告，正通知受影響人士，並稱系統經檢視後可繼續正常運作。",
+          "time_hkt": "2026-11-25T19:35:00+08:00",
+          "sources": [
+            {"name": "政府新聞公報", "url": "https://www.info.gov.hk/gia/general/202611/25/P2026112500564.htm"},
+            {"name": "香港電台", "url": "https://news.rthk.hk/rthk/ch/component/k2/1879250-20261125.htm"},
+            {"name": "商業電台", "url": "https://www.881903.com/news/local/2661328"}
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "李家超探訪宏福苑火災受影響居民　稱政府會持續提供適切支援",
+          "summary": "適逢大埔宏福苑火災一周年前夕，行政長官李家超上周六在民政及青年事務局局長麥美娟及勞工及福利局局長孫玉菡陪同下，到香港仔探訪暫居該處的宏福苑居民，了解近況及新居安排；他表示政府會加快長遠房屋配置，協助居民盡早展開新生活，並透過修訂六條法例嚴堵樓宇維修漏洞，防止同類事件重演。",
+          "time_hkt": "2026-11-25T16:46:00+08:00",
+          "sources": [
+            {"name": "香港電台", "url": "https://news.rthk.hk/rthk/ch/component/k2/1879231-20261125.htm"},
+            {"name": "香港電台", "url": "https://news.rthk.hk/rthk/ch/component/k2/1879246-20261125.htm"},
+            {"name": "南華早報", "url": "https://www.scmp.com/news/hong-kong/society/article/3375774/john-lee-vows-full-speed-push-housing-reforms-ahead-tai-po-fire-anniversary"}
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "金管局正式推出CMU數字資產平台　10家機構成首批直接參與者",
+          "summary": "金管局今日宣布正式推出由迅清結算協助開發及營運的CMU數字資產平台，以分布式分類帳技術支援債券由發行、交易結算交收至票息及贖回的全程無紙化及傳統債券代幣化，並以鏈上原子化貨銀兩訖對接即時支付結算系統及央行數碼貨幣、支援24小時多幣種結算；中銀香港、滙豐、渣打香港等10家機構成為首批直接參與者。",
+          "time_hkt": "2026-11-25T16:00:00+08:00",
+          "sources": [
+            {"name": "金管局", "url": "https://www.hkma.gov.hk/chi/news-and-media/press-releases/2026/11/20261125-3/"},
+            {"name": "迅清結算", "url": "https://www.cmuomniclear.com/tc/news-and-events/id/3941"},
+            {"name": "政府新聞公報", "url": "https://www.info.gov.hk/gia/general/202611/25/P2026112500380.htm"},
+            {"name": "香港電台", "url": "https://news.rthk.hk/rthk/ch/component/k2/1879228-20261125.htm"}
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
