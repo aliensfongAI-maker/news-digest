@@ -1,0 +1,147 @@
+{
+  "date": "2026-11-25",
+  "hour": "12",
+  "updatedAt": "2026-11-25T12:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "鄧炳強稱爭取早日完成修例將圍標刑事化　反圍標熱線兩周接逾百來電",
+          "summary": "保安局局長鄧炳強在電台節目表示，當局爭取早日完成修例，將樓宇維修工程圍標由現行民事程序改為刑事化，使警方、廉署及競委會日後均可調查，並獲賦予證人令及充公令等新權力；他又指反圍標熱線182000設立兩星期已接獲超過100個來電，聯合特遣隊行動已起震懾效果，並發現有集團偽稱樓宇接獲修葺令以欺騙業主。",
+          "time_hkt": "2026-11-25T09:06:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879162-20261125.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879173-20261125.htm"
+            },
+            {
+              "name": "香港文匯報",
+              "url": "https://www.wenweipo.com/a/202611/25/AP6b0638ace4b028ec01958156.html"
+            }
+          ],
+          "rank": 4
+        },
+        {
+          "headline": "海關破獲大型私煙及洗黑錢集團　檢3200萬支私煙市值1.4億　5人被捕",
+          "summary": "香港海關公布破獲一個大型私煙及洗黑錢集團，檢獲約3200萬支懷疑未完稅香煙，市值約1.4億元，並涉及處理約930萬元懷疑犯罪得益，行動中拘捕包括集團主腦在內共5人；當局指集團以貿易及物流公司作掩護，利用由韓國進口、報稱運載金屬或電器的貨櫃夾藏私煙，再於荃灣及元朗基地重新包裝分銷。",
+          "time_hkt": "2026-11-25T11:34:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879184-20261125.htm"
+            }
+          ],
+          "rank": 6
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "神舟二十四號發射圓滿成功　進入預定軌道　航天員乘組狀態良好",
+          "summary": "搭載神舟二十四號載人飛船的長征二號F遙二十四運載火箭，早上8時18分在酒泉衛星發射中心發射升空，約10分鐘後飛船與火箭成功分離並進入預定軌道，航天員乘組狀態良好，發射取得圓滿成功；今次是中國載人航天工程首次有外籍航天員參與的載人飛行，乘組包括指令長湯洪波、航天員武毅及巴基斯坦航天員穆罕默德·齊尚·阿里，飛船其後將按計劃與空間站自主交會對接。",
+          "time_hkt": "2026-11-25T08:18:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879159-20261125.htm"
+            },
+            {
+              "name": "新華社",
+              "url": "https://www.news.cn/politics/20261125/dbc2dcf955f14f498ddb92ed6a0049f4/c.html"
+            },
+            {
+              "name": "半島電視台",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/pakistani-astronaut-launches-into-space-aboard-chinese-rocket"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "沙特主導聯盟空襲也門荷台達港　胡塞武裝揚言報復沙特紅海港口",
+          "summary": "沙特主導聯盟表示，周三清晨空襲胡塞武裝控制的也門紅海港口荷台達，並打擊北部靠近沙特邊境的省份目標，胡塞媒體亦報道港口及機場遇襲，暫未有傷亡報告；胡塞武裝發言人早前警告，若荷台達遭襲將把包括吉達在內的沙特紅海港口列為目標，並呼籲船隻撤離。",
+          "time_hkt": "2026-11-25T08:00:00+08:00",
+          "sources": [
+            {
+              "name": "半島電視台",
+              "url": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order"
+            },
+            {
+              "name": "亞洲新聞台",
+              "url": "https://www.channelnewsasia.com/world/saudi-attack-yemen-houthi-hodeida-6580346"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "亞洲股市遭科技股拖累急挫　軟銀跌約15%　台韓日芯片股大幅下跌",
+          "summary": "亞洲股市周三受人工智能產業鏈調整及隔晚美股科技股回吐拖累大幅下跌，台灣加權指數早段一度跌近8%，南韓綜合指數跌逾6%，日經平均指數跌約3.6%，軟銀集團跌約15%，三星電子及SK海力士跌約9%，台積電及鴻海亦跌逾9%。",
+          "time_hkt": "2026-11-25T11:31:00+08:00",
+          "sources": [
+            {
+              "name": "半島電視台",
+              "url": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "人行開展8000億元MLF及逾萬億元逆回購　公開市場淨投放4010億元",
+          "summary": "中國人民銀行今日開展6170億元人民幣隔夜逆回購、5000億元7天期逆回購及8000億元一年期中期借貸便利，隔夜利率維持1.25%；當日有5160億元逆回購及1萬億元中期借貸便利到期，公開市場全口徑淨投放4010億元。",
+          "time_hkt": "2026-11-25T09:27:00+08:00",
+          "sources": [
+            {
+              "name": "中國金融信息網",
+              "url": "https://www.cnfin.com/kx/detail/20261125/4499931_1.html"
+            },
+            {
+              "name": "經濟通",
+              "url": "https://www.etnet.com.hk/www/tc/stocks/ah_news_detail.php?newsid=20261125833"
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "恒指競價升33點　早盤一度升約1.3%　表現較亞洲其他芯片市場抗跌",
+          "summary": "港股競價時段恒生指數報22252點，升33點或0.15%，其後早盤一度升約1.3%，表現較亞洲其他芯片重鎮抗跌；恒生科技指數競價時段則跌0.41%。",
+          "time_hkt": "2026-11-25T09:25:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879167-20261125.htm"
+            },
+            {
+              "name": "半島電視台",
+              "url": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom"
+            }
+          ],
+          "rank": 5
+        }
+      ]
+    }
+  ]
+}
