@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-26",
+  "hour": "08",
+  "updatedAt": "2026-11-26T08:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "天水圍站工程車設備故障　屯馬綫一度須加長候車其後恢復正常",
+          "summary": "港鐵表示，星期四清晨天水圍站有工程車設備故障，屯馬綫班次需要調整，候車時間預計較平日多10至15分鐘，來往屯門至元朗站一度約25分鐘一班、元朗至烏溪沙站約8分鐘一班，並提供來往元朗與屯門的免費接駁巴士；其後故障工程車駛離行車線，列車服務逐步回復正常，接駁巴士於上午6時30分停止。",
+          "time_hkt": "2026-11-26T06:09:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879290-20261126.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879293-20261126.htm"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60415066/%E6%B8%AF%E9%90%B5-%E5%B1%AF%E9%A6%AC%E7%B6%AB%E6%9C%8D%E5%8B%99%E9%80%90%E6%AD%A5%E5%9B%9E%E5%BE%A9%E6%AD%A3%E5%B8%B8-%E5%A4%A9%E6%B0%B4%E5%9C%8D%E7%AB%99%E6%95%85%E9%9A%9C%E5%B7%A5%E7%A8%8B%E8%BB%8A%E9%A7%9B%E9%9B%A2"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1208485-%E6%B8%AF%E9%90%B5%E5%A4%A9%E6%B0%B4%E5%9C%8D%E7%AB%99%E6%9C%89%E5%B7%A5%E7%A8%8B%E8%BB%8A%E8%A8%AD%E5%82%99%E6%95%85%E9%9A%9C%E5%B1%AF%E9%A6%AC%E7%B6%AB%E5%80%99%E8%BB%8A%E6%99%82%E9%96%93%E6%96%99%E5%A4%9A10%E8%87%B315%E5%88%86%E9%90%98"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "梅西感恩節大遊行因惡劣天氣歷史上首次延期至周六",
+          "summary": "美國梅西百貨宣布，原定星期四舉行的第100屆感恩節大遊行，因紐約預期出現暴雨、雷暴及強風，歷史上首次因天氣延期至星期六上午8時30分（美東時間）舉行，公司表示在與市政府及相關機構磋商後，以參加者及觀眾安全為先作出決定；該遊行過往只曾於1942年至1944年因第二次世界大戰停辦，紐約市長指感恩節當日持續風速料達每小時30至40英里、陣風可高達65英里。",
+          "time_hkt": "2026-11-26T04:53:00+08:00",
+          "sources": [
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/macys-thanksgiving-parade-postponed-weather-cdc870899c8dc2d32a0ac3d86119b3ba"
+            },
+            {
+              "name": "NBC新聞",
+              "url": "https://www.nbcnews.com/news/us-news/macys-thanksgiving-day-parade-weather-delay-rcna611355"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html"
+            },
+            {
+              "name": "CBS新聞",
+              "url": "https://www.cbsnews.com/newyork/news/macys-thanksgiving-day-parade-postponed/"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "美股收市個別發展　道指曾急挫逾1100點後倒升164點　納指跌幅收窄至0.6%",
+          "summary": "美國三大指數星期三收市個別發展，在美國公布對14個貿易夥伴加徵新關稅及人工智能股賣壓下，道瓊斯指數一度急挫逾1,100點，其後回升，收市報50,182點，升164點或0.3%；納斯達克指數最多曾跌4.6%，收市跌幅收窄至0.6%，報23,585點，跌147點；標準普爾500指數一度失守7,000點、跌逾3%，收市報7,182點，跌18點或近0.3%；英偉達收市跌3.9%，為道指成份股跌幅最大，美股周四感恩節休市、周五半日市。",
+          "time_hkt": "2026-11-26T05:00:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879287-20261126.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/en/component/k2/1879289-20261126.htm"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-94fdb0ecb060ec65c0b02879ce0d2d09"
+            },
+            {
+              "name": "MarketWatch",
+              "url": "https://www.marketwatch.com/story/u-s-stocks-mixed-as-nvidia-ai-rout-continues-a44406f3"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
