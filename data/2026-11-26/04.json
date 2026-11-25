@@ -1,0 +1,155 @@
+{
+  "date": "2026-11-26",
+  "hour": "04",
+  "updatedAt": "2026-11-26T04:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "香港藝術節網站遭入侵　初步懷疑數千名觀眾資料外洩",
+          "summary": "香港藝術節協會表示，11月23日發現主網站遭未經授權的第三方入侵，已向警方報案並通報個人資料私隱專員公署；初步懷疑數千名第55屆藝術節門票預訂觀眾的個人資料可能曾被非法閱覽，當中包括姓名、電話、電郵、郵寄地址及信用卡號碼（不含安全碼CVV），協會已電郵通知可能受影響觀眾，並與外判網站及雲端託管承辦商德勤調查及採取防護措施，網站星期四凌晨顯示正進行系統維護、暫停服務。",
+          "time_hkt": "2026-11-26T00:56:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879275-20261126.htm"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60415041/%E9%A6%99%E6%B8%AF%E8%97%9D%E8%A1%93%E7%AF%80%E7%B6%B2%E7%AB%99%E8%A2%AB%E5%85%A5%E4%BE%B5-%E9%A0%90%E8%A8%82%E7%AC%AC55%E5%B1%86%E8%97%9D%E8%A1%93%E7%AF%80%E9%96%80%E7%A5%A8%E8%A7%80%E7%9C%BE%E5%80%8B%E4%BA%BA%E8%B3%87%E6%96%99%E6%88%96%E5%A4%96%E6%B3%84"
+            },
+            {
+              "name": "香港經濟日報",
+              "url": "https://news.hket.com/article/4231055/%E8%B3%87%E6%96%99%E6%B4%A9%E6%BC%8F%EF%BD%9C%E9%A6%99%E6%B8%AF%E8%97%9D%E8%A1%93%E7%AF%80%E7%B6%B2%E7%AB%99%E8%A2%AB%E5%85%A5%E4%BE%B5%E3%80%80%E4%BF%A1%E7%94%A8%E5%8D%A1%E8%99%9F%E7%A2%BC%E6%88%96%E8%A2%AB%E9%9D%9E%E6%B3%95%E5%8F%96%E9%96%B1"
+            }
+          ],
+          "rank": 6
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "埃及開羅環形公路運油車翻側起火　至少30人死亡",
+          "summary": "埃及衛生部表示，一輛載有石油產品的車輛星期三在大開羅環形公路吉薩省沃拉克（Al-Warraq）路段翻側起火，至少造成30人死亡、15人受傷；當地傳媒指運油車失控撞向中央分隔欄後爆炸，火勢蔓延至附近車輛，當局出動39輛救護車，總理馬德布利向遇難者家屬致哀並下令由國家承擔傷者醫療費用，火勢其後已被撲滅。",
+          "time_hkt": "2026-11-26T02:55:00+08:00",
+          "sources": [
+            {
+              "name": "半島電視台",
+              "url": "https://www.aljazeera.com/news/2026/11/25/at-least-30-killed-in-egypt-vehicle-fire-health-ministry-says"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/cairo-highway-fire-ring-road-89e4cd3d3d53016c9c35440b57c5ea1e"
+            },
+            {
+              "name": "南華早報",
+              "url": "https://www.scmp.com/news/world/middle-east/article/3375814/massive-blaze-kills-least-30-cairo-egypt-after-fuel-truck-overturns"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "美國富豪博利牽頭達成協議　擬收購盧克石油海外資產",
+          "summary": "美國財經媒體引述消息報道，由美國億萬富豪博利（Todd Boehly）旗下資產管理公司Eldridge牽頭的投資者，已達成協議收購俄羅斯盧克石油（Lukoil）的海外資產，美國國際開發金融公司及阿聯酋Catena Investments亦為交易方，涵蓋保加利亞、羅馬尼亞、非洲及中東等地的煉油及生產資產，以及歐美亞的零售油站，產能約每日35萬桶，美國外國資產控制辦公室料將批准但仍待最終核准。",
+          "time_hkt": "2026-11-26T00:00:00+08:00",
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/25/investors-led-by-todd-boehly-to-buy-lukoil-oil-and-gas-assets-outside-russia.html"
+            },
+            {
+              "name": "金融時報",
+              "url": "https://www.ft.com/content/643dc287-d112-4715-bdf1-aa49b98a4af7"
+            },
+            {
+              "name": "華爾街日報",
+              "url": "https://www.wsj.com/business/deals/dodgers-owner-todd-boehly-clinches-deal-for-overseas-assets-of-russias-lukoil-9679356a"
+            },
+            {
+              "name": "紐約時報",
+              "url": "https://www.nytimes.com/2026/11/25/us/politics/lukoil-deal.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "歐盟及英國向三大香料商罰款逾5.7億歐元　指與聯合利華業務涉卡特爾",
+          "summary": "歐盟委員會及英國競爭及市場管理局星期三分別對全球三大香精香料供應商開罰，歐盟罰款合共4.719億歐元、英國罰款合共8,500萬英鎊，對象為奇華頓（Givaudan）、芬美意（Firmenich）及國際香料香精（IFF）；當局指三家公司於2019年3月至2023年3月，就與聯合利華的業務交換定價及談判等敏感資訊，奇華頓與IFF亦在其他香料業務上協調，三家公司已承認並與當局和解，罰款因合作而獲減。",
+          "time_hkt": "2026-11-26T00:33:00+08:00",
+          "sources": [
+            {
+              "name": "金融時報",
+              "url": "https://www.ft.com/content/472d6327-a693-4023-a2ab-9672ad0e71b8"
+            },
+            {
+              "name": "華爾街日報",
+              "url": "https://www.wsj.com/business/eu-fines-fragrance-giants-firmenich-givaudan-iff-517-million-over-pricing-f61209c0"
+            },
+            {
+              "name": "英國競爭及市場管理局",
+              "url": "https://www.gov.uk/government/news/major-fragrance-suppliers-fined-85-million-by-the-cma-for-illegal-collusion"
+            }
+          ],
+          "rank": 4
+        },
+        {
+          "headline": "標普將英偉達「AA」評級列入負面信用觀察　指管治風險上升",
+          "summary": "標普全球評級星期三將英偉達的「AA」發行人信貸評級及高級無抵押債務評級列入負面信用觀察（CreditWatch Negative），指管理層及管治風險上升，並認為行政總裁黃仁勳早前離職再復職，並未充分釋除董事會對行政人員行為守則監督的疑慮；標普表示，若相關不足持續，可能在90日內將評級下調一個級別。",
+          "time_hkt": "2026-11-26T02:56:00+08:00",
+          "sources": [
+            {
+              "name": "彭博",
+              "url": "https://www.bloomberg.com/news/articles/2026-11-25/s-p-says-it-may-downgrade-nvidia-s-ratings-on-governance-worries"
+            },
+            {
+              "name": "亞洲新聞台",
+              "url": "https://www.channelnewsasia.com/business/sp-global-places-nvidia-rating-creditwatch-negative-rising-management-and-governance-risks-6582666"
+            }
+          ],
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "美國FCC批准SpaceX部署最多100萬顆太空數據中心衛星",
+          "summary": "美國聯邦通訊委員會星期三批准SpaceX的「Starmind」計劃，授權部署最多100萬顆配備人工智能芯片的非地球靜止軌道衛星，以在太空建立數據中心，並透過高速激光連接星鏈向地球傳輸數據，這是該委員會首次批准完整的人工智能衛星星座，並要求2033年前至少發射一顆、2040年前完成全部部署；委員會暫緩批准在600公里以上軌道棄置衛星的申請，指SpaceX提供的棄置方案資料不足。",
+          "time_hkt": "2026-11-26T00:57:00+08:00",
+          "sources": [
+            {
+              "name": "亞洲新聞台",
+              "url": "https://www.channelnewsasia.com/business/us-authorizes-spacex-deploy-1-million-satellites-data-centers-in-space-6582471"
+            },
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
+            },
+            {
+              "name": "彭博",
+              "url": "https://www.bloomberg.com/news/articles/2026-11-25/spacex-receives-government-approval-to-launch-space-data-centers"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    }
+  ]
+}
