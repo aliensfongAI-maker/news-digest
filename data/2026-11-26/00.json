@@ -1,0 +1,161 @@
+{
+  "date": "2026-11-26",
+  "hour": "00",
+  "updatedAt": "2026-11-26T00:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "威爾斯親王醫院男醫生涉未獲授權為兒童病房病人檢查　疑非禮被捕",
+          "summary": "威爾斯親王醫院表示，上月30日凌晨，兒童外科病房一名負責教學及臨床工作的31歲男醫生，懷疑未獲主治團隊授權即為兩名男病人檢查身體，職員發現後即時阻止並向管理層報告，院方其後報警；警方以涉嫌非禮拘捕該名男子，已准保釋候查，案件由沙田警區重案組跟進，院方已禁止他進入臨床範圍並終止其臨床工作及系統權限，香港中文大學亦暫停其所有職務並按程序調查，院方指兩名病人臨床情況及治療未受影響，已向家屬交代並致歉。",
+          "time_hkt": "2026-11-25T21:51:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879262-20261125.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/en/component/k2/1879268-20261125.htm"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60414552/%E5%A8%81%E7%88%BE%E6%96%AF%E8%A6%AA%E7%8E%8B%E9%86%AB%E9%99%A217%E6%AD%B2%E7%94%B7%E7%97%85%E4%BA%BA%E7%96%91%E9%81%AD%E9%9D%9E%E7%A6%AE-%E9%99%A2%E6%96%B9-%E4%B8%AD%E5%A4%A7%E9%86%AB%E5%AD%B8%E9%99%A2%E7%94%B7%E9%86%AB%E7%94%9F%E8%A2%AB%E6%8D%95"
+            }
+          ],
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "被美國錯誤遣返的薩爾瓦多籍男子阿布雷戈·加西亞抵達西班牙",
+          "summary": "早前被美國錯誤遣返薩爾瓦多、其後成為特朗普政府移民政策爭議焦點的薩爾瓦多籍男子基爾馬·阿布雷戈·加西亞（Kilmar Ábrego García）已抵達西班牙；英國廣播公司報道，此行結束其與美國政府的遣返爭訟，半島電視台引述其律師指屬暫時離境。",
+          "time_hkt": "2026-11-25T20:42:11+08:00",
+          "sources": [
+            {
+              "name": "英國廣播公司",
+              "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o"
+            },
+            {
+              "name": "半島電視台",
+              "url": "https://www.aljazeera.com/news/2026/11/25/kilmar-abrego-garcia-wrongfully-deported-from-us-arrives-in-spain"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/spain-deportation-abrego-garcia-arrives-madrid-f6453face7e5c20c8750413956118e04"
+            },
+            {
+              "name": "西班牙國家報",
+              "url": "https://elpais.com/internacional/2026-11-25/kilmar-abrego-garcia-victima-de-las-deportaciones-masivas-de-trump-aterriza-en-madrid.html"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "美國公布對中國、歐盟等14個貿易夥伴加徵新關稅　中國最高可達40%",
+          "summary": "美國貿易代表辦公室星期三根據《貿易法》第301條公布針對所謂製造業「結構性產能過剩」的調查結果，建議對中國、歐盟、日本、南韓、台灣及印度等14個貿易夥伴加徵新關稅，建議稅率介乎約10%至40%，但多數將受限於已達成或磋商中的貿易協議上限；其中中國建議稅率為20%並可疊加首任期約25%關稅，若中美貿易停火破裂則可升至40%，新稅須經公眾諮詢及明年1月25日聽證會後方會實施，中方批評「產能過剩」是偽命題，歐盟則要求美方遵守去年達成的15%關稅上限協議。",
+          "time_hkt": "2026-11-25T21:15:00+08:00",
+          "sources": [
+            {
+              "name": "路透社",
+              "url": "https://www.reuters.com/3fec1b0a85a0/world/china/us-proposes-new-tariffs-14-trading-partners-fight-excess-factory-capacity-2026-11-25/"
+            },
+            {
+              "name": "英國廣播公司",
+              "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o"
+            },
+            {
+              "name": "紐約時報",
+              "url": "https://www.nytimes.com/2026/11/25/business/trump-tariffs-trade.html"
+            },
+            {
+              "name": "半島電視台",
+              "url": "https://www.aljazeera.com/news/2026/11/25/trump-announces-new-trade-tariffs-which-countries-will-they-target"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879269-20261125.htm"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "美股早段急跌　納指挫約4%　輝達跌近9%　關稅與人工智能憂慮並至",
+          "summary": "美國三大指數星期三早段顯著下跌，納斯達克指數一度跌約4%，道瓊斯指數失守5萬點，標準普爾500指數跌逾2%，人工智能及芯片股受壓，輝達跌近9%，美光等芯片股急跌逾10%；跌勢正值美國公布對多個貿易夥伴加徵新關稅，以及市場持續擔心人工智能投資能否持續帶來回報。",
+          "time_hkt": "2026-11-25T22:47:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879269-20261125.htm"
+            },
+            {
+              "name": "英國廣播公司",
+              "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E8%B2%A1%E7%B6%93%E5%BF%AB%E8%A8%8A/60415039/%E7%BE%8E%E8%82%A1-%E7%A7%91%E6%8A%80%E8%82%A1%E6%80%A5%E6%8C%AB-%E9%81%93%E6%8C%87%E6%97%A9%E6%AE%B5%E8%B7%8C1100%E9%BB%9E-%E7%B4%8D%E6%8C%87%E6%8C%AB%E9%80%BE4-%E8%8B%B1%E5%81%89%E9%81%94%E7%8F%BE%E7%80%898"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/stock-markets-ai-earnings-oil-10044b4fb55d3ff20fde9ba9e9acaab1"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "美國10月PCE物價指數按年升3.8%　核心指數升3.3%　均較9月加快",
+          "summary": "美國商務部經濟分析局公布，10月個人消費支出（PCE）物價指數按年上升3.8%、按月升0.3%，撇除食品及能源的核心指數按年上升3.3%、按月升0.3%，兩項按年升幅均較9月加快0.2個百分點，按月升幅則符合市場預期；同期個人收入按月增加0.7%，高於預期，個人支出增加0.3%，略低於預期。",
+          "time_hkt": "2026-11-25T22:29:00+08:00",
+          "sources": [
+            {
+              "name": "美國經濟分析局",
+              "url": "https://www.bea.gov/news/2026/personal-income-and-outlays-october-2026"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879263-20261125.htm"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html"
+            },
+            {
+              "name": "金融時報",
+              "url": "https://www.ft.com/content/b1246731-9cc9-4d72-a619-bd520ada464d"
+            }
+          ],
+          "rank": 4
+        },
+        {
+          "headline": "英國折扣連鎖店Poundland陷入破產管理　約1.1萬個職位面臨風險",
+          "summary": "英國折扣零售商Poundland星期三在聖誕檔期前數周正式進入破產管理程序，美國業主Gordon Brothers未能找到買家接手，英國廣播公司報道約1.1萬個職位面臨風險，集團在英國及愛爾蘭約有600間店舖；《每日電訊報》指拆售顧問AlixPartners料將被委任為破產管理人。",
+          "time_hkt": "2026-11-25T23:40:00+08:00",
+          "sources": [
+            {
+              "name": "英國廣播公司",
+              "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o"
+            },
+            {
+              "name": "每日電訊報",
+              "url": "https://www.telegraph.co.uk/business/2026/11/25/poundland-collapses-into-administration/"
+            }
+          ],
+          "rank": 6
+        }
+      ]
+    }
+  ]
+}
