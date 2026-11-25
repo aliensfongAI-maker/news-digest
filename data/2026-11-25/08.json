@@ -1,0 +1,79 @@
+{
+  "date": "2026-11-25",
+  "hour": "08",
+  "updatedAt": "2026-11-25T08:15:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "美國陪審團裁定華為10項控罪成立　包括合謀竊取商業機密　勒索陰謀罪不成立",
+          "summary": "美國布魯克林聯邦法院陪審團周二裁定中國電訊設備商華為12項控罪中的10項成立，包括合謀竊取商業機密、銀行詐騙及違反制裁等，但較嚴重的勒索陰謀罪不成立；華為發表聲明，指勒索陰謀罪不成立證明相關指控缺乏事實基礎。",
+          "time_hkt": "2026-11-25T04:36:00+08:00",
+          "sources": [
+            {
+              "name": "英國廣播公司",
+              "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo"
+            },
+            {
+              "name": "半島電視台",
+              "url": "https://www.aljazeera.com/economy/2026/11/24/chinese-tech-giant-huawei-found-guilty-of-conspiracy-to-steal-trade-secrets"
+            },
+            {
+              "name": "南華早報",
+              "url": "https://www.scmp.com/news/us/article/3375673/huawei-guilty-10-12-counts-after-2-month-battle-us-courtroom"
+            },
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "神舟二十四號載人飛船預計今早8時18分發射　中巴航天員清晨出征",
+          "summary": "神舟二十四號載人飛船瞄準今日上午8時18分發射，指令長湯洪波、航天員武毅及巴基斯坦航天員穆罕默德·齊尚·阿里於香港時間清晨5時28分在酒泉衛星發射中心問天閣圓夢園廣場領命出征，今次是中國載人航天工程首次中外航天員聯合飛行。",
+          "time_hkt": "2026-11-25T05:28:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879145-20261125.htm"
+            },
+            {
+              "name": "中國載人航天工程網",
+              "url": "https://www.cmse.gov.cn/xwzx/202611/t20261125_57886.html"
+            },
+            {
+              "name": "新華社",
+              "url": "https://www.news.cn/20261125/79faec02c9ae4772b73f6347504ce88c/c.html"
+            },
+            {
+              "name": "中國新聞社",
+              "url": "https://www.chinanews.com.cn/gn/2026/11-25/10737283.shtml"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "港股美國預託證券普遍較本港收市上升　京東ADR升近4%",
+          "summary": "港股美國預託證券普遍較本港收市上升，當中京東ADR升近4%，美團及阿里巴巴升逾1%；金融股方面，滙控ADR跌逾1%，友邦則升逾1%。",
+          "time_hkt": "2026-11-25T06:22:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879150-20261125.htm"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    }
+  ]
+}
