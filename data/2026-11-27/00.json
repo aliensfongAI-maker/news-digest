@@ -1,0 +1,253 @@
+{
+  "date": "2026-11-27",
+  "hour": "00",
+  "updatedAt": "2026-11-27T00:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "入境處拘捕兩名男女　涉非法改動特區護照",
+          "summary": "入境處調查一宗網上聲稱特區護照缺頁的投訴後，拘捕一對27歲及34歲情侶，政府化驗所證實缺頁屬人為改動而非出廠瑕疵，兩人涉嫌無合法授權改動旅行證件、管有及使用非法改動證件以及誤導入境處人員，當局不排除有更多人被捕。",
+          "time_hkt": "2026-11-26T23:13:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879415-20261126.htm"
+            }
+          ],
+          "rank": 9
+        },
+        {
+          "headline": "東華三院黃大仙醫院再多4名病人帶有耳念珠菌",
+          "summary": "醫管局公布，東華三院黃大仙醫院同一護養病房再多4名年齡介乎44至72歲的男病人帶有耳念珠菌，全部沒有感染病徵、情況穩定並已隔離治療，醫院已加強篩查、接觸防護及病房消毒，並呈報醫管局總辦事處及衞生防護中心跟進。",
+          "time_hkt": "2026-11-26T20:06:43+08:00",
+          "sources": [
+            {
+              "name": "政府新聞處",
+              "url": "https://www.info.gov.hk/gia/general/202611/26/P2026112600545.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879407-20261126.htm"
+            }
+          ],
+          "rank": 12
+        },
+        {
+          "headline": "旺角翠園大樓外牆圍網起火　55歲工人燒傷送院",
+          "summary": "旺角登打士街翠園大樓下午約5時外牆圍網起火，消防將火救熄，一名55歲工人手部及小腿燒傷、清醒送往廣華醫院；消防處相信有工人進行水喉工程時燒著雜物，警方稱現階段沒有證據顯示涉及刑事成分。",
+          "time_hkt": "2026-11-26T21:19:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879408-20261126.htm"
+            }
+          ],
+          "rank": 15
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "英國防部向約10萬名戰略預備役人員發信　要求更新資料並為可能徵召做好準備",
+          "summary": "英國國防大臣施卓添表示，國防部已向約10萬名屬戰略預備役的退役軍人發信，要求更新聯絡及技能資料，並可自願參加訓練及北約演習；他強調是因應惡化的安全環境作出的預防措施，當局目前並無正式動員計劃，亦不代表戰爭即將爆發。",
+          "time_hkt": "2026-11-26T21:24:22+08:00",
+          "sources": [
+            {
+              "name": "英國廣播公司",
+              "url": "https://www.bbc.co.uk/news/articles/cvrlgznd9z4po"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879402-20261126.htm"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "特朗普與北約秘書長呂特會晤後發表聯合聲明　呼籲俄羅斯避免擴大戰事",
+          "summary": "美國總統特朗普與北約秘書長呂特於佛羅里達州海湖莊園會面後發表聯合聲明，籲請俄羅斯避免採取任何有意或無意行動擴大俄烏戰事，並強調盡快尋求和平解決，以及美歐繼續增加防務開支和工業基礎投資的重要性，雙方亦討論伊朗戰事。",
+          "time_hkt": "2026-11-26T20:30:00+08:00",
+          "sources": [
+            {
+              "name": "北約",
+              "url": "https://www.nato.int/en/news-and-events/articles/news/2026/11/26/joint-statement-by-the-president-of-the-united-states-of-america-and-the-nato-secretary-general"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879395-20261126.htm"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/26/trump-nato-rutte-russia-ukraine-war.html"
+            }
+          ],
+          "rank": 4
+        },
+        {
+          "headline": "以色列國防部長揚言若哈馬斯不繳械　將再發動攻勢並疏散約100萬加沙居民",
+          "summary": "以色列看守政府國防部長卡茨在社交平台表示，若哈馬斯不按特朗普方案自願繳械並使加沙非軍事化，以軍將在「基甸戰車II」行動中解除其武裝，並再次將約100萬名加沙居民向南疏散；有關言論正值停火協議仍然有效、以軍在加沙持續發動襲擊之際。",
+          "time_hkt": "2026-11-26T21:08:08+08:00",
+          "sources": [
+            {
+              "name": "亞洲新聞台",
+              "url": "https://www.channelnewsasia.com/world/israel-katz-threat-displace-1-million-gaza-residents-hamas-6585316"
+            }
+          ],
+          "rank": 5
+        },
+        {
+          "headline": "柴油船在西班牙伊維薩附近傾覆　17名船員獲救其中1人死亡",
+          "summary": "馬耳他籍油船Med Emre在伊維薩附近海域傾覆，船上載有最多約7,000噸柴油及17名船員，全數獲救，其中7人送院、1人其後不治，其餘傷勢較輕；船體部分沉沒而非完全沉沒，西班牙當局正評估是否有燃油洩漏及環境影響。",
+          "time_hkt": "2026-11-26T23:17:18+08:00",
+          "sources": [
+            {
+              "name": "英國廣播公司",
+              "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do"
+            }
+          ],
+          "rank": 8
+        },
+        {
+          "headline": "李強會見亞洲開發銀行行長　稱將加快釋放超大規模市場需求",
+          "summary": "國務院總理李強在北京會見亞洲開發銀行行長神田真人，表示中方願與區域各方協作推動亞太共同體願景，並稱面對外部環境變化，中國將繼續推動高質量發展、加快釋放超大規模市場需求，為區域發展貢獻力量；神田真人稱亞行願落實新一期國別伙伴戰略。",
+          "time_hkt": "2026-11-26T21:00:37+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879399-20261126.htm"
+            }
+          ],
+          "rank": 14
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "西班牙前央行行長德科斯獲歐盟領袖支持　出任歐洲央行下任行長",
+          "summary": "歐盟領袖在歐洲理事會峰會上表態支持西班牙前央行行長、現任國際結算銀行總經理德科斯，接替將於2027年2月7日卸任的拉加德出任歐洲央行行長；正式任命仍待徵詢歐洲議會及歐洲央行理事會後確認，兩機構均無否決權。",
+          "time_hkt": "2026-11-26T22:44:13+08:00",
+          "sources": [
+            {
+              "name": "金融時報",
+              "url": "https://www.ft.com/content/88a0691a-6ce8-4c97-abf4-7aee0351fd51"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html"
+            },
+            {
+              "name": "Politico",
+              "url": "https://www.politico.eu/article/eu-leaders-clear-path-for-spains-pablo-hernandez-de-cos-to-lead-ecb/"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "萬寶路母公司奧馳亞考慮全現金收購英國帝國煙草　後者股價一度急升近18%",
+          "summary": "美國煙草商奧馳亞確認正考慮以全現金方式向英國帝國煙草提出收購建議，並與第三方商討收購帝國煙草部分業務，惟尚未達成協議；有報道指日本煙草亦在評估相關交易，帝國煙草股價一度急升17.6%，市值約268億英鎊。",
+          "time_hkt": "2026-11-26T21:08:53+08:00",
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/26/marlboro-maker-altria-explores-takeover-of-uks-imperial-brands.html"
+            },
+            {
+              "name": "彭博",
+              "url": "https://www.bloomberg.com/news/articles/2026-11-26/altria-studies-deal-for-cigarette-maker-imperial-brands"
+            },
+            {
+              "name": "奧馳亞",
+              "url": "https://investor.altria.com/press-releases/news-details/2026/Altria-Response-to-Media-Speculation-on-Possible-Offer-for-Imperial-Brands-plc/default.aspx"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "美國現貨比特幣ETF 11月淨流出約53.9億美元　創上市以來單月最高",
+          "summary": "數據供應商SoSoValue顯示，美國現貨比特幣交易所買賣基金在11月迄今錄得約53.9億美元淨流出，已超過以往單月紀錄，成為2024年1月上市以來最嚴重的一個月，並正處於風險資產波動及人工智能相關股份受壓的背景。",
+          "time_hkt": "2026-11-26T23:44:24+08:00",
+          "sources": [
+            {
+              "name": "Dimsum Daily",
+              "url": "https://www.dimsumdaily.hk/united-states-spot-bitcoin-exchange-traded-funds-record-largest-monthly-outflow-since-launch/"
+            },
+            {
+              "name": "CoinDesk",
+              "url": "https://www.coindesk.com/daybook-us/2026/11/26/bitcoin-etfs-are-bleeding-cash-and-the-fed-is-unlikely-to-help"
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "六福集團中期盈利升15%至7.12億元",
+          "summary": "六福集團公布截至9月底止中期盈利7.12億元，按年升15%，派中期息每股0.55元；期內收入升近20%至82億元，同店銷售增長24.8%，但因金價下跌及按重量計價黃金產品佔比上升，毛利率跌10.4個百分點至24.3%，全球店舖減至2789間。",
+          "time_hkt": "2026-11-26T21:57:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879411-20261126.htm"
+            }
+          ],
+          "rank": 11
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "FIFA確認遭受網絡攻擊　黑客取用部分個人及商業資料",
+          "summary": "國際足協確認成為網絡攻擊受害者，黑客取用其所稱「有限」的個人及商業資料，並正與執法機構合作調查；一個自稱Handsome Boy Hacking Club的組織早前聲稱洩漏逾12GB內部文件，FIFA未有核實該規模，有知情人士向路透表示受影響數據約佔其總存量0.1%。",
+          "time_hkt": "2026-11-26T20:03:53+08:00",
+          "sources": [
+            {
+              "name": "亞洲新聞台",
+              "url": "https://www.channelnewsasia.com/sport/fifa-data-breach-hacker-documents-6584971"
+            }
+          ],
+          "rank": 6
+        },
+        {
+          "headline": "報道指雲端業者若向中國企業出租英偉達算力　將難以購得相關芯片",
+          "summary": "CNBC引述消息人士報道，在美國商務部工業與安全局11月新遠程存取管制生效後，芯片賣家告知「新雲」業者，若其算力會出租予中國企業，將無法購買英偉達芯片，旨在堵塞中企透過海外數據中心租用高端人工智能芯片的漏洞。",
+          "time_hkt": "2026-11-26T23:34:08+08:00",
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html"
+            }
+          ],
+          "rank": 10
+        },
+        {
+          "headline": "瑞士聯邦網絡安全辦公室：近日五宗網絡攻擊使用人工智能代理",
+          "summary": "瑞士聯邦網絡安全辦公室表示，過去數日瑞士發生五宗利用人工智能代理、針對企業及關鍵基礎設施營運商的網絡攻擊，其中四宗成功入侵系統，三名關鍵基礎設施營運商成為目標，當局呼籲企業加強防護並定期進行網絡安全測試。",
+          "time_hkt": "2026-11-26T20:25:02+08:00",
+          "sources": [
+            {
+              "name": "亞洲新聞台",
+              "url": "https://www.channelnewsasia.com/business/ai-agents-used-in-five-cyber-attacks-in-switzerland-government-says-6585191"
+            }
+          ],
+          "rank": 13
+        }
+      ]
+    }
+  ]
+}
