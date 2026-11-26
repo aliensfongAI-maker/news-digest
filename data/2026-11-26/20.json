@@ -1,0 +1,267 @@
+{
+  "date": "2026-11-26",
+  "hour": "20",
+  "updatedAt": "2026-11-26T20:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "警方於油麻地搗破3個懷疑賣淫場所　拘捕20人包括15名外籍女子及2名業主",
+          "summary": "警方在油麻地搗破3個懷疑賣淫場所並拘捕20人，包括3名涉嫌經營賣淫場所的本地男女、15名年齡介乎20至42歲、涉嫌違反逗留條件的外籍女子，以及2名涉嫌准許處所用作賣淫的業主；東方日報、香港01及星島日報報道行動於廟街一帶進行，被捕外籍女子為泰籍，案件將於明日在九龍城裁判法院提堂。",
+          "time_hkt": "2026-11-26T17:00:00+08:00",
+          "sources": [
+            {
+              "name": "東方日報",
+              "url": "https://hk.on.cc/hk/bkn/cnt/news/20261126/bkn-20261126170000871-1126_00822_001.html"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879388-20261126.htm"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415377/%E8%AD%A6%E6%94%BE%E8%9B%87%E6%90%97%E6%B2%B9%E9%BA%BB%E5%9C%B0%E5%BB%9F%E8%A1%97%E9%BB%91%E5%B9%AB%E8%B3%A3%E6%B7%AB%E9%9B%86%E5%9C%98-%E6%8B%9820%E4%BA%BA%E5%8C%85%E6%8B%AC15%E5%90%8D%E6%B3%B0%E7%B1%8D%E5%A5%B3"
+            },
+            {
+              "name": "星島日報",
+              "url": "https://www.stheadline.com/breaking-news/3641467/%E8%AD%A6%E7%A0%B4%E6%B2%B9%E9%BA%BB%E5%9C%B0%E9%BB%91%E5%B9%AB3%E6%B7%AB%E7%AB%87-%E6%8B%9815%E6%B3%B0%E5%A5%B33%E7%B6%93%E7%87%9F%E8%80%85-%E5%85%A9%E6%A5%AD%E4%B8%BB%E5%B1%A2%E5%8B%B8%E4%B8%8D%E6%94%B9%E5%90%8C%E8%A2%AB%E6%8D%95"
+            }
+          ],
+          "rank": 7
+        },
+        {
+          "headline": "海關機場檢獲約160萬元懷疑大麻花　一名23歲內地男子被捕",
+          "summary": "香港海關今日在香港國際機場偵破一宗販毒案，一名23歲內地男旅客由泰國曼谷抵港時，海關在其隨身行李檢獲約7.3公斤懷疑大麻花，估計市值約160萬元，已控告他一項販運危險藥物罪，案件明日在西九龍裁判法院提堂。",
+          "time_hkt": "2026-11-26T19:25:00+08:00",
+          "sources": [
+            {
+              "name": "政府新聞處",
+              "url": "https://www.info.gov.hk/gia/general/202611/26/P2026112600574.htm"
+            },
+            {
+              "name": "東方日報",
+              "url": "https://hk.on.cc/hk/bkn/cnt/news/20261126/bkn-20261126193509012-1126_00822_001.html"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879398-20261126.htm"
+            }
+          ],
+          "rank": 10
+        },
+        {
+          "headline": "中九龍繞道九龍灣段下月6日通車　土拓署稱同日起收費8元",
+          "summary": "土木工程拓展署東拓展處處長梁中立接受香港電台訪問時表示，中九龍繞道九龍灣段將於12月6日通車，屆時全長12.5公里、貫通將軍澳、九龍東及九龍西的六號幹線將全線開通，同日起使用中九龍繞道收費8元，並稱收費水平考慮多項因素，繁忙時間由油麻地往來將軍澳市中心的車程將大幅縮短。",
+          "time_hkt": "2026-11-26T16:51:52+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879378-20261126.htm"
+            }
+          ],
+          "rank": 11
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "英國淨遷移跌至7.7萬人　除疫情年份外為1997年以來最低",
+          "summary": "英國國家統計局公布，截至2026年6月的一年，英國長期淨遷移暫定為7.7萬人，較前一年的20.4萬人減少逾一半，除新冠疫情旅行限制期間外，是1997年以來最低；期內約73.8萬人移入、66.1萬人移出，跌幅主要由非歐盟人士因工作、留學及庇護原因入境減少所帶動。",
+          "time_hkt": "2026-11-26T17:39:00+08:00",
+          "sources": [
+            {
+              "name": "英國國家統計局",
+              "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/bulletins/longterminternationalmigrationprovisional/yearendingjune2026"
+            },
+            {
+              "name": "金融時報",
+              "url": "https://www.ft.com/content/3f5ea9f4-064c-4547-9cf2-1140516c8002"
+            },
+            {
+              "name": "紐約時報",
+              "url": "https://www.nytimes.com/2026/11/26/world/europe/uk-net-migration-data.html"
+            },
+            {
+              "name": "衛報",
+              "url": "https://www.theguardian.com/uk-news/2026/nov/26/net-migration-to-uk-falls-to-lowest-level-since-1997-excluding-pandemic"
+            },
+            {
+              "name": "ITV新聞",
+              "url": "https://www.itv.com/news/2026-11-26/uk-net-migration-falls-to-77000-lowest-since-1997-excluding-covid-years"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "泰國曼谷 Bangchak 煉油設施爆炸起火　7人受傷其中4人危殆　所有生產單位停產",
+          "summary": "泰國首都曼谷 Phra Khanong 的 Bangchak 煉油設施今日發生爆炸起火，曼谷急救中心表示7人受傷、其中4人情況危殆，當局呼籲附近居民疏散；公司其後表示火勢約在下午2時45分（當地時間）發生、約30分鐘後受控撲熄，已關閉該廠所有生產單位，起因仍在調查，該廠最高產能約每日12萬桶。",
+          "time_hkt": "2026-11-26T16:49:20+08:00",
+          "sources": [
+            {
+              "name": "半島電視台",
+              "url": "https://www.aljazeera.com/news/2026/11/26/explosion-occurs-at-oil-facility-in-thailands-bangkok"
+            },
+            {
+              "name": "亞洲新聞台",
+              "url": "https://www.channelnewsasia.com/asia/bangkok-thailand-oil-refinery-fire-explosion-6584656"
+            },
+            {
+              "name": "英國廣播公司",
+              "url": "https://www.bbc.com/news/articles/crx209kwk4kzo"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879392-20261126.htm"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "英國央行下調大型銀行資本要求　並警告人工智能融資及債息上升構成風險",
+          "summary": "英國央行金融政策委員會公布將下調大型銀行日常須持有的資本要求，使主要銀行體系要求對齊約13%的新基準，同時把逆周期資本緩衝維持於2%；委員會並警告人工智能相關債務融資日趨複雜、循環且不透明，加上債息上升，或令多項金融弱點同時浮現。",
+          "time_hkt": "2026-11-26T19:09:00+08:00",
+          "sources": [
+            {
+              "name": "金融時報",
+              "url": "https://www.ft.com/content/cf30cef5-0e35-4ebd-a456-797dbd1ad132"
+            },
+            {
+              "name": "華爾街日報",
+              "url": "https://www.wsj.com/business/bank-of-england-proposes-cut-to-u-k-bank-capital-requirements-456b852d"
+            },
+            {
+              "name": "彭博",
+              "url": "https://www.bloomberg.com/news/articles/2026-11-26/boe-proposes-30-basis-point-cut-to-uk-bank-capital-requirements"
+            }
+          ],
+          "rank": 5
+        },
+        {
+          "headline": "挪威低成本長途航空 Norse Atlantic 暫停所有航班　並警告或申請破產",
+          "summary": "Norse Atlantic 宣布因財務狀況暫停所有航班，並正尋求緊急短期融資，若未能迅速取得可行方案，董事會擬申請破產；該公司使用約12架波音787營運包括倫敦蓋特威克等歐洲航點的長途航線，停飛亦令曾租用其飛機及機組的巴基斯坦國際航空取消部分航班。",
+          "time_hkt": "2026-11-26T17:02:00+08:00",
+          "sources": [
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/26/norse-airline-finance-business.html"
+            },
+            {
+              "name": "英國廣播公司",
+              "url": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo"
+            },
+            {
+              "name": "衛報",
+              "url": "https://www.theguardian.com/business/2026/nov/26/norse-atlantic-airways-suspends-all-flights-urgent-funding-plea"
+            },
+            {
+              "name": "Norse Atlantic",
+              "url": "https://news.cision.com/norse-atlantic-airways-as/r/norse-atlantic-asa--update-on-financial-situation---suspension-of-operations,c4429581"
+            }
+          ],
+          "rank": 6
+        },
+        {
+          "headline": "意大利裕信銀行通過收購德國商業銀行最後關卡　擬推舉奧塞爾出任主席",
+          "summary": "意大利裕信銀行（UniCredit）表示已獲得波蘭金融監管機構KNF批准，完成收購德國商業銀行（Commerzbank）要約的所有條件，並要求召開特別股東大會改組監事會、推舉行政總裁奧塞爾出任主席；華爾街日報及彭博報道這是收購的最後監管關卡。",
+          "time_hkt": "2026-11-26T16:42:00+08:00",
+          "sources": [
+            {
+              "name": "華爾街日報",
+              "url": "https://www.wsj.com/business/unicredit-clears-final-hurdle-in-commerzbank-takeover-83ae477f"
+            },
+            {
+              "name": "彭博",
+              "url": "https://www.bloomberg.com/news/articles/2026-11-26/unicredit-asks-commerzbank-to-convene-egm-after-final-approval"
+            },
+            {
+              "name": "UniCredit",
+              "url": "https://www.unicreditgroup.eu/en/press-media/press-releases-price-sensitive/2026/november/unicredit-receives-knf-approvals-regarding-the-offer-on-commerzb.html"
+            }
+          ],
+          "rank": 9
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "恒指收市升260點報22226點　結束7連跌　科指結束11連跌",
+          "summary": "港股結束連續7日跌勢，恒生指數早段曾升逾570點，午後升幅收窄，收報22226點，升260點或約1.2%，成交逾2124億元；恒生科技指數升逾1%報3417點，結束11連跌，人工智能相關股份及內銀、石油股普遍向上，理想汽車公布上季業績後升8%。",
+          "time_hkt": "2026-11-26T16:33:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879372-20261126.htm"
+            },
+            {
+              "name": "香港經濟日報",
+              "url": "https://inews.hket.com/article/4231195/%E3%80%90%E6%B8%AF%E8%82%A1%E6%94%B6%E5%B8%82%E3%80%91%E6%81%92%E6%8C%87%E5%8D%87260%E9%BB%9E%E9%87%8D%E4%B8%8A%E4%BA%8C%E8%90%AC%E4%BA%8C%E3%80%81%E7%B5%82%E6%AD%A2%E4%B8%83%E9%80%A3%E8%B7%8C%E3%80%80%E8%81%AF%E6%83%B3%E3%80%81%E8%8F%AF%E8%99%B9%E5%AE%8F%E5%8A%9B%E5%8D%87%E9%80%BE3-%E3%80%80%E6%99%BA%E8%AD%9C%E5%8F%8D%E5%BD%888-%EF%BC%88%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0%EF%BC%89"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1208620-%E6%B8%AF%E8%82%A1%E7%B5%90%E6%9D%9F%E9%80%A3%E7%BA%8C%E4%B8%83%E6%97%A5%E8%B7%8C%E5%B8%82%E6%94%B6%E5%B8%82%E5%8F%8D%E5%BD%88%E9%80%BE200%E9%BB%9E"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "本港10月出口按年升65.6%　進口升56.2%　政府指人工智能電子產品出口持續強勁",
+          "summary": "政府統計處公布，2026年10月本港商品整體出口貨值按年升65.6%至7645億元，進口升56.2%至7838億元，有形貿易逆差193億元；政府發言人表示升幅主要由人工智能相關電子產品出口持續強勁帶動，其中辦公室機器及自動資料處理儀器出口升146.5%，首10個月出口則按年升47.4%。",
+          "time_hkt": "2026-11-26T16:30:00+08:00",
+          "sources": [
+            {
+              "name": "政府新聞處",
+              "url": "https://www.info.gov.hk/gia/general/202611/26/P2026112600255.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879374-20261126.htm"
+            },
+            {
+              "name": "星島日報",
+              "url": "https://www.stheadline.com/zh-hans/macroeconomics/3641438/%E9%A6%99%E6%B8%AF10%E6%9C%88%E5%87%BA%E5%8F%A3%E6%8C%89%E5%B9%B4%E5%8D%87656-%E8%BF%9B%E5%8F%A3%E5%8D%87562"
+            },
+            {
+              "name": "南華早報",
+              "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3375917/hong-kong-exports-post-fastest-growth-70-years-ai-related-goods"
+            }
+          ],
+          "rank": 4
+        },
+        {
+          "headline": "聯交所譴責中國恒大、恒大物業及7名董事　涉以134億元人民幣提供財務資助",
+          "summary": "香港交易所公布，聯交所譴責已除牌並正在清盤的中國恒大集團及恒大物業，指恒大物業於2020年末至2021年期間以淨額134億元人民幣定期存款作質押，向中國恒大提供財務資助並嚴重違反上市規則；聯交所對許家印、夏海鈞、潘大榮及恒大物業部分前董事作出董事不適合性聲明或損害投資者權益聲明並予以譴責。",
+          "time_hkt": "2026-11-26T17:54:00+08:00",
+          "sources": [
+            {
+              "name": "香港交易所",
+              "url": "https://www.hkex.com.hk/News/Regulatory-Announcements/2026/261126news?sc_lang=zh-HK"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879383-20261126.htm"
+            },
+            {
+              "name": "文匯報",
+              "url": "https://www.wenweipo.com/a/202611/26/AP6b0807d6e4b028ec0195b586.html"
+            }
+          ],
+          "rank": 8
+        }
+      ]
+    }
+  ]
+}
