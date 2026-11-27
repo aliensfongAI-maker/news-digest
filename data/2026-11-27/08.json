@@ -1,0 +1,117 @@
+{
+  "date": "2026-11-27",
+  "hour": "08",
+  "updatedAt": "2026-11-27T08:15:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "澤連斯基：情報指俄擬發動新一波大規模攻擊　並指美方對俄施壓不足",
+          "summary": "烏克蘭總統澤連斯基表示，情報顯示俄羅斯計劃未來數日對烏克蘭發動新一波大規模攻擊，並呼籲民眾留意導彈警報；他接受英國廣播公司訪問時又指，美國過於聚焦中東、對俄羅斯施壓不足。曾參與斡旋的庫什納則稱，目前談判因領土歸屬問題陷入僵局。",
+          "time_hkt": "2026-11-27T05:48:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879437-20261127.htm"
+            },
+            {
+              "name": "英國廣播公司",
+              "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "歐盟特別峰會未能就長期預算及援烏資金達成協議　討論延至12月",
+          "summary": "歐盟領袖在布魯塞爾舉行的特別峰會經過逾12小時討論後，未能就2028年至2034年長期預算及援烏資金方案達成協議，峰會提前結束；德國總理默茨表示，各國將爭取在12月17日起的峰會上達成協議，法國總統馬克龍亦把年底定為協議期限。",
+          "time_hkt": "2026-11-27T07:35:18+08:00",
+          "sources": [
+            {
+              "name": "南華早報",
+              "url": "https://www.scmp.com/news/world/europe/article/3375966/eu-leaders-unable-agree-budget-after-over-12-hours-talks-zero-results"
+            },
+            {
+              "name": "德國之聲",
+              "url": "https://www.dw.com/en/at-odds-over-the-eu-budget-european-leaders-cut-summit-short-dw-has-more/live-80056415"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "歐股高收近2%或以上　關稅憂慮紓緩",
+          "summary": "歐洲主要股市收市升近2%或以上，因市場認為美國對歐盟加徵關稅可能未如先前憂慮般嚴厲；德國DAX指數升513點或近2.1%，報25215點，法國CAC指數升128點或1.6%，報8108點，英國富時100指數升182點或逾1.7%，報10609點。美股因感恩節休市，周五將維持半日市。",
+          "time_hkt": "2026-11-27T05:48:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879432-20261127.htm"
+            },
+            {
+              "name": "雅虎財經",
+              "url": "https://finance.yahoo.com/markets/world-indices/articles/european-stocks-end-higher-easing-174244569.html"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "布蘭特期油高收逾2%　市場憂慮中東原油供應",
+          "summary": "國際油價上升，倫敦布蘭特期油收市報每桶96.57美元，升1.96美元或近2.1%，因沙特阿拉伯煉油設施早前遇襲，加上有運油船在霍爾木茲海峽觸雷，加劇市場對中東原油供應的憂慮。",
+          "time_hkt": "2026-11-27T05:48:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879435-20261127.htm"
+            },
+            {
+              "name": "晨星",
+              "url": "https://www.morningstar.com/news/dow-jones/202611263738/front-month-ice-brent-crude-rose-207-to-settle-at-9657-data-talk"
+            }
+          ],
+          "rank": 4
+        },
+        {
+          "headline": "東京11月核心消費物價按年升2.9%　略低於預期",
+          "summary": "日本政府公布，東京11月核心消費物價指數（剔除新鮮食品、包含能源）按年升2.9%，略低於經濟學家預期中值的3.0%。",
+          "time_hkt": "2026-11-27T07:38:58+08:00",
+          "sources": [
+            {
+              "name": "亞洲新聞台",
+              "url": "https://www.channelnewsasia.com/business/tokyo-nov-core-cpi-rises-29-yryr-6586106"
+            },
+            {
+              "name": "日經新聞",
+              "url": "https://www.nikkei.com/article/DGXZQOUA174MJ0X11C26A1000000/"
+            }
+          ],
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "消息：港交所傾向保留午市休市　或改以調整開市及收市時間延長交易",
+          "summary": "多名消息人士向《南華早報》表示，香港交易所傾向保留現行一小時午市休市，不會在即將發表的討論文件中突出取消午休的構思，但會討論提早開市或延後收市，或兩者並行；該文件最早下周發出，並在納斯達克12月6日延長至23小時交易之前先徵詢方向。",
+          "time_hkt": "2026-11-27T07:00:10+08:00",
+          "sources": [
+            {
+              "name": "南華早報",
+              "url": "https://www.scmp.com/business/markets/article/3375915/lets-keep-doing-lunch-hong-kong-exchange-leans-towards-keeping-noon-break-sources-say"
+            }
+          ],
+          "rank": 6
+        }
+      ]
+    }
+  ]
+}
