@@ -1,0 +1,175 @@
+{
+  "date": "2026-11-27",
+  "hour": "16",
+  "updatedAt": "2026-11-27T16:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "蔡天鳳案開始結案陳詞　控方指三名被告各有角色並按計劃犯案",
+          "summary": "蔡天鳳碎屍案星期五開始結案陳詞，主控郭莎樂指三名被告案發前已購買工具和裝備、各有角色並按計劃行事，又展示有穿洞及帶血的手袋推斷死者曾舉袋抵擋錘擊，案件下星期一由辯方結案陳詞。",
+          "time_hkt": "2026-11-27T12:32:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879475-20261127.htm"
+            },
+            {
+              "name": "星島日報",
+              "url": "https://www.stheadline.com/society/3641719/蔡天鳳碎屍案控方結案陳詞指鄺球蔡天鳳關係極惡劣-被告解釋購各種物品理由可笑"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "姚慶良獲聘為洪水橋產業園首任行政總裁　下月1日履新任期3年",
+          "summary": "洪水橋產業園有限公司公布，經公開招聘並獲行政長官批准，聘任前香港科技園公司高層姚慶良為首任行政總裁，將於12月1日履新、任期3年，董事局主席林健鋒表示期望他帶領招商引資並加快產業園早期發展。",
+          "time_hkt": "2026-11-27T15:36:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879497-20261127.htm"
+            },
+            {
+              "name": "星島日報",
+              "url": "https://www.stheadline.com/society/3641782/姚慶良獲聘為洪水橋產業園首任行政總裁-121上任-任期3年"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/社會新聞/60415661/洪水橋產業園-姚慶良獲聘為首任行政總裁-12.1履新-任期三年"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "胡英明代表廉署成功連任國際反貪局聯合會主席",
+          "summary": "廉政專員胡英明代表中國香港廉政公署，成功連任國際反貪局聯合會主席，並表示會繼續擔任領航者，帶領各方推動國際反貪事業。",
+          "time_hkt": "2026-11-27T15:34:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879496-20261127.htm"
+            },
+            {
+              "name": "星島日報",
+              "url": "https://www.stheadline.com/society/3641773/廉署成功連任國際反貪局聯合會主席-胡英明續當領航者-帶領各方推動國際反貪事業"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "國常會提出完善穩市機制並加力發揮「國家隊」作用　滬深股市午後急升　創業板高收近12%",
+          "summary": "國務院總理李強主持國務院常務會議，指出要持續完善資本市場穩市機制、加力發揮「國家隊」穩市作用並優化中央匯金類「平準基金」功能；受會議釋出穩定信號帶動，上證綜合指數收市報3606點、升3.73%，深證成指收報10814點、升7.24%，創業板指數收報2443點、升11.61%。",
+          "time_hkt": "2026-11-27T13:11:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879499-20261127.htm"
+            },
+            {
+              "name": "金融時報",
+              "url": "https://www.ft.com/content/fedc6392-ad25-43e4-9d9f-20216cbf331e"
+            },
+            {
+              "name": "華爾街日報",
+              "url": "https://www.wsj.com/finance/stocks/chinese-shares-lifted-as-beijing-signals-more-market-support-3a1d1468"
+            },
+            {
+              "name": "星島日報",
+              "url": "https://www.stheadline.com/macroeconomics/3641772/中央罕有中午發聲撐市-國常會首提國家隊及匯金類平準基金-專家交易時段公布顯穩市加速"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "日經高收逾1200點　韓股升逾4%　台股本周累升近9.1%",
+          "summary": "日經指數收報58711點，升1211點或2.11%，本周累升約4%；首爾綜合指數收報4915點，升204點或4.34%；台灣加權指數收報39308點，升156點或0.4%，本周累升近9.1%。",
+          "time_hkt": "2026-11-27T14:52:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879490-20261127.htm"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879493-20261127.htm"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "恒指午後升幅擴大一度急升逾500點　科指較早時升近5.3%",
+          "summary": "受國務院常務會議提出加力發揮「國家隊」穩市作用及優化匯金類「平準基金」功能等消息帶動，恒生指數午後升幅顯著擴大，一度急升逾500點，較早時報22635點、升408點；科技指數較早時報3598點，升181點或近5.3%。",
+          "time_hkt": "2026-11-27T13:19:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879482-20261127.htm"
+            },
+            {
+              "name": "星島日報",
+              "url": "https://www.stheadline.com/stock-market/3641664/恒指午後飆逾500點-國常會倡加力發揮國家隊穩市-優化匯金類平準基金功能-港股開市"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "大家樂中期盈利升近1.17倍至1.01億元　中期息增加50%　午後股價挫逾一成",
+          "summary": "大家樂截至9月底止中期盈利按年增長近1.17倍至1.01億元，派中期息每股15仙、按年增加50%，收入則跌1%至39.95億元；星島日報報道股價午後挫逾一成。",
+          "time_hkt": "2026-11-27T13:17:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879479-20261127.htm"
+            },
+            {
+              "name": "星島日報",
+              "url": "https://www.stheadline.com/stock-market/3641765/大家樂中期多賺116-中期息增50-午後股價挫逾一成"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "警方上月至今錄30宗網絡安全事故　私隱署今年已接330宗資料外洩通報",
+          "summary": "網絡安全及科技罪案調查科表示，10月至今錄得30宗網絡安全事故報告，主要涉及零售企業，包括14宗勒索軟件、11宗API漏洞及5宗釣魚攻擊，其中一宗在短時間內被盜取逾百萬名客戶資料；私隱專員公署則稱今年至前日已接獲330宗資料外洩通報，較去年同期多五成，當中156宗涉黑客入侵。",
+          "time_hkt": "2026-11-27T12:54:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879478-20261127.htm"
+            },
+            {
+              "name": "南華早報",
+              "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3376025/hong-kong-police-handle-30-cybersecurity-cases-past-month-including-ai-assisted-hack"
+            },
+            {
+              "name": "星島日報",
+              "url": "https://www.stheadline.com/breaking-news/3641777/近月網安資料外洩頻生-私隱署接330通報警方揭API鑰匙塞程式碼遭拆解防資料外洩爆精準詐騙"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
