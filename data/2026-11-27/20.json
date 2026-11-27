@@ -1,0 +1,209 @@
+{
+  "date": "2026-11-27",
+  "hour": "20",
+  "updatedAt": "2026-11-27T20:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "SmartPLAY康體通資料外洩　約9萬名用戶個人資料或受影響",
+          "summary": "個人資料私隱專員公署接獲康文署通報，SmartPLAY康體通被黑客非法進入，約9萬名Leisure Link帳戶的個人資料或受影響，包括出生日期、電話、地址、性別及電郵，其中約1500名用戶的姓名亦被涉及，但不涉身份證及付款資料；康文署已報警並向保安局、數字政策辦公室及私隱公署通報，已取消相關功能並陸續通知受影響人士，又指過去數天黑客接連非法進入URBTIX及SmartPLAY系統。",
+          "time_hkt": "2026-11-27T18:17:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879520-20261127.htm"
+            },
+            {
+              "name": "政府新聞處",
+              "url": "https://www.info.gov.hk/gia/general/202611/27/P2026112700634.htm"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1208818-DataleaksofgovsSmartPLAYsystem90kpeopleaffected"
+            },
+            {
+              "name": "信報",
+              "url": "https://www.hkej.com/instantnews/current/article/4576347/%E5%BA%B7%E6%96%87%E7%BD%B2%E5%BA%B7%E9%AB%94%E9%80%9A%E7%96%91%E5%A4%96%E6%B4%A99%E8%90%AC%E4%BA%BA%E8%B3%87%E6%96%99+%E7%A7%81%E9%9A%B1%E7%BD%B2%E8%AA%BF%E6%9F%A5"
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "黃大仙醫院一名職員疑被非禮　警方拘捕一名64歲男病人",
+          "summary": "東華三院黃大仙醫院公布，一名職員昨日在病房執勤期間懷疑被非禮，院方報警後，警方拘捕一名已出院的64歲男病人；院方強烈譴責並表示採取零容忍態度，已向該職員提供支援，並經早期事故通報系統向醫管局總辦事處呈報事件。",
+          "time_hkt": "2026-11-27T19:15:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879526-20261127.htm"
+            },
+            {
+              "name": "政府新聞處",
+              "url": "https://www.info.gov.hk/gia/general/202611/27/P2026112700667.htm"
+            }
+          ],
+          "rank": 7
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "強烈風暴襲美國東岸　感恩節出行受阻　一度近百萬戶停電",
+          "summary": "一場強烈風暴在感恩節當天吹襲美國東岸，帶來狂風、暴雨及沿海水浸，香港電台引述截至周四傍晚全美接近100萬戶斷電，華盛頓與紐約主要機場受影響較大；英國廣播公司報道周四逾450班航班取消、逾2500班延誤，周五賓夕法尼亞州仍是停電最嚴重的州份，總統特朗普已批准向受風暴及洪水影響的佛羅里達州提供聯邦援助。",
+          "time_hkt": "2026-11-27T17:15:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879509-20261127.htm"
+            },
+            {
+              "name": "英國廣播公司",
+              "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo"
+            },
+            {
+              "name": "華盛頓郵報",
+              "url": "https://www.washingtonpost.com/nation/2026/11/27/power-outages-heavy-rain-continue-east-coast-after-thanksgiving-day-storm/"
+            },
+            {
+              "name": "加拿大廣播公司",
+              "url": "https://www.cbc.ca/news/world/u-s-thanksgiving-storm-power-flight-delays-9.7438358"
+            }
+          ],
+          "rank": 4
+        },
+        {
+          "headline": "加拿大近28.6萬人聯署籲政府驅逐美國駐加大使",
+          "summary": "加拿大近28萬6千人實名聯署，呼籲政府驅逐美國駐加大使胡克斯特拉，請願書已於當地星期四提交國會眾議院，政府須在45日內作出正式回應；請願指他多次發表損害加美關係的言論，並將總統特朗普威脅吞併加拿大的言論「正常化」，分析指實際驅逐的可能性幾乎為零，但反映強烈對美不滿的民意。",
+          "time_hkt": "2026-11-27T17:12:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879508-20261127.htm"
+            }
+          ],
+          "rank": 9
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "美股期貨急升　納指期貨一度升約2.7%　人工智能相關股份料反彈",
+          "summary": "華爾街在感恩節後的縮短交易時段開市前，納斯達克期貨一度升約2.7%，標準普爾500指數及道瓊斯指數期貨亦向上，投資者重新買入近期大幅波動的人工智能相關股份；華爾街日報、紐約時報、金融時報及CNBC均報道美股料在半日市造好，為這個波動的假期交易周作結。",
+          "time_hkt": "2026-11-27T17:34:00+08:00",
+          "sources": [
+            {
+              "name": "華爾街日報",
+              "url": "https://www.wsj.com/finance/stocks/stock-futures-jump-as-ai-trade-set-for-rebound-98318fc0"
+            },
+            {
+              "name": "紐約時報",
+              "url": "https://www.nytimes.com/2026/11/27/business/stocks-tech-stocks-ai.html"
+            },
+            {
+              "name": "金融時報",
+              "url": "https://www.ft.com/content/b80e6259-dca8-4da3-962d-402106a3cd81"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "finance-hk",
+      "title": "財經（香港）",
+      "items": [
+        {
+          "headline": "恒指收市升467點報22694點　科指急升近6.5%　結束兩星期跌勢",
+          "summary": "港股在期指結算日造好，國務院常務會議提出加力發揮「國家隊」穩市作用後，恒生指數午後最多升逾550點、高見22781點，收市報22694點，升467點或2.11%，主板成交約2571億元；恒生科技指數急升近6.5%收報3637點，創逾一年半以來最大單日升幅，華虹宏力升近21%、中芯國際升逾16%，全星期恒指累升約1.3%、科指累升約3.6%，結束兩星期跌勢。",
+          "time_hkt": "2026-11-27T16:10:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879507-20261127.htm"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1208762-%E6%B8%AF%E8%82%A1%E6%94%B6%E5%B8%82%E5%A0%B122694%E9%BB%9E%E5%8D%87467%E9%BB%9E"
+            },
+            {
+              "name": "香港經濟日報",
+              "url": "https://inews.hket.com/article/4231906/%E3%80%90%E6%B8%AF%E8%82%A1%E6%94%B6%E5%B8%82%E3%80%91%E6%86%A7%E6%86%AC%E5%9C%8B%E5%AE%B6%E9%9A%8A%E6%95%91%E5%B8%82%E6%81%92%E6%8C%87%E5%8D%87467%E9%BB%9E%E3%80%80%E7%BE%8E%E5%9C%98%E7%B8%BE%E5%89%8D%E9%80%A0%E5%A5%BD%E5%8D%878-%E3%80%80%E4%B8%AD%E8%8A%AF%E5%8D%87%E9%80%BE16-%E3%80%81%E8%8F%AF%E8%99%B9%E5%8D%87%E5%85%A9%E6%88%90%EF%BC%88%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0%EF%BC%89"
+            },
+            {
+              "name": "信報",
+              "url": "https://www.hkej.com/instantnews/stock/article/4576042/%E6%81%92%E6%8C%87%E8%B5%B0%E5%8B%A2%E4%B8%A8%E6%9C%9F%E7%B5%90%E6%97%A5%E6%94%B6%E5%8D%87467%E9%BB%9E+%E5%85%A8%E5%91%A8%E7%B4%AF%E5%8D%87283%E9%BB%9E"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "美團第3季按年扭虧為盈　賺20.7億元人民幣",
+          "summary": "美團公布第三季業績按年扭虧為盈，盈利20.7億元人民幣，去年同期虧損186.3億元，收入約1156億元、按年增長近22%，經調整盈利18.5億元；公司表示外賣平均客單價按年顯著回升、低價訂單佔比下降，核心本地商業經營溢利達57億元，股價在業績公布前已升逾8%。",
+          "time_hkt": "2026-11-27T17:18:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879512-20261127.htm"
+            },
+            {
+              "name": "南華早報",
+              "url": "https://www.scmp.com/tech/big-tech/article/3376041/meituan-logs-second-straight-quarterly-profit-it-fends-alibaba-jd-instant-retail"
+            },
+            {
+              "name": "香港經濟日報",
+              "url": "https://inews.hket.com/article/4232230/%E3%80%903690%E3%80%91%E7%BE%8E%E5%9C%98%E6%89%AD%E8%99%A7%E7%82%BA%E7%9B%88%E3%80%80%E7%AC%AC%E4%B8%89%E5%AD%A3%E7%B6%93%E8%AA%BF%E6%95%B4%E6%BA%A2%E5%88%A918.5%E5%84%84%E4%BA%BA%E5%B9%A3"
+            }
+          ],
+          "rank": 5
+        },
+        {
+          "headline": "本港二手樓價按周跌0.15%　連跌7個星期累回落2.41%",
+          "summary": "反映本港二手樓價走勢的中原城市領先指數（CCL）最新報157.32，按周跌0.15%，連跌7個星期、累計回落2.41%，創近3年以來最長跌勢；中原地產表示，新盤低價促銷、12月加息機率上升及環球金融市場波動令買家放慢入市，估計指數至年底前仍有約1.5%下跌空間。",
+          "time_hkt": "2026-11-27T17:35:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879514-20261127.htm"
+            }
+          ],
+          "rank": 8
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "科技",
+      "items": [
+        {
+          "headline": "路透：黑客入侵美國空軍旗艦雲端平台Cloud One",
+          "summary": "路透社引述多名知情人士報道，黑客入侵美國空軍旗艦雲端平台Cloud One，事件約在近一個月於系統升級期間被發現，或危及大量戰術、人事及後勤數據；路透未能確定黑客身分、入侵範圍或是否有數據被竊，空軍未就個別系統狀況置評，發現後已導致應用遷移暫停、更新受阻，並引入網絡司令部評估損害。",
+          "time_hkt": "2026-11-27T19:03:00+08:00",
+          "sources": [
+            {
+              "name": "亞洲新聞台",
+              "url": "https://www.channelnewsasia.com/world/hackers-breach-us-air-force-cloud-one-computing-platform-6587501"
+            },
+            {
+              "name": "彭博",
+              "url": "https://www.bloomberg.com/news/articles/2026-11-27/hackers-breached-us-air-force-s-cloud-platform"
+            }
+          ],
+          "rank": 6
+        }
+      ]
+    }
+  ]
+}
