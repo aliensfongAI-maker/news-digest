@@ -1,0 +1,79 @@
+{
+  "date": "2026-11-28",
+  "hour": "04",
+  "updatedAt": "2026-11-28T04:15:00+08:00",
+  "sections": [
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "西班牙周日大選　桑切斯稱深信左派陣營能取得多數席位",
+          "summary": "西班牙將於星期日舉行大選，首相桑切斯在星期五競選最後一日表示，雖然民調不利他所屬的工人社會黨，但他仍深信左派陣營能取得多數席位，並指黨內數據顯示該黨將獲得最高票數，可在較小規模的左派政黨盟友支持下連任；選前幾乎所有民調都顯示，由保守派人民黨與極右「呼聲黨」組成的潛在聯盟具有明顯優勢，兩黨尋求結束桑切斯的八年管治。香港電台及半島電視台等均有報道。",
+          "time_hkt": "2026-11-28T00:09:33+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879543-20261128.htm"
+            },
+            {
+              "name": "半島電視台",
+              "url": "https://www.aljazeera.com/news/2026/11/27/spains-pedro-sanchez-bets-on-left-wing-voting-surge-to-defy-election-polls"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "意大利外長稱烏克蘭於利比亞採取軍事行動前未通報盟友",
+          "summary": "意大利副總理兼外長塔亞尼表示，烏克蘭在利比亞發動針對俄羅斯的軍事行動前，並未通報意大利及盟友，亦未就行動進行協調，並指總統澤連斯基所稱有關行動已與夥伴協調並不屬實；他強調意大利不希望戰事擴大至其他地區，亦不希望地中海進一步捲入衝突。澤連斯基日前表示，烏方利用無人艇在利比亞擊沉俄羅斯一艘軍艦並擊中一艘乾貨船，利比亞國民軍指襲擊造成兩名士兵死亡。",
+          "time_hkt": "2026-11-28T00:21:07+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879544-20261128.htm"
+            },
+            {
+              "name": "基輔獨立報",
+              "url": "https://kyivindependent.com/zelensky-says-ukraine-aligns-naval-strikes-with-partners-italy-denies-coordination-over-libya-attack/"
+            },
+            {
+              "name": "阿納多盧通訊社",
+              "url": "https://www.aa.com.tr/en/europe/italy-says-zelenskyy-not-telling-the-truth-about-informing-allies-of-benghazi-attacks/4140766"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "美股黑色星期五半日市收市向好　道指升592點　標普500全星期升5.6%創2025年4月以來最佳單周表現",
+          "summary": "美股在感恩節翌日的黑色星期五只開半日市，收市三大指數向好，科技股帶動反彈；道瓊斯指數升591.99點或1.18%，收報50774.94點；標準普爾500指數升114.71點或1.60%，收報7297.49點；納斯達克綜合指數升543.70點或2.31%，收報24129.50點。路透社報道，全星期標普500指數升5.6%，錄得2025年4月以來最佳單周表現，道指升5.46%，納指升6.68%。",
+          "time_hkt": "2026-11-28T02:14:36+08:00",
+          "sources": [
+            {
+              "name": "路透社",
+              "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-surge-as-investors-return-from-holiday-5053052"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/stock-markets-tariffs-ai-profits-energy-c7ef10c1dbc5fa09668bd4fe0729c613"
+            },
+            {
+              "name": "經濟通",
+              "url": "https://www.etnet.com.hk/www/tc/us-stocks/news-article/418491/%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%A4+%7C+%E7%A7%91%E6%8A%80%E8%82%A1%E5%B8%B6%E5%8B%95%E5%A4%A7%E5%B8%82%E5%8F%8D%E5%BD%88%EF%BC%8C%E9%81%93%E6%8C%87%E6%94%B6%E5%B8%82%E5%8D%87592%E9%BB%9E%EF%BC%8C%E7%B4%8D%E6%8C%87%E5%A4%A7%E6%BC%B22.3%25"
+            },
+            {
+              "name": "商業電台",
+              "url": "https://www.881903.com/news/finance/2661723"
+            }
+          ],
+          "rank": 1
+        }
+      ]
+    }
+  ]
+}
