@@ -1,0 +1,129 @@
+{
+  "date": "2026-11-28",
+  "hour": "00",
+  "updatedAt": "2026-11-28T00:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "八達通系統遭網絡攻擊　涉約7500名客戶及2.2萬商戶資料",
+          "summary": "八達通卡公司公布，今日早上偵測到系統遭網絡攻擊，約7500名客戶的個人資料或受影響，包括姓名及相片，部分或涉及自動增值服務的銀行編號及金額，但不涉信用卡或銀行戶口資料；約2.2萬名商戶的聯絡人姓名、職位、電郵及電話亦受影響。公司指主要服務運作如常，暫未發現客戶蒙受財務損失，已報警並通報私隱專員公署及運輸及物流局，將直接通知受影響客戶。",
+          "time_hkt": "2026-11-27T20:34:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879531-20261127.htm"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60415794/%E5%85%AB%E9%81%94%E9%80%9A%E7%B3%BB%E7%B5%B1%E9%81%AD%E7%B6%B2%E7%B5%A1%E6%94%BB%E6%93%8A-%E6%B6%897500%E5%AE%A2%E6%88%B6-2-2%E8%90%AC%E5%95%86%E6%88%B6%E5%A7%93%E5%90%8D%E7%AD%89%E8%B3%87%E6%96%99%E5%8F%97%E5%BD%B1%E9%9F%BF"
+            },
+            {
+              "name": "香港經濟日報",
+              "url": "https://news.hket.com/article/4232437/%E7%B6%B2%E7%B5%A1%E6%94%BB%E6%93%8A%EF%BD%9C%E5%85%AB%E9%81%94%E9%80%9A%E7%B3%BB%E7%B5%B1%E5%8F%97%E7%B6%B2%E7%B5%A1%E6%94%BB%E6%93%8A%E3%80%80%E6%96%997,500%E5%90%8D%E5%AE%A2%E6%88%B6%E5%92%8C2.2%E8%90%AC%E5%90%8D%E5%95%86%E6%88%B6%E5%8F%97%E5%BD%B1%E9%9F%BF"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1208856-%E5%86%8D%E6%9C%89%E5%85%AC%E7%A7%81%E7%87%9F%E6%A9%9F%E6%A7%8B%E7%B3%BB%E7%B5%B1%E9%81%AD%E9%BB%91%E5%AE%A2%E5%85%A5%E4%BE%B5%E6%B6%89%E5%85%AB%E9%81%94%E9%80%9A%E7%B4%843%E8%90%AC%E5%AE%A2%E6%88%B6%E6%88%96%E5%95%86%E6%88%B6%E8%B3%87%E6%96%99"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "陳健波出任醫管局主席　稱須正視醫療保費加幅大",
+          "summary": "政府委任陳健波接替范鴻齡出任醫院管理局主席，任期下月1日起生效；他在社交專頁上載片段，表示除調整公營醫療收費外，正研究更具創意的方法增加醫療收入，並稱須正視醫療保費加幅大，雖然來自保險界但不會偏幫業界，指私營醫療部分行規令醫療通脹高於生活通脹，市民回流公立醫院會加重政府負擔。",
+          "time_hkt": "2026-11-27T21:39:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879537-20261127.htm"
+            },
+            {
+              "name": "巴士的報",
+              "url": "https://www.bastillepost.com/hongkong/article/17277413-%e9%99%b3%e5%81%a5%e6%b3%a2%e7%a8%b1%e9%a0%88%e6%ad%a3%e8%a6%96%e9%86%ab%e7%99%82%e4%bf%9d%e8%b2%bb%e5%8a%a0%e5%b9%85%e5%a4%a7-%e5%bc%b7%e8%aa%bf%e4%b8%8d%e6%9c%83%e5%81%8f%e5%b9%ab%e4%bf%9d%e9%9a%aa"
+            },
+            {
+              "name": "都市日報",
+              "url": "https://metrohk.com.hk/%E6%B8%AF%E8%81%9E/%E9%99%B3%E5%81%A5%E6%B3%A2%E5%87%BA%E4%BB%BB%E9%86%AB%E7%AE%A1%E5%B1%80%E4%B8%BB%E5%B8%AD-%E9%97%9C%E6%B3%A8%E9%86%AB%E7%99%82%e4%bf%9d%e8%b2%bb%e5%8a%a0%e5%b9%85%e5%a4%a7-a248a5"
+            }
+          ],
+          "rank": 5
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "加拿大最高法院大致維持魁北克公職人員宗教標誌禁令",
+          "summary": "加拿大最高法院星期五裁定，魁北克省2019年通過、限制部分公職人員在崗位上佩戴宗教標誌的《第21號法案》大致合憲，並確認該省引用聯邦《權利與自由憲章》「不論條款」的做法有效；但裁定有關限制不得適用於省議會民選議員，否則會侵犯民主權利。英國廣播公司、半島電視台及加拿大廣播公司等均有報道。",
+          "time_hkt": "2026-11-27T22:55:00+08:00",
+          "sources": [
+            {
+              "name": "英國廣播公司",
+              "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o"
+            },
+            {
+              "name": "半島電視台",
+              "url": "https://www.aljazeera.com/news/2026/11/27/canadas-top-court-largely-upholds-quebecs-religious-symbols-ban"
+            },
+            {
+              "name": "加拿大廣播公司",
+              "url": "https://www.cbc.ca/news/politics/supreme-court-decison-bill-21-9.7437512"
+            },
+            {
+              "name": "美聯社",
+              "url": "https://apnews.com/article/canada-quebec-religious-symbols-supreme-court-8fa520067e80483a7e0c5d1c01fb4189"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "id": "finance-global",
+      "title": "財經（全球）",
+      "items": [
+        {
+          "headline": "美股黑色星期五半日市向好　道指較早時升約510點　全星期料錄2025年4月以來最佳表現",
+          "summary": "美股在感恩節翌日的黑色星期五只開半日市，開市後三大指數向好、科技股帶動反彈；美國消費者新聞與商業頻道報道，道瓊斯指數較早時升約510點或1%，標準普爾500指數升1.2%，納斯達克綜合指數升1.7%，全星期道指進入當日時段已累升約5%，料錄得2025年4月以來最佳單周表現，Meta及亞馬遜股價各自升約3%。",
+          "time_hkt": "2026-11-27T22:52:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879539-20261127.htm"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html"
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "美國10月商品貿易逆差擴大近11%至1495億美元　人工智能基建推高進口",
+          "summary": "美國商務部普查局公布，10月商品貿易逆差擴大10.7%或144億美元，至1495億美元，為2025年3月以來最高，並高於市場預期的約1330億美元；商品進口升6.1%至3653億美元，創1992年有紀錄以來新高，出口則升3.2%至2158億美元。路透社報道，人工智能基建帶動資本貨品進口急增，是逆差擴大的主因。",
+          "time_hkt": "2026-11-27T23:06:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879541-20261127.htm"
+            },
+            {
+              "name": "路透社",
+              "url": "https://www.investing.com/news/economic-indicators/us-goods-trade-deficit-widens-sharply-in-october-5053539"
+            },
+            {
+              "name": "彭博",
+              "url": "https://www.bloomberg.com/news/articles/2026-11-27/us-goods-trade-deficit-widens-for-fourth-straight-month"
+            }
+          ],
+          "rank": 4
+        }
+      ]
+    }
+  ]
+}
