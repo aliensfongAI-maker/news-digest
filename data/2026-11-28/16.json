@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-28",
+  "hour": "16",
+  "updatedAt": "2026-11-28T16:15:00+08:00",
+  "sections": [
+    {
+      "id": "local",
+      "title": "本地／香港",
+      "items": [
+        {
+          "headline": "屯門華運工廈棚網起火　約200人疏散暫無受傷",
+          "summary": "星期六下午約2時05分，屯門建發里2號華運工業大廈外牆棚網起火，消防派出一條喉及一隊煙帽隊灌救，約200人疏散，暫無受傷報告；火勢約半小時後大致救熄，起火原因有待調查。當日早上天文台已發出紅色火災危險警告。香港電台、香港01、無綫新聞及東網等均有報道。",
+          "time_hkt": "2026-11-28T14:11:00+08:00",
+          "sources": [
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879594-20261128.htm"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E7%AA%81%E7%99%BC/60415918/%E6%9C%89%E7%89%87-%E5%B1%AF%E9%96%80%E5%BB%BA%E7%99%BC%E9%87%8C%E5%B7%A5%E5%BB%88%E5%A4%96%E7%89%86%E6%A3%9A%E6%9E%B6%E9%99%B7%E7%81%AB%E6%B5%B7-%E6%BF%83%E7%85%99%E5%B8%AD%E6%8D%B2%E5%8D%8A%E7%A9%BA-%E6%B6%88%E9%98%B2%E7%81%8C%E6%95%91"
+            },
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1208918-%E5%B1%AF%E9%96%80%E8%8F%AF%E9%81%8B%E5%B7%A5%E5%BB%88%E6%A3%9A%E6%9E%B6%E7%81%AB%E5%B7%B2%E6%95%91%E7%86%84%E8%AD%A6%E6%96%B9%E6%8C%87%E9%80%BE%E4%8A%8C%E7%99%BE%E4%BA%BA%E7%96%8F%E6%95%A3%E7%84%A1%E4%BA%BA%E5%8F%97%E5%82%B7"
+            },
+            {
+              "name": "東網",
+              "url": "https://hk.on.cc/hk/bkn/cnt/news/20261128/bkn-20261128141159730-1128_00822_001.html"
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "數字辦指示各部門檢查涉及個人及敏感資料系統　確保防禦措施到位",
+          "summary": "數字政策辦公室星期六表示，高度關注近期利用人工智能攻擊網上系統的趨勢，以及多宗資料外洩事故，已指示各政府部門優先檢查涉及個人及敏感資料的重要系統，並要求部門與承辦商切實履行網絡安全責任、確保防禦措施到位，同時強化事故通報機制，務求第一時間向數字辦報告並即時應對。無綫新聞、香港電台及香港01等均有報道。",
+          "time_hkt": "2026-11-28T12:35:00+08:00",
+          "sources": [
+            {
+              "name": "無綫新聞",
+              "url": "https://news.tvb.com/tc/1208913-%E6%95%B8%E5%AD%97%E8%BE%A6%E4%BF%83%E5%90%84%E6%94%BF%E5%BA%9C%E9%83%A8%E9%96%80%E6%AA%A2%E6%9F%A5%E6%B6%89%E5%80%8B%E4%BA%BA%E5%8F%8A%E6%95%8F%E6%84%9F%E8%B3%87%E6%96%99%E9%87%8D%E8%A6%81%E7%B3%BB%E7%B5%B1%E5%88%87%E5%AF%A6%E5%B1%A5%E8%A1%8C%E7%B6%B2%E7%B5%A1%E5%AE%89%E5%85%A8%E8%B2%AC%E4%BB%BB"
+            },
+            {
+              "name": "香港電台",
+              "url": "https://news.rthk.hk/rthk/ch/component/k2/1879590-20261128.htm"
+            },
+            {
+              "name": "香港01",
+              "url": "https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60415908/%E8%B3%87%E6%96%99%E5%A4%96%E6%B3%84-%E6%95%B8%E5%AD%97%E8%BE%A6-%E4%BF%83%E5%90%84%E9%83%A8%E9%96%80%E6%AA%A2%E6%9F%A5%E6%95%8F%E6%84%9F%E8%B3%87%E6%96%99%E7%B3%BB%E7%B5%B1-%E5%BC%B7%E5%8C%96%E4%BA%8B%E6%95%85%E9%80%9A%E5%A0%B1%E6%A9%9F%E5%88%B6"
+            }
+          ],
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "id": "international",
+      "title": "國際",
+      "items": [
+        {
+          "headline": "金融時報：美軍本月在英國拉肯希思空軍基地擊退約6架無人機",
+          "summary": "《金融時報》星期六引述知情人士報道，美國軍方本月13日在英國薩福克拉肯希思皇家空軍基地，出動反無人機系統驅離約6架靠近的無人機，基地人員曾被要求就地躲避，英美人員均未能尋回有關無人機；英國國防部回應稱，國防部警察、薩福克警方與美軍保安部隊已迅速處理，基地其後恢復正常防務。美國消費者新聞與商業頻道及阿納多盧通訊社等均有報道。",
+          "time_hkt": "2026-11-28T13:00:41+08:00",
+          "sources": [
+            {
+              "name": "金融時報",
+              "url": "https://www.ft.com/content/57795d58-2b9e-45cb-81e3-6c63aee434a4"
+            },
+            {
+              "name": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/28/us-military-repelled-drones-at-uk-airbase-this-month-ft-reports.html"
+            },
+            {
+              "name": "阿納多盧通訊社",
+              "url": "https://www.aa.com.tr/en/americas/us-forces-drove-off-drones-at-british-air-base-financial-times-reports/4141174"
+            }
+          ],
+          "rank": 3
+        }
+      ]
+    }
+  ]
+}
